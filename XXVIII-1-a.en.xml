@@ -33,70 +33,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Acceptance(A), Accession(a), Succession(d), Ratification</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Benin</Entry>
-                <Entry />
-                <Entry>3 Aug 2017 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Cameroon</Entry>
-                <Entry>13 Dec 1979</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Czech Republic&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>30 Sep 1993 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Holy See</Entry>
-                <Entry>13 Dec 1979</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Israel</Entry>
-                <Entry>13 Dec 1979</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Liberia</Entry>
-                <Entry />
-                <Entry>16 Sep 2005 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Slovakia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>28 May 1993 d</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>Czechoslovakia had acceded to the Protocol on 24 September 1981. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-    </EndNotes>
-    <Footer>XXVIII 1 a. Fiscal Matters</Footer>
   </Treaty>
 </Document>

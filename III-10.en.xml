@@ -35,148 +35,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Austria</Entry>
-                <Entry />
-                <Entry>22 Aug 1978 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>12 Jan 1994 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Cyprus</Entry>
-                <Entry>31 Dec 1970</Entry>
-                <Entry>24 Jan 1972</Entry>
-              </Row>
-              <Row>
-                <Entry>El Salvador</Entry>
-                <Entry>18 Dec 1970</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Estonia</Entry>
-                <Entry />
-                <Entry>21 Oct 1991 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Finland</Entry>
-                <Entry>28 Dec 1970</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Guatemala</Entry>
-                <Entry />
-                <Entry>12 Feb 1988 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Iran (Islamic Republic of)</Entry>
-                <Entry />
-                <Entry>5 Jun 1975 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Jamaica</Entry>
-                <Entry>1 Jul 1970</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Liberia</Entry>
-                <Entry />
-                <Entry>16 Sep 2005 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Liechtenstein</Entry>
-                <Entry>15 Dec 1970</Entry>
-                <Entry>3 Aug 1977</Entry>
-              </Row>
-              <Row>
-                <Entry>Montenegro&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>23 Oct 2006 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Paraguay</Entry>
-                <Entry />
-                <Entry>19 Sep 1975 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Philippines</Entry>
-                <Entry>16 Dec 1969</Entry>
-                <Entry>26 Nov 1976</Entry>
-              </Row>
-              <Row>
-                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>12 Mar 2001 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Seychelles</Entry>
-                <Entry />
-                <Entry>28 Dec 1977 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Slovakia</Entry>
-                <Entry />
-                <Entry>27 Apr 1999 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Spain</Entry>
-                <Entry />
-                <Entry>31 May 2001 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Switzerland</Entry>
-                <Entry>31 Jul 1970</Entry>
-                <Entry>3 Nov 1977</Entry>
-              </Row>
-              <Row>
-                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
-                <Entry>17 Dec 1970</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Uruguay</Entry>
-                <Entry />
-                <Entry>17 Dec 1980 a</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>Signed on behalf of the Republic of China on 28 December 1970. See also note 1 under China in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>The former Yugoslavia had signed and ratified the Optional Protocol on 18 December 1969 and 5 March 1974, respectively. See also note? under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, "The Former Yugoslav Republic of Macedonia" and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>3</index>
-        <text>See note 1 under Montenegro in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-    </EndNotes>
-    <Footer>III 10. Privileges and Immunities, Diplomatic and Consular Relations, etc</Footer>
   </Treaty>
 </Document>

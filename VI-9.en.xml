@@ -29,71 +29,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="2">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-              <Entry colname="2">Definitive signature of the Protocol, Acceptance of the Protocol, Notification in respect of the Agreement as amended(d)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Cambodia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>3 Oct 1951 d</Entry>
-              </Row>
-              <Row>
-                <Entry>France</Entry>
-                <Entry>10 Oct 1947</Entry>
-              </Row>
-              <Row>
-                <Entry>India</Entry>
-                <Entry>11 Dec 1946</Entry>
-              </Row>
-              <Row>
-                <Entry>Japan</Entry>
-                <Entry>27 Mar 1952</Entry>
-              </Row>
-              <Row>
-                <Entry>Lao People's Democratic Republic&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>7 Oct 1950 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Netherlands</Entry>
-                <Entry>10 Mar 1948</Entry>
-              </Row>
-              <Row>
-                <Entry>Thailand</Entry>
-                <Entry>27 Oct 1947</Entry>
-              </Row>
-              <Row>
-                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
-                <Entry>11 Dec 1946</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>The Agreement was amended by the Protocol signed at Lake Success, New York, on 11 December 1946.</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>The Republic of Viet-Nam had succeeded to the Agreement on 11 August 1950.</text>
-        <text>By joint notifications received from the Governments of France and Viet-Nam on 11 August 1950; from the Governments of France and Laos, on 7 October 1950; and from the Governments of France and Cambodia on 3 October 1951, notice was given of the transfer of functions by the French Government to the Government of the Republic of Viet-Nam, Laos and Cambodia of the duties and obligations arising from the application of the Convention in these countries. It should be noted that the Republic of Viet-Nam succeeded to the Convention on 11 August 1950. See also note 1 under Viet Nam in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-    </EndNotes>
-    <Footer>VI 9. Narcotic Drugs and Psychotropic Substances</Footer>
   </Treaty>
 </Document>

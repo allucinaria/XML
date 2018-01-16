@@ -38,51 +38,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Ratification, Acceptance(A)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Indonesia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>28 Apr 1977</Entry>
-                <Entry>11 Jan 1978</Entry>
-              </Row>
-              <Row>
-                <Entry>Malaysia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>28 Apr 1977</Entry>
-                <Entry>11 Jan 1978</Entry>
-              </Row>
-              <Row>
-                <Entry>Thailand&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>28 Apr 1977</Entry>
-                <Entry>11 Jan 1978</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>By notifications, the last of which was received by the Secretary-General on 11 January 1978, the Governments of Indonesia, Malaysia and Thailand agreed to extend until 31 October 1977 the time-limit for lodging their instrument of ratification previously set at 31 July 1977 under article 7 (c) of the Agreement.</text>
-        <text>The instruments of ratification by the Governments of Indonesia, Malaysia and Thailand, which were lodged with the Secretary-General on 12 and 20 September and 18 October 1977, respectively, were officially deposited with the Secretary-General on 11 January 1978, the date of receipt of the last notification of acceptance referred to in the preceding paragraphs.</text>
-      </Note>
-    </EndNotes>
-    <Footer>XIX 17. Commodities</Footer>
   </Treaty>
 </Document>

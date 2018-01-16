@@ -30,59 +30,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant&lt;superscript&gt;1,2&lt;/superscript&gt;</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Ratification, Accession(a)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Cambodia</Entry>
-                <Entry>22 Jun 1956</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Indonesia</Entry>
-                <Entry>22 Jun 1956</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Lao People's Democratic Republic</Entry>
-                <Entry>22 Jun 1956</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Thailand</Entry>
-                <Entry>22 Jun 1956</Entry>
-                <Entry />
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>Signed on behalf of the Republic of China on 22 June 1956. See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information section in the front matter of this volume).</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>The Convention was signed on behalf of the Republic of Viet-Nam on 22 June 1956. See also note 1 under Viet Nam in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-    </EndNotes>
-    <Footer>XII 2. Navigation</Footer>
   </Treaty>
 </Document>

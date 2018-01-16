@@ -39,246 +39,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Definitive signature(s), Acceptance(A), Succession(d)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Australia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>8 Dec 1949 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Austria</Entry>
-                <Entry />
-                <Entry>7 Jun 1950 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Bahamas</Entry>
-                <Entry />
-                <Entry>10 Jun 1976 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Belgium</Entry>
-                <Entry>20 May 1949</Entry>
-                <Entry>13 Oct 1952 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Brazil</Entry>
-                <Entry>4 May 1949</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Canada</Entry>
-                <Entry />
-                <Entry>4 May 1949 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Chile</Entry>
-                <Entry />
-                <Entry>20 Jun 1949 s</Entry>
-              </Row>
-              <Row>
-                <Entry>China&lt;superscript&gt;4,5&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>4 May 1949 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Cuba</Entry>
-                <Entry>4 May 1949</Entry>
-                <Entry>4 Aug 1965 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Czech Republic&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>30 Dec 1993 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Denmark</Entry>
-                <Entry>21 Nov 1949</Entry>
-                <Entry>1 Mar 1950 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Egypt</Entry>
-                <Entry>9 May 1949</Entry>
-                <Entry>16 Sep 1949 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Fiji</Entry>
-                <Entry />
-                <Entry>12 Jun 1972 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Finland</Entry>
-                <Entry />
-                <Entry>31 Oct 1949 A</Entry>
-              </Row>
-              <Row>
-                <Entry>France</Entry>
-                <Entry />
-                <Entry>5 May 1949 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Germany&lt;superscript&gt;7,8&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>29 May 1973 A</Entry>
-              </Row>
-              <Row>
-                <Entry>India</Entry>
-                <Entry>12 May 1949</Entry>
-                <Entry>28 Dec 1949 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Iran (Islamic Republic of)</Entry>
-                <Entry>28 Dec 1949</Entry>
-                <Entry>30 Dec 1959 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Iraq</Entry>
-                <Entry />
-                <Entry>1 Jun 1949 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Ireland</Entry>
-                <Entry />
-                <Entry>19 Jul 1961 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Italy</Entry>
-                <Entry />
-                <Entry>13 Nov 1952 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Luxembourg</Entry>
-                <Entry>4 May 1949</Entry>
-                <Entry>14 Mar 1955 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Netherlands</Entry>
-                <Entry>2 Jun 1949</Entry>
-                <Entry>26 Sep 1950 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Norway</Entry>
-                <Entry />
-                <Entry>4 May 1949 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Pakistan</Entry>
-                <Entry>13 May 1949</Entry>
-                <Entry>16 Jun 1952 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Serbia&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>12 Mar 2001 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Slovakia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>28 May 1993 d</Entry>
-              </Row>
-              <Row>
-                <Entry>South Africa</Entry>
-                <Entry />
-                <Entry>14 Aug 1951 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Sri Lanka</Entry>
-                <Entry />
-                <Entry>14 Jul 1949 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Sweden</Entry>
-                <Entry />
-                <Entry>25 Feb 1952 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Switzerland</Entry>
-                <Entry />
-                <Entry>23 Sep 1949 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Turkey</Entry>
-                <Entry>4 May 1949</Entry>
-                <Entry>13 Sep 1950 A</Entry>
-              </Row>
-              <Row>
-                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>4 May 1949 s</Entry>
-              </Row>
-              <Row>
-                <Entry>United States of America</Entry>
-                <Entry>4 May 1949</Entry>
-                <Entry>14 Aug 1950 A</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations>
-      <Title>Declarations and Reservations</Title>
-      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
-      <Title>upon definitive signature, acceptance or succession.)</Title>
-      <Declaration>
-        <Participant>Cuba</Participant>
-        <text type="para">The Revolutionary Government of Cuba ratifies the present Protocol in order to co-operate in the supervision by the UnitedNations, as depositary, of all treaties drawn up prior to its establishment by international organizations which have ceased to exist, since, owing to the social and economic measures taken in Cuba under the revolutionary laws to increase employment opportunities for the mass of the people, the white slave traffic has been stamped out, the social evils inherited from former periods which were its main cause, unemployment and idleness, having been eliminated; and moreover, the fact that this Protocol shall likewise apply to colonial countries on a basis of equality shall not be taken to mean any acceptance of the position of subjection of these countries, since not only is it a fundamental principle of Cuba's present policy strongly to condemn colonialism and to proclaim the right of peoples under colonial rule to achieve national liberation, but colonialism has been denounced by the United Nations.</text>
-        <text type="para" />
-      </Declaration>
-    </Declarations>
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="NO" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>The amendments set forth in the annex to the Protocol entered into force on 21 June 1951 in respect of the Agreement of 18 May 1904, and on 14 August 1951 in respect of the Convention of 4 May 1910, in accordance with the second paragraph of article 5 of the Protocol.</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>&lt;i&gt;Official Records of the General Assembly, Third Session, Part I, Resolutions (A/810), &lt;/i&gt; p. 164.</text>
-      </Note>
-      <Note>
-        <index>3</index>
-        <text>In a notification made on signature, the Government of Australia declared that it extends the application of the Protocol to all territories for the conduct of whose foreign relations Australia is responsible.</text>
-      </Note>
-      <Note>
-        <index>4</index>
-        <text>On 6 and 10 June 1997, respectively, Secretary-General received communications regarding the status of Hong Kong from China and the United Kingdom of Great Britain and Northern Ireland (see also note 2 under China and note 2 under United Kingdom of Great Britain and Northern Ireland in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Hong Kong, China notified the Secretary-General that the Agreement of 18 May 1904, the Convention of 4 May 1910 and the Protocol of 4 May 1949 amending both the Agreement and the Convention will also apply to the Hong Kong Special Administrative Region.</text>
-      </Note>
-      <Note>
-        <index>5</index>
-        <text>See note concerning signatures, ratifications, accessions, etc., on behalf of China (note? under China in the Historical Information section in the front matter of this volume).</text>
-      </Note>
-      <Note>
-        <index>6</index>
-        <text>Czechoslovakia had signed and accepted the Protocol of 4 May 1949 on 9 May 1949 and 21 June 1951, respectively. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>7</index>
-        <text>The German Democratic Republic had accepted the Protocol with a declaration on 16 July 1974. For the text of the declaration, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.943, p.329. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>8</index>
-        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>9</index>
-        <text>The former Yugoslavia had signed and accepted the Protocol on 4 May 1949 and 26 April 1951, respectively. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
-      </Note>
-    </EndNotes>
-    <Footer>VII 6. Traffic in Persons</Footer>
   </Treaty>
 </Document>

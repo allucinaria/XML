@@ -33,56 +33,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Provisional application(n)</Entry>
-              <Entry colname="3">Definitive acceptance</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Bangladesh</Entry>
-                <Entry />
-                <Entry>27 Jul 2001</Entry>
-              </Row>
-              <Row>
-                <Entry>European Union</Entry>
-                <Entry />
-                <Entry>26 Apr 2002</Entry>
-              </Row>
-              <Row>
-                <Entry>India</Entry>
-                <Entry />
-                <Entry>25 Apr 2002</Entry>
-              </Row>
-              <Row>
-                <Entry>Switzerland</Entry>
-                <Entry>[20 Dec 2001 n]</Entry>
-                <Entry>[ 3 Sep 2002 ]</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>"The Secretariat of the International Jute Organisation (IJO) ... has the honour to inform that the IJO completes the process of its liquidation on 11 October 2001 and will be succeeded by International Jute Study Group (IJSG) as was established at the United Nations Conference on Jute and Jute Products 2001 held on 12-13 March 2001 at UNCTAD, Geneva. However, the process of accession by the desiring Members is expected to be completed by December 2001 following which, the IJSG is likely to enter into force in early 2002. As decided by the International Jute Council (ICJ) at its 29th Session held on 14 March 2001 also at UNCTAD, Geneva, the interim period from 12 October 2001 till the new organisation enters into force will be administered by a Trust under the Government of Bangladesh represented by the Ministry of Jute (MOJ).</text>
-        <text>Accordingly, a Trustee Deed has been executed by the undersigned as its Executant. The physical and financial assets have been handed over to the Chairman of the Board of the Trust. The Trust will continue the function from the same office as of the IJO Secretariat....</text>
-      </Note>
-    </EndNotes>
-    <Footer>XIX 45. Commodities</Footer>
   </Treaty>
 </Document>

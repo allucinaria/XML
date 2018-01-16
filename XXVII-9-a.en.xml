@@ -37,86 +37,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="2">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Acceptance(A)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Denmark</Entry>
-                <Entry>19 Dec 2006 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Finland</Entry>
-                <Entry>5 Nov 2007 A</Entry>
-              </Row>
-              <Row>
-                <Entry>France</Entry>
-                <Entry>3 Oct 2005 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Germany</Entry>
-                <Entry>15 Jan 2007 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Netherlands&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>24 May 2007 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Poland</Entry>
-                <Entry>1 Jul 2009 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Sweden</Entry>
-                <Entry>1 Oct 2010 A</Entry>
-              </Row>
-              <Row>
-                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
-                <Entry>3 Oct 2014 A</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>"Any State that becomes a Party to the Agreement after the entry into force of an Amendment shall, failing an expression of a different intention by that State:</text>
-        <text>a) be considered as a Party to the Agreement as amended; and</text>
-        <text>b) be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment."</text>
-        <text>(Amendment to the Agreement on the Conservation of Small Cetaceans of the Baltic and North Seas, Esbjerg, 22 August 2003) </text>
-        <text />
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>For the Kingdom in Europe.</text>
-      </Note>
-      <Note>
-        <index>3</index>
-        <text>On 9 September 2016, the Secretary General received from the Government of the Unietd Kingdom of Great Britain and Northern Ireland the following notification:</text>
-        <text>& the Government of the United Kingdom of Great Britain and Northern Ireland wishes that the United Kingdoms [acceptance] of the [Amendment] be extended to the following territory:</text>
-        <text></text>
-        <text>Isle of Man </text>
-        <text></text>
-        <text>for whose international relations the United Kingdom is responsible.</text>
-        <text></text>
-        <text>The Government of the United Kingdom of Great Britain and Northern Ireland considers that the extension of the [Amendment] to the Isle of Man will enter into force on the date that this notification is received [in] deposit &</text>
-        <text />
-      </Note>
-    </EndNotes>
-    <Footer>XXVII 9 a. Environment</Footer>
   </Treaty>
 </Document>

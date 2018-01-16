@@ -38,299 +38,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant&lt;superscript&gt;1,2&lt;/superscript&gt;</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Ratification, Definitive signature(s), Succession(d)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Australia</Entry>
-                <Entry />
-                <Entry>14 May 1963 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Austria</Entry>
-                <Entry>27 Oct 1958</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Belgium</Entry>
-                <Entry />
-                <Entry>6 Jan 1972 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Bolivia (Plurinational State of)</Entry>
-                <Entry />
-                <Entry>17 Oct 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Bosnia and Herzegovina&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>12 Jan 1994 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Cambodia</Entry>
-                <Entry>22 Jan 1970</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Canada</Entry>
-                <Entry>29 Apr 1958</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Colombia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>[29 Apr 1958 s]</Entry>
-              </Row>
-              <Row>
-                <Entry>Costa Rica</Entry>
-                <Entry />
-                <Entry>29 Apr 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Cuba</Entry>
-                <Entry />
-                <Entry>29 Apr 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Denmark</Entry>
-                <Entry>29 Apr 1958</Entry>
-                <Entry>26 Sep 1968</Entry>
-              </Row>
-              <Row>
-                <Entry>Dominican Republic</Entry>
-                <Entry />
-                <Entry>29 Apr 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Finland</Entry>
-                <Entry>27 Oct 1958</Entry>
-                <Entry>16 Feb 1965</Entry>
-              </Row>
-              <Row>
-                <Entry>France</Entry>
-                <Entry />
-                <Entry>30 Oct 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Germany&lt;superscript&gt;5,6&lt;/superscript&gt;</Entry>
-                <Entry>30 Oct 1958</Entry>
-                <Entry>26 Jul 1973</Entry>
-              </Row>
-              <Row>
-                <Entry>Ghana</Entry>
-                <Entry />
-                <Entry>29 Apr 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Haiti</Entry>
-                <Entry>29 Apr 1958</Entry>
-                <Entry>29 Mar 1960</Entry>
-              </Row>
-              <Row>
-                <Entry>Holy See</Entry>
-                <Entry />
-                <Entry>30 Apr 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Hungary</Entry>
-                <Entry />
-                <Entry>8 Dec 1989 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Indonesia&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
-                <Entry>8 May 1958</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Israel</Entry>
-                <Entry>29 Apr 1958</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Liberia</Entry>
-                <Entry />
-                <Entry>27 May 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Madagascar</Entry>
-                <Entry />
-                <Entry>10 Aug 1962 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Malawi</Entry>
-                <Entry />
-                <Entry>17 Dec 1965 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Malaysia</Entry>
-                <Entry />
-                <Entry>1 May 1961 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Malta</Entry>
-                <Entry />
-                <Entry>19 May 1966 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Mauritius</Entry>
-                <Entry />
-                <Entry>5 Oct 1970 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Montenegro&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>23 Oct 2006 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Nepal</Entry>
-                <Entry />
-                <Entry>29 Apr 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Netherlands&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
-                <Entry>31 Oct 1958</Entry>
-                <Entry>18 Feb 1966</Entry>
-              </Row>
-              <Row>
-                <Entry>New Zealand</Entry>
-                <Entry />
-                <Entry>29 Oct 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Pakistan</Entry>
-                <Entry />
-                <Entry>6 Nov 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Panama</Entry>
-                <Entry />
-                <Entry>2 May 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Portugal</Entry>
-                <Entry>28 Oct 1958</Entry>
-                <Entry>8 Jan 1963</Entry>
-              </Row>
-              <Row>
-                <Entry>Serbia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>12 Mar 2001 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Sierra Leone</Entry>
-                <Entry />
-                <Entry>14 Feb 1963 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Solomon Islands</Entry>
-                <Entry />
-                <Entry>3 Sep 1981 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Sri Lanka</Entry>
-                <Entry />
-                <Entry>30 Oct 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>Sweden</Entry>
-                <Entry>1 Jun 1966</Entry>
-                <Entry>28 Jun 1966</Entry>
-              </Row>
-              <Row>
-                <Entry>Switzerland</Entry>
-                <Entry>24 May 1958</Entry>
-                <Entry>18 May 1966</Entry>
-              </Row>
-              <Row>
-                <Entry>Uganda</Entry>
-                <Entry />
-                <Entry>15 Sep 1964 s</Entry>
-              </Row>
-              <Row>
-                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
-                <Entry />
-                <Entry>9 Sep 1958 s</Entry>
-              </Row>
-              <Row>
-                <Entry>United States of America&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
-                <Entry>15 Sep 1958</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Uruguay</Entry>
-                <Entry />
-                <Entry>29 Apr 1958 s</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>Article V of the Protocol provides that the latter shall remain open for signature by all States who become Parties to any Convention on the Law of the Sea and is subject to ratification, where necessary, according to the constitutional requirements of the signatory States. Consequently, the signatures listed above appear in the second or third column according to whether they have been affixed subject or not to ratification.</text>
-        <text>The States listed herein are bound by this Protocol to the extent that they have signed it definitively, ratified it or succeeded to it, and that they are bound by one at least of the four Law of the Sea Conventions.</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>Signature affixed without reservation as to ratification on behalf of the Republic of China on 29 April 1958. See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information secton in the front matter of this volume).</text>
-      </Note>
-      <Note>
-        <index>3</index>
-        <text>The former Yugoslavia had signed and ratified the Optional Protocol on 29 April 1958 and 28 January 1966, respectively. See also note? under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>4</index>
-        <text>Declaration made upon signature:</text>
-        <text></text>
-        <text>In signing the Optional Protocol, the delegation of Colombia reserved the obligations of Colombia arising out of conventions concerning the peaceful settlement of disputes which Colombia has ratified and out of any previous conventions concerning the same subject which Colombia may ratify.</text>
-        <text></text>
-        <text>Subsequently, on 15 September 2017, the Secretary-General received from the Government of the Republic of Colombia, a communication notifying its withdrawal from the Protocol. The communication reads as follows:</text>
-        <text></text>
-        <text>I have the honour to write to you regarding the Optional Protocol of Signature concerning the Compulsory Settlement of Disputes, done at Geneva (Swiss Confederation) on 29 April 1958.</text>
-        <text>In this respect, I would like to inform you that the present note constitutes notification of the withdrawal of the Republic of Colombia from the above-mentioned Protocol. As a consequence of this withdrawal, the Government of the Republic of Colombia, from this date, will no longer recognize the jurisdiction of the International Court of Justice that is set forth in the Protocol.</text>
-      </Note>
-      <Note>
-        <index>5</index>
-        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>6</index>
-        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>7</index>
-        <text>In a communication received on 24 December 1958, the Government of Indonesia informed the Secretary-General that according to the constitutional requirements of Indonesia, the signature affixed on its behalf to this Protocol is subject to ratification.</text>
-      </Note>
-      <Note>
-        <index>8</index>
-        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>9</index>
-        <text>In respect of the Kingdom in Europe, Surinam and the Netherland Antilles. See also note 1 under Netherlands Antilles and Suriname in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>10</index>
-        <text>In a communication received on 10 June 1963, the Government of the United States of America informed the Secretary-General that the Protocol "will not enter into force with respect to the United States until the Protocol has been ratified on the part of the United States and instrument of ratification has been deposited".</text>
-      </Note>
-    </EndNotes>
-    <Footer>XXI 5. Law of the Sea</Footer>
   </Treaty>
 </Document>

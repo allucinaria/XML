@@ -26,55 +26,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Ratification, Acceptance(A), Approval(AA), Accession(a)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Armenia</Entry>
-                <Entry>22 Sep 2017</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Bangladesh</Entry>
-                <Entry>29 Aug 2017</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Cambodia</Entry>
-                <Entry>29 Aug 2017</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>China</Entry>
-                <Entry>29 Aug 2017</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Iran (Islamic Republic of)</Entry>
-                <Entry>29 Sep 2017</Entry>
-                <Entry />
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="NO" />
-    <EndNotes />
-    <Footer>X 20. International Trade and Development</Footer>
   </Treaty>
 </Document>

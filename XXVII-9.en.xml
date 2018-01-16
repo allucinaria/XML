@@ -39,108 +39,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Definitive signature(s), Ratification, Accession(a), Acceptance(A), Approval(AA)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Belgium</Entry>
-                <Entry>6 Nov 1992</Entry>
-                <Entry>14 May 1993</Entry>
-              </Row>
-              <Row>
-                <Entry>Denmark</Entry>
-                <Entry>19 Aug 1992</Entry>
-                <Entry>29 Dec 1993 AA</Entry>
-              </Row>
-              <Row>
-                <Entry>European Union</Entry>
-                <Entry>7 Oct 1992</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Finland</Entry>
-                <Entry />
-                <Entry>13 Sep 1999 a</Entry>
-              </Row>
-              <Row>
-                <Entry>France</Entry>
-                <Entry />
-                <Entry>3 Oct 2005 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Germany</Entry>
-                <Entry>9 Apr 1992</Entry>
-                <Entry>6 Oct 1993</Entry>
-              </Row>
-              <Row>
-                <Entry>Lithuania</Entry>
-                <Entry />
-                <Entry>27 Jun 2005 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Netherlands&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>29 Jul 1992</Entry>
-                <Entry>29 Dec 1992 AA</Entry>
-              </Row>
-              <Row>
-                <Entry>Poland</Entry>
-                <Entry />
-                <Entry>18 Jan 1996 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Sweden</Entry>
-                <Entry />
-                <Entry>31 Mar 1992 s</Entry>
-              </Row>
-              <Row>
-                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3,4&lt;/superscript&gt;</Entry>
-                <Entry>16 Apr 1992</Entry>
-                <Entry>13 Jul 1993</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="NO" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>"Any State that becomes a Party to the Agreement after the entry into force of an Amendment shall, failing an expression of a different intention by that State:</text>
-        <text>a) be considered as a Party to the Agreement as amended; and</text>
-        <text>b) be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment."</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>For the Kingdom in Europe.</text>
-      </Note>
-      <Note>
-        <index>3</index>
-        <text>For the United Kingdom of Great Britain and the Bailiwick of Guernsey. For the Bailiwick of Jersey (notification received on 26 September 2002).</text>
-      </Note>
-      <Note>
-        <index>4</index>
-        <text>On 9 September 2016, the Secretary-General received from the Government of the United Kingdom of Great Britain and Northern Ireland the following notification:</text>
-        <text>& the Government of the United Kingdom of Great Britain and Northern Ireland wishes that the United Kingdoms ratification of the Agreement be extended to the following territory:</text>
-        <text>Isle of Man</text>
-        <text>for whose international relations the United Kingdom is responsible.</text>
-        <text>The Government of the United Kingdom of Great Britain and Northern Ireland considers that the extension of the Agreement to the territory of the Isle of Man will enter into force on the date that this notification is received [in] deposit&</text>
-      </Note>
-    </EndNotes>
-    <Footer>XXVII 9. Environment</Footer>
   </Treaty>
 </Document>

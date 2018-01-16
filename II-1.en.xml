@@ -31,91 +31,5 @@
         <TreatyNote />
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Accession(a)</Entry>
-              <Entry colname="3">Extension</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Belgium&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>23 Dec 1949 a</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Burkina Faso&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>27 Mar 1962 a</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Denmark&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>25 Mar 1952 a</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Estonia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>21 Oct 1991 a</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Luxembourg&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>28 Jun 1961 a</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Netherlands&lt;superscript&gt;3,4&lt;/superscript&gt;</Entry>
-                <Entry>9 Jun 1971 a</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Norway&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
-                <Entry>16 Jul 1951 a</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Sweden&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
-                <Entry>22 Jun 1950 a</Entry>
-                <Entry />
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="NO" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>Resolution 268 A (III), &lt;i&gt;Official Records of the General Assembly, Third Session, Part II (A/900),&lt;/i&gt; p. 10.</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>Extending to all the provisions of the Act (chapters I, II, III, and IV).</text>
-      </Note>
-      <Note>
-        <index>3</index>
-        <text>For the Kingdom in Europe, Surinam and the Netherlands Antilles. See also notes 1 and 2 under &lt;a href="/Pages/HistoricalInfo.aspx?clang=_en#Netherlands" target=_blank"&gt;Netherlands&lt;/a&gt; in the Historical Information section.</text>
-      </Note>
-      <Note>
-        <index>4</index>
-        <text>Extending to the provisions relating to conciliation and judicial settlement (chapters I and II), together with the general provisions dealing with these procedures (chapter IV).</text>
-      </Note>
-      <Note>
-        <index>5</index>
-        <text>Extending to the provisions relating to conciliation and judicial settlement (chapters I and II), together with the general provisions dealing with these procedures (chapter IV) subject to the reservation on disputes arising out of facts prior to this accession.</text>
-      </Note>
-    </EndNotes>
-    <Footer>II 1. Pacific Settlement of International Disputes</Footer>
   </Treaty>
 </Document>

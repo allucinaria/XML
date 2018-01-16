@@ -32,112 +32,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Acceptance(A), Accession(a), Succession(d), Ratification</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Benin</Entry>
-                <Entry />
-                <Entry>18 May 2017 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Cameroon</Entry>
-                <Entry>13 Dec 1979</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Czech Republic&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>30 Sep 1993 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Ecuador</Entry>
-                <Entry />
-                <Entry>26 Oct 1994 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Egypt</Entry>
-                <Entry />
-                <Entry>11 Feb 1982 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Holy See</Entry>
-                <Entry>13 Dec 1979</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>India</Entry>
-                <Entry />
-                <Entry>31 Jan 1983 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Iraq</Entry>
-                <Entry />
-                <Entry>15 Jul 1981 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Israel</Entry>
-                <Entry>13 Dec 1979</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Liberia</Entry>
-                <Entry />
-                <Entry>16 Sep 2005 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Peru</Entry>
-                <Entry />
-                <Entry>15 Apr 1988 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Slovakia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry />
-                <Entry>28 May 1993 d</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations>
-      <Title>Declarations and Reservations</Title>
-      <Title>(Unless otherwise indicated, the declarations and reservations were made upon ratification,</Title>
-      <Title>acceptance, accession or succession.)</Title>
-      <Declaration>
-        <Participant>Czech Republic&lt;superscript&gt;1&lt;/superscript&gt;</Participant>
-      </Declaration>
-      <Declaration>
-        <Participant>India</Participant>
-        <text type="para">&lt;i&gt;Reservation:&lt;/i&gt; The Government of India does not consider itself bound by articles 1 to 4 and 17 of the Convention.</text>
-        <text type="para" />
-      </Declaration>
-      <Declaration>
-        <Participant>Slovakia&lt;superscript&gt;1&lt;/superscript&gt;</Participant>
-      </Declaration>
-    </Declarations>
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>Czechoslovakia had signed and ratified the Convention on 29 October 1980 and 24 September 1981, respectively, with the following reservation:</text>
-        <text>The Czechoslovak Socialist Republic does not consider itself bound by the provisions of article 17, paragraph 1, according to which all disputes between two or more Contracting States concerning the interpretation or in the matter of application of this Convention, not settled by negotiation, shall, unless the States concerned agree on some other method of settlement, be brought before the International Court of Justice for determination by it, and it declares that in every case an agreement of all the parties to the dispute is needed for bringing that dispute before the International Court of Justice."</text>
-        <text>See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-    </EndNotes>
-    <Footer>XXVIII 1. Fiscal Matters</Footer>
   </Treaty>
 </Document>

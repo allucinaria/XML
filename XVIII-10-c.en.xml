@@ -34,58 +34,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="2">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Acceptance(A), Ratification</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Austria</Entry>
-                <Entry>22 Sep 2017</Entry>
-              </Row>
-              <Row>
-                <Entry>Finland</Entry>
-                <Entry>23 Sep 2016 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>20 Mar 2017 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Norway</Entry>
-                <Entry>1 Jul 2016 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Portugal</Entry>
-                <Entry>11 Apr 2017</Entry>
-              </Row>
-              <Row>
-                <Entry>Slovakia</Entry>
-                <Entry>28 Oct 2016 A</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="NO" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>For the European part and the Caribbean part (the Islands of Bonaire, Sint Eustatius and Saba) of the Netherlands and for Curaçao.</text>
-      </Note>
-    </EndNotes>
-    <Footer>XVIII 10 c. Penal Matters</Footer>
   </Treaty>
 </Document>

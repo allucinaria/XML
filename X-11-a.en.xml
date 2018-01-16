@@ -31,49 +31,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="2">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Acceptance(A)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Brunei Darussalam</Entry>
-                <Entry>17 Aug 2000 A</Entry>
-              </Row>
-              <Row>
-                <Entry>China</Entry>
-                <Entry>14 Sep 2001 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Malaysia</Entry>
-                <Entry>14 May 2001 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Republic of Korea</Entry>
-                <Entry>25 Jan 2000 A</Entry>
-              </Row>
-              <Row>
-                <Entry>Viet Nam</Entry>
-                <Entry>9 Jul 2001 A</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes />
-    <Footer>X 11 a. International Trade and Development</Footer>
   </Treaty>
 </Document>

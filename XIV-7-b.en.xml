@@ -31,45 +31,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="2">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Ratification</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Cameroon</Entry>
-                <Entry>27 Apr 2006</Entry>
-              </Row>
-              <Row>
-                <Entry>Croatia</Entry>
-                <Entry>28 Oct 1998</Entry>
-              </Row>
-              <Row>
-                <Entry>Liberia</Entry>
-                <Entry>22 Nov 2005</Entry>
-              </Row>
-              <Row>
-                <Entry>Venezuela (Bolivarian Republic of)</Entry>
-                <Entry>4 Dec 1998</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes />
-    <Footer>XIV 7 b. Educational and Cultural Matters</Footer>
   </Treaty>
 </Document>

@@ -35,55 +35,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Ratification</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Bosnia and Herzegovina</Entry>
-                <Entry>29 Jun 2001</Entry>
-                <Entry>15 May 2002</Entry>
-              </Row>
-              <Row>
-                <Entry>Croatia</Entry>
-                <Entry>29 Jun 2001</Entry>
-                <Entry>3 May 2004</Entry>
-              </Row>
-              <Row>
-                <Entry>Serbia</Entry>
-                <Entry>29 Jun 2001</Entry>
-                <Entry>10 Oct 2002</Entry>
-              </Row>
-              <Row>
-                <Entry>Slovenia</Entry>
-                <Entry>29 Jun 2001</Entry>
-                <Entry>21 Aug 2002</Entry>
-              </Row>
-              <Row>
-                <Entry>The former Yugoslav Republic of Macedonia</Entry>
-                <Entry>29 Jun 2001</Entry>
-                <Entry>6 Mar 2002</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes />
-    <Footer>XXIX 1. Miscellaneous</Footer>
   </Treaty>
 </Document>

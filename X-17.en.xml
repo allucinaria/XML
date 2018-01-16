@@ -32,61 +32,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="3">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Signature</Entry>
-              <Entry colname="3">Approval(AA), Acceptance(A), Accession(a), Ratification</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Liberia</Entry>
-                <Entry />
-                <Entry>16 Sep 2005 a</Entry>
-              </Row>
-              <Row>
-                <Entry>Luxembourg</Entry>
-                <Entry>12 Jun 2002</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>Madagascar</Entry>
-                <Entry>24 Sep 2003</Entry>
-                <Entry />
-              </Row>
-              <Row>
-                <Entry>United States of America</Entry>
-                <Entry>30 Dec 2003</Entry>
-                <Entry />
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations>
-      <Title>Declarations and Reservations</Title>
-      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
-      <Title>upon ratification, acceptance or approval.)</Title>
-      <Title />
-      <Declaration>
-        <Participant>Luxembourg</Participant>
-        <text type="title">Declaration:</text>
-        <text type="para">Pursuant to article 39 of the Convention, the Grand Duchy of Luxembourg declares that it does not wish to be bound by chapter V, which contains autonomous conflict-of-laws rules that allow too wide an application to laws other than those of the assignor and that moreover are difficult to reconcile with the Rome Convention. The Grand Duchy of Luxembourg, pursuant to article 42, paragraph 1 (c), of the Convention, will be bound by the priority rules set forth in section III of the annex, namely those based on the time of the contract of assignment.</text>
-        <text type="para" />
-      </Declaration>
-    </Declarations>
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes />
-    <Footer>X 17. International Trade and Development</Footer>
   </Treaty>
 </Document>

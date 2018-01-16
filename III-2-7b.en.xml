@@ -26,142 +26,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="2">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant</Entry>
-              <Entry colname="2">Application</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Austria</Entry>
-                <Entry>1 Nov 1957</Entry>
-              </Row>
-              <Row>
-                <Entry>Bahamas&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>17 Mar 1977</Entry>
-              </Row>
-              <Row>
-                <Entry>Croatia&lt;superscript&gt;1,2&lt;/superscript&gt;</Entry>
-                <Entry>12 Oct 1992</Entry>
-              </Row>
-              <Row>
-                <Entry>Denmark</Entry>
-                <Entry>14 Oct 1957</Entry>
-              </Row>
-              <Row>
-                <Entry>Egypt</Entry>
-                <Entry>3 Feb 1958</Entry>
-              </Row>
-              <Row>
-                <Entry>Fiji&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>21 Jun 1971</Entry>
-              </Row>
-              <Row>
-                <Entry>Germany&lt;superscript&gt;3,4,5&lt;/superscript&gt;</Entry>
-                <Entry>5 Sep 1958</Entry>
-              </Row>
-              <Row>
-                <Entry>Ghana</Entry>
-                <Entry>9 Sep 1958</Entry>
-              </Row>
-              <Row>
-                <Entry>India</Entry>
-                <Entry>31 Jul 1958</Entry>
-              </Row>
-              <Row>
-                <Entry>Libya</Entry>
-                <Entry>30 Apr 1958</Entry>
-              </Row>
-              <Row>
-                <Entry>Montenegro&lt;superscript&gt;1,6&lt;/superscript&gt;</Entry>
-                <Entry>23 Oct 2006</Entry>
-              </Row>
-              <Row>
-                <Entry>Nigeria&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>26 Jun 1961</Entry>
-              </Row>
-              <Row>
-                <Entry>Norway</Entry>
-                <Entry>11 Sep 1957</Entry>
-              </Row>
-              <Row>
-                <Entry>Serbia&lt;superscript&gt;1,2&lt;/superscript&gt;</Entry>
-                <Entry>12 Mar 2001</Entry>
-              </Row>
-              <Row>
-                <Entry>Sierra Leone&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>13 Mar 1962</Entry>
-              </Row>
-              <Row>
-                <Entry>Sweden</Entry>
-                <Entry>22 Aug 1957</Entry>
-              </Row>
-              <Row>
-                <Entry>Thailand</Entry>
-                <Entry>19 Jun 1961</Entry>
-              </Row>
-              <Row>
-                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;1,2&lt;/superscript&gt;</Entry>
-                <Entry>11 Mar 1996</Entry>
-              </Row>
-              <Row>
-                <Entry>Tonga&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>17 Mar 1976</Entry>
-              </Row>
-              <Row>
-                <Entry>Tunisia</Entry>
-                <Entry>19 May 1958</Entry>
-              </Row>
-              <Row>
-                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
-                <Entry>30 Sep 1957</Entry>
-              </Row>
-              <Row>
-                <Entry>Zambia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
-                <Entry>16 Jun 1975</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>These States deposited instruments of succession to the Convention and applied the provisions of the Convention to the above specialized agency with effect from the date of the succession of State. See Chapter III-2.</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>The former Yugoslavia applied the Annex as from 16 March 1959. See also note 1 under "Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>3</index>
-        <text>The German Democratic Republic had acceded to the Convention, with a reservation, on 4 October 1974 in respect of the following specialized agencies: ILO, UNESCO, WHO (third revised text of annex VII), UPU, ITU, WMO, IMO (revised text of annex XII). For the text of the reservation see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 950, p.357. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>4</index>
-        <text>In a communication received by the Secretary-General on 10 October 1957, the Government of the Federal Republic of Germany declared that the Convention will also apply to the Saar Territory except that Section 7 (b) of the Convention shall not take effect with regard to the Saar Territory until the expiration of the interim period defined in article 3 of the Treaty of 27 October 1956 between France and the Federal Republic of Germany.</text>
-      </Note>
-      <Note>
-        <index>5</index>
-        <text>See note 1 under Germany regarding Berlin?West) in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>6</index>
-        <text>See note 1 under Montenegro in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-    </EndNotes>
-    <Footer>III 2 7b. Privileges and Immunities, Diplomatic and Consular Relations, etc</Footer>
   </Treaty>
 </Document>

@@ -20,33 +20,5 @@
         <TreatyNote />
       </ExternalData>
     </Header>
-    <SpecialTables>
-      <Table>
-        <TableNo>3</TableNo>
-        <Columns>2</Columns>
-        <Title>PARTIES: All members of the United Nations. Special cases are noted below:&lt;superscript&gt;2&lt;/superscript&gt;</Title>
-        <TableHeader>
-          <Title>Participant</Title>
-          <Title />
-        </TableHeader>
-        <Rows />
-      </Table>
-    </SpecialTables>
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>[For the declarations recognizing as compulsory the jurisdiction of the International Court of Justice under Article 36, paragraph 2, of the Statute of the Court, see chapter I.4.]</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>See chapters I.1 and I.2. Before becoming Members of the United Nations, Japan, Liechtenstein, San Marino, Switzerland and Nauru were parties to the Statute of the International Court of Justice from 2 April 1954 to 18 December 1956, from 29 March 1950 to 18 September 1990, from 18 February 1954 to 2 March 1992, from 28 July 1948 to 10 September 2002 and from 29 January 1988 to 14 September 1999, respectively. For the text of the declaration by the Government of Japan accepting the conditions determined to that effect, upon the recommendation of the Security Council, by the General Assembly in resolution &lt;a href="/doc/source/docs/a_res_8_805-E.pdf" target="_blank"&gt;805 (VIII)&lt;/a&gt; of 9 December 1953 (registered under &lt;a href="https://treaties.un.org/doc/Publication/UNTS/Volume%20188/v188.pdf#page=157"&gt;No. 2524&lt;/a&gt;), see United Nations, Treaty Series, vol. 188, p. 137; for that made by Liechtenstein accepting the conditions determined, upon recommendation of the Security Council, by the General Assembly in resolution 363 (IV) adopted on 1 December 1949 (registered under &lt;a href="https://treaties.un.org/doc/publication/UNTS/Volume%2051/v51.pdf#page=131"&gt;No. 758&lt;/a&gt;), see United Nations, Treaty Series, vol. 51, p. 115; for that made by San Marino accepting the conditions determined, upon recommendation of the Security Council, by the General Assembly in resolution &lt;a href="/doc/source/docs/a_res_8_806-E.pdf" target="_blank"&gt;806 (VIII)&lt;/a&gt; of 9 December 1953 (registered under &lt;a href="https://treaties.un.org/doc/publication/UNTS/Volume%20186/v186.pdf#page=309"&gt;No. 2495&lt;/a&gt;), see United Nations, Treaty Series, vol. 186, p. 295; for that made by Switzerland accepting the conditions determined, upon recommendation of the Security Council, by the General Assembly in resolution 91 (I) of 11 December 1946 (registered under &lt;a href="https://treaties.un.org/doc/publication/UNTS/Volume%2017/v17.pdf#page=121"&gt;No. 271&lt;/a&gt;), see United Nations, Treaty Series, vol. 17, p. 111; and for that made by Nauru accepting the conditions determined, upon recommendation of the Security Council, by the General Assembly in resolution 42/21 adopted on 18 November 1987 (registered under &lt;a href="https://treaties.un.org/doc/publication/UNTS/Volume%201491/v1491.pdf#page=227"&gt;No. 25639&lt;/a&gt;), see United Nations, Treaty Series, vol. 1491, p. 199.</text>
-      </Note>
-    </EndNotes>
-    <Footer>I 3. Charter of the United Nations and Statute of the International Court of Justice</Footer>
   </Treaty>
 </Document>

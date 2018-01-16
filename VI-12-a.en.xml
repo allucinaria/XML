@@ -32,118 +32,5 @@
         </TreatyNote>
       </ExternalData>
     </Header>
-    <LON>
-      <Table>
-        <Title>Ratifications or definitive accessions</Title>
-        <Ratification>
-          <State.no.link>Belgium</State.no.link>
-          <Ratification.date>&lt;right&gt; (Nov 27th, 1937)&lt;/right&gt;</Ratification.date>
-          <Para>Belgium does not assume any obligation as regards the Belgian Congo and the Territories of Ruanda-Urundi in respect of which a mandate is being exercised by her on behalf of the League of Nations.</Para>
-          <State.no.link>Brazil</State.no.link>
-          <Ratification.date>&lt;right&gt; (Jul 2nd, 1938)&lt;/right&gt;</Ratification.date>
-          <State.no.link>Canada</State.no.link>
-          <Ratification.date>&lt;right&gt; (Sep 27th, 1938)&lt;/right&gt;</Ratification.date>
-          <State.no.link>China&lt;superscript&gt;2&lt;/superscript&gt;</State.no.link>
-          <Ratification.date>&lt;right&gt; (Oct 21st, 1937)&lt;/right&gt;</Ratification.date>
-          <State.no.link>Colombia</State.no.link>
-          <Ratification.date>&lt;right&gt; (Apr 11th, 1944)&lt;/right&gt;</Ratification.date>
-          <State.no.link>Egypt</State.no.link>
-          <Ratification.date>&lt;right&gt; (Jan 29th, 1940)&lt;/right&gt;</Ratification.date>
-          <State.no.link>France</State.no.link>
-          <Ratification.date>&lt;right&gt; (Jan 16th, 1940)&lt;/right&gt;</Ratification.date>
-          <Para>The French Government does not assume any obligations as regards its Colonies or Protectorates or the territories placed under its mandate.</Para>
-          <State.no.link>Greece</State.no.link>
-          <Ratification.date>&lt;right&gt; (Feb 16th, 1938)&lt;/right&gt;</Ratification.date>
-          <State.no.link>Guatemala</State.no.link>
-          <Ratification.date>&lt;right&gt; (Aug 2nd, 1938 a)&lt;/right&gt;</Ratification.date>
-          <State.no.link>Haiti</State.no.link>
-          <Ratification.date>&lt;right&gt; (Nov 30th, 1938 a)&lt;/right&gt;</Ratification.date>
-          <State.no.link>India</State.no.link>
-          <Ratification.date>&lt;right&gt; (Aug 4th, 1937)&lt;/right&gt;</Ratification.date>
-          <State.no.link>Romania</State.no.link>
-          <Ratification.date>&lt;right&gt; (Jun 28th, 1938)&lt;/right&gt;</Ratification.date>
-          <State.no.link>Turkey</State.no.link>
-          <Ratification.date>&lt;right&gt; (Jul 28th, 1939 a)&lt;/right&gt;</Ratification.date>
-        </Ratification>
-      </Table>
-      <Table>
-        <Title>Signatures not yet perfected by ratification</Title>
-        <Signature>
-          <State.no.link>Great Britain</State.no.link>
-          <State.no.link>Bulgaria</State.no.link>
-          <State.no.link>Cuba</State.no.link>
-          <State.no.link>Czechoslovakia&lt;superscript&gt;3&lt;/superscript&gt;</State.no.link>
-          <State.no.link>Denmark</State.no.link>
-          <State.no.link>Ecuador</State.no.link>
-          <State.no.link>Estonia</State.no.link>
-          <State.no.link>Honduras</State.no.link>
-          <State.no.link>Hungary</State.no.link>
-          <State.no.link>Monaco</State.no.link>
-          <State.no.link>Panama</State.no.link>
-          <State.no.link>Poland</State.no.link>
-          <State.no.link>Portugal</State.no.link>
-          <State.no.link>Spain</State.no.link>
-          <State.no.link>Union of Soviet Socialist Republics</State.no.link>
-          <State.no.link>Uruguay</State.no.link>
-          <State.no.link>Venezuela</State.no.link>
-        </Signature>
-      </Table>
-      <Table>
-        <Title>Actions subsequent to the assumption of depositary functions by the Secretary-General of the United Nations</Title>
-      </Table>
-    </LON>
-    <Participants>
-      <Table colsep="0" frame="none" rowsep="0">
-        <TGroup cols="2">
-          <Thead>
-            <Row rowsep="0">
-              <Entry colname="1">Participant&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
-              <Entry colname="2">Ratification, Succession(d)</Entry>
-            </Row>
-          </Thead>
-          <Tbody>
-            <Rows>
-              <Row>
-                <Entry>Czech Republic&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
-                <Entry>30 Dec 1993 d</Entry>
-              </Row>
-              <Row>
-                <Entry>Spain&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
-                <Entry>5 Jun 1970</Entry>
-              </Row>
-            </Rows>
-          </Tbody>
-        </TGroup>
-      </Table>
-    </Participants>
-    <SpecialTables />
-    <Declarations />
-    <Objections />
-    <DeclarationsUnderArticle />
-    <Notifications />
-    <TerritorialApplications show="YES" />
-    <EndNotes>
-      <Note>
-        <index>1</index>
-        <text>See League of Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.198, p.299.</text>
-      </Note>
-      <Note>
-        <index>2</index>
-        <text>See note concerning signatures, ratifications, accessions, etc. on behalf of China (note 1 under China in the Historical Information section in the front matter of this volume).</text>
-      </Note>
-      <Note>
-        <index>3</index>
-        <text>See note 1 under Czech Republic and Slovakia in the Historical Information section in the front matter of this volume.</text>
-      </Note>
-      <Note>
-        <index>4</index>
-        <text>A notification of denunciation by the Government of Pakistan was received by the Secretary-General on 9 July 1965. It should be noted, however, that the Government of Pakistan, not having previously notified its succession to the Convention, was not, under the international practice to which the Secretary-General adheres to as the depositary of multilateral treaties, considered at that time as a party to the Convention.</text>
-      </Note>
-      <Note>
-        <index>5</index>
-        <text>Instrument of ratification of the unamended 1936 Convention. Spain, on behalf of which the Protocol of 11 December 1946 amending the Agreements, Conventions and Protocols on narcotic drugs concluded at The Hague on 23 January 1912, at Geneva on 11 February 1925, 19 February 1925 and 13 July 1931, at Bangkok on 27 November 1931 and at Geneva on 26 June 1936 was signed definitively on 26 September 1955 (see chapter VI.1), has, as a result of the said definitive signature and of its ratification of the unamended 1936 Convention, become a party to the said Convention of 1936 as amended by the said Protocol of 1946.</text>
-      </Note>
-    </EndNotes>
-    <Footer>VI 12 a. Narcotic Drugs and Psychotropic Substances</Footer>
   </Treaty>
 </Document>

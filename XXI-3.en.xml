@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXI</Header>
+        <Name>LAW OF THE SEA</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Titlesect>Convention on Fishing and Conservation of the Living Resources of the High Seas</Titlesect>
+        <Conclusion>Geneva, 29 April 1958</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>20 March 1966, in accordance with article 18.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>20 March 1966, No. 8164</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>35</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>39</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 559, p. 285.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>See "Note:" in the same place in chapter XXI.1.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Succession(d), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry>14 May 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>6 Jan 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>17 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>4 Oct 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>18 Mar 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>3 Jan 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>5 Dec 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>26 Sep 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>11 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>25 Mar 1971 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>27 Oct 1958</Entry>
+                <Entry>16 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry>18 Sep 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>29 Mar 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>8 May 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>28 May 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>2 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>16 Apr 1964 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>20 Jun 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>29 May 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>23 Oct 1973 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>27 May 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>31 Jul 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>3 Nov 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>21 Dec 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>5 Oct 1970 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>2 Aug 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>31 Oct 1958</Entry>
+                <Entry>18 Feb 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry>29 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>26 Jun 1961 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>31 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>2 May 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>28 Oct 1958</Entry>
+                <Entry>8 Jan 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>25 Apr 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>13 Mar 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry />
+                <Entry>3 Sep 1981 d</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>9 Apr 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>25 Feb 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>22 Oct 1958</Entry>
+                <Entry>18 May 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>2 Jul 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>29 Jun 1971 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>11 Apr 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>14 Sep 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>9 Sep 1958</Entry>
+                <Entry>14 Mar 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>15 Sep 1958</Entry>
+                <Entry>12 Apr 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry>10 Jul 1963</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="para">Denmark does not consider itself bound by the last sentence of article 2 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="para">Spain's accession is not to be interpreted as recognition of any rights or situations in connexion with the waters of Gibraltar other than those referred to in article 10 of the Treaty of Utrecht, of 13 July 1713, between the Crowns of Spain and Great Britain.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="para">"In depositing their instrument of ratification . . . Her Majesty's Government in the United Kingdom of Great Britain and Northern Ireland declare that, save as may be stated in any further and separate notices that may hereafter be given, ratifica- tion of this Convention on behalf of the United Kingdom does not extend to the States in the Persian Gulf enjoying British protection. Multilateral conventions to which the United Kingdom becomes a party are not extended to these States until such time as an extension is requested by the Ruler of the State concerned."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United States of America</Participant>
+        <text type="para">"Subject to the understanding that such ratification shall not be construed to impair the applicability of the principle of `abstention', as defined in paragraph A.1 of the documents of record in the proceedings of the Conference [on the Law of the Sea, held at Geneva from 24 February to 27 April 1958], identified as A/CONF.13/ C.3/L.69, 8 April 1958."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>Signed on behalf of the Republic of China on 29 April 1958. See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information secton in the front matter of this volume).</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 29 April 1958 and 28 January 1966, respectively. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>In respect of the Kingdom in Europe, Surinam and the Netherland Antilles. See also note 1 under Netherlands Antilles and Suriname in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>The Secretary-General received, on 9 June 1971, a communication from the Government of Senegal denouncing this Convention on the High Sees as well as the Convention on the Living Resources of the High Seas, and specifying that the denunciation would take effect on the thirtieth day from its receipt. The said communication, as well as the related exchange of correspondence between the Secretariat and the Govern- ment of Senegal, was circulated by the Secretary-General to all States entitled to become parties to the Conventions concerned under their respective clauses.</text>
+        <text>The notification of denunciation was registered by the Government of Senegal as at 9 June 1971, under Nos. 7477 and 8164. See United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 781, p. 332.</text>
+        <text>In this connection, a communication from the Government of the United Kingdom was received by the Secretary-General on 2 January 1973, stating &lt;i&gt;inter alia &lt;/i&gt;:</text>
+        <text>". . . As regards the notification by the Government of Senegal purporting to denounce the two Conventions of 1958, the Government of the United Kingdom wish to place on record that in their view those Conventions are not susceptible to unilateral denunciation by a State which is a party to them and they therefore cannot accept the validity or effectiveness of the purported denunciation by the Government of Senegal. Accordingly, the Government of the United Kingdom regard the Government of Senegal as still bound by the obligations which they assumed when they became a party to those Conventions and the Government of the United Kingdom fully reserve all their rights under them as well as their rights and the rights of their nationals in respect of any action which the Government of Senegal have taken or may take as a consequence of the said purported denunciation.</text>
+        <text>"As regards the various arguments that are set out in the correspondence referred to above with reference to certain other questions relating to the law of treaties, including in particularhe question of the functions of the Secretary-General as a depositary of the Conventions of 1958 and the question of the duties of the Secretariat in relation to the registration of treaties and in relation to acts, notifications and communications, relating to treaties, the Government of the United Kingdom do not consider it necessary at this stage to express any view on those matters but they fully reserve their position in relation thereto and expressly reserve their right formally to make their views known at a later date.</text>
+        <text>"The Permanent Representative of the United Kingdom of Great Britain and Northern Ireland to the United Nations requests that copies of this Note should be transmitted by the Secretariat to all States concerned, that is to say, all States Members of the United Nations or Members of any of the Specialised Agencies, and, since the notification by the Government of Senegal was registered by Senegal, further requests that the statement of the position of the Government of the United Kingdom in relation to that notification, as set out in the second paragraph of the present Note, should similarly be registered."</text>
+        <text>The said communication was registered in the name of the Government of the United Kingdom on 2 January 1973 under Nos.?477 and 8164. See United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 854, pp.?14 and 220.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXI 3. Law of the Sea</Footer>
+  </Treaty>
+</Document>

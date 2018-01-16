@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXV</Header>
+        <Name>TELECOMMUNICATIONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Titlesect>Tampere Convention on the Provision of Telecommunication Resources for Disaster Mitigation and Relief Operations</Titlesect>
+        <Conclusion>Tampere, 18 June 1998</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>8 January 2005, in accordance with article 12which reads as follows: "1. This Convention shall be open for signature by all States which are members of the United Nations or of the International Telecommunication Union at the Intergovernmental Conference on Emergency Telecommunications in Tampere on 18 June 1998, and thereafter at the headquarters of the United Nations, New York, from 22 June 1998 to 21 June 2003. 2. A State may express its consent to be bound by this Convention: a) by signature (definitive signature); b) by signature subject to ratification, acceptance or approval followed by deposit of an instrument of ratification, acceptance or approval; or c) by deposit of an instrument of accession. 3. The Convention shall enter into force thirty (30) days after the deposit of instruments of ratification, acceptance, approval or accession or definitive signature of thirty (30) States. 4. For each State which signs definitively or deposits an instrument of ratification, acceptance, approval or accession, after the requirement set out in paragraph 3 of this Article has been fulfilled, this Convention shall enter into force thirty (30) days after the date of the definitive signature or consent to be bound.".</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>8 January 2005, No. 40906</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>60</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>48</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 2296, p. 5; Depositary notifications C.N.608.1998.TREATIES-8 of 4 December 1998; and C.N.782.1999.TREATIES-13 of 28 September 1999 (rectification of the Convention and transmission of relevant procès-verbal).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was opened for signature at Tampere by all States Members of the United Nations or of the International Telecommunication Union on 18 June 1998, and thereafter at the United Nations Headquarters in New York from 22 June 1998 where it will remain open until 21 June 2003, in accordance with its article 12.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Definitive signature(s), Ratification, Acceptance(A), Approval(AA), Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>3 Sep 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>11 May 1999</Entry>
+                <Entry>5 Jul 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>25 Mar 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>25 Jul 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>2 Jul 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>12 Mar 1999</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>22 Sep 1999</Entry>
+                <Entry>20 Jun 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry>23 Jan 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>15 Jun 1999</Entry>
+                <Entry>18 May 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>20 Oct 1999</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>12 Jun 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>20 Jun 2003</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry>14 Jul 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>4 Sep 2002</Entry>
+                <Entry>17 Jun 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry>2 Jun 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>26 Dec 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>9 Aug 2000</Entry>
+                <Entry>18 Apr 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>25 May 1999</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry>1 Apr 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry />
+                <Entry>6 Aug 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>27 Apr 2001</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>8 Oct 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>11 Feb 1999</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>25 Feb 1999</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>20 Jun 2003</Entry>
+                <Entry>7 Apr 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>20 Jun 2003</Entry>
+                <Entry>13 May 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>29 Nov 1999</Entry>
+                <Entry>29 Nov 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>16 Aug 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry>12 Feb 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry>13 Jun 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>17 Nov 1998</Entry>
+                <Entry>27 Jan 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry />
+                <Entry>8 Jun 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>9 Dec 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry />
+                <Entry>8 Jun 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>12 Sep 2002</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry>11 Nov 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry />
+                <Entry>21 Jul 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>1 Dec 1998</Entry>
+                <Entry>11 Mar 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>23 Apr 1999</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>19 Dec 2000</Entry>
+                <Entry>6 Jul 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry>18 Nov 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry>19 Aug 1999</Entry>
+                <Entry>16 Apr 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>30 Jan 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>20 Sep 2001</Entry>
+                <Entry>5 Mar 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>14 Jan 1999</Entry>
+                <Entry>27 Oct 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry>17 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>14 Mar 2002</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>20 Nov 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>16 Feb 2000</Entry>
+                <Entry>6 Feb 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>27 Feb 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>5 Aug 1999</Entry>
+                <Entry>13 Oct 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry>31 Jan 2000</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>14 Aug 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>4 Dec 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>10 Jun 2003</Entry>
+                <Entry>13 Sep 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry>24 Apr 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry>18 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry>3 Dec 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>8 May 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>28 Oct 1998</Entry>
+                <Entry>5 Sep 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry />
+                <Entry>18 Jun 2003 s</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>17 Nov 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>13 May 2003</Entry>
+                <Entry>19 Apr 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry>6 Oct 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>3 Apr 2003</Entry>
+                <Entry>13 May 2005</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon</Title>
+      <Title>definitive signature, ratification, acceptance, approval or accession.)</Title>
+      <Declaration>
+        <Participant>Colombia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of the Republic of Colombia formulates a reservation to paragraph 3 of article 11, by means of which Colombia does not consider itself bound by either of both of the dispute settlement procedures provided for in paragraph 3 of article 11.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"In connexion with Denmark's ratification of the Tampere Convention on the Provision of Telecommunications Resources for Disaster Mitigation and Relief Operations ("the Convention") Denmark declares that to the extent to which certain provisions of the Convention fall within the area of responsibility of the European Community, the full implementation of the Convention by Denmark has to be done in accordance with the procedures of this international Organisation."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ireland</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"Whereas to the extent to which certain provisions of the Tampere Convention on the Provision of Telecommunications Resources for Disaster Mitigation and Relief Operations ("the Convention") fall within the responsibility of the European Community, the full implementation of the Convention by Ireland has to be done in accordance with the procedures of this international organisation."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Luxembourg</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">To the extent to which certain provisions of the Tampere Convention on the Provision of Telecommunications Resources for Disaster Mitigation and Relief Operations fall within the area of responsibility of the European Community, the full implementation of the Convention by Luxembourg has to be done in accordance with the procedures of this international organisation.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Montenegro</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">In accordance with Article 14 of the Tampere Convention on the Provisions of Telecommunications Resources for Disaster Mitigation and Relief Operations, adopted at Tampere, 18 June 1998, the Government of Montenegro declares that this Convention shall not apply to:</text>
+        <text type="para">To the extent to which certain provisions of the Tampere Convention on the Provisions of Telecommunications Resources for Disaster Mitigation and Relief Operations (the Convention) fall within the area of responsibility of the European Community, the full implementation of the Convention by Montenegro has to be done in accordance with the procedures of this international organization.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">To the extent to which certain provisions of the Tampere Convention on the Provision of Telecommunication Resources for Disaster Mitigation and Relief Operations fall within the area of responsibility of the European Community, Spain cannot implement those decisions unless the European Community becomes a party to the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden</Participant>
+        <text type="title">Declaration made upon signature and confirmed upon ratification:</text>
+        <text type="para">"To the extent to which certain provisions of the Tampere Convention on the Provision of Telecommunications Resources for Disaster Mitigation and Relief Operations fall within the area of responsibility of the European Community, the full implementation of the Convention by Sweden has to be done in accordance with the procedures of this international organisation."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"To the extent to which certain provisions of the Tampere Convention on the Provisions of Telecommunications Resources for Disaster Mitigation and Relief Operations ("the Convention") fall within the area of responsibility of the European Community, the full implementation of the Convention by the United Kingdom has to be done in accordance with the procedures of this international organisation."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="title">Reservation made upon signature:</text>
+        <text type="para">Under the provisions of article 11, paragraph 6, of the Tampere Convention on the Provision of Telecommunication Resources for Disaster Mitigation and Relief Operations (ICET-98), the Bolivarian Republic of Venezuela makes a specific reservation to paragraph 3 of that article. It therefore does not consider itself bound by arbitration as a means of dispute settlement, nor does it recognize the binding jurisdiction of the International Court of Justice.</text>
+        <text type="title">Reservation made upon ratification:</text>
+        <text type="para">Under the provisions of article 14, paragraph 1, of the Tampere Convention on the Provision of Telecommunication Resources for Disaster Mitigation and Relief Operations, the Bolivarian Republic of Venezuela makes a specific reservation to paragraphs 3 and 4 of article 11. Therefore, it does not consider itself bound by arbitration as a means of dispute settlement, nor does it recognize the binding jurisdiction of the International Court of Justice.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>In a communication received on 22 July 2003, the Govenrment of Denmark informed the Secretary-General that "... Denmark's ratifications normally include the entire Kingdom of Denmark including the Faroe Islands and Greenland. Consequently, no Territorial Application applies in connection with the above-mentioned ratification.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>For the Kingdom in Europe and the Netherlands Antilles. On 17 July 2001, in respect of Aruba.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXV 4. Telecommunications</Footer>
+  </Treaty>
+</Document>

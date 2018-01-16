@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVIII</Header>
+        <Name>PENAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>8</Numsect>
+        <Titlesect>Convention on the Safety of United Nations and Associated Personnel</Titlesect>
+        <Conclusion>New York, 9 December 1994</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>15 January 1999, in accordance with article 27 which reads as follows: "1. This Convention shall enter into force thirty days after twenty-two instruments of ratification, acceptance, approval or accession have been deposited with the Secretary-General of the United Nations. 2. For each State ratifying, accepting, approving or acceding to the Convention after the deposit of the twenty-second instrument of ratification, acceptance, approval or accession, the Convention shall enter into force on the thirtieth day after the deposit by such State of its instrument of ratification, acceptance, approval or accession.".</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>15 January 1999, No. 35457</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>43</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>94</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 2051, p. 363</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by resolution &lt;a href="/doc/source/docs/A_RES_49_59-E.pdf" target="_blank"&gt;49/59&lt;/a&gt; of the General Assembly dated 9 December 1994. The Convention was open for signature on 15 December 1994 and will remain open for signature at the Headquarters of the United Nations in New York until 31 December 1995.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Accession(a), Approval(AA), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>30 Mar 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>6 Jan 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>22 Dec 1995</Entry>
+                <Entry>4 Dec 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>6 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>3 Aug 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>21 Dec 1994</Entry>
+                <Entry>22 Sep 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>23 Oct 1995</Entry>
+                <Entry>29 Nov 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>21 Dec 1995</Entry>
+                <Entry>19 Feb 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>2 Nov 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>17 Aug 1995</Entry>
+                <Entry>22 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry />
+                <Entry>11 Aug 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry />
+                <Entry>1 Mar 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>3 Feb 1995</Entry>
+                <Entry>6 Sep 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry />
+                <Entry>20 Mar 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>4 Jun 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>27 Oct 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>3 Apr 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry />
+                <Entry>27 Aug 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Sep 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>10 Jun 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>17 Oct 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>13 Mar 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry />
+                <Entry>27 Mar 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>1 Jul 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>27 Dec 1995</Entry>
+                <Entry>13 Jun 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry />
+                <Entry>8 Oct 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>11 Apr 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>16 Mar 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>28 Dec 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry />
+                <Entry>25 Jun 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>8 Mar 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry>25 Oct 1995</Entry>
+                <Entry>1 Apr 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>5 Jan 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>12 Jan 1995</Entry>
+                <Entry>9 Jun 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>1 Feb 1995</Entry>
+                <Entry>22 Apr 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry />
+                <Entry>3 Aug 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>23 Sep 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>7 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>21 May 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>19 Dec 1994</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>17 May 1995</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>13 Jul 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>10 May 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>28 Mar 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>16 Dec 1994</Entry>
+                <Entry>5 Apr 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>8 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>6 Jun 1995</Entry>
+                <Entry>6 Jun 1995 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>19 Oct 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry />
+                <Entry>19 Jul 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>22 Aug 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry />
+                <Entry>25 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>6 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>22 Sep 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>22 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry>16 Oct 1995</Entry>
+                <Entry>11 Dec 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>8 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>31 May 1995</Entry>
+                <Entry>30 Jul 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>7 Oct 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>2 Jan 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>16 Mar 1995</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry />
+                <Entry>5 Mar 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>25 Feb 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Nauru</Entry>
+                <Entry />
+                <Entry>12 Nov 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>8 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>22 Dec 1995</Entry>
+                <Entry>7 Feb 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>16 Dec 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>3 Jul 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>8 Mar 1995</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>4 Apr 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>30 Dec 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>27 Feb 1995</Entry>
+                <Entry>17 Jun 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>17 Mar 1995</Entry>
+                <Entry>22 May 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>14 Oct 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>8 Dec 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>27 Sep 1995</Entry>
+                <Entry>29 Dec 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>26 Sep 1995</Entry>
+                <Entry>25 Jun 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry>16 Jan 1995</Entry>
+                <Entry>19 Aug 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>22 Mar 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>21 Feb 1995</Entry>
+                <Entry>9 Jun 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry />
+                <Entry>31 Jul 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>13 Feb 1995</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>26 Mar 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>28 Dec 1995</Entry>
+                <Entry>26 Jun 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry />
+                <Entry>21 Jan 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>19 Dec 1994</Entry>
+                <Entry>13 Jan 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>23 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>State of Palestine</Entry>
+                <Entry />
+                <Entry>2 Jan 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>25 Jun 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>9 Nov 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry />
+                <Entry>6 Mar 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>22 Dec 1995</Entry>
+                <Entry>21 Apr 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>22 Feb 1995</Entry>
+                <Entry>12 Sep 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>9 Aug 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>29 Sep 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>15 Dec 1994</Entry>
+                <Entry>17 Aug 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>19 Dec 1995</Entry>
+                <Entry>6 May 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>19 Dec 1994</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>17 Nov 1995</Entry>
+                <Entry>3 Sep 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>3 Jul 1996 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, acceptance or accession.)</Title>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="title">Interpretative declaration:</text>
+        <text type="para">The Belgian Government declares the following: article 9, paragraph 1 (c), only covers cases where the threat is credible.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>China</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The People's Republic of China makes a reservation with regard to Article 22, paragraph 1 of the Convention on the Safety of United Nations and Associated Personnel and is not bound by the provisions of Article 22, paragraph 1.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Costa Rica</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of the Republic enters a reservation to article?, paragraph?, of the Convention, to the effect that limiting the scope of application of the Convention is contrary to the pacifist thinking of our country and, accordingly, that, in the event of conflicts with the application of the Convention, Costa Rica will, where necessary, give precedence to humanitarian law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Democratic People's Republic of Korea</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"The Government of the Democratic People's Republic of Korea does not consider itself bound by all of paragraph 1 of Article 22 of the Convention on the Safety of United Nations and Associated Personnel."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>El Salvador</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">With respect to the provisions of article 15 of the Convention, the Republic of El Salvador does not regard the above-mentioned Convention as the legal basis for cooperation in connection with extradition.</text>
+        <text type="para">With respect to article 22 of the Convention, the Government of the Republic of El Salvador, does not consider itself bound with the provisions of paragraph 1 of this article, since it doesnt recognize the compulsory jurisdiction of the International Court of Justice.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Germany</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with German law, the authorities of the Federal Republic of Germany will communicate information on alleged offenders, victims and circumstances of the crime (personal data) directly to the states concerned and, in parallel with this, will inform the Secretary-General of the United Nations that such information has been communicated.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kuwait</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">... with a reservation in respect of article 22 (1), in accordance with article 22 (2) of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lao People's Democratic Republic</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"In accordance with paragraph 2, Article 22 of the Convention on the Safety of United Nations and Associated Personnel, the Lao People's Democratic Republic does not consider itself bound by paragraph 1, article 22 of the present Convention. The Lao People's Democratic Republic declares that to refer dispute relating to interpretation and application of the present Convention to arbitration or International Court of Justice, the agreement of all parties concerned in the dispute is necessary."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Nepal</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">[The Government of Nepal] avails itself of the provisions of article 22, paragraph 2, and declares that it does not consider itself bound by the provisions of paragraph? of the said article under which any dispute between two or more States Parties concerning the interpretation or application of this Convention shall at the request of one of them, be submitted to arbitration or referred to the International Court of Justice, and states that in each individual case, prior consent of all parties to such a dispute is necessary for the submission of the dispute to arbitration or to the International Court of Justice.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Kingdom of the Netherlands understands Article 14 of the Convention on the Safety of United Nations and Associated Personnel states that the competent national authorities must decide on a case submitted to them in accordance with national law and in the same manner as they would decide on ordinary offences of a grave nature. Consequently, the Kingdom of the Netherlands understands this provision to include the right of its competent judicial authorities to decide not to prosecute a person alleged to have committed a crime as referred to in Article 9, paragraph 1, if, in the opinion of the competent judicial authorities, grave considerations of procedural law indicate that effective prosecution would be possible."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Saudi Arabia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">... the Government of the Kingdom of Saudi Arabia does not consider itself obligated to paragraph 1 of Article 22.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia</Participant>
+        <text type="title">Declaration made upon signature and confirmed upon ratification:</text>
+        <text type="para">"If a dispute concerning the interpretation or application of the Convention is not settled by negotiation, the Slovak Republic prefers its submission to the International Court of Justice in accordance with article 22, paragraph 1 of the Convention. Therefore a dispute, to which the Slovak Republic might be a Party can be submitted to arbitration only with the explicit consent of the Slovak Republic."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Tunisia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Tunisian Republic declares that it does not consider itself bound by the provisions of article 22, paragraph?, of the Convention and that disputes concerning the interpretation or application of the Convention may be submitted to arbitration or to the International Court of Justice only with the prior consent of all the parties concerned.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Turkey&lt;superscript&gt;6&lt;/superscript&gt;</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para"> I. The Republic of Turkey declares that it will implement the provisions of the Convention only to the State Parties with which it has diplomatic relations.</text>
+        <text type="para">II. The Republic of Turkey declares that this Convention is ratified exclusively with regard to the national territory where the Constitution and legal and administrative order of the Republic of Turkey are applied.</text>
+        <text type="para">III. The Republic of Turkey declares that, in accordance with article 22, paragraph 2 of the Convention, Turkey does not consider itself bound by article 22, paragraph 1 of this Convention. The explicit consent of the Republic of Turkey is necessary in each individual case before any dispute to which the Republic of Turkey is party concerning the interpretation or application of this Convention may be referred to the International Court of Justice.</text>
+        <text type="title">Reservations:</text>
+        <text type="para"> In connection with Article 20, paragraph 1 of the Convention, concerning the applicability of international humanitarian law, the Republic of Turkey is not a party to the Protocols I and II, dated 8 June 1977, Additional to the Geneva Conventions of 12 August 1949, and therefore will not be bound by the provisions of the said Protocols."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made</Title>
+      <Title>upon ratification, acceptance or accession.)</Title>
+      <Objection>
+        <Participant>Cyprus</Participant>
+        <text>&lt;right&gt;7 December 2004&lt;/right&gt;</text>
+        <text type="title">With regard to the declarations made by Turkey upon ratification:</text>
+        <text type="para">"The Government of the Republic of Cyprus has examined the declarations made by the Republic of Turkey upon ratification of the Convention on the Safety of the United Nations and Associated Personnel.</text>
+        <text type="para">The Republic of Turkey declares that it will implement the provisions of the Convention only to the States with which it has diplomatic relations.</text>
+        <text type="para">In view of the Government of the Republic of Cyprus this declaration in fact amounts to a reservation. The reservation makes it unclear to what extent the Republic of Turkey considers itself bound by the obligations arising from the Convention. In the absence of further clarification, this reservation creates uncertainty as to the States Parties in respect of which Turkey is undertaking the obligations in the Convention, and raises doubt as to the commitment of the Republic of Turkey to the object and purpose of the Convention.</text>
+        <text type="para">The Republic of Turkey furthermore declares that the Convention is ratified exclusively with regard to the national territory where the Constitution and the legal and administrative order of the Republic of Turkey are applied.</text>
+        <text type="para">In the view of the Republic of Cyprus, this declaration in fact amounts to a reservation. This reservation is contrary to the letter and the spirit of Article 10 of the Convention. It should be recalled that the duty to establish jurisdiction over the crimes set out in the Convention is mandatory upon States Parties when the crime is committed in the territory of that State or on board a ship or aircraft registered in that State and when the alleged offender is a national of that State. A limitation to the national territory is contrary to the obligations of States Parties in this regard and therefore incompatible with the object and purpose of the Convention.</text>
+        <text type="para">The Republic of Turkey also makes a reservation that in connection with Article 20, paragraph 1 of the Convention, concerning the applicability of international humanitarian law, the Republic of Turkey is not a party to the Protocols I and II, dated 8 June 1977, Additional to the Geneva Convention of 12 August 1949, and therefore will not be bound by the provisions of the said Protocols.</text>
+        <text type="para">The Republic of Cyprus considers this reservation to be contrary to the letter and spirit of Article 20 (1) of the Convention, which states that nothing shall affect the applicability of international humanitarian law as contained in international instruments in relation to the protection of United Nations operations and United Nations and Associated Personnel. Accordingly, this reservation is prohibited by the Convention.</text>
+        <text type="para">For these reasons, the Government of the Republic of Cyprus objects to the aforesaid reservations made by the Republic of Turkey to the Convention on the Safety of the United Nations and Associated Personnel.</text>
+        <text type="para">This objection shall not preclude the entry into force of the Convention between the Republic of Cyprus and the Republic of Turkey. The Convention, therefore, enters into force between the two States without the Republic of Turkey benefiting from these reservations".</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Greece</Participant>
+        <text>&lt;right&gt;21 July 2005&lt;/right&gt;</text>
+        <text type="title">With regard to the declarations made by Turkey upon ratification:</text>
+        <text type="para">"The Government of the Hellenic Republic has examined the declarations made by the Republic of Turkey upon ratification of the 1994 Convention on the Safety of United Nations and Associated Personnel.</text>
+        <text type="para">In the view of the Government of the Hellenic Republic, paragraph 1 of these declarations amounts to a reservation which raises concerns as to the commitment of Turkey to implement core provisions of the Convention and in particular those pertaining to the prevention and suppression of crimes against United Nations and Associated Personnel. The reservation may also lead to a discriminatory application of the Convention.</text>
+        <text type="para">In connection with paragraph II of the declarations, the Government of the Hellenic Republic is of the view that it also amounts to a reservation as it raises the same concerns as above. Furthermore, it raises doubts as to whether Turkey fully undertakes the obligations incumbent upon it by virtue of Article 10 of the Convention. The Government of the Hellenic Republic, therefore, considers that the above reservations are incompatible with the object and purpose of the Convention.</text>
+        <text type="para">Regarding the reservation made by the Republic of Turkey in connection with Article 20 par. 1 of the Convention, the Government of the Hellenic Republic considers that, in so far as the instruments referred to in the reservation are reflective of customary international law, they are universally binding and cannot be exempted from by a reservation.</text>
+        <text type="para">For these reasons, the Government of the Hellenic Republic objects to the above reservations made by the Republic of Turkey to the Convention on the Safety of United Nations and Associated Personnel. This objection shall not preclude the entry into force of the Convention between the Hellenic Republic and the Republic of Turkey. The Convention, therefore, enters into force between the two States without taking into account the abovementioned reservations."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text>&lt;right&gt;16 August 2005&lt;/right&gt;</text>
+        <text type="title">With regard to the declarations and reservation made by Turkey upon accession:</text>
+        <text type="para">"The Government of the United Kingdom of Great Britain and Northern Ireland has examined the declaration made by the Republic of Turkey upon ratification of the 1994 Convention on the Safety of United Nations and Associated Personnel.</text>
+        <text type="para">The Government of the United Kingdom of Great Britain and Northern Ireland is concerned that paragraph 1 of the declaration may amount to a reservation of indeterminate scope. Diplomatic relations between Turkey and other States are capable of being established and terminated at will, and without the other State Parties to the Convention knowing of their status. It would offend the legal certainty of treaty relations to attempt to make these contingent upon the existence of diplomatic relations.</text>
+        <text type="para">As regards paragraph II of the declaration, the Government of the United Kingdom of Great Britain and Northern Ireland is of the view that it raises doubts as to whether Turkey fully undertakes the obligations incumbent upon it by virtue of Article 10 of the Convention. As well as providing that a State Party shall establish its jurisdiction over crimes committed within its national territory, or on board a ship or aircraft registered in that State, Article 10 also provides that a State shall take measures to assume jurisdiction where the alleged offender is a national of that State. Paragraph II, in attempting to ratify the Convention solely with regard to the national territory of Turkey, appears to be contrary to Article 10 (1) (b).</text>
+        <text type="para">The Government of the United Kingdom of Great Britain and Northern Ireland, therefore, considers that the above paragraphs of the declaration constitute reservations which are incompatible with the object and purpose of the Convention.</text>
+        <text type="para">Regarding the reservation made by the Republic of Turkey in connection with Article 20 (1) of the Convention, the Government of the United Kingdom of Great Britain and Northern Ireland considers that, in so far as the instruments referred to in the reservation are reflective of customary international law, they are universally binding and cannot be derogated from.</text>
+        <text type="para">For these reasons, the Government of the United Kingdom of Great Britain and Northern Ireland objects to the above reservations made by the Republic of Turkey to the Convention on the Safety of United Nations and Associated Personnel.</text>
+        <text type="para">This objection shall not preclude the entry into force of the Convention between the United Kingdom of Great Britain and Northern Ireland and the Republic of Turkey. The Convention, therefore, enters into force between the two States without taking into account the above-mentioned reservations."</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications>
+      <Title>Notifications made under article 10 (2)</Title>
+      <Title>(Unless otherwise indicated, the notifications were made upon ratification,</Title>
+      <Title>acceptance, approval or accession.)</Title>
+      <Notification>
+        <Participant>China</Participant>
+        <text>&lt;right&gt;27 July 2007&lt;/right&gt;</text>
+        <text type="para">Pursuant to article 10, paragraph 2 of the Convention, the Hong Kong Special Administrative Region of the People's Republic of China has established its jurisdiction referred to in article 10, paragraph 2 (a) of the Convention over the crimes set out in article 9 of the Convention.</text>
+        <text type="para" />
+      </Notification>
+      <Notification>
+        <Participant>Estonia</Participant>
+        <text type="para">In accordance with paragraph 2 of Article 10 of the Convention the Republic of Estonia establishes her jurisdiction over any such crime when it is committed with respect to a national of Estonia.</text>
+      </Notification>
+    </Notifications>
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>With the following declaration:</text>
+        <text>In accordance with the provisions of Article 153 of the Basic Law of the Hong Kong Special Administrative Region of the Peoples Republic of China and Article 138 of the Basic Law of the Macao Special Administrative Region of the Peoples Republic of China, the Government of the Peoples Republic of China decides that the Convention shall apply to the Hong Kong Special Administrative Region and the Macao Special Administrative Region of the Peoples Republic of China.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>For the Kingdom in Europe, the Netherlands Antilles and Aruba.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>& the Government of the United Kingdom of Great Britain and Northern Ireland wishes the United Kingdoms Ratification of the Convention [&] to be extended to the territory of the Isle of Man for whose international relations the United Kingdom is responsible.</text>
+        <text>The Government of the United Kingdom of Great Britain and Northern Ireland considers the extension of the aforesaid Convention [&] to the Isle of Man to enter into force on the thirtieth day after of the deposit of this notification &</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>In regard to the declarations made by the Government of Turkey upon accession, the Secretary-General received a communication from the following State on the date indicated hereinafter:</text>
+        <text>&lt;i&gt;Portugal (15 December 2005): &lt;/i&gt;</text>
+        <text>The Government of the Portuguese Republic has carefully examined the declarations and reservations made by the Republic of Turkey upon the ratification of the Convention on the Safety of United Nations and Associated Personnel.</text>
+        <text>The Government of Portugal considers that paragraph I of the declarations amounts to a reservation which raises concerns as to the commitment of Turkey to implement core provisions of the Convention and in particular those concerning the prevention and suppression of crimes against United Nations and Associated personnel. This reservation may also lead to a discriminatory application of the Convention.</text>
+        <text>Portugal considers that paragraph II of the declaration also amounts to a reservation which is contrary to the object and purpose of the Convention, namely to its Article 10 which requires that each State party shall take such measures as may be necessary to establish its jurisdiction over the crimes against Untied Nations and Associate personnel in the case of crimes committed in the territory of that State.</text>
+        <text>With regard to the reservation made by Turkey in connection with article 20, paragraph 1 of the Convention, Portugal considers that in so far as the instruments referred to in a reservation are reflective of customary international law, they are universally binding and cannot be exempted from by a reservation.</text>
+        <text>The Government of the Portugese Republic, therefore objects to the above reservations made by the Republic of Turkey to the Convention on the Safety of Untied Nations and Associate Personnel.</text>
+        <text>This objection shall not preclude the entry into force o the Convention between Portugal and Turkey.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XVIII 8. Penal Matters</Footer>
+  </Treaty>
+</Document>

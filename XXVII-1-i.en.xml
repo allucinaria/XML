@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>i</Subnumsect>
+        <Subtitlesect>Amendments to the Text and to Annexes I, II, III, IV, VI and VIII to the 1998 Protocol on Persistent Organic Pollutants</Subtitlesect>
+        <Conclusion>Geneva, 18 December 2009</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>in accordance with article 14(3) of the Protocol which reads as follows: "Amendments to the present Protocol and to annexes I to IV, VI and VIII shall be adopted by consensus of the Parties present at a session of the Executive Body, and shall enter into force for the Parties which have accepted them on the ninetieth day after the date on which two thirds of the Parties have deposited with the Depositary their instruments of acceptance thereof. Amendments shall enter into force for any other Party on the ninetieth day after the date on which that Party has deposited its instrument of acceptance thereof..</Labeltext>
+        </EIF>
+        <Registration />
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>C.N.555.2010.TREATIES-3 of 14 September 2010 (Amendments to the text and to Annexes I, II, III, IV, VI and VII to the Protocol)</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>23 Nov 2011 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>5 Mar 2013 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>22 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>29 Apr 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>15 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>24 Jun 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>20 Dec 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>22 Sep 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>22 Jun 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>17 Aug 2011 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>15 Mar 2012 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>26 Mar 2012 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>25 May 2012 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>25 May 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>16 Nov 2015 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations were made</Title>
+      <Title>upon ratification, acceptance, approval or accession.)</Title>
+      <Declaration>
+        <Participant>Canada</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">[The Government of Canada] declares that it does not intend to be bound by the procedures set out in article 14, paragraph 5 ter as regards the amendment of annexes I to IV, VI and VIII of that Protocol.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Estonia</Participant>
+        <text type="title">Declaration</text>
+        <text type="para">& in accordance with Article 3, paragraph 5, subparagraph a of the Protocol, Estonia declares that the reference year for polychlorinated biphenyls (PCB) shall be 1996&</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Norway</Participant>
+        <text type="title">Declaration</text>
+        <text type="para">With reference to article 3 no 5 litra (a) and annex III, Norway hereby declares that the reference year for PCB should be 2005.</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the European part of the Netherlands</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXVII 1 i. Environment</Footer>
+  </Treaty>
+</Document>

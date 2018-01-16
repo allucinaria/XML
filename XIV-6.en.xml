@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIV</Header>
+        <Name>EDUCATIONAL AND CULTURAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>6</Numsect>
+        <Titlesect>International Agreement for the Establishment of the University for Peace</Titlesect>
+        <Conclusion>New York, 5 December 1980</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>7 April 1981, in accordance with article 7.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>7 April 1981, No. 19735</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>40</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1223, p. 87; and C.N.1127.2001.TREATIES-3 of 1 November 2001&lt;superscript&gt;1&lt;/superscript&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was adopted by resolution &lt;a href="/doc/source/docs/A_RES_35_55-E.pdf" target="_blank"&gt;35/55&lt;/a&gt;&lt;superscript&gt;2&lt;/superscript&gt; of the General Assembly of the United Nations dated 5 December 1980. It was open for definitive signature by all States at the United Nations Headquarters in New York from 5 December 1980 to 31 December 1981.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Succession(d), Definitive signature(s)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry />
+                <Entry>29 Dec 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>8 Apr 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>10 Apr 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>16 Aug 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry />
+                <Entry>2 Mar 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>18 Mar 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>5 Dec 1980 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>9 Aug 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>15 Mar 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>21 Nov 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>18 Mar 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry />
+                <Entry>7 Apr 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>14 Sep 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>9 Aug 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>10 Apr 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry />
+                <Entry>3 Dec 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry />
+                <Entry>27 Nov 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>15 May 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry />
+                <Entry>9 May 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>3 Apr 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>30 Mar 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>20 Mar 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>9 Apr 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry />
+                <Entry>20 Mar 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>11 Jun 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>23 Dec 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>1 Apr 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>21 Apr 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>10 Aug 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry />
+                <Entry>2 Sep 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry />
+                <Entry>3 Jun 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry />
+                <Entry>3 Jun 1981 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>27 Nov 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>19 Nov 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>5 Dec 1980 s</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon ratification,</Title>
+      <Title>accession or succession .)</Title>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="para">&lt;i&gt;Declaration:&lt;/i&gt;</text>
+        <text type="para">The Argentine Republic does not consider itself bound to make any financial contribution towards such expenses as may derive from the application of this Agreement.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>At its twelfth session held in San Jos? Costa Rica, from 7 to 8 November 2000, the Council of the University for Peace received from the Rector of the University, in accordance with article 5 (2) of the Agreement and article 19 (1)(b) of the Charter, a proposal of amendments to the Charter. Pursuant to article 5 (2) of the Agreement and article 19 (2) of the Charter, the Council of the University for Peace formally adopted on 20 April 2001, by written procedure, the amendments to the Charter, which forms an annex to the Agreement for the Establishment of the University for Peace.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>&lt;i&gt; Official Records of the General Assembly, Thirty-fifth Session, Supplement No. 31 &lt;/i&gt;(A/35/49) p. 103.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The former Yugoslavia had acceeded to the Agreement on 19 January 1983. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XIV 6. Educational and Cultural Matters</Footer>
+  </Treaty>
+</Document>

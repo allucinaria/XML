@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXV</Header>
+        <Name>TELECOMMUNICATIONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Subnumsect>a</Subnumsect>
+        <Subtitlesect>Amendments to the Agreement establishing the Asia-Pacific Institute for Broadcasting Development</Subtitlesect>
+        <Conclusion>Islamabad, 21 July 1999</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>14 December 2001, in accordance with article 14(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>14 December 2001, No. 19609</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>18</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 2167, p. 422.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>On 21 July 1999, the Governing Council adopted unanimously, at its meeting in Islamabad, the Amendments proposed by the Government of Iran to the above Agreement. The Council also determined under article 14 (2) that the Amendments were of such a nature as to require implementation by all Contracting Parties.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>23 Dec 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>21 Jun 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry>12 Oct 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry>5 Jul 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>10 Jul 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>10 Apr 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry>11 Feb 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>23 Apr 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>30 Nov 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry>22 Jun 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry>3 Apr 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>17 Aug 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>14 Sep 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry>25 Nov 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>10 Jan 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>20 Aug 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>2 Jul 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry>27 Jan 2000 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>With a declaration to the effect that ...The State Council has also decided that the Amendment is applicable to the Macao Special Administrative Region of the Peoples Republic of China. However, the Amendment does not apply tentatively to the Hong Kong Special Administrative Region of the Peoples Republic of China until further notice.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXV 3 a. Telecommunications</Footer>
+  </Treaty>
+</Document>

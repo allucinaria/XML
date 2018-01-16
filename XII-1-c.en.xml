@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XII</Header>
+        <Name>NAVIGATION</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>c</Subnumsect>
+        <Subtitlesect>Amendments to articles 10, 16, 17, 18, 20, 28, 31 and 32 of the Convention on the International Maritime Organization</Subtitlesect>
+        <Conclusion>London, 17 October 1974</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 April 1978, in accordance with article 52 of the Convention, for all Members of the Organization*.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 April 1978, No. 4214</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <CustomText>Parties*.</CustomText>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1080, p. 375.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>See " &lt;i&gt;Note: &lt;/i&gt;" at beginning of chapter XII.1. </Text>
+          <Text>The amendments were adopted by the Assembly of the Organization by resolution &lt;a href="/doc/source/docs/A_315_ES.V-E.pdf" target="_blank"&gt;A.315 (ES.V)&lt;/a&gt; of 17 October 1974.</Text>
+          <Text>Pursuant to article 54 of the Convention, the acceptance of an amendment shall be made by the communication of an instrument to the Secretary-General of the Organization for deposit with the Secretary-General of the United Nations. Following is the list of States which had accepted the Amendments to the Convention prior to their entry into force. </Text>
+          <Text>In accordance with article 52 of the Convention, the Assembly of the International Maritime Consultative Organization determined that these amendments were of such a nature that any Member which hereafter declares that it did not accept such amendments and within a period of twelve months after they had come into force would, upon the expiration of this period, cease to be a Party to the Convention.</Text>
+          <Text>*See chapter XII.1 for the complete list of Participants, Members of the International Maritime Organization, for which the above amendments are in force, pursuant to article 66 of the Convention as amended.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>8 Mar 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry>6 Jun 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>1 Mar 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry>31 Jan 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>22 Sep 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry>30 Jun 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>6 Jul 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>30 Jul 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>16 Apr 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry>24 Aug 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>1 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>16 Jul 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>11 Feb 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>China</Entry>
+                <Entry>28 Apr 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>24 Nov 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>24 Feb 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>20 Jul 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>30 Dec 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>3 Jan 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>16 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>2 Aug 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>19 Oct 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>24 Mar 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>15 Nov 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;3,4&lt;/superscript&gt;</Entry>
+                <Entry>1 Dec 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>18 Oct 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>16 May 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>1 Apr 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry>6 Dec 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>30 Dec 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>13 May 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>16 Jan 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>23 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>8 Jul 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>11 Mar 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>8 Sep 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>13 May 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>5 Apr 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>8 Sep 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry>30 Jul 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>29 Dec 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>21 Jul 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>2 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>23 Mar 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry>17 Sep 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry>10 Nov 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry>24 Mar 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>30 Jun 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>28 Apr 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry>17 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>13 May 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>23 May 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>17 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>15 Mar 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>24 Oct 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry>19 May 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>8 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>25 Jul 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>28 Apr 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry>23 Mar 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>18 Jan 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>24 Mar 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>17 May 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry>26 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>5 May 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>16 Jan 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry>25 Mar 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>1 Dec 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>16 May 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>13 May 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>26 Jun 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>28 Sep 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>11 Feb 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>27 Oct 1975 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The former Yugoslavia had accepted the amendments on 30 March 1976. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugsoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Upon depositing its instrument of acceptance of the amendments, the Government of Bahrain reiterated the same declaration as the one made upon accceptance of the Convention (see chapter XII.1).</text>
+        <text>In a communication received by the Secretary-General on 8 November 1976, the Government of Bahrain confirmed that the general reservation is intended to constitute a general declaration of policy of the Government of the State of Bahrain and should not be interpreted as expanding or diminishing the scope of the Convention or its application to States parties to the Convention."</text>
+        <text>With regard to the said reservation, the Governrment of Israel, in communication received by the Secretary-General on 23 December 1976, stated the following:</text>
+        <text>"The instrument deposited by the Government of Bahrain contains a statement of political pronouncements, which are moreover, in flagrant contradiction to the principles, objects and purposes of the Organization. That pronouncement by the Government of Bahrain cannot in any way affect whatever obligations are binding upon Bahrain, under general international law or under particular treaties."</text>
+        <text>The Government of Israel will, insofar as concerns the substance of the matter, adopt towards the Government of Bahrain an attitude of complete reciprocity."</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The German Democratic Republic had deposited its instrument of acceptance of the amendments with the Secretary-General of the International Maritime Organization on 18 September 1975 and with the Secretary-General of the United Nations on 30 September 1975. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>With the following declaration:</text>
+        <text>Acceptance of the above amendments by the Republic of Iraq shall, however, in no way signify recognition of Israel or be conducive to entry into any relations with it.</text>
+        <text>In this connection, the Secretary-General received, on 28 February 1977, from the Government of Israel the following communication:</text>
+        <text>"The instrument deposited by the Government of Iraq contains a statement of a political character in respect to Israel. In the view of the Government of Israel, this is not the proper place for making such political pronouncements, which are moreover, in flagrant contradiction to the principles, objects and purposes of the Organization. That pronouncement by the Government of Iraq cannot in any way affect whatever obligations are binding upon Iraq, under general international law or under particular treaties.</text>
+        <text>"The Government of Israel will, insofar as concerns the substance of the matter, adopt towards the Government of Iraq and attitude of complete reciprocity."</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>With the same declaration as the one made in respect of the Convention on the International Maritime Organization.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>For the Kingdom in Europe, Surinam and the Netherlands Antilles. See also note 1 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XII 1 c. Navigation</Footer>
+  </Treaty>
+</Document>

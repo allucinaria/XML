@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>k</Subnumsect>
+        <Subtitlesect>Amendment of the text and annexes II to IX to the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution to Abate Acidification, Eutrophication and Ground-level Ozone and the addition of new annexes X and XI</Subtitlesect>
+        <Conclusion>Geneva, 4 May 2012</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>in accordance with article 13(3) of the Protocol which reads as follows: "Amendments to the present Protocol, including amendments to annexes II to IX, shall be adopted by consensus of the Parties present at a session of the Executive Body, and shall enter into force for the Parties which have accepted them on the ninetieth day after the date on which two thirds of the Parties have deposited with the Depositary their instruments of acceptance thereof. Amendments shall enter into force for any other Party on the ninetieth day after the date on which that Party has deposited its instrument of aceptance thereof.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>10</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>C.N.155.2013.TREATIES-XXVII-1-h of 28 February 2013 (Adoption of Amendments to Annexes II to IX to the Protocol and addition of annexes X and XI)</Text>
+          <Text />
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>28 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>22 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>30 Aug 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>7 Dec 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>22 Sep 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>18 Oct 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>25 May 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>18 Dec 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>16 Nov 2015 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>18 Jan 2017 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon acceptance.)</Title>
+      <Declaration>
+        <Participant>United States of America</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The United States does not accept the procedure set out in paragraph 7 of article 13bis with respect to amendments to annexes IV to XI. Accordingly, consistent with paragraph 6 of article 13bis, for amendments to these annexes the procedure set out in paragraph 3 of article 13bis will apply for the United States.</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the European Part of the Netherlands.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXVII 1 k. Environment</Footer>
+  </Treaty>
+</Document>

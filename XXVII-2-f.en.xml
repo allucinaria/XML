@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Subnumsect>f</Subnumsect>
+        <Subtitlesect>Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer</Subtitlesect>
+        <Conclusion>Kigali, 15 October 2016</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 January 2019, in accordance with article IV, paragraphs 1 and 2, with the exception of the changes to article 4 of the Protocol set out in article I of the Amendment which will enter into force on 1 January 2033, provided that at least seventy instruments of ratification, acceptance or approval of the Amendment have been deposited by States or regional economic integration organizations that are Parties to the Protocol. After the entry into force of the Amendment, as provided under paragraphs 1 and 2 of article IV, it shall enter into force for any other Party to the Protocol on the ninetieth day following the date of deposit of its instrument of ratification, acceptance or approval.</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>23</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>See the text of the Amendment in: C.N.872.2016.TREATIES-XXVII.2.f of 23 November 2016 (Adoption of amendment).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>At the Twenty-Eighth Meeting of the Parties to the Montreal Protocol on Substances that Deplete the Ozone Layer, held in Kigali from 10 to 15 October 2016, the Parties adopted, in accordance with the procedure laid down in paragraph 4 of article 9 of the 1985 Vienna Convention for the Protection of the Ozone Layer, a further amendment to the Montreal Protocol as set out in Annex I to the report of the Twenty-Eighth Meeting of the Parties (Decision XXVIII/1).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A), Ratification, Approval(AA)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>27 Oct 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>3 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>19 Sep 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry>16 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>29 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry>21 Sep 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>14 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>14 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>16 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>16 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry>21 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>13 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>31 Mar 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry>15 May 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry>12 May 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>6 Sep 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry>29 Aug 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry>23 May 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>16 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>17 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>17 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Tuvalu</Entry>
+                <Entry>21 Sep 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>14 Nov 2017</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>XXVII 2 f. Environment</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Titlesect>Protocol amending the International Agreement on Olive Oil, 1956*</Titlesect>
+        <Conclusion>Geneva, 31 March 1958 and 3 April 1958</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>11 April 1958, in accordance with article 4. The Protocol was adopted at the second session of the United Nations Conference on Olive Oil held in Geneva from 31 March to 3 April 1958 (see the International Agreement on Olive Oil, 1956, as amended by the Protocol of 3 April 1958 (chapter XIX.3)].</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>29 May 1958, No. 4355</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 302, p. 121.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XIX 2. Commodities</Footer>
+  </Treaty>
+</Document>

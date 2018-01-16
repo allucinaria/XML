@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>45</Numsect>
+        <Titlesect>Agreement establishing the Terms of Reference of the International Jute Study Group, 2001</Titlesect>
+        <Conclusion>Geneva, 13 March 2001</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 23 which reads as follows: "(a) These Terms of Reference shall enter into force when States, the European Community or any intergovernmental organization referred to in paragraph 5 above together accounting for 60 per cent of trade (imports and exports combined) in jute and jute products, as set out in Annex A to these Terms of Reference, have notified the Secretary-General of the United Nations (hereinafter referrred to as "the depositary") pursuant to sub-paragraph (b) below of their provisional application or definitve acceptance of these Terms of Reference; (b) Any State, the European Community or any intergovernmental organization referred to in paragraph 5 above which desires to become a member of the Group shall notify the depositary that it accepts definitively these Terms of Reference or that it accepts to apply them provisionally, pending the conclusion of its internal procedures. Any State, the European Community or intergovernmental organization which has notified its provisional application of these Terms of Reference shall endeavour to complete its internal procedures as soon as possible, and shall notify the depositary of its definitive acceptance of these Terms of Reference; (c) if the requirements for entry into force of these Terms of Reference have not been met on 31 December 2001, the Secretary-General of the United Nations Conference on trade and Development shall invite those States, the European Community and intergovernmental organizations that have notified their acceptance or provisional application of these Terms of Reference to decide whether or not to put these Terms of Reference into force among themselves; (d) When these Terms of Reference enter into force, the Secretary-General of the United Nations Conference on Trade and Development shall convene an inaugural meeting of the Council as soon as possible thereafter, Members shall be notified at least one month where possible, prior to that meeting.".</Labeltext>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>3</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>&lt;a href="/doc/source/docs/tdjute4d6.en.pdf" target="_blank"&gt;Doc. TD/JUTE.4/6&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Agreement was adopted by the United Nations Conference on Jute and Jute Products, convened in Geneva from 12 to 13 March 2001. In accordance with its paragraph 23 (b), the Agreement is subject to definitive acceptance or provisional acceptance by any State, the European Community or any intergovernmental organization which desires to become a member of the Group.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Provisional application(n)</Entry>
+              <Entry colname="3">Definitive acceptance</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>27 Jul 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry />
+                <Entry>26 Apr 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry />
+                <Entry>25 Apr 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>[20 Dec 2001 n]</Entry>
+                <Entry>[ 3 Sep 2002 ]</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>"The Secretariat of the International Jute Organisation (IJO) ... has the honour to inform that the IJO completes the process of its liquidation on 11 October 2001 and will be succeeded by International Jute Study Group (IJSG) as was established at the United Nations Conference on Jute and Jute Products 2001 held on 12-13 March 2001 at UNCTAD, Geneva. However, the process of accession by the desiring Members is expected to be completed by December 2001 following which, the IJSG is likely to enter into force in early 2002. As decided by the International Jute Council (ICJ) at its 29th Session held on 14 March 2001 also at UNCTAD, Geneva, the interim period from 12 October 2001 till the new organisation enters into force will be administered by a Trust under the Government of Bangladesh represented by the Ministry of Jute (MOJ).</text>
+        <text>Accordingly, a Trustee Deed has been executed by the undersigned as its Executant. The physical and financial assets have been handed over to the Chairman of the Board of the Trust. The Trust will continue the function from the same office as of the IJO Secretariat....</text>
+      </Note>
+    </EndNotes>
+    <Footer>XIX 45. Commodities</Footer>
+  </Treaty>
+</Document>

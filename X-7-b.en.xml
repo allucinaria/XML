@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>7</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Convention on the Limitation Period in the International Sale of Goods, as amended by the Protocol of 11 April 1980</Subtitlesect>
+        <Conclusion>New York, 14 June 1974</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 August 1988, in accordance with article 44 (1) of the Convention and article IX (1) of the Protocol [see "Entry into force" in chapters X.7 and X.7.(a)].</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 August 1988, No. 26121</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>23</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1511, p.99; C.N.106.1991.TREATIES-2 of 29 February 1992 (procès-verbal of rectification of English, French, Russian and Spanish texts established by the Secretary-General); C.N.161.1992.TREATIES-4 of 1 July 1992 (procès-verbal of rectification of Spanish text established by the Secretary-General); and C.N.470.1992.TREATIES-5 of 2 April 1993 (procès-verbal adopting the Arabic authentic text of the Convention, as amended).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The text of the Convention, as amended, has been established by the Secretary-General, as provided for by article XIV of the Protocol.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Accession(a), Succession(d), Participation by virtue of accession to the Protocol of 11 April 1980(P)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>19 Jul 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>23 Jan 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>1 Aug 2008 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>1 Feb 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>2 Nov 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>30 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>30 Jul 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>6 Dec 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>23 Jan 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>16 Jun 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>16 Sep 2005 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>21 Jan 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry>6 Aug 2012 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>18 Aug 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>19 May 1995 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry>28 Aug 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>23 Apr 1992 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>2 Aug 1995 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>12 Feb 1992 P</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>5 May 1994 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>1 Apr 1997 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry>6 Jun 1986 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The German Democratic Republic was a participant by virtue of its accession on 31 August 1989 to the Protocol of 11 April 1980. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Czechoslovakia was a participant to the Convention and the Protocol by virtue of its accession to the Protocol on 5 March 1990. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 7 b. International Trade and Development</Footer>
+  </Treaty>
+</Document>

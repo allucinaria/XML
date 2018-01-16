@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>29</Numsect>
+        <Titlesect>Terms of Reference of the International Nickel Study Group*</Titlesect>
+        <Conclusion>Geneva, 2 May 1986</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>23 May 1990, in accordance with paragraph 19 (b).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>23 May 1990, No. 27296</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, Treaty Series, vol. 1566, p. 29 and depositary notification C.N.145.1986.TREATIES-1 of 28 August 1986.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The depositary functions of the Terms of Reference of the International Nickel Study Group, which had been discharged by the Secretary-General of the United Nations, were transferred to the Secretary-General of the International Nickel Study Group as from 22 October 1990, in accordance with paragraph 19?c) of the Terms of Reference.</Text>
+          <Text>It will be recalled, that under paragraph 19 (c) of the Terms of Reference [a]ny State referred to in paragraph? which desires to become a Member of the Group shall give written notice that it intends to apply these Terms of Reference either provisionally, pending the conclusion of its internal procedures, or definitively. Pending the coming into effect of these Terms of Reference and the assumption of office by the Secretary-General of the Group, such notice shall be given to the Secretary-General of the United Nations; thereafter it shall be given to the Secretary-General of the Group....</Text>
+          <Text>On 28 May 1991, the Secretary-General of the United Nations was informed by the Secretary-General of the International Study Group of the latters appointment to that office effective of 22 October 1990.</Text>
+          <Text>Consequently, notifications of provisional application or definitive application are henceforth to be submitted to the Secretary-General of the International Nickel Study Group, in accordance with paragraph 19?c) of the Terms of Reference, at the following address: The Secretary-General, International Nickel Study Group, Scheveningseweg?2, 2517 KX The Hague, The Netherlands.</Text>
+          <Text>For a status of the Terms of Reference, the website of the International Nickel Study Group can be accessed at &lt;a href="http://www.insg.org" target="_blank"&gt;http://www.insg.org&lt;/a&gt;</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows />
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>XIX 29. Commodities</Footer>
+  </Treaty>
+</Document>

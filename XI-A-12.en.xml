@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XI</Header>
+        <Name>TRANSPORT AND COMMUNICATIONS</Name>
+      </Chapter>
+      <SubChapter>
+        <Header>A</Header>
+        <Name>Custom Matters</Name>
+      </SubChapter>
+      <ExternalData>
+        <Numsect>12</Numsect>
+        <Titlesect>Customs Convention concerning spare parts used for repairing EUROP wagons</Titlesect>
+        <Conclusion>Geneva, 15 January 1958</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 January 1961 by the exchange of the said letters, in accordance with article 6.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 January 1961, No. 5503</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>8</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>9</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 383, p. 229.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Definitive signature(s), Ratification, Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>20 Feb 1958</Entry>
+                <Entry>3 Mar 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>5 Feb 1958</Entry>
+                <Entry>10 Sep 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>5 Feb 1958 s</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>7 Feb 1958</Entry>
+                <Entry>19 Aug 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;3,4&lt;/superscript&gt;</Entry>
+                <Entry>10 Feb 1958</Entry>
+                <Entry>21 Oct 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>5 Feb 1958</Entry>
+                <Entry>8 Mar 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>12 Feb 1958</Entry>
+                <Entry>19 Feb 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>7 Feb 1958</Entry>
+                <Entry>7 May 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>20 Feb 1958</Entry>
+                <Entry>7 Jul 1960</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>On depositing the instrument of ratification the Government of Switzerland declared that the provisions of the Convention will apply to the Principality of Liechtenstein, so long as it is linked to Switzerland by a customs union treaty.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The signature by Denmark was affixed subject to ratification. In a communication received on 16 May 1958, the Government of Denmark notified the Secretary-General of the withdrawal of the reservation as to ratification.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XI A 12. Transport and Communications - Custom Matters</Footer>
+  </Treaty>
+</Document>

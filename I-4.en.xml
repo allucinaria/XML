@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER I</Header>
+        <Name>CHARTER OF THE UNITED NATIONS AND STATUTE OF THE INTERNATIONAL COURT OF JUSTICE</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Titlesect>Declarations recognizing as compulsory the jurisdiction of the International Court of Justice under Article 36, paragraph 2, of the Statute of the Court</Titlesect>
+        <Conclusion>15 October 1946</Conclusion>
+        <EIF />
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <CustomText>States parties having accepted the jurisdiction of the Court: 66.</CustomText>
+          <Notes>
+            <Note>1</Note>
+            <Note>2</Note>
+            <Note>3</Note>
+            <Note>4</Note>
+            <Note>5</Note>
+            <Note>6</Note>
+            <Note>7</Note>
+            <Note>8</Note>
+            <Note>9</Note>
+          </Notes>
+        </Status>
+        <TreatyText />
+        <TreatyNote>
+          <Text>Declarations under Article 35, paragraph 2, of the Statute of the Court as implemented by Security Council Resolution &lt;a href="/doc/source/docs/sc_res_9_46-E.pdf" target="_blank"&gt;9 (1946)&lt;/a&gt; of 15 October 1946 are deposited with the Registrar of the Court. For those declarations, see United Nations, Treaty Series, or the &lt;a href="http://home.heinonline.org/titles/Foreign--International-Law-Resources-Database/International-Court-of-Justice-Yearbook/?letter=I"&gt;Yearbooks of the Court&lt;/a&gt;.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <SpecialTables>
+      <Table>
+        <TableNo>1</TableNo>
+        <Columns>1</Columns>
+        <Title>States which have made declarations under Article 36, paragraph 2 of the Statute of the International Court of Justice or whose declarations made under Article 36, paragraph 2, of the Statute of the Permanent Court of International Justice are deemed to be acceptances of the compulsory jurisdiction of the International Court of Justice. (See &lt;a href="/doc/source/docs/charter-all-lang.pdf#page=28"&gt;paragraph 5 of Article 36&lt;/a&gt; of the Statute of the International Court of Justice.) </Title>
+        <Title>(State names which appear in backets are States having made declarations recognizing as compulsory the jurisdiction of the International Court of Justice for specified periods of time and which have been terminated or have since expired. For an explanation thereof, see endnotes at the end of this chapter.)&lt;superscript&gt;10&lt;/superscript&gt;</Title>
+      </Table>
+    </SpecialTables>
+  </Treaty>
+</Document>

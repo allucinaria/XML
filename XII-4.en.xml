@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XII</Header>
+        <Name>NAVIGATION</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Titlesect>Convention on the registration of inland navigation vessels</Titlesect>
+        <Conclusion>Geneva, 25 January 1965</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>24 June 1982, in accordance with article 17(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>24 June 1982, No. 21114</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>7</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>9</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1281, p. 111.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was prepared by the Sub-Committee on Inland Water Transport of the Inland Transport Committee of the United Nations Economic Commission for Europe and its subsidiary bodies (Working Party on River Law and Groups of Rapporteurs). The Inland Transport Committee, at its twenty-first session held from 20 to 24 January 1964, decided that the question of the opening of the Convention for signature should be settled by the Sub-Committee on Inland Water Transport at its next session (see Report of the Inland Transport Committee on its twenty-third session, document E/ECE/TRANS/535, paragraph 52). The decision to open the Convention for signature was taken by the said Sub-Committee at its eighth session held from 28 to 30 October 1964 (see document TRANS/291, paragraph 17).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>18 Jun 1965</Entry>
+                <Entry>26 Aug 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry />
+                <Entry>30 Aug 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>31 Dec 1965</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry />
+                <Entry>31 Jul 2002 d</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>31 Dec 1965</Entry>
+                <Entry>13 Jun 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>5 Nov 1965</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>14 Dec 1965</Entry>
+                <Entry>26 Mar 1982</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>30 Dec 1965</Entry>
+                <Entry>14 Nov 1974</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>28 Dec 1965</Entry>
+                <Entry>14 Jan 1976</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Austria</Participant>
+        <text type="para">1. Austria accepts Protocol No. 1 annexed to the Conven- tion concerning the Rights &lt;i&gt; in rem &lt;/i&gt; in Inland Navigation Vessels.</text>
+        <text type="para">2. Austria accepts Protocol No. 2 annexed to the Conven- tion concerning Attachment and Forced Sale of Inland Naviga- tion Vessels.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">Pursuant to article 21, paragraph 1 (a), of the Convention, the Republic of Belarus will not apply article 20 of the Convention insofar as it concerns the referral of disputes to the International Court of Justice;</text>
+        <text type="para">Pursuant to article 21, paragraph 1 (d), of the Convention, the Republic of Belarus will not apply the Convention to vessels used exclusively for a non commercial government service;</text>
+        <text type="para">Pursuant to article 21, paragraph 2, of the Convention, the Republic of Belarus will not, in the event of a forced sale in its territory, apply article 14, paragraph 2 (b), of Protocol No. 1 concerning rights in rem in inland navigation vessels;...</text>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with article 15, paragraph 1, of the Convention, the Republic of Belarus declares that it accepts Protocol No. 1 concerning rights in rem in inland navigation vessels and Protocol No. 2 on attachment and forced sale of inland navigation vessels.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="para">Belgium enters the reservations provided for in article 21, paragraph 1 (b), (c) and (d).</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Croatia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Republic of Croatia declares that it accepts Protocol No. 1 annexed to the Convention concerning the Rights &lt;i&gt;in rem &lt;/i&gt; in Inland Navigation Vessels and Protocol No. 2 annexed to the Convention concerning Attachment and Forced Sale of Inland Navigation Vessels."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">France declares that it accepts Protocol No. 1, annexed hereto, concerning Rights &lt;i&gt;in rem &lt;/i&gt; in Inland Navigation Vessels, and Protocol No. 2, also annexed hereto, concerning Attachment and Forced Sale of Inland Navigation Vessels.</text>
+        <text type="title">Upon ratification:</text>
+        <text type="para">France, exercising the reservation provided for in article 19 of Protocol No. 1, declares pursuant to article 21, paragraph 2, of the Convention, that it will not apply the provisions of article 14, paragraph 2 (b), of this Protocol in the event of a forced sale in its territory.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;1&lt;/superscript&gt;</Participant>
+        <text type="para">The Federal Republic of Germany declares that:</text>
+        <text type="para">1. German registration offices will supply extracts from documents deposited with them and referred to by the entries in the register only to applicants who produce evidence of a legitimate interest in obtaining such extracts.</text>
+        <text type="para">2. It will not apply the Convention to vessels navigating on lakes and adjacent sections of waterways and belonging to the German Federal Railways.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Luxembourg</Participant>
+        <text type="para">Luxembourg declares that it accepts Protocol No. 1 concerning Rights in rem in Inland Navigation Vessels, and Protocol No. 2 concerning Attachment and Forced Sale of Inland Navigation Vessels.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Montenegro&lt;superscript&gt;2&lt;/superscript&gt;</Participant>
+        <text type="title">Confirmation upon succession:</text>
+        <text type="title">Declaration:</text>
+        <text type="para">Exercising the option provided for in article 15 (1), the Government of Yugoslavia specified in its instrument of ratification that it accepts Protocol No. 1 concerning rights in rem in Inland Navigation Vessels and Protocol No. 2 concerning Attachment and Forced Sale of Inland Navigation Vessels, annexed to the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="para">In accordance with article 21, paragraph 1 (d) of the Convention, the Netherlands will not apply this Convention to vessels used exclusively for a non-commercial government service.</text>
+        <text>&lt;right&gt;13 June 1975&lt;/right&gt;</text>
+        <text type="para">[The Netherlands], in accordance with the provision of article 15, paragraph 1, accepts Protocol No. 1 concerning Rights &lt;i&gt;in rem &lt;/i&gt; in inland navigation vessels</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Serbia&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+        <text type="title">Confirmed upon succession:</text>
+        <text type="title">Declaration:</text>
+        <text type="para">Exercising the option provided for in article 15 (1), the Government of Yugoslavia specified that it accepts Protocol No. 1 concerning rights &lt;i&gt;in rem &lt;/i&gt; in Inland Navigation Vessels and Protocol No. 2 concerning Attachment and Forced Sale of Inland Navigation Vessels, annexed to the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="title">Reservations made upon signature and confirmed upon ratification:</text>
+        <text type="para">Switzerland enters the following reservations pursuant to article 21, paragraph 1 (b), (c) and (d), of the Convention:</text>
+        <text type="para">&lt;i&gt;ad (b): &lt;/i&gt; Its registration offices will supply extracts as specified in article 2, paragraph 3, of the Convention only to applicants who produce evidence of a legitimate interest in obtaining such extracts;</text>
+        <text type="para">&lt;i&gt;ad (c): &lt;/i&gt; It will not apply the Convention to vessels navigating on lakes and adjacent sections of waterways and belonging to national railways administrations or operating under licence;</text>
+        <text type="para">&lt;i&gt;ad (d): &lt;/i&gt; It will not apply the Convention to vessels used exclusively for a non-commercial government service.</text>
+        <text type="para">Switzerland declares that it accepts Protocol No. 1 concerning Rights &lt;i&gt;in rem &lt;/i&gt; in Inland Navigation Vessels and declares that, pursuant to article 19 of the said Protocol and to article 21, paragraph 2, of the Convention, it will not apply the provisions of article 14, paragraph 2 (b), of the said Protocol in the event of a forced sale in its territory.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 17 May 1965 and 11 October 1985, respectively, with the following declaration:</text>
+        <text>[The Government of Yugoslavia] exercising the option provided for in article 15 (1), the Government of Yugoslavia specified that it accepts Protocol No. 1 concerning rights &lt;i&gt;in rem &lt;/i&gt; in Inland Navigation Vessels and Protocol No. 2 concerning Attachment and Forced Sale of Inland Navigation Vessels, annexed to the Convention.</text>
+        <text>See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XII 4. Navigation</Footer>
+  </Treaty>
+</Document>

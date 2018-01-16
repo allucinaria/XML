@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER I</Header>
+        <Name>CHARTER OF THE UNITED NATIONS AND STATUTE OF THE INTERNATIONAL COURT OF JUSTICE</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>5</Numsect>
+        <Subnumsect>a</Subnumsect>
+        <Subtitlesect>Amendments to Articles 23, 27 and 61 of the Charter of the United Nations, adopted by the General Assembly of the United Nations in resolutions 1991 A and B (XVIII) of 17 December 1963</Subtitlesect>
+        <Conclusion>New York, 17 December 1963&lt;superscript&gt;1&lt;/superscript&gt;</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>31 August 1965, in accordance with article 108for all Members of the United Nations.</Labeltext>
+          <Notes>
+            <Note>2</Note>
+          </Notes>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 March 1966, No. 8132</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>107</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 557, p. 143.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;3,4&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>25 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>7 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>26 Mar 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>4 Apr 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>9 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>7 Oct 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>22 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>29 Apr 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>17 Sep 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>19 Jan 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>23 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>13 Jan 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>11 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry>23 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>20 Jan 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>25 Jun 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>9 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>6 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>2 Nov 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>31 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>10 Oct 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>7 Jul 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>7 Oct 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>2 Oct 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>22 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>1 Sep 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>20 May 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>12 Jan 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>4 Nov 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>31 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>16 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>1 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>22 Jul 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>18 Jan 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>24 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>11 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>4 May 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>2 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>18 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>19 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>9 Oct 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>23 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>6 Nov 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>10 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>30 Mar 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>12 Jan 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>25 Nov 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>27 Oct 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>13 May 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>25 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry>12 Mar 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>4 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>7 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>28 Oct 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry>28 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>20 Apr 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>27 Sep 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>21 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry>27 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>22 Oct 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>14 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry>2 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>26 May 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>23 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>23 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry>29 Jan 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>5 May 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>10 Mar 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>9 Nov 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry>3 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>3 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>14 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry>26 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>8 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>5 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>17 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>25 Mar 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>27 Jul 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>17 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>2 Dec 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>9 Nov 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>8 Jan 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>5 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>10 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry>17 Nov 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry>17 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>23 Apr 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>25 Mar 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Somalia</Entry>
+                <Entry>6 Oct 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>5 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>13 Nov 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>7 May 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>18 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry>24 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>23 Mar 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>19 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>18 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>29 May 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>1 Jul 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>10 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>17 May 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>4 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>7 Oct 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>31 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>1 Sep 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>7 Jul 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry>28 Apr 1965</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the General Assembly, Eighteenth Session, Supplement No. 15 &lt;/i&gt; (&lt;a href="http://research.un.org/en/docs/ga/quick/regular/18"&gt;A/5515&lt;/a&gt;), p. 21.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>As depositary of the amendments to the Charter, the Secretary-General drew up a protocol of entry into force of these amendments and communicated it to all Member States.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>Czechoslovakia had ratified the amendments on 19 January 1965. See also note 1 under &lt;a href="/Pages/HistoricalInfo.aspx?clang=_en#CzechRepublic" target="_blank"&gt;Czech Republic&lt;/a&gt; and note 1 under &lt;a href="/Pages/HistoricalInfo.aspx?clang=_en#Slovakia" target="_blank"&gt;Slovakia&lt;/a&gt; in the Historical Information section.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Ratification on behalf of the Republic of China on 2 August 1965. See note 1 under &lt;a href="/Pages/HistoricalInfo.aspx?clang=_en#China" target="_blank"&gt;China&lt;/a&gt; in the Historical Information section.</text>
+        <text>In communications addressed to the Secretary-General, the Permanent Missions to the United Nations of Czechoslovakia, Hungary and the Union of Soviet Socialist Republics, pointing out that in the annex to the said protocol, which contains a list of States Members of the United Nations having deposited instruments of ratification of the amendments, there is a reference to an instrument of ratification by China, stated that their Governments did not recognize any authority other than the Government of the People's Republic of China as entitled to represent and act on behalf of China and that, therefore, they considered the said instrument as having no legal force whatsoever. They noted, however, the position in this matter of the Government of the People's Republic of China, which had announced that it would not object to the introduction of the amendments to the relevant Articles of the Charter even before the restoration of the rights of the People's Republic of China in the United Nations.</text>
+        <text>In a note addressed to the Secretary-General with reference to the communication from the Union of Soviet Socialist Republics mentioned above, the Permanent Representative of the Republic of China to the United Nations stated that the Republic of China, a permanent member of the Security Council, had ratified the amendments and deposited the instrument of ratification with the Secretary-General on 2 August 1965 and that, therefore, there could be no question that the protocol of entry into force of the amendments was valid in its entirety. He further stated that the allegationsmade by the Soviet Union were untenable both in law and in fact and could in no way affect the validity of the protocol and the entry into force of the amendments.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>The formality was effected by the Yemen Arab Republic. See also note 1 under &lt;a href="/Pages/HistoricalInfo.aspx?clang=_en#Yemen" target="_blank"&gt;Yemen&lt;/a&gt; in the Historical Information section.</text>
+      </Note>
+    </EndNotes>
+    <Footer>I 5 a. Charter of the United Nations and Statute of the International Court of Justice</Footer>
+  </Treaty>
+</Document>

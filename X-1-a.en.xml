@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>a</Subnumsect>
+        <Subtitlesect>General Agreement on Tariffs and Trade</Subtitlesect>
+        <Conclusion>Geneva, 30 October 1947</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 1 January 1948.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>30 May 1950, No. 814</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 55, p. 187.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>X 1 a. International Trade and Development</Footer>
+  </Treaty>
+</Document>

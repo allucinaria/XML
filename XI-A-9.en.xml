@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XI</Header>
+        <Name>TRANSPORT AND COMMUNICATIONS</Name>
+      </Chapter>
+      <SubChapter>
+        <Header>A</Header>
+        <Name>Custom Matters</Name>
+      </SubChapter>
+      <ExternalData>
+        <Numsect>9</Numsect>
+        <Titlesect>Customs Convention on Containers</Titlesect>
+        <Conclusion>Geneva, 18 May 1956</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>4 August 1959 by the exchange of the said letters, in accordance with article 13[Note: Article 20(1) of the Customs Convention on Containers 1972 (see chapter XI.A-15), provides that, upon its entry into force, it shall terminate and replace, in relations between the Parties to the latter Convention, the present Convention. The said Convention of 1972 came into force on 6 December 1975.].</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>4 August 1959, No. 4834</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>12</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>44</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 338, p. 103.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>31 Oct 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>25 Oct 1988 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>6 Jan 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>13 Nov 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>27 May 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>18 Jan 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>4 Aug 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>24 Sep 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>8 Sep 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>31 Aug 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>4 Aug 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>2 Jun 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry />
+                <Entry>3 Sep 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>15 Jun 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>20 May 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;4,5&lt;/superscript&gt;</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>23 Oct 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry />
+                <Entry>12 Sep 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>23 Jul 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>7 Jul 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry />
+                <Entry>14 Nov 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>29 Mar 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>11 Nov 1963 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry />
+                <Entry>14 May 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>25 Oct 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>24 May 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>18 Jul 1969 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>27 Jul 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>22 Nov 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>6 May 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry />
+                <Entry>1 May 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>1 Nov 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>13 Mar 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>3 Nov 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry />
+                <Entry>3 Sep 1981 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>21 Jan 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>11 Aug 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>7 Jul 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>11 Apr 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry>18 May 1956</Entry>
+                <Entry>23 May 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry />
+                <Entry>3 Dec 1968 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Algeria</Participant>
+        <text type="para">The Democratic and Popular Republic of Algeria does not consider itself bound by the provisions of article 17 of the said Convention relating to compulsory arbitration.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria&lt;superscript&gt;9&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="para">The Revolutionary Government of Cuba does not consider itself bound by the provisions of paragraphs 2 and 3 of article?7 of this Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;3&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark&lt;superscript&gt;10&lt;/superscript&gt;</Participant>
+        <text type="para">"Pursuant to article 5 in the prevailing Danish Customs Act, the Danish customs area does not comprise Faroe Islands and Greenland. The acceptance of the Convention by Denmark, therefore, applies only to the Danish customs area as defined in the said article."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Poland</Participant>
+        <text type="para">The Government of the People's Republic of Poland does not consider itself bound by article 17 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Romania</Participant>
+        <text type="para">The Socialist Republic of Romania does not consider itself bound by the provisions of article 17, paragraphs 2 and 3, of the Convention.</text>
+        <text type="para">The position of the Socialist Republic of Romania is that a dispute concerning the interpretation or application of the Convention can be submitted to arbitration only with the consent of all the parties in dispute.</text>
+        <text type="para">The Council of State of the Socialist Republic of Romania considers that the maintenance of the state of dependence of certain territories to which the provisions of article 16 of the Convention apply is not in accordance with the Declaration on the Granting of Independence to Colonial Countries and Peoples adopted by the UnitedNations General Assembly on 14 December 1960 in resolution 1514 (XV), which proclaims the need to put an end to colonialism in all its forms and manifestations immediately and unconditionally.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;3&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>United States of America</Participant>
+        <text type="para">"In accordance with paragraph 1 of article 16 of the Conven- tion, the said Convention shall extend to the customs territory of the United States [which at the present time includes the States, the District of Columbia, and Puerto Rico]."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Australia</Participant>
+        <DateNotification>3 Jan 1968</DateNotification>
+        <Territories>Christmas Island and the Cocos (Keeling) Islands, Norfolk Island, Value not found for 1010 and Territory of New Guinea</Territories>
+      </Application>
+      <Application>
+        <Participant>Netherlands&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <DateNotification>27 Jul 1960</DateNotification>
+        <Territories>Netherlands Antilles and Netherlands New Guinea</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;8&lt;/superscript&gt;</Participant>
+        <DateNotification>23 May 1958</DateNotification>
+        <Territories>The Isle of Man, Jersey and the Bailiwick of Guernsey</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>19 Oct 1959</DateNotification>
+        <Territories>Antigua, Barbados, Bermuda, British Solomon Islands Protectorate, Brunei, Cyprus, Dominica, Falkland Islands, Gambia, Gibraltar, Gilbert and Ellice Islands Colony, Grenada, Jamaica, Mauritius, Monteserrat, North Borneo, St. Christopher, Nevis and Anguilla, St. Lucia, St. Vincent, Sarawak, Sierra Leone, State of Singapore, Trinidad and Tobago, Zanzibar</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>12 Dec 1974</DateNotification>
+        <Territories>Hong Kong</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>On depositing the instrument of ratification, the Government of Switzerland declared that the provisions of the Convention will apply to the Principality of Liechtenstein, so long as it is linked to Switzerland by a customs union treaty.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had acceeded to the Convention on 9 March 1961. See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>Czechoslovakia had acceded to the Convention on 31 May 1962, with a reservation. For the text of the reservation, see UnitedNations, &lt;i&gt;TreatySeries &lt;/i&gt;, vol.429, p.299. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>See note 1 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under United Kingdom of Great Britain and Northern Ireland regarding Hong Kong in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>In a notification received on 6 May 1994, the Government of Bulgaria notified the Secretary-General that it had decided to withdraw the reservation made upon accession with regard to article 17 (2) and (3). For the text of the reservation, see UnitedNations, &lt;i&gt;TreatySeries &lt;/i&gt;, vol.348, p.375.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>The Working Party on Customs Questions affecting Transport of the Inland Transport Committee of the Economic Commission for Europe included the following statement in the report on its Twenty-second session, adopted on 3 September 1965 (document TRANS/304- TRANS/ WP30/98, paragraph 52): "With regard to the accession of Denmark to the Convention [Customs Convention on Containers, done at Geneva on 18 May 1956], the Working Party noted that its intention in preparing the Convention, had always been to allow Denmark to become a party to that instrument only in respect of the Danish Customs zone, which, under the Danish Customs laws, did not include the Faroe Islands and Greenland, and that in its opinion the matter was covered by the principles set forth in article 16 of the Convention."</text>
+      </Note>
+    </EndNotes>
+    <Footer>XI A 9. Transport and Communications - Custom Matters</Footer>
+  </Treaty>
+</Document>

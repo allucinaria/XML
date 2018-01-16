@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg2</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER V</Header>
+        <Name>REFUGEES AND STATELESS PERSONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Titlesect>Convention relating to the Status of Refugees</Titlesect>
+        <Conclusion>Geneva, 28 July 1951</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>22 April 1954, in accordance with article 43.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>22 April 1954, No. 2545</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>19</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>145</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 189, p. 137.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the United Nations Conference of Plenipotentiaries on the Status of Refugees and Stateless Persons, held at Geneva from 2 to 25 July 1951. The Conference was convened pursuant to resolution &lt;a href="/doc/source/docs/A_RES_5_429-E.pdf" target="_blank"&gt;429 (V)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt;, adopted by the General Assembly of the United Nations on 14 December 1950.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+  </Treaty>
+</Document>

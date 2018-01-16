@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>19</Numsect>
+        <Titlesect>Agreement establishing the International Tropical Timber Bureau*</Titlesect>
+        <Conclusion>Geneva, 9 November 1977</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>(see article 24).</Labeltext>
+        </EIF>
+        <Registration />
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc. TT/CONF.2.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XIX 19. Commodities</Footer>
+  </Treaty>
+</Document>

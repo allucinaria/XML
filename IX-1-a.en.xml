@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IX</Header>
+        <Name>HEALTH</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>a</Subnumsect>
+        <Subtitlesect>Amendments to articles 24 and 25 of the Constitution of the World Health Organization</Subtitlesect>
+        <Conclusion>Geneva, 28 May 1959</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>25 October 1960, in accordance with article 73of the Constitution, for all Members of the World Health Organization*.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>25 October 1960, No. 221</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <CustomText>Parties*</CustomText>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 377, p. 380.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The amendments to articles 24 and 25 of the Constitution of the World Health Organization were adopted by the Twelfth World Health Assembly by resolution WHA 12.43 of 28 May 1959.</Text>
+          <Text>In accordance with article 73 of the Constitution, amendments come into force for all Members when adopted by a two-thirds vote of the Health Assembly and accepted by two-thirds of the Members in accordance with their respective constitutional processes. Following is the list of States which had accepted the Amendments prior to the entry into force of the Amendments.</Text>
+          <Text>*See chapter IX.1 for the complete list of Participants, Members of the World Health Organization, for which the above amendments are in force, pursuant to article 73 of the Constitution.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1,2,3,4&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>11 Aug 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>27 Jul 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>12 Aug 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>29 Mar 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>20 Nov 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>20 Sep 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>11 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>4 Oct 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>8 Dec 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>6 May 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>25 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>20 Sep 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>28 Apr 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>27 Jul 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>15 Jan 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>16 Sep 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>10 Jun 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>25 Mar 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>10 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>3 May 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>4 May 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>16 Sep 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>23 May 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>5 Aug 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>23 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>23 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>2 May 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>25 Nov 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>15 Oct 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>4 Jan 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>25 Mar 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry>9 May 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>4 May 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry>8 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>25 Oct 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>4 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>17 Oct 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>2 Aug 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>28 Mar 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry>19 Apr 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nauru</Entry>
+                <Entry>9 May 1994 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>12 Apr 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry>14 Sep 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry>4 Apr 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>5 Oct 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>2 Nov 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>12 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>8 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>25 Mar 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>18 Feb 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>29 Dec 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>2 Dec 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>17 Jun 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>4 Nov 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>9 May 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>1 Apr 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>1 Dec 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>15 Jan 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>25 Mar 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>24 Sep 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>13 May 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>18 Mar 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>1 Apr 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry>7 Sep 1959 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>See note 2 under China regarding Hong Kong in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Acceptance on behalf of the Republic of China on 25 April 1960. See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information section in the front matter of this volume).</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 3 under China regarding Macao in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>The former Yugoslavia had accepted the amendments on 8 April 1960. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 1 under United Arab Republic in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The instrument of acceptance stipulates that the Kingdom of the Netherlands accepts the amendments for the Kingdom in Europe, Surinam, the Netherlands Antilles and Netherlands New Guinea. See also note 1 under Netherlands regarding Aruba/Netherlands Antillies in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>See note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>By a letter dated at Hanoi on 12 July 1976, the Minister of Foreign Affairs of the Socialist Republic of Viet-Nam notified the Director-General of the World Health Organization that the Democratic Republic of Viet-Nam and the Republic of South Viet-Nam had united to form the Socialist Republic of Viet-Nam, and that the latter would continue to exercise the official membership in the World Health Organization of the Democratic Republic of Viet-Nam and the Republic of South Viet-Nam. The above-mentioned communication from the Minister of Foreign Affairs of the Socialist Republic of Viet-Nam was brought to the attention of the Member States of the World Health Organization by a circular letter from the Director-General of that Organization dated 30 August 1976. The Thirtieth World Health Assembly took note of the said notification in its resolution WHA 30.13 dated 10 May 1977.The amendments had been accepted on behalf of the Republic of Viet-Nam (later replaced by the Republic of South Viet-Nam) on 7 September 1959.</text>
+      </Note>
+    </EndNotes>
+    <Footer>IX 1 a. Health</Footer>
+  </Treaty>
+</Document>

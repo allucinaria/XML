@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXV</Header>
+        <Name>TELECOMMUNICATIONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Amendments to articles 3 (5) and 9 (8) of the Constitution of the Asia-Pacific Telecommunity</Subtitlesect>
+        <Conclusion>Colombo, 29 November 1991</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>16 March 2000, in accordance with article 22(3)of the Constitution, for all Members of the Telecommunity.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>16 March 2000, No. 17583</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>19</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.2102, p. 419.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Ratification, Acceptance(A), Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>11 Mar 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry>8 Dec 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry>4 Feb 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>China</Entry>
+                <Entry>25 May 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>26 Sep 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>29 Nov 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>3 Jul 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>6 May 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>3 Feb 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>7 Jan 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>15 Feb 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry>10 Apr 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry>12 Oct 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>18 Feb 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>6 Nov 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>9 Dec 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>14 Jan 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry>5 Feb 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry>7 Jan 1997 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XXV 2 b. Telecommunications</Footer>
+  </Treaty>
+</Document>

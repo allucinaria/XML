@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>12</Numsect>
+        <Titlesect>United Nations Convention on International Bills of Exchange and International Promissory Notes</Titlesect>
+        <Conclusion>New York, 9 December 1988</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 89 which reads as follows: "1. This Convention enters into force on the first day of the month following the expiration of twelve months after the date of deposit of the tenth instrument of ratification, acceptance, approval or accession. 2. When a State ratifies, accepts, approves or accedes to this Convention after the deposit of the tenth instrument of ratification, acceptance, approval or accession, this Convention enters into force in respect of that State on the first day of the month following the expiration of twelve months after the date of deposit of its instrument of ratification, acceptance, approval or accession.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>3</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>5</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc. &lt;a href="/doc/source/docs/A_RES_43_165-E.pdf" target="_blank"&gt;A/RES/43/165&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The draft Convention was prepared by the United Nations Commission on International Trade Law. The Convention was adopted by resolution 43/165&lt;superscript&gt;1&lt;/superscript&gt; of 9 December 1988 at the forty-third session of the General Assembly of the United Nations. The Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, was open for signature by all States at the Headquarters of the UnitedNations, New York, until 30 June 1990, in accordance with article 86 (1).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>7 Dec 1989</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>15 Dec 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>23 Jan 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>8 Aug 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>11 Sep 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>30 Jun 1990</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>29 Jun 1990</Entry>
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the General Assembly, Forty-third Session, Supplement No. 49 &lt;/i&gt;(A/43/49), p. 280 .</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 12. International Trade and Development</Footer>
+  </Treaty>
+</Document>

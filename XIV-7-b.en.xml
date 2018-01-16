@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIV</Header>
+        <Name>EDUCATIONAL AND CULTURAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>7</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Amendments to Articles 6 (6) and 7 (1) of the Statutes of the International Centre for Genetic Engineering and Biotechnology</Subtitlesect>
+        <Conclusion>Trieste, Italy, 3 December 1996</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 16 of the Statutes which reads as follows: "1. Any Member may propose amendments to the Statutes. Texts of proposed amendments shall be promptly communicated by the Director to all Members and shall not be considered by the Board until ninety days after the dispatch of such communication. 2. Amendments shall be approved by a two-thirds majority of all Members and shall enter into force for those Members who have deposited instruments of ratification.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>4</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc. &lt;a href="/doc/source/docs/ICGEB_BG.3_21-E.pdf" target="_blank"&gt;ICGEB/BG.3/21&lt;/a&gt;; (and depositary notifications C.N.155.1997.TREATIES-1 of 5 May 1997 and C.N.233.1997.TREATIES-2 of 12 September 1997 (authentic Spanish text).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>At its third Session, held in Trieste (Italy) from 2 to 3 December 1996, the Board of Governors of the International Centre for Genetic Engineering and Biotechnology, having ascertained that the two-thirds of Members were present, adopted amendments to articles 6 (6) and 7 (1) of the above Statutes.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>27 Apr 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>28 Oct 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>22 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>4 Dec 1998</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XIV 7 b. Educational and Cultural Matters</Footer>
+  </Treaty>
+</Document>

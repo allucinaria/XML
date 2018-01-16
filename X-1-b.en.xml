@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Havana Charter for an International Trade Organization*</Subtitlesect>
+        <Conclusion>Havana, 24 March 1948</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext />
+        </EIF>
+        <Registration />
+        <TreatyText />
+        <TreatyNote>
+          <Text>The conditions for the entry into force of the Havana Charter, set forth in its article 103, were not fulfilled within the prescribed time-limit. No instrument of acceptance was deposited with the Secretary-General. For the text of the Havana Charter, see United Nations Conference on Trade and Employment, Final Act and Related Documents, &lt;a href="/doc/source/docs/E_CONF.2_78-E.pdf" target="_blank"&gt;E/CONF.2/78&lt;/a&gt;, United Nations publication, Sales No. 1948.II.D.4.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>X 1 b. International Trade and Development</Footer>
+  </Treaty>
+</Document>

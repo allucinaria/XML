@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XV</Header>
+        <Name>DECLARATION OF DEATH OF MISSING PERSONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Titlesect>Protocol for extending the period of validity of the Convention on the Declaration of Death of Missing Persons*</Titlesect>
+        <Conclusion>New York, 16 January 1957</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>22 January 1957, in accordance with article III(a).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 January 1998, No. 1610</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>7</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, Treaty Series, vol. 258, p. 392.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>In accordance with article 17 (1), the Convention was to cease to have effect on 23 January 1957. However, the Convention was extended as a result of the adoption of the Protocols of 16 January 1957 and 15 January 1967, and remained in force until 24 January 1972.</Text>
+        </TreatyNote>
+        <Termination>
+          <Label>TERMINATION</Label>
+          <Labeltext>of the Convention of 6 April 1950 (see chapter XV.1).</Labeltext>
+        </Termination>
+      </ExternalData>
+    </Header>
+    <Footer>XV 2. Declaration of Death of Missing Persons</Footer>
+  </Treaty>
+</Document>

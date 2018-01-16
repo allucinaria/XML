@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XI</Header>
+        <Name>TRANSPORT AND COMMUNICATIONS</Name>
+      </Chapter>
+      <SubChapter>
+        <Header>A</Header>
+        <Name>Custom Matters</Name>
+      </SubChapter>
+      <ExternalData>
+        <Numsect>15</Numsect>
+        <Titlesect>Customs Convention on Containers, 1972</Titlesect>
+        <Conclusion>Geneva, 2 December 1972</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>6 December 1975, in accordance with article 19.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>6 December 1975, No. 14449</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>15</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>40</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 988, p. 43 and depositary notifications C.N.358.1981.TREATIES-1 of 8 December 1981 (amendments to annexes 4 and 6); vol. 1407, p. 389 (amendments to annexes 1, 5, 6 and 7); vol. 1490, p. 531 (amendments to annex 6); vol. 1488, p. 345 (procès-verbal of rectification of the original French and Spanish texts); C.N.276.1988.TREATIES-1 of 1 December 1988 (amendments to article 1, paragraph c and annex 6); C.N.36.1994.TREATIES-1 of 10 March 1994 (amendments to the Convention and annexes 4 and 6); C.N.492.2007.TREATIES-1 of 20 April 2007 (proposal of amendments to Annexes 1 and 4); C.N.327.2008.TREATIES-1 of 22 April 2008 (amendments to Annexes 1 and 4).&lt;superscript&gt;2&lt;/superscript&gt;</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the United Nations/IMCO Conference on Containers Traffic, held at Geneva from 13 November to 2 December 1972. The Conference was convened in pursuance of a decision taken by the Economic and Social Council on 22 May 1970&lt;superscript&gt;3&lt;/superscript&gt; and Council resolutions &lt;a href="/doc/source/docs/E_RES_1568_L-E.pdf" target="_blank"&gt;1568 (L)&lt;/a&gt;&lt;superscript&gt;4&lt;/superscript&gt; and &lt;a href="/doc/source/docs/E_RES_1725_LIII-E.pdf" target="_blank"&gt;1725 (LIII)&lt;/a&gt;&lt;superscript&gt;5&lt;/superscript&gt;. The Conference adopted a Final Act containing, &lt;i&gt;inter alia &lt;/i&gt;, the texts of eight resolutions (see Doc. E/CONF.59/44). The Convention was open for signature until 15 January 1973 at the Office of the United Nations at Geneva and subsequently from 1 February 1973 until 31 December 1973 inclusive at the Headquarters of the United Nations at New York.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Approval(AA), Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>14 Dec 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>9 Jun 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>10 Nov 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>22 May 1973</Entry>
+                <Entry>17 Jun 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>17 Jan 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>22 Oct 1973</Entry>
+                <Entry>1 Sep 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>12 Jan 1973</Entry>
+                <Entry>22 Feb 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry />
+                <Entry>4 Sep 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>5 Dec 1972</Entry>
+                <Entry>10 Dec 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Jan 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>23 Nov 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>2 Jun 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>26 Dec 1973</Entry>
+                <Entry>22 Feb 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>2 Jun 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>11 Jan 1973</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>10 Jan 1973</Entry>
+                <Entry>12 Dec 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry />
+                <Entry>11 Oct 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>25 Jan 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>22 Oct 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry />
+                <Entry>29 Aug 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>27 Mar 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>14 Aug 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>20 Dec 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>20 Dec 1972</Entry>
+                <Entry>29 Apr 1982</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>15 Jan 1973</Entry>
+                <Entry>19 Oct 1984</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>11 Oct 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>11 Dec 1973</Entry>
+                <Entry>6 Mar 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>18 Oct 1973</Entry>
+                <Entry>23 Aug 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>23 Dec 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry />
+                <Entry>6 Sep 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>16 Apr 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>5 Dec 1972</Entry>
+                <Entry>12 Oct 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>23 Mar 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>11 Mar 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>15 Dec 1972</Entry>
+                <Entry>13 Jul 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>22 Oct 1973</Entry>
+                <Entry>1 Sep 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>5 Dec 1972</Entry>
+                <Entry>12 Nov 1984</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>27 Nov 1996 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, acceptance, approval, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Azerbaijan</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">La République d'Azerbaïdjan n'autorise ?entrer sur son territoire ni les conteneurs vides ou chargés en provenance ou ?destination de la République d'Arménie ni les conteneurs appartenant ?des personnes physiques ou morales immatriculées en République d'Arménie ou contrôlés et exploités par de telles personnes.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="title">Upon signature and upon ratification:</text>
+        <text type="para">The Government of the Byelorussian Soviet Socialist Republic considers that the provisions of article 18 of the Customs Convention on Containers, 1972, which bar certain States from participation in it, are contrary to the universally recognized principle of the sovereign equality of States.</text>
+        <text type="para">As to the provisions of article 25 regarding the settlement by arbitration of disputes concerning the interpretation and application of the Convention, the Government of the Byelorussian SSR declares that the adoption of this provision should not be interpreted as changing the view of the Government of the Byelorussian SSR that a dispute may be referred to an arbitration tribunal for consideration only with the consent of all parties to the dispute in each individual case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba&lt;superscript&gt;11&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of the Republic of Cuba considers that the provisions of article 18 of the Convention are of a discriminatory nature since they deprive certain States of the right to sign and accede to the Convention, contrary to the principle of universality.</text>
+        <text type="para">With reference to the rules set forth in article 25 of the Con- vention, the Government of the Republic of Cuba considers that differences arising between Parties should be resolved through direct negotiations by diplomatic means.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;8&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Romania</Participant>
+        <text type="title">Upon signature and confirmed upon ratification:</text>
+        <text type="para">The Government of the Socialist Republic of Romania con- siders that the provisions of article 18 of the Customs Convention on Containers, 1972, concluded at Geneva on 2 December 1972, are not in accordance with the principle that multilateral treaties, the aims and objectives of which concern the world community as a whole, should be open to participation by all States.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="title">Upon signature and upon ratification:</text>
+        <text type="para">The Government of the Union of Soviet Socialist Republics considers that the provisions of article 18 of the Customs Convention on Containers, 1972, which bar certain States from participation in it, are contrary to the universally recognized principle of the sovereign equality of States.</text>
+        <text type="para">As to the provisions of article 25 regarding the settlement by arbitration of disputes concerning the interpretation and application of the Convention, the Government of the USSR declares that the adoption of this provision should not be interpreted as changing the view of the Government of the USSR that a dispute may be referred to an arbitration tribunal for consideration only with the consent of all parties to the dispute in each individual case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;8&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="title">Reservation to article 9:</text>
+        <text type="para">Concerning containers granted temporary admission for the carriage of goods in internal traffic, . . . such admission will not be granted in Spain.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland&lt;superscript&gt;1&lt;/superscript&gt;</Participant>
+        <text type="para">(a) Switzerland shall grant temporary admission to containers, in accordance with the procedure laid down in article 6 of the Convention;</text>
+        <text type="para">(b) The use of containers which have been admitted tempor- arily for internal traffic, as provided for in article 9 of the Convention, shall be authorized subject to the two conditions laid down in annex 3 to the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Turkey</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">With reservations to paragraphs 3 and 4 of article 19.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="title">Upon signature and confirmed upon ratification:</text>
+        <text type="para">The Government of the Ukrainian Soviet Socialist Republic considers that the provisions of article 18 of the Customs Convention on Containers, 1972, which bar certain States from participation in it, are contrary to the universally recognized principle of the sovereign equality of States.</text>
+        <text type="para">As to the provisions of article 25 regarding the settlement by arbitration of disputes concerning the interpretation and application of the Convention, the Government of the Ukrainian SSR declares that the adoption of this provision should not be interpreted as changing the view of the Government of the Ukrainian SSR that a dispute may be referred to an arbitration tribunal for consideration only with the consent of all parties to the dispute in each individual case.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>With the declaration by which the ratification "shall also apply to the Principality of Liechtenstein for as long as the latter is bound to the Swiss Confederation by a customs union treaty."</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Amendments to the Convention and annexes were adopted as follows:</text>
+        <table>
+          <totalCols>4</totalCols>
+          <row>
+            <col>Amendments to:</col>
+            <col>Author of the proposal:</col>
+            <col>Date of circulation:</col>
+            <col>Date of entry into force:</col>
+          </row>
+          <row>
+            <col>Annexes 4 and 6</col>
+            <col>Customs Cooperation Council</col>
+            <col>8 Dec 1981</col>
+            <col>8 Mar 1983</col>
+          </row>
+          <row>
+            <col>Annexes 1, 5, 6 and 7</col>
+            <col>Customs Cooperation Council</col>
+            <col>18 June 1984</col>
+            <col>18 Sep 1985</col>
+          </row>
+          <row>
+            <col>Annex 6</col>
+            <col>Customs Cooperation Council</col>
+            <col>8 Nov 1985</col>
+            <col>1 Jan 1988*</col>
+          </row>
+          <row>
+            <col>Article 1, par. c, and Annex 6</col>
+            <col>Customs Cooperation Council</col>
+            <col>1 Dec 1988</col>
+            <col>1 Mar 1990</col>
+          </row>
+          <row>
+            <col>Annex 4 and 6</col>
+            <col>Customs Cooperation Council</col>
+            <col>10 Mar 1994**</col>
+            <col>10 Jun 1995</col>
+          </row>
+          <row>
+            <col>Annexes 1 and 4</col>
+            <col>Customs Cooperation Council</col>
+            <col>20 Apr 2007</col>
+          </row>
+        </table>
+        <text></text>
+        <text>*For all the Contracting Parties, except the United States of America and Canada which had objected to the proposed amendments.</text>
+        <text>** Amendments were proposed by the Customs Co-operation Council to the Convention and annex 7 of the Convention on that same date. An objection thereto having been made by the Government of the United States of America and received by the Secretary-General on 9 March 1995, that is to say, before the expiry of the twelve-month period provided for in article 21 (4), the said amendments are deemed not to have been accepted.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>&lt;i&gt;Official Records of the Economic and Social Council, Resumed Forty-eighth Session, Supplement No. 1A &lt;/i&gt;(E/4832/Add.1), p.15.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>&lt;i&gt;Official Records of the Economic and Social Council, Fiftieth Session, Supplement No. 1 &lt;/i&gt; (E/5044), p. 3.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>&lt;i&gt;Official Records of the Economic and Social Council, Fifty-third Session, Supplement No. 1 &lt;/i&gt; (E/5209), p. 5.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The German Democratic Republic had acceded to the Convention with a declaration on 4 October 1974. For the text of the declaration, see UnitedNations, &lt;i&gt;TreatySeries &lt;/i&gt;, vol.988, p.253. See also note 2 regarding Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>See note 2 under China regarding Hong Kong in the in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>Czechoslovakia had signed and approved the Convention on 27 December 1973 and 4 September 1974, respectively, with a declaration. For the text of the declaration, see UnitedNations, &lt;i&gt;TreatySeries &lt;/i&gt;, vol.988, p.250. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>With the following declaration: "Accession to the Convention shall not extend to the Cook Islands, Niue and the Tokelau Islands".</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>Upon a request from the Secretary-General for clarification as to whether the declaration to article 25 was deemed to modify the legal effects of that article, the Government of Cuba replied that the declaration did not constitute a reservation.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XI A 15. Transport and Communications - Custom Matters</Footer>
+  </Treaty>
+</Document>

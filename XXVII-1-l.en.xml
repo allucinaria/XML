@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>l</Subnumsect>
+        <Subtitlesect>Amendments to the Text of and Annexes Other than III and VII to the 1998 Protocol on Heavy Metals</Subtitlesect>
+        <Conclusion>Geneva, 13 December 2012</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>in accordance with article 13(3) of the Protocol which reads as follows: "Amendments to the present Protocol and to annexes I, II, IV, V and VI shall be adopted by consensus of the Parties present at a session of the Executive Body, and shall enter into force for the Parties which have accepted them on the ninetieth day after the date on which two thirds of the Parties have deposited with the Depositary their instruments of acceptance thereof. Amendments shall enter into force for any other Party on the ninetieth day after the date on which that Party has deposited its instrument of acceptance thereof".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>12</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>C.N.709.2013.TREATIES-XXVII.1.l of 11 October 2013 (Amendments to the Text of and Annexes Other than III and VII to the 1998 Protocol on Heavy Metals).</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>22 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>29 Apr 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>24 Jun 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>20 Dec 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>22 Sep 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>22 Jun 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>14 May 2015 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>4 Jun 2015 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>25 Sep 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>16 Nov 2015 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>24 Oct 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>19 Mar 2015 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with article 15 (3) of the Protocol as amended, Switzerland declares that it does not wish to be bound by the procedure laid out in article 13 (5 &lt;i&gt;ter&lt;/i&gt;) on the amendment to annexes II, IV, V and VI.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>United States of America</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The United States hereby declares, pursuant to Article 15, paragraph 3, of the Protocol as amended, that it does not intend to be bound by the procedures set out in Article 13, paragraph 5ter, as regards the amendment of annexes II, IV, V, and VI.</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the European part of the Netherlands</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXVII 1 l. Environment</Footer>
+  </Treaty>
+</Document>

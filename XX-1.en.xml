@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg3</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XX</Header>
+        <Name>MAINTENANCE OBLIGATIONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Convention on the Recovery Abroad of Maintenance</Titlesect>
+        <Conclusion>New York, 20 June 1956</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>25 May 1957, in accordance with article 14.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>25 May 1957, No. 3850</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>24</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>64</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 268, p. 3, and vol. 649, p. 330 (procès-verbal of rectification of authentic Spanish text).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted and opened for signature by the United Nations Conference on Maintenance Obligations convened pursuant to resolution &lt;a href="/doc/source/docs/E_RES_572_XIX-E.pdf" target="_blank"&gt;572 (XIX)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of the Economic and Social Council of the United Nations, adopted on 17 May 1955. The Conference met at the Headquarters of the United Nations in New York from 29 May to 20 June 1956. For the text of the Final Act of the Conference, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 268, p. 3.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Succession(d), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>10 Sep 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry />
+                <Entry>29 Nov 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>12 Feb 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>21 Dec 1956</Entry>
+                <Entry>16 Jul 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>18 Jun 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry />
+                <Entry>14 Nov 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>1 Jul 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>31 Dec 1956</Entry>
+                <Entry>14 Nov 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>27 Aug 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry />
+                <Entry>13 Sep 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>15 Oct 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry />
+                <Entry>9 Jan 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>16 Jul 1956</Entry>
+                <Entry>10 Nov 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>20 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>8 May 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>30 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>28 Dec 1956</Entry>
+                <Entry>22 Jun 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>4 Jun 1974</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>8 Jan 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>13 Sep 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>5 Sep 1956</Entry>
+                <Entry>24 Jun 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;6,7&lt;/superscript&gt;</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>20 Jul 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>1 Nov 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>26 Dec 1956</Entry>
+                <Entry>25 Apr 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>21 Dec 1956</Entry>
+                <Entry>12 Feb 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>5 Oct 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>23 Jul 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>26 Oct 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>4 Apr 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>1 Aug 1956</Entry>
+                <Entry>28 Jul 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>28 Mar 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>27 May 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry />
+                <Entry>1 Nov 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>23 Jul 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>28 Jun 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>18 Mar 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>31 Jul 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Feb 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>15 Feb 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>25 Oct 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>14 Jul 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>21 Mar 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry />
+                <Entry>13 Oct 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry />
+                <Entry>25 Jan 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>24 Jul 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>10 Apr 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>1 Nov 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>6 Oct 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>20 Jun 1956</Entry>
+                <Entry>7 Aug 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry />
+                <Entry>12 Oct 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>4 Dec 1956</Entry>
+                <Entry>1 Oct 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>5 Oct 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>10 Mar 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>16 Oct 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>2 Jun 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>19 Sep 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;12&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>13 Mar 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>18 Sep 1995 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon</Title>
+      <Title>ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Algeria</Participant>
+        <text type="para">The Democratic and Popular Republic of Algeria does not consider itself bound by the provisions of article 16 of the Convention concerning the competence of the International Court of Justice and affirms that the agreement of all the parties concerned is required in each case before a dispute can be brought before the International Court of Justice.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="para">&lt;i&gt; (a)&lt;/i&gt; The Argentine Republic reserves the right, with respect to article 10 of the Convention, to restrict the application of the expression "highest priority" in the light of the provisions governing exchange controls in Argentina.</text>
+        <text type="para">&lt;i&gt; (b)&lt;/i&gt; In the event that another Contracting Party extends the application of the Convention to territories over which the Argentine Republic exercises sovereignty, such extension shall in no way affect the latter's rights (the reference is to article 12 of the Convention).</text>
+        <text type="para">&lt;i&gt; (c)&lt;/i&gt; The Argentine Government reserves the right not to apply the procedure provided for in article16 of the Convention in any dispute directly or indirectly related to the territories referred to in its declaration concerning article 12.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Australia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"Australia wishes to declare, in accordance with Article 12, that with the exception of the Territory of Norfolk Island, the Convention shall not be applicable to the territories for the International relations of which Australia is responsible."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Israel</Participant>
+        <text type="para">" &lt;i&gt;Article 5 &lt;/i&gt; &lt;i&gt;: &lt;/i&gt;The Transmitting Agency shall transmit under paragraph 1 any order, final or provisional, and any other judicial act, obtained by the claimant for the payment of maintenance in a competent tribunal of Israel, and, where necessary and possible, the record of the proceedings in which such order was made.</text>
+        <text type="para">" &lt;i&gt;Article 10: &lt;/i&gt; Israel reserves the right:</text>
+        <text type="para">"a) to take the necessary measures to prevent transfers of funds under this Article for purposes other than the bona fide payment of existing maintenance obligations;</text>
+        <text type="para">"b) to limit the amounts transferable pursuant to this Article, to amounts necessary for subsistence."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="para">The Government of the Kingdom makes the following reservation with regard to article 1 of the Convention: the recovery of maintenance shall not be facilitated by virtue of this article if, the claimant and the respondent being both in the Netherlands, or, respectively, in Surinam, the Netherlands Antilles or Netherlands New Guinea, and assistance having been granted or similar arrangements made under the Assistance to the Needy Act ( &lt;i&gt;Loi sur l'Assistance des Pauvres &lt;/i&gt;), no recovery was in general obtained for such assistance from the respondent, having regard to the circumstances of the case in question.</text>
+        <text type="para">"The Convention has for the time being been ratified for the Kingdom of the Netherlands in Europe only. If, in accordance with article 12, the application of the Convention will at any time be extended to the parts of the Kingdom outside Europe, the Secretary-General will be duly notified thereof. In that event the notification will contain such reservation as may be made on behalf of any of these parts of the Kingdom."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Republic of Moldova</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"Until the full re-establishment of the territorial integrity of the Republic of Moldova, the provisions of the Convention shall be applied only on the territory controlled effectively by the authorities of the Republic of Moldova. "</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Seychelles</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"The Republic of Seychelles reserves the right, with respect to article 10 of the Convention, to restrict the application of the expression ' highest priority ' in the light of the legal provisions governing exchange control in Seychelles."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden&lt;superscript&gt;13&lt;/superscript&gt;</Participant>
+        <text type="para">&lt;i&gt;Article 1: &lt;/i&gt; Sweden reserves the right to reject, where the circumstances of the case under consideration appear to make this necessary, any application for legal support aimed at the recovery of maintenance from a person who entered Sweden as a political refugee.</text>
+        <text>&lt;right&gt;11 November 1988&lt;/right&gt;</text>
+        <text type="para">&lt;i&gt;Article 9: &lt;/i&gt; "Where the proceedings are pending in Sweden, the exemptions in the payment of costs and the facilities provided in paragraph 1 shall be granted only to persons resident in a State Party to the Convention or to any person who would otherwise enjoy such advantages under an agreement concluded with the State of which he is a national."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Tunisia</Participant>
+        <text type="para">(1) Persons living abroad may only claim the advantages provided for in the Convention when considered non-residents under the exchange regulations in force in Tunisia.</text>
+        <text type="para">(2) A dispute may only be referred to the International Court of Justice with the agreement of all the parties to the dispute.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made upon</Title>
+      <Title>ratification, accession or succession.)</Title>
+      <Objection>
+        <Participant>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+      </Objection>
+      <Objection>
+        <Participant>Poland</Participant>
+        <text>&lt;right&gt;5 February 1969&lt;/right&gt;</text>
+        <text type="para">The Government of the Polish People's Republic wishes to express its objection, in accordance with article 17, paragraph 1, of the said Convention, to the first two reservations made by the Government of Tunisia in its instrument of accession.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+      </Objection>
+      <Objection>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text>&lt;right&gt;13 March 1975&lt;/right&gt;</text>
+        <text type="para">"With reference to article 17 (1) of the Convention . . . the Government of the United Kingdom [objects] to reservations?b) and (c) made by Argentina in respect of articles 12 and 16 upon accession to the Convention."</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications>
+      <Title>Notifications made under article 3</Title>
+      <Title>(Unless otherwise indicated, the notifications were made upon</Title>
+      <Title>ratification, accession or succession.)</Title>
+      <Notification>
+        <Participant>Colombia</Participant>
+        <text>&lt;right&gt;27 October 2003&lt;/right&gt;</text>
+        <text type="title">Proceedings relating to maintenance for minors</text>
+        <text type="para">"Maintenance" is understood to mean everything essential for the support, housing, clothing, medical treatment, recreation, comprehensive training and education or instruction of the minor. Maintenance shall include the obligation to pay the mother's pregnancy and childbirth expenses. Article 133, Decree No. 2737 of 1989, Minors' Code.</text>
+        <text type="para">Every minor is entitled to the protection, care and assistance necessary to achieve adequate physical, mental, moral and social development, and such rights are recognized from the time of conception. Article 3 of Decree No. 2737, Minors' Code.</text>
+        <text type="para">In the event of non-compliance with the maintenance obligation towards a minor, a request for conciliation may be submitted to the Family Ombudsman, the competent judges, the Family Commissioner or the Corrections Inspector of the minor's place of residence by either parent, by the child's relatives, by the guardian or person caring for the child or motu proprio. Article 136, Decree No. 2737 of 1989, Minors' Code.</text>
+        <text type="para">The right to claim maintenance may not be waived and is non-transferable in the event of death. The right to claim maintenance may not be sold or assigned in any way.</text>
+        <text type="para">The person owing maintenance (respondent) may not ask the claimant to offset that debt with sums owed to him by the claimant.</text>
+        <text type="para">Even if the parents have been deprived of parental authority, their maintenance obligation does not cease. This obligation ceases when the minor is adopted.</text>
+        <text type="para">As long as the respondent does not fulfil or agree to fulfil the maintenance obligation towards the minor, he may not claim custody and personal care or exercise other rights over the minor.</text>
+        <text type="para">When necessary, the judge will decide who is to have custody and care of the minor(s) on whose behalf the proceedings were instituted, without prejudice to the relevant judicial actions. Article 150, Decree No. 2737, Minors' Code.</text>
+        <text type="para">An expectant mother may claim maintenance in respect of the offspring of the legitimate father (husband) or of the man who has recognized paternity in the case of a child to be born out of wedlock. Article 135, Decree No. 2737 of 1989, Minors' Code.</text>
+        <text type="title">Conciliation</text>
+        <text type="para">Act No. 23 of 1991, Act No. 446 of 1998 and Act No. 640 of 2001</text>
+        <text type="para">Article 35 of Act No. 640 of 2001. "Admissibility requirement. In cases suitable for conciliation, extrajudicial conciliation as of right is an admissibility requirement for application to the civil, administrative law, labour and family courts, as specified in this Act for each of these areas."</text>
+        <text type="para">Accordingly, in requests for imposition of maintenance payments for a minor, the child's mother or father or the child's relatives or officials dealing with the case may initiate conciliation with the person obligated to pay such maintenance.</text>
+        <text type="para">In this case, the (non-compliant) person obligated to pay maintenance will be summoned to the office of the Family Commissioner, the Family Ombudsman or the competent judge to try to reach agreement on the amount of the maintenance payments, the means of making them, their timing and guarantees of observance. The respondent may authorize deduction from his salary of the agreed amounts.</text>
+        <text type="para">When conciliation has produced agreement on the maintenance figure, method of payment, timing of the payments and relevant guarantee, a record will be prepared for signature by the presiding official and the parties. The official will then approve it by means of a writ and the conciliation will thus become enforceable; in other words, in caseof non-compliance by the respondent, maintenance enforcement proceedings will be initiated.</text>
+        <text type="para">If the person summoned does not appear, after being summoned twice and after the reason for the summons has been given, or if the conciliation fails, the official may establish a provisional maintenance figure and the writ establishing it will be enforceable. The official must submit the claim for maintenance to the competent judge in order for the figure provisionally established to be confirmed by the judge.</text>
+        <text type="para">Maintenance conciliations may vary depending on the circumstances of the person obligated to pay maintenance and the needs of the person receiving the financial support. In addition, the judicial decision awarding maintenance may be reviewed in order to revise the maintenance figure, when the respondent is the father of another minor or other minors.</text>
+        <text type="para">The conciliation record must contain the following information:</text>
+        <text type="para">Place, date and time of the conciliation hearing;</text>
+        <text type="para">Name of the Conciliator;</text>
+        <text type="para">Name of the persons summoned to the conciliation and indication of who attended the proceedings;</text>
+        <text type="para">Brief account of the claims that are the subject of the conciliation;</text>
+        <text type="para">Agreement reached by the parties during the proceedings.</text>
+        <text type="para">Each of the parties participating in the conciliation must receive a copy of the record.</text>
+        <text type="title">Claims for maintenance for minors</text>
+        <text type="para">Claims for maintenance for minors are dealt with in the manner established in Decree No. 2737 of 1989 (Minors' Code); as specified in Decree No. 2272 of 1989, the decision is not subject to appeal.</text>
+        <text type="para">Claims for maintenance must contain the name of the parties, their address for notification purposes (place of residence, domicile, whereabouts or place of work), the amount of maintenance claimed, the justification for the claimand the evidence adduced and must be accompanied by any documents in the possession of the claimant. Claims may be submitted orally or in writing. If any document is missing that the claimant is unable to attach, the judge may, at the request of a party or ex officio, order the relevant authority to issue the document.</text>
+        <text type="para">If he deems it necessary, the judge may order attachment of the respondent's salary (in an amount that he considers appropriate) in the writ authorizing submission of the claim (in order to guarantee fulfilment of the maintenance obligation), for which purpose he shall communicate officially with the respondent's employer. He may also order retention of an amount that he considers appropriate from the respondent's severance pay, in order to guarantee the minor's maintenance in the event that the respondent resigns or is laid off from his employment.</text>
+        <text type="title">Evidence</text>
+        <text type="para">Any judicial decision must be based on the evidence duly and regularly produced in the proceedings. Article 174 of the Code of Civil Procedure.</text>
+        <text type="para">Means of proof. The means of proof are statements by the parties, responses under oath, testimony of third parties, expert opinions, physical examination of exhibits, documents, circumstantial evidence and any other means that may help the judge to form an opinion. Article 175 of the Code of Civil Procedure.</text>
+        <text type="title">Evidence located abroad</text>
+        <text type="para">When the civil proceedings require formalities on foreign territory, the judge may, depending on the nature and urgency of the matter:</text>
+        <text type="para">1. Send letters rogatory, through the Ministry of Foreign Affairs, to one of the judicial authorities in the country where the formalities are to take place so that it may conduct them and send the evidence back through the diplomatic or consular agent of Colombia or of a friendly country.</text>
+        <text type="para">2. Directly request the consul or diplomatic agent of Colombia in the country concerned to conduct the formalities in accordance with national legislation and to send the evidence back directly. The consuls and diplomatic agents of Colombia abroad are authorized to conduct all the judicial formalities in civil cases entrusted to them under article 193 of the Code of Civil Procedure.</text>
+        <text type="para">Evidence is provided at the request of the parties or following an official order from the judge, if he considers it necessary for verification of the facts alleged by the parties. The cost of providing evidence is shared equally by the parties, without prejudice to the judge's decision regarding the costs of the proceedings.</text>
+        <text type="para">Deposition. Statement made before the judge in exercise of his functions. Other statements are extra-judicial.</text>
+        <text type="para">Questioning. The judge may officially summon the parties to answer under oath any questions he wishes to put to them. He may also summon one of the parties, at the request of the other, provided that the request is made in due form.</text>
+        <text type="para">Oath. When the law authorizes the judge to request any of the parties to take an oath, the oath must be taken at the time when the evidence is to be presented, at the date and time appointed.</text>
+        <text type="para">Statements by third parties. All persons are obliged to make statements if requested, except in the cases specified by law.</text>
+        <text type="para">Expert opinion. An opinion requiring the participation of experts or persons specializing in specific scientific, technical or artistic subjects.</text>
+        <text type="para">Physical examination of exhibits. Proof established by verification of certain facts germane to the proceedings.</text>
+        <text type="para">Circumstantial evidence. In order for a fact to be considered as circumstantial evidence, it must be fully proved in the proceedings. The judge is authorized to deduce circumstantial evidence from the behaviour of the parties.</text>
+        <text type="para">Documents. Documents may be public or private. Public documents are those issued by a public official in the performance of his duties or with his intervention. Private documents are those not meeting the requirements to be considered as public documents.</text>
+        <text type="para">Authentic document. A document regarding which certainty exists as to the person who drafted, wrote or signed it. A public document is presumed to be authentic, unless the contrary is proved by evidence of forgery. Private documents are authentic if they meet the requirements specified by law.</text>
+        <text type="para">In order for proceedings to be initiated for recovery of maintenance for minors, the relationship between the minor claiming maintenance and the person obligated to provide it must be proved. This shall be done by reference to the Civil Registry where the minor's birth is recorded. The financial ability of the respondent to provide maintenance must also be proved, even summarily (reason to believe). If such ability cannot be proved, an analysis will have to be made of the respondent's social position and habits and it will ultimately be presumed that the respondent will pay the minor the minimum wage.</text>
+        <text type="para">In order to demonstrate the respondent's ability to pay, a certificate of income and statutory allowances, if he is employed, may be requested as evidence (documentary or oral). The Land Registry Office may be requested to report on immovable property owned by the respondent. The Transit and Transport Secretariat may be asked to determine the ownership of automobiles registered to the respondent. The Chamber of Commerce may be asked to establish the respondent's ownership of or participation in commercial firms. The national Tax Office may be asked to provide the respondent's tax return, and credit or banking institutions may be asked to report on the respondent's balances and on credit card usage. Oral evidence may also be sought, in which persons are asked about the respondent's income.</text>
+        <text type="para">Maintenance is due at the time of the first claim and must be paid monthly in advance, during the first five days of the month in question. Article 421 of the Civil Code, in conformity with the second paragraph of article 498 of the Code of Civil Procedure, Decree No. 2282 of 1989.</text>
+        <text type="title">The maintenance order may specify:</text>
+        <text type="para">An amount to be deducted from the respondent's pay or salary, which may not exceed 50 per cent of his monthly income. Establishment of a fund, the income from which will be used to make the established maintenance payments.</text>
+        <text type="para">A specific sum of money, depending on the respondent's demonstrated ability to pay.</text>
+        <text type="para">Maintenance payments will increase annually, either in order to reflect cost-of-living increases or as agreed between the parties during the conciliation.</text>
+        <text type="title">Maintenance enforcement proceedings</text>
+        <text type="para">In the event of non-compliance with the maintenance obligation agreed during the conciliation or decreed by decision of the judge, the family judge concerned may initiate maintenance enforcement proceedings, with the legal consequences, if necessary, of attachment and auction of property.</text>
+        <text type="title">Complaints of failure to provide maintenance</text>
+        <text type="para">"Any person who without good reason fails to provide maintenance legally due to his relatives in the ascending line, descendants, adopter or adoptee, or spouse shall be liable to imprisonment for a term ranging from one (1) to three (3) years and a fine ranging from ten (10) to twenty (20) times the monthly legal minimum wagein force."</text>
+        <text type="para">"The penalty shall be imprisonment ranging from two (2) to four (4) years and a fine ranging from fifteen (15) to twenty-five (25) times the monthly legal minimum wage in force if the failure to provide maintenance concerns a minor under fourteen (14) years of age." Article 233 of the Penal Code.</text>
+        <text type="para">"Aggravating circumstances. The penalty specified in the preceding article shall be increased by up to one third if the respondent has fraudulently concealed, reduced or encumbered his income or assets in order to avoid paying maintenance." Article 234 of the Penal Code.</text>
+        <text type="para">"Repetition. Enforcement of the sentence shall not preclude the initiation of further proceedings if the person concerned again fails to make maintenance payments." Article 235 of the Penal Code.</text>
+        <text type="para" />
+      </Notification>
+      <Notification>
+        <Participant>Republic of Moldova</Participant>
+        <text>&lt;right&gt;7 November 2007&lt;/right&gt;</text>
+        <text type="para">In its capacity as Receiving Agency, the Ministry of Justice shall limit the performance of its duties to receiving documents from foreign claimants and, where appropriate, communicating replies. It will also have the right, pursuant to article 3, paragraph 3, of the aforementioned Convention, to appoint the national authority authorized to act on behalf of the claimant.</text>
+        <text type="para">Pursuant to article 3, paragraph 2, of the aforementioned Convention, the evidence required for the proof of maintenance claims is as follows:</text>
+        <text type="para">- the power of attorney granted to the Receiving Agency of the country in which the respondent is domiciled;</text>
+        <text type="para">- a certified copy of the marriage or divorce certificate, as appropriate;</text>
+        <text type="para">- a certified copy of the child's birth certificate.</text>
+        <text type="para">For claimants over the age of 18 who do not have a regular income, the following is also required:</text>
+        <text type="para">- a statement of monthly income and a certificate concerning the increase in maintenance;</text>
+        <text type="para">- any other documents attesting to the claimant's delicate financial situation (school certificates, medical certificates in the case of disabled persons, etc.);</text>
+        <text type="para">- the bank account of the claimant into which the respondent may transfer maintenance payments from abroad;</text>
+        <text type="para">- photographs, where available, of the claimant and respondent;</text>
+        <text type="para">- such other additional documents as may be requested by the courts.</text>
+        <text type="para">The aforementioned documents must be submitted in duplicate, both copies having been duly authorized.</text>
+        <text type="para">The Republic of Moldova hereby declares that all documents submitted to the Republic of Moldova pursuant to the provisions of the Convention must be accompanied by certified translations into Moldovan.</text>
+      </Notification>
+    </Notifications>
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Australia</Participant>
+        <DateNotification>12 Feb 1985</DateNotification>
+        <Territories>Norfolk Island</Territories>
+      </Application>
+      <Application>
+        <Participant>France</Participant>
+        <DateNotification>24 Jun 1960</DateNotification>
+        <Territories>Comoro Islands, French Polynesia, French Somaliland, New Caledonia and Dependencies and St. Pierre and Miquelon</Territories>
+      </Application>
+      <Application>
+        <Participant>Netherlands&lt;superscript&gt;9&lt;/superscript&gt;</Participant>
+        <DateNotification>12 Aug 1969</DateNotification>
+        <Territories>Netherlands Antilles</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <DateNotification>29 Nov 1984</DateNotification>
+        <Territories>Isle of Man</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>30 Jul 2003</DateNotification>
+        <Territories>Bailiwick of Jersey</Territories>
+      </Application>
+    </TerritorialApplications>
+    <SpecialTables>
+      <Table>
+        <TableNo>1</TableNo>
+        <Columns>4</Columns>
+        <Title>Notifications made under article 2 (Designation of administrative or judicial authority)</Title>
+        <TableHeader>
+          <Title>Participant</Title>
+          <Title>Region:</Title>
+          <Title>Transmitting Agency:</Title>
+          <Title>Receiving Agency:</Title>
+        </TableHeader>
+        <Rows>
+          <Row>
+            <Column>Algeria</Column>
+            <Column />
+            <Column>Ministry of Justice</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Argentina</Column>
+            <Column />
+            <Column>Ministry of Justice</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Australia</Column>
+            <Column />
+            <Column>Child Support Agency, GPO Box 9815, Hobart, Tasmania 7001 Australia, Phone: +61 3 6221 0187, Facsimile: +61 3 6221 0180</Column>
+            <Column>Child Support Agency, GPO Box 9815, Hobart, Tasmania 7001, Australia, Phone: +61 3 6221 0187, Facsimile: +61 3 6221 0180</Column>
+          </Row>
+          <Row>
+            <Column>Austria</Column>
+            <Column />
+            <Column>District Court(Bezirksgericht) exercising judicial jurisdiction in civil law matters in whose territory the claimant has his permanent residence, or if he has none in the country, his actual residence to act in its territory as Transmitting Agency.</Column>
+            <Column>The Federal Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Austria</Column>
+            <Column>Vienna - Districts I-XX</Column>
+            <Column>District Court of the Inner City of Vienna</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Austria</Column>
+            <Column>Vienna - Districts XXI, XXII</Column>
+            <Column>District Court of Florisdorf</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Austria</Column>
+            <Column>Vienna - Districts XXIII</Column>
+            <Column>District Court of Liesing</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Barbados</Column>
+            <Column />
+            <Column>Attorney General of Barbados</Column>
+            <Column>Attorney General of Barbados</Column>
+          </Row>
+          <Row>
+            <Column>Belarus&lt;superscript&gt;14&lt;/superscript&gt;</Column>
+            <Column />
+            <Column>Ministry of Justice (See attachment 1)</Column>
+            <Column>District Courts (See attachment 1)</Column>
+          </Row>
+          <Row>
+            <Column>Belgium</Column>
+            <Column />
+            <Column>Ministry of Justice</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Bosnia and Herzegovina</Column>
+            <Column />
+            <Column>Ministry of Justice</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Brazil</Column>
+            <Column />
+            <Column>Procuradoria Geral da República (Attorney General's Office)</Column>
+            <Column>Procuradoria Geral da República (Attorney General's Office)</Column>
+          </Row>
+          <Row>
+            <Column>Burkina Faso</Column>
+            <Column />
+            <Column>Ministry of Justice</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Cape Verde</Column>
+            <Column />
+            <Column>Regional Courts</Column>
+            <Column>Procuradoria-Geral da República</Column>
+          </Row>
+          <Row>
+            <Column>Central African Republic&lt;superscript&gt;15&lt;/superscript&gt;</Column>
+            <Column />
+            <Column />
+            <Column />
+          </Row>
+          <Row>
+            <Column>Chile</Column>
+            <Column />
+            <Column>Corporación de Asistencia Judicial de la Región Metropolitana, Calle Augustinas 1419, Telephone: (56) (2) 6982829, Facsimile: (56) (2) 6728700</Column>
+            <Column>Corporación de Asistencia Judicial de la Región Metropolitana, Calle Augustinas 1419, Telephone: (56) (2) 6982829, Facsimile: (56) (2) 6728700</Column>
+          </Row>
+          <Row>
+            <Column>China&lt;superscript&gt;16&lt;/superscript&gt;</Column>
+            <Column />
+            <Column />
+            <Column />
+          </Row>
+          <Row>
+            <Column>Colombia</Column>
+            <Column />
+            <Column>Consejo Superior de la Judicatura Presidencia de la Sala Administrativa Calle 12 No. 7-65, En Bogot?D.C. PBX 57-1-5658500</Column>
+            <Column>Instituto Colombiano de Bienestar Familiar Subdirección de Intervenciones Directas Avenida 68 No. 64-01, en Bogot?D.C. PBX 57-1-4377630-página Web: www.bienestarfamiliar.gov.co</Column>
+          </Row>
+          <Row>
+            <Column>Croatia</Column>
+            <Column />
+            <Column>Ministry of Finance</Column>
+            <Column>Ministarstvo za demografiju, obitelj, mlade i socijalnu politiku (Ministry for Demography, Family, Youth and Social Policy) Trg Nevenke Topaluaic 1, 10 000 Zagreb, Croatia. Tel: + 385 (1) 555 7111 Fax: + 385 (1) 555 7222 Email: ministarstvo@mdomsp.hr, Website: www.mdomsp.hr</Column>
+          </Row>
+          <Row>
+            <Column>Cyprus</Column>
+            <Column />
+            <Column>Ministry of Justice of the Republic</Column>
+            <Column>Ministry of Justice of the Republic</Column>
+          </Row>
+          <Row>
+            <Column>Czech Republic</Column>
+            <Column />
+            <Column>Contact: Office for International Legal Protection of Children, `ilingrovo námest?3/4, 602 00 BRNO, Czech Republic, email: podatelna@umpod.cz, Contact persons: Mr. Zdenek Kapitán, Director, Ms. Markéta Novákov? Deputy Director</Column>
+            <Column>Contact: Office for International Legal Protection of Children, `ilingrovo námest?3/4, 602 00 BRNO, Czech Republic, email: podatelna@umpod.cz, Contact persons: Mr. Zdenek Kapitán, Director, Ms. Markéta Novákov? Deputy Director</Column>
+          </Row>
+          <Row>
+            <Column>Denmark</Column>
+            <Column />
+            <Column>Familiestyrelsen, Kristineberg 6, DK-2100 Kobenhavn 0, Denmark</Column>
+            <Column>Familiestyrelsen, Kristineberg 6, DK-2100 Kobenhavn 0, Denmark</Column>
+          </Row>
+          <Row>
+            <Column>Ecuador</Column>
+            <Column />
+            <Column>National Court of Minors</Column>
+            <Column>President of National Court of Minors</Column>
+          </Row>
+          <Row>
+            <Column>Estonia</Column>
+            <Column />
+            <Column>Ministry of Justice</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Finland</Column>
+            <Column />
+            <Column>Ministry of Foreign Affairs</Column>
+            <Column>Ministry of Foreign Affairs</Column>
+          </Row>
+          <Row>
+            <Column>France</Column>
+            <Column />
+            <Column>Ministère des affaires étrangères, Division du contentieux service du recouvrement des aliments ?l'étranger(Ministry of Foreign Affairs, Contentious Matters, Recovery Abroad of Maintenance Service)23, rue la Pérouse, Paris (XVIème), France</Column>
+            <Column>Ministère des affaires étrangères, Division du contentieux service du recouvrement des aliments ?l'étranger(Ministry of Foreign Affairs, Contentious Matters, Recovery Abroad of Maintenance Service)23, rue la Pérouse, Paris (XVIème), France</Column>
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column />
+            <Column>Bundesamt für Justiz 53094 Bonn Tel.: + 49 228 99 410-40 Fax.: + 49 228 99 410-5202E-Mail: auslandsunterhalt-2@bfj.bund.de Homepage: http://www.bundesjustizamt.de</Column>
+            <Column>Bundesamt für Justiz 53094 Bonn Tel.: + 49 228 99 410-40 Fax.: + 49 228 99 410-5202E-Mail: auslandsunterhalt-2@bfj.bund.de Homepage: http://www.bundesjustizamt.de</Column>
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Baden-Württemberg</Column>
+            <Column>Ministry of Justice of Land Baden- Württenberg in Stuttgard</Column>
+            <Column>Bundesverwaltungsamt, Außenstelle Bonn, Postfach 20 03 5153133 Bonn, E-mail address: bva-poststelle@bva.bund.de, Internet: www.bundesverwaltungsamt.de</Column>
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Bayern (Bavaria)</Column>
+            <Column>Bavarian Ministry of Justice in Munich/ Bayerisches Staatsministerium der Justiz, 80097 Muenchen</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Berlin</Column>
+            <Column>Senator of Justice at Berlin-Schoneberg</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Bremen</Column>
+            <Column>Senator of Justice and Constitution in Bremen</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Hamburg</Column>
+            <Column>Senate of Hamburg - Justice Administration - in Hamburg</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Hessen (Hesse)</Column>
+            <Column>Hessian Minister of Justice in Wiesbaden</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Niedersachsen (Lower Saxony)</Column>
+            <Column>Minister of Justice of Land Lower Saxony in Hanover</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Nordrhein -Westfalen (North Rhine/Westphalia)</Column>
+            <Column>Minister of Justice of Land North-Rhine / Westphalia in Dusserldorf</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Rheinland-Pfalz (Rhineland/Palatinate)</Column>
+            <Column>Minister of Justice of Land Rhineland-Palatinate in Mainz</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Saarland</Column>
+            <Column>Minister of Justice in Saarbrücken</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Schleswig-Holstein</Column>
+            <Column>Minister of Justice of Land Schleswig-Holstein in Kiel</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Brandenburg</Column>
+            <Column>Brandenburg Ministry of Justice, Potsdam</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Mecklenburg - Western Pomerania</Column>
+            <Column>Minister of Justice, Federal and European Affairs of Mecklenburg - Western Pomerania, Schwerin</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Saxony</Column>
+            <Column>Saxon Ministry of Justice, Dresden</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Saxony-Anhalt</Column>
+            <Column>Minister of Justice of Saxony-Anhalt, Magdeburg</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>Land Thuringia</Column>
+            <Column>Thurigian Minister of Justice, Erfurt</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Greece</Column>
+            <Column />
+            <Column>Ministry of Foreign Affairs</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Guatemala</Column>
+            <Column />
+            <Column>Attorney-General of the Nation (Procurador General de la Nación, Jefe del Ministerio Público)</Column>
+            <Column>Attorney-General of the Nation (Procurador General de la Nación, Jefe del Ministerio Público)</Column>
+          </Row>
+          <Row>
+            <Column>Haiti</Column>
+            <Column />
+            <Column>Commissaire du Gouvernement près de la Cour de cassation et Juriste du Ministère des Affaires étrangères</Column>
+            <Column>Département de la Justice, par le truchement du Minstère des Affaires étrangères</Column>
+          </Row>
+          <Row>
+            <Column>Holy See</Column>
+            <Column />
+            <Column>Office of Protocol - General Affairs Section, Secretariat of State, 00120 Vatican City</Column>
+            <Column>Office of Protocol - General Affairs Section, Secretariat of State, 00120 Vatican City</Column>
+          </Row>
+          <Row>
+            <Column>Hungary</Column>
+            <Column />
+            <Column>Ministry of Justice and Law Enforcement(Igazságügyi és Rendészeti Minisztérium), Postal Address: Kossuth lajos tér 4. Budapest 1055, Hungary, Tel:+36-1-441-3003, Fax:+36-1-441-3711</Column>
+            <Column>Ministry of Social Affairs and Labour(Szociális és Munkaügyi Minisztérium)Postal Address: POB 609, Budapest 1373, Hungary, Tel:+36-1-475-5700, Fax:+36-1-475-5800</Column>
+          </Row>
+          <Row>
+            <Column>Ireland</Column>
+            <Column />
+            <Column>Central Authority for Maintenance Recovery, Department of Equality and Law Reform 43/49 Mespil Road, Dublin 4, Ireland [25 June 2007] Central Authority for Maintenance Recovery Department of Justice, Equality and Law Reform, Bishops Square, Redmond's Hill, Dublin 2 Ireland, Telephone: +353 1 4790200, Fax: +353 1 4790201, Email: mainrecov@justice.ie</Column>
+            <Column>[25 June 2007] Central Authority for Maintenance Recovery Department of Justice, Equality and Law Reform, Bishops Square, Redmond's Hill, Dublin 2 Ireland, Telephone: +353 1 4790200, Fax: +353 1 4790201, Email: mainrecov@justice.ie</Column>
+          </Row>
+          <Row>
+            <Column>Israel</Column>
+            <Column />
+            <Column>Department of Legal Aid, Ministry of Justice, 1 Soreg Street, Beit Mizpeh, P.O. Box 1777, Jerusalem 91017, Israel. Tel.: 972(2)6211381; Fax: 972(2)6467945.</Column>
+            <Column>Department of Legal Aid</Column>
+          </Row>
+          <Row>
+            <Column>Italy</Column>
+            <Column />
+            <Column>Ministry of Interior, Ministry of Foreign Affairs</Column>
+            <Column>Ministry of Interior</Column>
+          </Row>
+          <Row>
+            <Column>Kazakhstan</Column>
+            <Column />
+            <Column>Committee on Judicial Administration to the Supreme Court of the Republic of Kazakhstan</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Kyrgyzstan</Column>
+            <Column />
+            <Column>Judicial Department under the Ministry of Justice of the Kyrgyz Republic</Column>
+            <Column>Judicial Department under the Ministry of Justice of the Kyrgyz Republic</Column>
+          </Row>
+          <Row>
+            <Column>Luxembourg</Column>
+            <Column />
+            <Column>M. le Procureur général d'État, 12, Côte D'Eich, Boîte postale 15L-2010 Luxembourg</Column>
+            <Column>M. le Procureur général d'État, 12, Côte D'Eich, Boîte postale 15L-2010 Luxembourg</Column>
+          </Row>
+          <Row>
+            <Column>Mexico</Column>
+            <Column />
+            <Column>Secretaría de Relaciones Exteriores, Dirección General de Protección a Mexicanos en el Exterior, Dirección General Adjunta de Derecho de Familia, Plaza Juárez #20, Piso 17, Col. Centro, Del. Cuauhtémoc, 06010 Ciudad de México, Tel. : +52 (55) 3686-5856, Email: dgpmexterior@sre.gob.mx; Represented by: Jacob Prado, Director General, jprado@sre.gob.mx; Raúl García Zentlapal, Director General Adjunto de Derecho de Familia, rgarciaz@sre.gob.mx, +52 (55) 3686-5871; Mónica Alexander Padilla, Subdirectora de Pensiones Alimenticias y Adopciones Internacionales, malexander@sre.gob.mx, +52 (55) 3686-5100 ext. 7543</Column>
+            <Column>Secretaría de Relaciones Exteriores, Dirección General de Protección a Mexicanos en el Exterior, Dirección General Adjunta de Derecho de Familia, Plaza Juárez #20, Piso 17, Col. Centro, Del. Cuauhtémoc, 06010 Ciudad de México, Tel. : +52 (55) 3686-5856, Email: dgpmexterior@sre.gob.mx; Represented by: Jacob Prado, Director General, jprado@sre.gob.mx; Raúl García Zentlapal, Director General Adjunto de Derecho de Familia, rgarciaz@sre.gob.mx, +52 (55) 3686-5871; Mónica Alexander Padilla, Subdirectora de Pensiones Alimenticias y Adopciones Internacionales, malexander@sre.gob.mx, +52 (55) 3686-5100 ext. 7543</Column>
+          </Row>
+          <Row>
+            <Column>Moldova</Column>
+            <Column />
+            <Column>Le Ministère de la Justice de la République de Moldova, rue 31 Aout 1989, 82, Chisinau, MD-2012, République de Moldova</Column>
+            <Column>Le Ministère de la Justice de la République de Moldova, rue 31 Aout 1989, 82, Chisinau, MD-2012, République de Moldova</Column>
+          </Row>
+          <Row>
+            <Column>Moldova</Column>
+            <Column />
+            <Column>Le Ministère de la Justice de la République de Moldova, rue 31 Aout 1989, 82, Chisinau, MD-2012, République de Moldova.</Column>
+            <Column>Le Ministère de la Justice de la République de Moldova, rue 31 Aout 1989, 82, Chisinau, MD-2012, République de Moldova.</Column>
+          </Row>
+          <Row>
+            <Column>Monaco</Column>
+            <Column />
+            <Column>Parquet général</Column>
+            <Column>Direction des Relations extérieures</Column>
+          </Row>
+          <Row>
+            <Column>Montenegro</Column>
+            <Column />
+            <Column>Ministry of Finance of the Republic of Montenegro</Column>
+            <Column>Ministry of Finance of the Republic of Montenegro</Column>
+          </Row>
+          <Row>
+            <Column>Morocco</Column>
+            <Column />
+            <Column>Ministry of Justice</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Netherlands</Column>
+            <Column />
+            <Column>Raad voor de Kinderbescherming's Gravenhage Dependance Gouda, LBIOBureau Verdrag van New York, Postbus 8002800 AV Gouda</Column>
+            <Column>Raad voor de Kinderbescherming's Gravenhage Dependance Gouda, LBIOBureau Verdrag van New York, Postbus 8002800 AV Gouda</Column>
+          </Row>
+          <Row>
+            <Column>Netherlands (Netherlands Antilles)</Column>
+            <Column />
+            <Column>de Voogdijraad (Court of Guardianship) on Curaçao</Column>
+            <Column>de Voogdijraad (Court of Guardianship) on Curaçao</Column>
+          </Row>
+          <Row>
+            <Column>New Zealand</Column>
+            <Column />
+            <Column>Department of Justice, Private Bag Postal Center, Wellington, New Zealand</Column>
+            <Column>Department of Justice, Private Bag, Postal Center, Wellington, New Zealand</Column>
+          </Row>
+          <Row>
+            <Column>Niger</Column>
+            <Column />
+            <Column>Department of General Administrative and Consular Affairs of the Ministry of Foreign Affairs</Column>
+            <Column>Department of General Administrative and Consular Affairs of the Ministry of Foreign Affairs</Column>
+          </Row>
+          <Row>
+            <Column>Norway</Column>
+            <Column />
+            <Column>Folketrygdkontoret for Utenlandssaker (The National Insurance Office for Social Insurance Abroad) Bidragskontoret (Child Maintenance Division)PB 8138 DEP. 0032 Oslo</Column>
+            <Column>Folketrygdkontoret for Utenlandssaker (The National Insurance Office for Social Insurance Abroad) Bidragskontoret (Child Maintenance Division)PB 8138 DEP. 0032 Oslo</Column>
+          </Row>
+          <Row>
+            <Column>Pakistan</Column>
+            <Column />
+            <Column>Solicitor General to the Government of Pakistan correspondence address: Block R, 3rd Floor, Ministry of Law and Justice, Pakistan Secretariat, Islamabad, Pakistan</Column>
+            <Column>Solicitor General to the Government of Pakistan correspondence address: Block R, 3rd Floor, Ministry of Law and Justice, Pakistan Secretariat, Islamabad, Pakistan</Column>
+          </Row>
+          <Row>
+            <Column>Portugal</Column>
+            <Column />
+            <Column>Direcçao Geral de Justiça (Metropolitan Portugal), Instituo de Assistência ?Familia (Metropolitan Portugal)</Column>
+            <Column>Instituo de Assistência ?Familia (Metropolitan Portugal)</Column>
+          </Row>
+          <Row>
+            <Column>Portugal</Column>
+            <Column />
+            <Column>Direcçao Geral dos Serviços da Administraçao civil (Overseas Provinces)</Column>
+            <Column>Procuradoria da Republica of each Province in each Juridical District and through the respective Delegates</Column>
+          </Row>
+          <Row>
+            <Column>Romania</Column>
+            <Column />
+            <Column>Ministry of Justice of Romania, Bd. Mihail Kogalniceanu 33, Bucharest 70749</Column>
+            <Column>Baroul de Avocati al Municipiului Bucaresti, Bd. Magheru 22, Bucharest 70158</Column>
+          </Row>
+          <Row>
+            <Column>Serbia</Column>
+            <Column />
+            <Column>The Ministry of Finance of the Republic of Serbia, the Contact Point being Ms. Snezana Nedeljkovic (address: Kneza MIlosa 20, 11000 Beograd, Republic of Serbia; telephone/fax: +381 11 3642 732; e-mail address: snezana.nedeljkovic@mfin.gov.rs)."</Column>
+            <Column>The Office for Human and Minority Rights, the Contact Point being Mrs. Milica Ivkovic (Address: Bulevar Mihaila Pupina 2, 11070 Novi Beograd, Republic of Serbia; telephone: +381 11 3111 710; e-mail: milica@ljudskaprava.gov.rs).</Column>
+          </Row>
+          <Row>
+            <Column>Seychelles</Column>
+            <Column />
+            <Column>Ministry of Foreign Affairs</Column>
+            <Column>Ministry of Foreign Affairs</Column>
+          </Row>
+          <Row>
+            <Column>Slovakia</Column>
+            <Column />
+            <Column>Centrum pre medzinárodnosprávnu ochranu det?a mládeze (Centre for the international legal protection of children and youth)Spitálska 6, P.O. Box 5781499 BRATISLAVA, Slovakia</Column>
+            <Column>Centrum pre medzinárodnosprávnu ochranu det?a mládeze (Centre for the international legal protection of children and youth)Spitálska 6, P.O. Box 5781499 BRATISLAVA, Slovakia</Column>
+          </Row>
+          <Row>
+            <Column>Slovenia&lt;superscript&gt;17&lt;/superscript&gt;</Column>
+            <Column />
+            <Column>[21 April 2017] Javni atipendijski, razvojni, invalidski in pre~ivninski sklad.Republike Slovenije (Public Scholarship, Development, Disability and Maintenance Fund of the Republic of Slovenia), Dunajska cesta 21, PO Box 3561, 1116 Ljubljana, Slovenia; Phone: + 386 1 4720 990; Fax: + 386 1 4720 991; E-mail: jpsklad@jps-rs.si; Website: http://www.jpi-sklad.si/</Column>
+            <Column>[21 April 2017] Javni atipendijski, razvojni, invalidski in pre~ivninski sklad.Republike Slovenije (Public Scholarship, Development, Disability and Maintenance Fund of the Republic of Slovenia), Dunajska cesta 21, PO Box 3561, 1116 Ljubljana, Slovenia; Phone: + 386 1 4720 990; Fax: + 386 1 4720 991; E-mail: jpsklad@jps-rs.si; Website: http://www.jpi-sklad.si/</Column>
+          </Row>
+          <Row>
+            <Column>Spain</Column>
+            <Column />
+            <Column>Dirección General de Codificación y Cooperación Juridica Internacional del Ministerio de Justicia e Interior</Column>
+            <Column>Dirección General de Codificación y Cooperación Juridica Internacional del Ministerio de Justicia e Interior</Column>
+          </Row>
+          <Row>
+            <Column>Sri Lanka</Column>
+            <Column />
+            <Column>Permanent Secretary to the Ministry of External Affairs</Column>
+            <Column>Permanent Secretary to the Ministry of External Affairs</Column>
+          </Row>
+          <Row>
+            <Column>Suriname</Column>
+            <Column />
+            <Column>Bureau for Family Law Affairs</Column>
+            <Column>Bureau for Family Law Affairs</Column>
+          </Row>
+          <Row>
+            <Column>Sweden</Column>
+            <Column />
+            <Column>Transmitting and Receiving Agency: General questions and questions regarding policy decisions: Försäkringskassan (Swedish Social Insurance Agency) SE -103 51 Stockholm Sweden Tel + 46 (8) 786 90 00 Fax +46 (8) 411 27 89 Email: huvudkontoret@forsakringskassan.se Applications and requests for assistance in specific cases: Swedish Social Insurance Agency Box 1164 SE - 621 22 Visby Tel + 46 (771) 17 90 00 Fax + 46 (498) 20 04 11 Email: centralmyndigheten@forsakringskassan.se</Column>
+            <Column>Transmitting and Receiving Agency: General questions and questions regarding policy decisions: Försäkringskassan (Swedish Social Insurance Agency) SE -103 51 Stockholm Sweden Tel + 46 (8) 786 90 00 Fax +46 (8) 411 27 89 Email: huvudkontoret@forsakringskassan.se Applications and requests for assistance in specific cases: Swedish Social Insurance Agency Box 1164 SE - 621 22 Visby Tel + 46 (771) 17 90 00 Fax + 46 (498) 20 04 11 Email: centralmyndigheten@forsakringskassan.se</Column>
+          </Row>
+          <Row>
+            <Column>Switzerland</Column>
+            <Column />
+            <Column>Office fédéral de la justice Bundesrain 203003 Berne, Tel.: 0041/31/322 43 45, Fax.: 0041/31/322 42 79</Column>
+            <Column>Office fédéral de la justice Bundesrain 203003 Berne, Tel.: 0041/31/322 43 45, Fax.: 0041/31/322 42 79</Column>
+          </Row>
+          <Row>
+            <Column>The former Yugoslav Republic of Macedonia</Column>
+            <Column />
+            <Column>Ministry of Justice</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Tunisia</Column>
+            <Column />
+            <Column>Directorate of Consular Affairs of the Secretariat of State for Foreign Affairs</Column>
+            <Column>Directorate of Consular Affairs of the Secretariat of State for Foreign Affairs</Column>
+          </Row>
+          <Row>
+            <Column>Turkey</Column>
+            <Column />
+            <Column>General Directorate for International Law and Foreign Affairs of the Ministry of Justice</Column>
+            <Column>General Directorate for International Law and Foreign Affairs of the Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>Ukraine</Column>
+            <Column />
+            <Column>Ministry of Justice</Column>
+            <Column>Ministry of Justice</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>England and Wales</Column>
+            <Column>The Secretary of State Home Office (C2 Division)50 Queen Anne's Gate, London SW1H 9AT</Column>
+            <Column>The Secretary of State Home Office (C2 Division)50 Queen Anne's Gate, London SW1H 9AT</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>Northern Ireland</Column>
+            <Column>The Lord Chancellor's Department, Windsor House9/15 Bedford Street Belfast BT2 7EA</Column>
+            <Column>The Lord Chancellor's Department, Windsor House9/15 Bedford Street Belfast BT2 7EA</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>Scotland</Column>
+            <Column>The Scottish Government, EU &amp; International Law Branch, 2W, St. Andrews House Edinburgh EH1 3DG</Column>
+            <Column>The Scottish Government, EU &amp; International Law Branch, 2W, St. Andrews House Edinburgh EH1 3DG</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>Isle of Man</Column>
+            <Column>Chief Registrar, Isle of Man Courts of Justice, Douglas, Isle of Man, IM1 3AR</Column>
+            <Column>Chief Registrar, Isle of Man Courts of Justice, Douglas, Isle of Man, IM1 3AR</Column>
+          </Row>
+        </Rows>
+      </Table>
+    </SpecialTables>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the Economic and Social Council, Nineteenth Session, Supplement No. 1A &lt;/i&gt; (E/2730/Add.1), p. 5.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Signed and ratified on behalf of the Republic of China on 4 December 1956 and 25 June 1957 respectively. See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information secton in the front matter of this volume).</text>
+        <text>With reference to the above-mentioned accession, communications have been addressed to the Secretary-General by the Permanent Missions to the United Nations of Poland on the one hand, and of China on the other hand. The objection made on that occasion by the Govern- ment of Poland and the communication from the Government of the Republic of China are identical in essence, &lt;i&gt;mutatis mutandis &lt;/i&gt;, to the corresponding communications referred to in note 3 in chapter VI.14.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 31 December 1956 and 29 May 1959. See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Czechoslovakia had acceded to the Convention on 3 October 1958. Subsequently, on 21 April 1973, Czechoslovakia notified an objection with regard to the reservation made by the Government of Argentina to article 10 of the Convention. For the text of the objection see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 867, p. 214. See note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>The instrument of ratification by France contains the following declaration:</text>
+        <text>&lt;i&gt; (a) &lt;/i&gt; That the Convention shall apply to the territories of the French Republic, namely: the metropolitan departments, the departments of Algeria, the departments of the Oases and of Saoura, the departments of Guadeloupe, Guiana, Martinique and Réunion and the Overseas Territories (St. Pierre and Miquelon, French Somaliland, the Comoro Archipelago, New Caledonia and Dependencies and French Polynesia);</text>
+        <text>&lt;i&gt;(b) &lt;/i&gt; That its application may be extended, by subsequent notification, to the other States of the Community or to one or more such States.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>Subject to the reservation with regard to article 1 which was made by the Netherlands upon ratification of the Convention. See also note 1 under Netherlands regardng Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>The Convention shall not extend to the Cook Islands nor to Niue or Tokelau.</text>
+        <text>In a communication received on 30 June 2000, the Government of New Zealand informed the Secretary-General of the following:</text>
+        <text>Pursuant to Article 58 of the Vienna Convention on the Law of Treaties, [the Government of New Zealand] has the honour to notify the United Nations, in its capacity as depository for [the Convention on the Recovery Abroad of Maintenance] of the intention to conclude an Agreement between the Government of New Zealand and the Government of Australia on Child and Spousal Maintenance ("the Agreement") which will suspend the operation of the Convention as between New Zealand and Australia.</text>
+        <text>[The Government of New Zealand] assures the United Nations that the conclusion of the Agreement will not affect the enjoyment by the other Parties to the Convention of their rights under the Convention vis-a-vis the Parties to the Agreement, or the performance of their obligations to other Parties under the Convention. Furthermore, the Agreement to be concluded between the Government of New Zealand and Australia is not considered by them to be inconsistent with the object and purpose of the Convention.</text>
+        <text>See also note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>On 20 October 2015, the Government of Ukraine made a communication. The text can be found here: C.N.607.2015.TREATIES-XX.1 of 20 October 2015.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>"In accordance with article 12 of the Convention, the United Kingdom of Great Britain and Northern Ireland hereby gives notice that the provisions of the Convention shall not apply to any of the territories for the international relations of which the United Kingdom is responsible." &lt;i&gt;See also under Territorial Applications &lt;/i&gt;.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>In a communication received on 11 November 1988, the Government of Sweden notified the Secretary-General of the following concerning</text>
+        <text>certain of the reservations, made upon ratification of the said Convention:</text>
+        <text>(Original: English)</text>
+        <text>"Sweden withdraws the reservations made in respect of Article 9, paragraph 2 in the Convention done at New York on</text>
+        <text>20 June 1956 on the recovery abroad of maintenance, and makes the following limited reservations in respect of paragraph 1 of</text>
+        <text>the same Article:</text>
+        <text>Where the proceedings are pending in Sweden, the exemptions in the payment of costs and the facilities provided in paragraph 1 shall be granted only to persons resident in a State Party to the Convention or to any person who would otherwise enjoy such advantages under an agreement concluded</text>
+        <text>with the State of which he is a national."</text>
+        <text>It should be noted that the above reservation in respect of paragraph 1 of Article 9 constitutes in substance a partial withdrawal of the original reservation to paragraph 1, since it differs from it only in that the facilities and exemptions concerned are now granted to all residents, and not only as was previously the v .case, to nationals and stateless residents.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>Pursuant to the provisions of article 2, paragraph 3, of the Convention on the Recovery Abroad of Maintenance, adopted under the United Nations auspices on 20 June 1956, we have the honour to inform you that in the Republic of Belarus the Ministry of Justice of the Republic of Belarus is the Transmitting Agency, and the Republic's district (municipal) courts are the Receiving Agencies. Pursuant to article 3, paragraph 2, we have the honour to inform you that, for the recovery of maintenance in the territory of the Republic of Belarus, the Transmitting Agencies of the States parties to the Convention are obliged to submit the following documents: 1. Claimant's application for the recognition and execution of the court decision. 2. The court decision or a certified copy thereof and the official document concerning the decision's entry into force. 3. The document indicating that the party against whom the decision was taken and who did not take part in the court proceedings was duly notified or represented. 4. The document confirming partial execution of decisions at the time of its transmittal. Samples of the aforementioned documents are annexed hereto. We also wish to inform you that the aforementioned documents should be sent by the Transmitting Agencies of the States parties to the regional courts and the Minsk Municipal Court depending on the respondent's place of residence:</text>
+        <text>1. Brest Regional Court 224000, Brest, ul. Sovetskikh pogranichnikov, 41 </text>
+        <text>2. Vitebsk Regional Court 210015, Vitebsk, ul. Shubina, 4 </text>
+        <text>3. Gomel Regional Court 246000, ul. Sovetskaya, 20 </text>
+        <text>4. Grodno Regional Court 230023, Grodno, ul. Karbysheva, 20 </text>
+        <text>5. Mogilev Regional Court 21203, Mogilev, ul. Pervomaiskaya, 28a </text>
+        <text>6. Minsk Regional Court 220 030, Minsk, ul. Lenina, 28 </text>
+        <text>7. Minsk Municipal Court220092, Minsk, ul. D. Martsinkevicha, 1 Address of the Ministry of Justice of the Republic of Belarus: 220084, Minsk, ul. Kollektornaya, 10 Tel./fax: 20 97 55 Tel.: 20 83 81</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>A. First situation: the Central African Republic has concluded a judicial convention: 1. With France, under the Agreement on Co-operation in Judicial matters, dated 18 January 1965, the Agency which transmits or receives the maintenance claims is the Minister of Justice, Keeper of the Seals. Claims are received or sent in the form of writs of debt, judgements or decrees, and the Ministers of Justice of the two States transmit them to the competent official, in this case the Procureur Général at the Court of Appeals of the respondent's residence, for execution. 2. With the African countries signatories of the Tananarive Convention of 12 September 1961, the exchanges are made through the Procureurs Généraux at the Court of Appeals. B. Second situation: The Central African Republic has not concluded a judicial convention with a particular country. Claims for recovery of maintenance are transmitted by the Procureur général at the Court of Appeals or the Minister of Justice, who refers them to the Minister for Foreign Affairs of the Central African Republic, who refers them to the Minister for Foreign Affairs of the country where the respondent resides. Claims originated abroad follow the same procedure.</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>Upon ratification (depositary notification C.N.80.1957.TREATIES-6 of 5 July 1957), the Government of the Republic of China designated the Ministry of Justice as Transmitting Agency and the National Bar Association of the Republic of China as Receiving Agency, both located in Taipei, Taiwan, China. With reference to signatures, ratifications, accessions, etc., on behalf of China, see United Nations publication Multilateral Treaties deposited with the Secretary-General, Status as at 31 December 2003 (document &lt;a href="/doc/source/publications/MTDSG/2003-vol.2-english.pdf" target="_blank"&gt;ST/LEG/SER/E/22/Add.1&lt;/a&gt;), notes 1, 2 and 3 in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>On 1 August 2011, the Government of Slovenia had designated the following as Transmitting and Receiving Agency:</text>
+        <text>Ministrstvo za delo, dru~ino in socialne zadeve (Ministry of Labour, Family and Social Affairs) Kotnikova 5, 1000 Ljubljana Email: gp.mddsz@gov.si Slovenia Telephone number: +386 (1) 369 75 00 Telefax number : +386 (1) 369 75 63.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XX 1. Maintenance Obligations</Footer>
+  </Treaty>
+</Document>

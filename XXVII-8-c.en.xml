@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>8</Numsect>
+        <Subnumsect>c</Subnumsect>
+        <Subtitlesect>Nagoya - Kuala Lumpur Supplementary Protocol on Liability and Redress to the Cartagena Protocol on Biosafety</Subtitlesect>
+        <Conclusion>Nagoya, 15 October 2010</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>5 March 2018, in accordance with article 18(1) which reads as follows: "This Supplementary Protocol shall enter into force on the ninetieth day after the date of deposit of the fortieth instrument of ratification, acceptance, approval or accession by States or regional economic integration organizations that are Parties to the Protocol".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>51</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>41</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc.:&lt;a href="/doc/source/docs/UNEP_CBD_BS_COP_MOP_5_17-E.pdf" target="_blank"&gt;UNEP/CBD/BS/COP-MOP/5/17&lt;/a&gt; of 15 October 2010.</Text>
+          <Text>C.N.826.2011.TREATIES-48 of 18 January 2012 (Proposal of corrections to the original text of the Protocol (Chinese version) and to the certified true copies) and C.N.201.2012.TREATIES-XXVII.8.c of 18 April 2012 (Corrections to the original text of the Protocol (Chinese version) and to the Certified true copies).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Supplementary Protocol was adopted on 15 October 2010 at Nagoya, Japan, during the fifth meeting of the Parties to the Cartagena Protocol on Biosafety. In accordance with its article 17, the Supplementary Protocol will be opened for signature by Parties to the Protocol at the United Nations Headquarters in New York from 7 March 2011 until 6 March 2012.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Approval(AA), Acceptance(A), Accession(a), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>29 Jan 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry>9 Aug 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>20 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>28 Oct 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>6 Mar 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>6 Dec 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>4 Oct 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry>26 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>30 Aug 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>6 Mar 2012</Entry>
+                <Entry>15 Jun 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>31 Jan 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>7 Mar 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>16 May 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>26 Apr 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>29 Dec 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>13 Feb 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry />
+                <Entry>4 Oct 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>7 Mar 2011</Entry>
+                <Entry>25 Feb 2015 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>6 Feb 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>21 Mar 2013 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>25 Apr 2014 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>20 Sep 2011</Entry>
+                <Entry>27 Aug 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry>1 Feb 2012</Entry>
+                <Entry>24 Sep 2013 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>9 Dec 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>11 Oct 2011</Entry>
+                <Entry>19 Dec 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>14 Jan 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>14 Jun 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>2 Mar 2012</Entry>
+                <Entry>5 Dec 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>30 Nov 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>17 Aug 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>6 Dec 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>14 May 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>22 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>23 Jun 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry>18 May 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>5 Mar 2012</Entry>
+                <Entry>26 Sep 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>26 Jan 2012</Entry>
+                <Entry>21 May 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry>26 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>7 Mar 2011</Entry>
+                <Entry>30 Dec 2013 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>1 Feb 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>1 Nov 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>3 May 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>4 May 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>20 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>20 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry>25 Jan 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>4 Oct 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>26 Jan 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>20 Jan 2012</Entry>
+                <Entry>28 Apr 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>8 May 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>21 Jul 2011</Entry>
+                <Entry>4 Dec 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry />
+                <Entry>21 Sep 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>7 Mar 2011</Entry>
+                <Entry>12 Oct 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry>27 Oct 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>5 Nov 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>6 Mar 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>27 Sep 2011</Entry>
+                <Entry>8 Feb 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>11 May 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>25 Jun 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>30 Jan 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry />
+                <Entry>12 Sep 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>22 Feb 2012</Entry>
+                <Entry>17 Mar 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>23 Apr 2014 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations</Title>
+      <Title>(Unless otherwise indicated, the declarations were made</Title>
+      <Title>upon ratification, accession, acceptance, approval or succession.)</Title>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="title">Upon signature</text>
+        <text type="para">"This signature engages also the Walloon Region, the Flemish Region and the Brussels-Capital Region."</text>
+      </Declaration>
+      <Declaration>
+        <Participant>European Union</Participant>
+        <text type="title">Declaration in accordance with Article 34(3) of the Convention on Biological Diversity</text>
+        <text type="para">The European Union declares that, in accordance with the Treaty on the Functioning of the European Union, and in particular Article 191 thereof, it is competent for entering into international agreements, and for implementing the obligations resulting therefrom, which contribute to the pursuit of the following objectives:</text>
+        <text type="para">- preserving, protecting and improving the quality of the environment;</text>
+        <text type="para">- protecting human health;</text>
+        <text type="para">- prudent and rational utilisation of natural resources;</text>
+        <text type="para">- promoting measures at international level to deal with regional or worldwide environmental problems, and in particular combating climate change.</text>
+        <text type="para">Moreover, the European Union adopts measures at Union level in the area of judicial cooperation in civil matters for the proper functioning of its internal market.</text>
+        <text type="para">The European Union declares that it has already adopted legal instruments, binding on its Member States, covering matters governed by this Supplementary Protocol. The exercise of Union competence is by nature subject to continuous development. In order to comply with its obligations under Article 20(3)(a) of the Cartagena Protocol on Biosafety to the Convention of Biodiversity, the Union will keep up to date the list of legal instruments already transmitted to the Biosafety Clearing House.</text>
+        <text type="para">The European Union is responsible for the performance of those obligations resulting from this Supplementary Protocol which are covered by Union law in force.</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>With Territorial exclusion with regard to Greenland and the Faroe Islands</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>For the European part of the Netherlands</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXVII 8 c. Environment</Footer>
+  </Treaty>
+</Document>

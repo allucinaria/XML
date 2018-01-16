@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER III</Header>
+        <Name>PRIVILEGES AND IMMUNITIES, DIPLOMATIC AND CONSULAR RELATIONS, ETC</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>12</Numsect>
+        <Titlesect>Vienna Convention on Succession of States in Respect of State Property, Archives and Debts</Titlesect>
+        <Conclusion>Vienna, 8 April 1983</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 50 which reads as follows: "1. The present Convention shall enter into force on the thirtieth day following the date of deposit of the fifteenth instrument of ratification or accession. 2. For each State ratifying or acceding to the Convention after the deposit of the fifteenth instrument of ratification or accession, the Convention shall enter into force on the thirteith day after deposit by such State of its instrument of ratification or accession.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>7</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>7</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc. &lt;a href="/doc/source/docs/a_conf.117_14-E.pdf" target="_blank"&gt;A/CONF.117/14&lt;/a&gt;. C.N.358.2008.TREATIES-1 of 6 May 2008 (Proposal of corrections to the original text of the Convention (Arabic text) and to the Certified True Copies) and C.N.555.2008.TREATIES-2 of 21 August 2008 (corrections).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted on 7 April 1983 and was opened for signature on 8 April 1983 by the United Nations Conference on Succession of States in respect of State Property, Archives and Debts. The Convention remained open for signature until 30 June 1984. The Conference was convened pursuant to General Assembly resolution &lt;a href="/doc/source/docs/A_RES_36_113-E.pdf" target="_blank"&gt;36/113&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of 10 December 1981 and &lt;a href="/doc/source/docs/A_RES_37_112-E.pdf" target="_blank"&gt;37/112&lt;/a&gt;&lt;superscript&gt;2&lt;/superscript&gt; of 15 November 1982. The Conference met at the Neue Hofburg in Vienna from 1 March to 8 April 1983. In addition to the Convention, the Conference adopted the Final Act and certain resolutions, which are an nexed to that Act. By unanimous decision of the Conference, the original of the Final Act was deposited in the archives of the Federal Ministry for Foreign Affairs of the Republic of Austria. For the text of the Final Act, see Conference document  &lt;a href="/doc/source/docs/a_conf_117_15-E.pdf" target="_blank"&gt;A/CONF./117/15&lt;/a&gt; of 7 April 1983.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature, Succession to signature(d)</Entry>
+              <Entry colname="3">Ratification, Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>16 May 1983</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>30 Dec 1983</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry />
+                <Entry>11 Apr 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>30 Jun 1984</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>21 Oct 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>12 Jul 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>23 Oct 2006 d</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>23 May 1984</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>10 Nov 1983</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>12 Mar 2001 d</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry />
+                <Entry>15 Aug 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry />
+                <Entry>2 Sep 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry />
+                <Entry>8 Jan 1993 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the General Assembly, Thirty-sixth Session, Supplement No. 51&lt;/i&gt; (A/36/51), p. 243.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>&lt;i&gt;Ibid., Thirty-seventh Session, Supplement No. 51&lt;/i&gt; (A/37/51), p. 263.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 1 under Montenegro in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>The former Yugoslavia had signed the Convention on 24 October 1983. See also note 1 under "Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>III 12. Privileges and Immunities, Diplomatic and Consular Relations, etc</Footer>
+  </Treaty>
+</Document>

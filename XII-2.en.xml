@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XII</Header>
+        <Name>NAVIGATION</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Titlesect>Convention regarding the Measurement and Registration of Vessels Employed in Inland Navigation</Titlesect>
+        <Conclusion>Bangkok, 22 June 1956</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 9 which reads as follows: "The present Convention shall come into force on the thirtieth day following the date of deposit of the fourth instrument of ratification. For each State ratifying or acceding to the Convention after the deposit of the fourth instrument of ratification, the Convention shall enter into force on the ninetieth day after the deposit by such State of its instrument of ratification or accession.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>4</Signatories>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations publication, Sales No.: 1957.II.F.9 (E/CN.11/461).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the Inland Waterway Sub-Committee of the Inland Transport Committee of the Economic Commission for Asia and the Far East at its third session, held at Dacca, East Pakistan, in October 1955.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1,2&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>22 Jun 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>22 Jun 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>22 Jun 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>22 Jun 1956</Entry>
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>Signed on behalf of the Republic of China on 22 June 1956. See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information section in the front matter of this volume).</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The Convention was signed on behalf of the Republic of Viet-Nam on 22 June 1956. See also note 1 under Viet Nam in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XII 2. Navigation</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVIII</Header>
+        <Name>PENAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>14</Numsect>
+        <Titlesect>United Nations Convention against Corruption</Titlesect>
+        <Conclusion>New York, 31 October 2003</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>14 December 2005, in accordance with article 68(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>14 December 2005, No. 42146</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>140</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>183</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 2349, p. 41; &lt;a href="/doc/source/docs/A_58_422-E.pdf" target="_blank"&gt;Doc. A/58/422&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the General Assembly of the United Nations on 31 October 2003 at United Nations Headquarters in New York. It shall be open to all States for signature from 9 to 11 December 2003 in Merida, Mexico, and thereafter at United Nations Headquarters in New York until 9 December 2005, in accordance with article 67 (1) of the Convention. The Convention shall also be open for signature by regional economic integration organizations provided that at least one member State of such organization has signed this Convention in accordance with its article?7 (2).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+  </Treaty>
+</Document>

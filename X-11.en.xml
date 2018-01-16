@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>11</Numsect>
+        <Titlesect>Charter of the Asian and Pacific Development Centre</Titlesect>
+        <Conclusion>Bangkok, 1 April 1982</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 July 1983, in accordance with article XVIII(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 July 1983, No. 22028</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>3</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>17</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1321, p. 203.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Charter was adopted on 1 April 1982 by resolution 225 (XXXVIII)&lt;superscript&gt;2&lt;/superscript&gt; of the Economic and Social Commission for Asia and the Pacific, following decisions taken by the Commission in its resolutions 191 (XXXV) of 14 March 1979, 206 (XXXVI) of 27 March 1980 and 215 (XXXVII) of of 19 March 1981. The Charter, under article XVI (2), was open for signature by the Members and Associated Members of the Commission at the Headquarters of the Commission in Bangkok from 1 September 1982 to 30 April 1983 and remains open thereafter at the Headquarters of the UnitedNations in New York.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Definitive signature(s), Ratification, Acceptance(A), Approval(AA), Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>11 Oct 1983 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>9 Sep 1982 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry />
+                <Entry>14 Feb 1985 s</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;1,3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Feb 1983 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Cook Islands</Entry>
+                <Entry />
+                <Entry>29 Mar 1983 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>4 Sep 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry />
+                <Entry>25 Apr 1983 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry />
+                <Entry>7 Jan 1983 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry />
+                <Entry>9 Sep 1982 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>9 Sep 1982</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>9 Sep 1982 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry />
+                <Entry>25 Apr 1983 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>25 Apr 1983 s</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>9 Sep 1982</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>9 Sep 1982 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry />
+                <Entry>15 Dec 1982 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>9 Sep 1982 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>9 Sep 1982</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry />
+                <Entry>27 Jun 1983 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>9 Sep 1982 s</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>In addition, Macao is an associate member. The instrument of accession, deposited on 3 June 1993, was accompanied by the following declaration by the Government of Portugal, made in accordance with article XVII of the Statutes, according to which:</text>
+        <text>... The Government of the Portuguese Republic confirms that Macao, as an associate member of the Economic and Social Commission for Asia and the Pacific, is authorized to be a party to the Charter of the Asian and Pacific Development Centre and to assume the rights and obligations contained herein. ....</text>
+        <text>The Secretary-General received communications regarding the status of Macao from China and Portugal (see note 3 under China and note 1 under Portgual in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Macao, China notified the Secretary-General that the Convention will also apply to the Macao Special Administrative Region.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Official Records of the Economic and Social Council, Supplement No. 10 (E/198/20) and (E/ESCAP/287).</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The Secretary-General received communications regarding the status of Hong Kong from China and the United Kingdom of Great Britain and Northern Ireland (see note 2 under China and note 2 under United Kingdom of Great Britain and Northern Ireland in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Hong Kong, China notified the Secretary-General that the Convention will also apply to the Hong Kong Special Administrative Region.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under "New Zealand" regarding Tokelau in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 11. International Trade and Development</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>8</Numsect>
+        <Titlesect>Agreement establishing the International Fund for Agricultural Development</Titlesect>
+        <Conclusion>Rome, 13 June 1976</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>30 November 1977, in accordance with article 13, section 3 (a).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>30 November 1977, No. 16041</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>77</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>176</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1059, p. 191 (including procès-verbal of rectification of the French text of annex 1); vol. 1141, p. 462 (procès-verbal of rectification of the Arabic authentic text); vol. 1457, p. 372 [amendment to section 8 (a) of article 6]; and depositary notifications C.N.873.1998.TREATIES-2 of 12 March 1999 (amendments to articles 3.3, 3.4, 4.2, 4.5, 5.1, 6.2, 6.3, 6.5, 6.6, 12 (A) and 13.3 and Schedules I, II and III effected by Resolution 86/XVIII adopted on 26 January 1995 by the Government Council); C.N.874.1998.TREATIES-3 of 12 March 1999 (amendment to article 4.1 of the Agreement effected by Resolution 100/XX adopted on 21 February 1997 by the Governing Council); C.N.149.2009.TREATIES-2 of 23 July 2009 (amendments to articles 7.2 (A) and (B) of the Agreement effected by Resolution 124/XXIV adopted on 21 February 2001 by the Governing Council); C.N.161.2009.TREATIES-3 of 23 July 2009 (amendments to articles 7.2 (A) and (B) of the Agreement effected by Resolution 141/XXIX adopted on 16 February 2006 by the Governing Council) and C.N.162.2009.TREATIES-4 of 23 July 2009 (amendments to articles 7.2 (G) of the Agreement effected by Resolution 143/XXIX adopted on 16 February 2006 by the Governing Council).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was adopted on 13 June 1976 by the United Nations Conference on the Establishment of an International Fund for Agricultural Development, which met at the Headquarters of the Food and Agriculture Organization of the United Nations and the World Food Council in Rome, Italy, from 10 to 13 June 1976. In accordance with section 1 (a) of its article 13, the Agreement was opened for signature by the States concerned on 20 December 1976 at the Headquarters of the UnitedNations in New York. At its Tenth session held in Rome, the Governing Council of the Fund, by its Resolution 44/X of 11 December 1986 adopted, in accordance with article 12 of the Agreement, an amendment to section 8 (a) of article 6 of the Agreement, which amendment entered into force on 11 March 1987, in accordance with article 12 (a) (ii).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Acceptance(A), Approval(AA)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry />
+                <Entry>13 Dec 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>3 Nov 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>20 Jul 1977</Entry>
+                <Entry>26 May 1978 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry />
+                <Entry>24 Apr 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>21 Jan 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>14 Apr 1977</Entry>
+                <Entry>11 Sep 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>23 Mar 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>[30 Mar 1977 ]</Entry>
+                <Entry>[21 Oct 1977 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>1 Apr 1977</Entry>
+                <Entry>12 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>11 Apr 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry />
+                <Entry>28 Feb 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>17 Mar 1977</Entry>
+                <Entry>9 May 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>13 Dec 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>16 Mar 1977</Entry>
+                <Entry>9 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry />
+                <Entry>15 Dec 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>28 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry />
+                <Entry>13 Dec 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>27 Jul 1977</Entry>
+                <Entry>30 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry />
+                <Entry>18 Mar 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry />
+                <Entry>21 Jul 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>13 Apr 1977</Entry>
+                <Entry>2 Nov 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>14 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry />
+                <Entry>13 Dec 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry />
+                <Entry>12 Oct 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>25 Aug 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>20 Jun 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>10 Feb 1977</Entry>
+                <Entry>28 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>11 Dec 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>13 Oct 1977</Entry>
+                <Entry>3 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>19 Jan 1977</Entry>
+                <Entry>2 Jun 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>China</Entry>
+                <Entry />
+                <Entry>15 Jan 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>16 Jul 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>30 Jun 1977</Entry>
+                <Entry>27 Jul 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Cook Islands</Entry>
+                <Entry />
+                <Entry>25 Mar 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>20 Dec 1977</Entry>
+                <Entry>16 Nov 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>19 Jan 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry />
+                <Entry>24 Mar 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>23 Sep 1977</Entry>
+                <Entry>15 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>20 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry />
+                <Entry>23 Feb 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>23 May 1977</Entry>
+                <Entry>12 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>11 Jan 1977</Entry>
+                <Entry>28 Jun 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry />
+                <Entry>14 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>29 Jan 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>29 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>1 Apr 1977</Entry>
+                <Entry>19 Jul 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>18 Feb 1977</Entry>
+                <Entry>11 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>21 Mar 1977</Entry>
+                <Entry>31 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Equatorial Guinea</Entry>
+                <Entry />
+                <Entry>29 Jul 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Eritrea</Entry>
+                <Entry />
+                <Entry>31 Mar 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>5 Dec 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>20 Jul 1977</Entry>
+                <Entry>7 Sep 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>28 Mar 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>24 Feb 1977</Entry>
+                <Entry>30 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>21 Jan 1977</Entry>
+                <Entry>12 Dec 1977 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>5 Jun 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>1 Feb 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;3,4&lt;/superscript&gt;</Entry>
+                <Entry>29 Mar 1977</Entry>
+                <Entry>14 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>19 Oct 1977</Entry>
+                <Entry>5 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>1 Jul 1977</Entry>
+                <Entry>30 Nov 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Grenada</Entry>
+                <Entry />
+                <Entry>25 Jul 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>30 Nov 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry>3 May 1977</Entry>
+                <Entry>12 Jul 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry />
+                <Entry>25 Jan 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry />
+                <Entry>19 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>5 Jul 1977</Entry>
+                <Entry>13 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>13 Jul 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>8 Aug 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>21 Jan 1977</Entry>
+                <Entry>28 Mar 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>18 Feb 1977</Entry>
+                <Entry>27 Sep 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>27 Apr 1977</Entry>
+                <Entry>12 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>23 Nov 1977</Entry>
+                <Entry>13 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>28 Apr 1977</Entry>
+                <Entry>14 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>28 Apr 1977</Entry>
+                <Entry>10 Jan 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>26 Jan 1977</Entry>
+                <Entry>10 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry>24 Mar 1977</Entry>
+                <Entry>13 Apr 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>11 Feb 1977</Entry>
+                <Entry>25 Oct 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>15 Feb 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>25 Sep 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>30 Mar 1977</Entry>
+                <Entry>10 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Kiribati</Entry>
+                <Entry />
+                <Entry>23 Feb 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry>4 Mar 1977</Entry>
+                <Entry>29 Jul 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>10 Sep 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>13 Dec 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry />
+                <Entry>20 Jun 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>11 Apr 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>15 Apr 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry>18 Feb 1977</Entry>
+                <Entry>9 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>12 Jan 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>23 Jan 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry />
+                <Entry>15 Jan 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>30 Jun 1977</Entry>
+                <Entry>30 Sep 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>24 Feb 1977</Entry>
+                <Entry>23 Sep 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry />
+                <Entry>18 Feb 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>26 Jun 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>29 Jan 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>2 Aug 1977</Entry>
+                <Entry>31 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry />
+                <Entry>16 Feb 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>9 Feb 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry />
+                <Entry>16 Feb 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>22 Dec 1976</Entry>
+                <Entry>16 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>16 Oct 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry />
+                <Entry>23 Jan 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Namibia</Entry>
+                <Entry />
+                <Entry>16 Oct 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nauru</Entry>
+                <Entry />
+                <Entry>13 Feb 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>5 May 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry>4 Feb 1977</Entry>
+                <Entry>29 Jul 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry>10 Oct 1977</Entry>
+                <Entry>10 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>18 May 1977</Entry>
+                <Entry>28 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>6 May 1977</Entry>
+                <Entry>25 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Niue</Entry>
+                <Entry />
+                <Entry>20 Jul 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>20 Jan 1977</Entry>
+                <Entry>8 Jul 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>19 Apr 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry>28 Jan 1977</Entry>
+                <Entry>9 Mar 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry />
+                <Entry>16 Feb 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>8 Mar 1977</Entry>
+                <Entry>13 Apr 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry>4 Jan 1978</Entry>
+                <Entry>11 May 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>23 Mar 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>20 Sep 1977</Entry>
+                <Entry>6 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>5 Jan 1977</Entry>
+                <Entry>4 Apr 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>30 Sep 1977</Entry>
+                <Entry>30 Nov 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>2 Mar 1977</Entry>
+                <Entry>26 Jan 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>17 Jan 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>22 Mar 1977</Entry>
+                <Entry>25 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>19 Feb 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry>10 May 1977</Entry>
+                <Entry>29 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry />
+                <Entry>22 Apr 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry>5 Jul 1977</Entry>
+                <Entry>15 Jul 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>19 Jul 1977</Entry>
+                <Entry>13 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>13 Dec 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>15 Feb 1977</Entry>
+                <Entry>14 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry />
+                <Entry>13 Mar 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Somalia</Entry>
+                <Entry>26 Jan 1977</Entry>
+                <Entry>8 Sep 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>14 Feb 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>South Sudan</Entry>
+                <Entry />
+                <Entry>22 Feb 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>22 Jun 1977</Entry>
+                <Entry>27 Nov 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>15 Feb 1977</Entry>
+                <Entry>23 Mar 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Kitts and Nevis</Entry>
+                <Entry />
+                <Entry>21 Jan 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry />
+                <Entry>9 Oct 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>8 Mar 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>21 Mar 1977</Entry>
+                <Entry>12 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry />
+                <Entry>15 Feb 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry>18 Nov 1977</Entry>
+                <Entry>18 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>12 Jan 1977</Entry>
+                <Entry>17 Jun 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>24 Jan 1977</Entry>
+                <Entry>21 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry>8 Sep 1977</Entry>
+                <Entry>29 Nov 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>26 Jan 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>19 Apr 1977</Entry>
+                <Entry>30 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry />
+                <Entry>26 Jan 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Timor-Leste</Entry>
+                <Entry />
+                <Entry>4 Mar 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry />
+                <Entry>26 Apr 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>12 Apr 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>24 Mar 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>27 Jan 1977</Entry>
+                <Entry>23 Aug 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>17 Nov 1977</Entry>
+                <Entry>14 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Tuvalu</Entry>
+                <Entry />
+                <Entry>13 Feb 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>6 Jul 1977</Entry>
+                <Entry>31 Aug 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry>5 Oct 1977</Entry>
+                <Entry>28 Dec 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>7 Jan 1977</Entry>
+                <Entry>9 Sep 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>18 Jul 1977</Entry>
+                <Entry>25 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>22 Dec 1976</Entry>
+                <Entry>4 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>5 Apr 1977</Entry>
+                <Entry>16 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>19 Feb 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Vanuatu</Entry>
+                <Entry />
+                <Entry>13 Feb 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>4 Jan 1977</Entry>
+                <Entry>13 Oct 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen</Entry>
+                <Entry />
+                <Entry>13 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>16 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>22 Jan 1981 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables>
+      <Table>
+        <TableNo>1</TableNo>
+        <Columns>4</Columns>
+        <Title>Amount of the initial contribution as specified in the instrument in accordance with article 4(2)(a) and (b) (showing in parentheses the category of the contribution)&lt;superscript&gt;12&lt;/superscript&gt;</Title>
+        <TableHeader>
+          <Title>Participant</Title>
+          <Title>Currency Unit</Title>
+          <Title>Amount</Title>
+          <Title />
+        </TableHeader>
+        <Rows>
+          <Row>
+            <Column>Algeria</Column>
+            <Column>US dollar</Column>
+            <Column>10 000 000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>[Australia&lt;superscript&gt;1&lt;/superscript&gt;]</Column>
+            <Column>[Australian dollar]</Column>
+            <Column>[8,000,000]</Column>
+            <Column>[(I)]</Column>
+          </Row>
+          <Row>
+            <Column>Austria</Column>
+            <Column>US dollar</Column>
+            <Column>4,800,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Barbados</Column>
+            <Column>US dollar</Column>
+            <Column>1,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Belgium</Column>
+            <Column>Belgian franc</Column>
+            <Column>500,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Belgium</Column>
+            <Column>US dollar</Column>
+            <Column>1,000,000</Column>
+            <Column />
+          </Row>
+          <Row>
+            <Column>Burkina Faso</Column>
+            <Column>US dollar</Column>
+            <Column>10,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Canada</Column>
+            <Column>Canadian dollar</Column>
+            <Column>33,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Central African Republic</Column>
+            <Column>CFA franc</Column>
+            <Column>1,000,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Comoros</Column>
+            <Column>CFA franc</Column>
+            <Column>10,000,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Cyprus</Column>
+            <Column>US dollar</Column>
+            <Column>10,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Denmark</Column>
+            <Column>US dollar</Column>
+            <Column>7,500,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>El Salvador</Column>
+            <Column>Colón</Column>
+            <Column>100,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Fiji</Column>
+            <Column>US dollar</Column>
+            <Column>5,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Finland</Column>
+            <Column>Finnish mark</Column>
+            <Column>12,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>France</Column>
+            <Column>French franc</Column>
+            <Column>127,500,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Gabon</Column>
+            <Column>US dollar</Column>
+            <Column>500,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Georgia</Column>
+            <Column>US dollar</Column>
+            <Column>10,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Germany</Column>
+            <Column>US dollar</Column>
+            <Column>55 000 000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Ghana</Column>
+            <Column>US dollar</Column>
+            <Column>100,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Greece</Column>
+            <Column>US dollar</Column>
+            <Column>150,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Guinea</Column>
+            <Column>Sili</Column>
+            <Column>25,000,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Indonesia</Column>
+            <Column>US dollar</Column>
+            <Column>1,250,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Iran (Islamic Republic of)</Column>
+            <Column>US dollar</Column>
+            <Column>124,750,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Iraq</Column>
+            <Column>US dollar</Column>
+            <Column>20,000,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Ireland</Column>
+            <Column>Pound sterling</Column>
+            <Column>570,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Italy</Column>
+            <Column>US dollar</Column>
+            <Column>25,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Japan</Column>
+            <Column>Equivalant to US dollar</Column>
+            <Column>55,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Kuwait</Column>
+            <Column>US dollar</Column>
+            <Column>36,000,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Libyan Arab Jamahiriya</Column>
+            <Column>US dollar</Column>
+            <Column>20,000,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Luxembourg</Column>
+            <Column>Belgian franc</Column>
+            <Column />
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Malawi</Column>
+            <Column>US dollar</Column>
+            <Column>5,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Mozambique</Column>
+            <Column>Escudo</Column>
+            <Column>1,200,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Netherlands</Column>
+            <Column>Guilder</Column>
+            <Column>100,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>New Zealand</Column>
+            <Column>New Zealand dollar</Column>
+            <Column>2,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Niger</Column>
+            <Column>CFA franc</Column>
+            <Column>15,000,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Nigeria</Column>
+            <Column>US dollar</Column>
+            <Column>26,000,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Norway</Column>
+            <Column>Norwegian krone</Column>
+            <Column>130,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Pakistan</Column>
+            <Column>US dollar</Column>
+            <Column>1,000,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Papua New Guinea</Column>
+            <Column>US dollar</Column>
+            <Column>20,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Peru</Column>
+            <Column>US dollar</Column>
+            <Column>3,000,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Philippines</Column>
+            <Column>US dollar</Column>
+            <Column>250,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Qatar</Column>
+            <Column>US dollar</Column>
+            <Column>9,000,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Samoa</Column>
+            <Column>US dollar</Column>
+            <Column>10,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Saudi Arabia</Column>
+            <Column>US dollar</Column>
+            <Column>105,500,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Seychelles</Column>
+            <Column>US dollar</Column>
+            <Column>5,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>South Africa</Column>
+            <Column>US dollar</Column>
+            <Column>500,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Spain</Column>
+            <Column>Pesetas</Column>
+            <Column>2,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>St. Kitts and Nevis</Column>
+            <Column>US dollar</Column>
+            <Column>1,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Sweden</Column>
+            <Column>Swedish krona</Column>
+            <Column>115,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Switzerland</Column>
+            <Column>Swisse franc</Column>
+            <Column>22,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Togo</Column>
+            <Column>CFA franc</Column>
+            <Column>3,000,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>United Arab Emirates</Column>
+            <Column>US dollar</Column>
+            <Column>16,500,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>Pound sterling</Column>
+            <Column>18,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>United States of America</Column>
+            <Column>US dollar</Column>
+            <Column>200,000,000</Column>
+            <Column>(I)</Column>
+          </Row>
+          <Row>
+            <Column>Venezuela (Bolivarian Republic of)</Column>
+            <Column>US dollar</Column>
+            <Column>66,000,000</Column>
+            <Column>(II)</Column>
+          </Row>
+          <Row>
+            <Column>Viet Nam</Column>
+            <Column>Dong</Column>
+            <Column>500,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Yemen</Column>
+            <Column>US dollar</Column>
+            <Column>50,000</Column>
+            <Column>(III)</Column>
+          </Row>
+          <Row>
+            <Column>Zambia</Column>
+            <Column>Kwacha</Column>
+            <Column>50,000</Column>
+            <Column>(III)</Column>
+          </Row>
+        </Rows>
+      </Table>
+    </SpecialTables>
+    <Declarations>
+      <Title />
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession, acceptance or approval.)</Title>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of the Republic of Cuba considers that, although the Agreement deals with matters affecting the interests of all States, the provisions of article 3, section 1, are discriminatory in nature since they deprive a number of States of the right to sign and accede to the Agreement, contrary to the principle of universality.</text>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of the Republic of Cuba wishes to make an express reservation to article 11, section 2, of the Agreement, since it feels that any disputes arising between States, or between States and the Fund, concerning the interpretation or application of the Agreement should be resolved through direct negotiations by diplomatic means.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Egypt&lt;superscript&gt;13&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="para">In depositing its instrument of approval, the Government of the French Republic declares, in accordance with the provisions of section 4 of article 13, that it will not accept, in so far as it is concerned, the application of the procedure provided for in section 2 of article 11 whereby a party may request the President of the International Court of Justice to appoint an arbitrator.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Guatemala</Participant>
+        <text type="para">The &lt;i&gt;de facto &lt;/i&gt; relations which may arise between Guatemala and Belize as a result of the latter's accession to the Agreement should not in any way be construed as a recognition on the part of Guatemala of the sovereignty and independence of that territory, which were unilaterally declared by the United Kingdom of Great Britain and Northern Ireland.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iraq</Participant>
+        <text type="para">"Entry into the [. . .] Agreement by the Republic of Iraq shall, however, in no way signify recognition of Israel or be conducive to entry into any relations with it."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kuwait</Participant>
+        <text type="para">"It is understood that the ratification by the State of Kuwait of the Agreement Establishing the International Fund for Agricultural Development, signed by the State of Kuwait on 4 March, 1977, does not mean in any way recognition of Israel by the State of Kuwait. Furthermore, no treaty relations will arise between the State of Kuwait and Israel."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Romania</Participant>
+        <text type="title">Upon signature (confirmed upon ratification):</text>
+        <text type="para">The interpretation and application of the provisions of the Agreement establishing the International Fund for Agricultural Development, including those relating to voting procedures, and all activities of IFAD must take place on a democratic basis, in accordance with the purpose for which the Fund was established, namely, to assist the developing countries in their efforts to develop their agriculture.</text>
+        <text type="title">Upon ratification:</text>
+        <text type="title">Reservation</text>
+        <text type="para">The Socialist Republic of Romania declares, pursuant to the provisions of article 13, section 4, of the Agreement establishing the International Fund for Agricultural Development (IFAD), concluded at Rome on 13 June 1976, that it does not consider itself bound by the provisions of article 11, section 2, of the Agreement.</text>
+        <text type="para">The Socialist Republic of Romania considers that disputes between the Fund and a State which has ceased to be a member, or between the Fund and one of the members upon the termination of the Fund's operations, can be submitted to arbitration only with the consent of all parties to the dispute in each individual case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Saudi Arabia</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">The participation of the Kingdom of Saudi Arabia in the Agreement shall in no way imply recognition of Israel and shall not lead to entry into dealings with Israel under this Agreement.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Syrian Arab Republic&lt;superscript&gt;14&lt;/superscript&gt;</Participant>
+        <text type="para">"It is understood that the ratification of this Agreement by the Syrian Arab Republic does not mean in any way recognition of Israel by the Syrian Arab Republic. Furthermore, no treaty relations will arise between the Syrian Arab Republic and Israel."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="para">"The Government of the United Kingdom of Great Britain and Northern Ireland [notifies the Secretary-General] in accordance with article 10, section 2 (b) (ii) of the Agreement, that the standard clauses of the Convention on the privileges and immunities of the specialized agencies shall apply to the Fund in the United Kingdom, subject to the following modifications:</text>
+        <text type="para">"1. The following shall be substituted for section 4:</text>
+        <text type="para">`(1) The Fund shall have immunity from jurisdiction and execution except: (a) to the extent that it shall, by a decision of the Executive Board, have waived such immunity in a particular case. However, the Fund shall be deemed to have waived such immunity if, upon receiving a request for waiver submitted either by the person or body before which the proceedings are pending, or by another party to the proceedings, it has not given notice within two months after receipt of the request that it does not waive immunity; (b) in respect of a civil action by a third party in respect of loss, injury or damage arising from an accident caused by a vehicle belonging to, or operated on behalf of, the Fund or in respect of an offence involving such a vehicle; (c) in the event of the attachment, pursuant to a decision of a judicial authority, of the salary and emoluments owed by the Fund to a member of its staff; (d) in respect of the enforcement of an arbitration award made under article 11 of the Agreement establishing the Fund. (2) Notwithstanding the provisions of paragraph (1) of this section no action shall be brought against the Fund by a Member or person acting for or deriving claims from a Member.'</text>
+        <text type="para">"2. The immunity conferred by section 5 upon the property and assets of the Fund shall be subject to the provisions of paragraph 1 (c) above.</text>
+        <text type="para">"3. The following shall be substituted for section 11:</text>
+        <text type="para">`Official communications of the Fund shall be accorded by the Government of the United Kingdom treatment not less favourable than that which it accords to the official communications of other international financial institutions of which it is a Member, taking into account its international obligations in respect of telecommunications.'</text>
+        <text type="para">"4. The following shall be substituted for sections 13-15, 17-21, and 25-30:</text>
+        <text type="para">`(1) All representatives of Members (other than representatives of the Government of the United Kingdom), the President and all other staff of the Fund: (a) shall be immune from legal process in respect of acts performed by them in the exercise of their functions, except in the case of loss, injury or damage caused by a vehicle belonging to or driven by them or an offence involving such a vehicle; (b) shall be accorded no less favourable immunities from immigration restrictions, alien registration requirements and national service obligations, and no less favourable treatment as regards exchange regulations, than are accorded by the Government of the United Kingdom to the representatives to, and officials and employees of comparable rank of any other international financial institution of which it is a Member; and (c) shall be granted no less favourable treatment in respect of travelling facilities than is accorded by the Government of the United Kingdom to representatives to, and officials and employees of comparable rank of, any other international financial institution of which it is a member. (2) (a) No tax shall be levied on or in respect of salaries and emoluments paid by the Fund to the President and other members of the staff of the Fund unless they are citizens of the United Kingdom and Colonies or resident in the United Kingdom. (b) The provisions of paragraph (a) shall not apply to annuities and pensions paid by the Fund to its former President or other members of its staff.'"</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Uzbekistan</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">In accordance with section 4 of article 13 of the Agreement, the Republic of Uzbekistan declares that it does not consider itself bound by the provisions of section 2 of article 11 of the Agreement.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="para">Since the procedure established for the settlement of disputes arising in connexion with the application or interpretation of this Agreement is incompatible with Venezulean legislation, Venezuela expresses a specific reservation concerning article 11, section 2.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>On 1 September 2004, the Government of Australia informed the Secretary-General that it had decided to denounce the Agreement. The action will become effective for Australia on 31 July 2007, in accordance with its article 9, Section 1(b).</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had signed and ratified the Agreement on 10 February 1977 and 12 December 1977, respectively [the amout of the initial contribution as specified in the instrument in accordance with article 4(2) (a) and (b) being in US dollars 300, 000 (category III) to be paid in dinars]. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>By resolutions 53/XII and 65/XIV, the Governing Council of the International Fund for Agricultural Development, at its Twelfth and Fourteenth Sessions, held from 24 to 26 January and 7 to 8 June 1989, and from 29 to 30 May 1991, decided, in accordance with section 3 (b) of article 3 of the Agreement, to reclassify Greece and Portugal from Category III to Category I, with effect from 24 January 1989 and 29 May 1991, respectively.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The amount payable in three instalments.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>In its instrument of ratification the Government of Luxembourg specified that its initial contribution would consist in the equivalent 320,000 Special Drawing Rights (SDR) in Belgian francs.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>For the Kingdom in Europe and as from 1 January 1986 to Aruba. See also note 1under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>See note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>One half of the amount payable in Pakistan rupees and one half payable in convertible currency.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>On 27 March 1997, the Government of Trinidad and Tobago notified the Secretary-General of its denunciation of the Agreement. The withdrawal was to take effect on 27 September 1997. On 26 September 1997, the Government of Trinidad and Tobago notified the Secretary-General of its decision to suspend the withdrawal from the Agreement.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>Categories of States not having made an initial contribution, in accordance with article 4 (2) (a) and (b), included:</text>
+        <text>Category I: Portugal.</text>
+        <text>Category III: Afghanistan, Albania, Angola, Antigua and Barbuda, Argentina, Armenia, Azerbaijan, Bangladesh, Belize, Benin, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Burundi, Cambodia, Cameroon, Cape Verde, Chad, Chile, China, Colombia, Congo, Cook Islands, Costa Rica, Côte dIvoire, Croatia, Cuba, Democratic Peoples Republic of Korea, Democratic Republic of the Congo, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Grenada, Guatemala, Guinea-Bissau, Guyana, Haiti, Honduras, India, Israel, Jamaica, Jordan, Kazakstan, Kenya, Kyrgyzstan, Lao Peoples Democratic Republic, Lebanon, Lesotho, Liberia, Madagascar, Malaysia, Maldives, Mali, Malta, Mauritania, Mauritius, Mexico, Mongolia, Morocco, Myanmar, Namibia, Nepal, Nicaragua, Oman, Panama, Paraguay, Peru, Portugal, Republic of Korea, Republic of Moldova, Romania, Rwanda, Saint Lucia, Saint Vincent and the Grenadines, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, Sri Lanka, Sudan, Suriname, Swaziland, Syrian Arab Republic, Tajikistan, Thailand, the former Yugoslav Republic of Macedonia, Tonga, Trinidad and Tobago, Tunisia, Turkey, Uganda, United Republic of Tanzania, Uruguay and Zimbabwe.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>In a notification received on 18 January 1980, the Government of Egypt informed the Secretary-General that it had decided to withdraw the declaration relating to Israel. The notification indicates 25 January 1980 as the effective date of the withdrawal. For the text of the said declaration see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.1059, p.3l9.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>In a communication received by the Secretary-General on 24 January 1979, the Government of Israel declared the following:</text>
+        <text>"The instrument deposited by the Government of the Syrian Arab Republic contains a statement of a political character in respect to Israel. In the view of the Government of Israel, this is not the proper place for making such political pronouncements, which are moreover in flagrant contradiction to the principles, objects and purposes of the Organization. That pronouncement by the Government of the Syrian Arab Republic cannot in any way affect whatever obligations are binding upon it under general international law or under particular treaties.</text>
+        <text>"The Government of Israel will, insofar as concerns the substance of the matter, adopt towards the Government of the Syrian Arab Republic an attitude of complete reciprocity."</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 8. International Trade and Development</Footer>
+  </Treaty>
+</Document>

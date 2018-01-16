@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>International Agreement on Olive Oil, 1956*</Titlesect>
+        <Conclusion>Geneva, 17 October 1955, and New York, 15 November 1955</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>The International Agreement on Olive Oil, 1956, which was drawn up at the first session of the United Nations Conference on Olive Oil held at Geneva from 3 to 17 October 1955 and opened for signature at the Headquarters of the United Nations did not come into force [see the Protocol amending the International Agreement on Olive Oil, 1956 (chapter XIX.2) and the International Agreement on Olive Oil, 1956, as amended by the Protocol of 3 April 1958 (chapter XIX.3)].</Labeltext>
+        </EIF>
+        <Registration />
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations publications, sales No.: 1956.II.D.1 (E/CONF.19/5). (See also amended text in chapter XIX.3.)</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XIX 1. Commodities</Footer>
+  </Treaty>
+</Document>

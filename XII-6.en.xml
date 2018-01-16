@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XII</Header>
+        <Name>NAVIGATION</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>6</Numsect>
+        <Titlesect>Convention on a Code of Conduct for Liner Conferences</Titlesect>
+        <Conclusion>Geneva, 6 April 1974</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>6 October 1983, in accordance with article 49(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>6 October 1983, No. 22380</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>21</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>76</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1334, p. 15 and vol. 1365, p. 360 (procès-verbal of rectification of the English and French authentic texts).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>Adopted by a Conference of plenipotentiaries which met at Geneva from 12 November to 15 December 1973 and from 11 March to 6 April 1974 under the auspices of the United Nations Conference on Trade and Development, in accordance with resolution &lt;a href="/doc/source/docs/A_RES_27_3035-E.pdf" target="_blank"&gt;3035 (XXVII)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of the General Assembly of the United Nations dated on 19 December 1972. Open for signature from 1 July 1974 to 30 June 1975.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Definitive signature(s), Ratification, Accession(a), Acceptance(A), Approval(AA), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>27 Jun 1975</Entry>
+                <Entry>12 Dec 1986</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>24 Jul 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>29 Oct 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>30 Jun 1975</Entry>
+                <Entry>30 Sep 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>27 Oct 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>23 Jun 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bulgaria&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[12 Jul 1979 a]</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>30 Mar 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry />
+                <Entry>2 Nov 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry />
+                <Entry>13 Jan 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>15 Jun 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>13 May 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry />
+                <Entry>25 Jun 1975 s</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Sep 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>26 Jul 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>15 May 1975</Entry>
+                <Entry>27 Oct 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>1 May 1975</Entry>
+                <Entry>17 Feb 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>23 Jul 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>2 Jun 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry />
+                <Entry>25 Jul 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;5,6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[28 Jun 1985 a]</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>22 Oct 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>25 Jan 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>19 Jun 1975</Entry>
+                <Entry>1 Sep 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>31 Dec 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>30 Jun 1975</Entry>
+                <Entry>4 Oct 1985 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>10 Oct 1974</Entry>
+                <Entry>5 Jun 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry />
+                <Entry>30 Jun 1975 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;7,8,9&lt;/superscript&gt;</Entry>
+                <Entry>[30 Jun 1975 ]</Entry>
+                <Entry>[ 6 Apr 1983 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>14 May 1975</Entry>
+                <Entry>24 Jun 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>15 Nov 1974</Entry>
+                <Entry>3 Mar 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>19 Aug 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>7 Jan 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>12 Jun 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>27 Jun 1975</Entry>
+                <Entry>14 Feb 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>5 Feb 1975</Entry>
+                <Entry>11 Jan 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>7 Aug 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry />
+                <Entry>25 Oct 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry />
+                <Entry>30 May 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>20 Jul 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>17 Mar 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>27 Feb 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry />
+                <Entry>31 Mar 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry />
+                <Entry>30 Apr 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>23 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>27 Aug 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>15 Mar 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>15 May 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>21 Mar 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>16 Sep 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>6 May 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>11 Feb 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>21 Sep 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[ 6 Apr 1983 a]</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>24 Jun 1975</Entry>
+                <Entry>13 Jan 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>10 Sep 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>28 Jun 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>27 Jun 1975 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>21 Nov 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>2 Aug 1974</Entry>
+                <Entry>2 Mar 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry />
+                <Entry>13 Jun 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry />
+                <Entry>31 Oct 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>11 May 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>7 Jan 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>27 Jun 1975</Entry>
+                <Entry>28 Jun 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>24 May 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>30 Jun 1975</Entry>
+                <Entry>20 May 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;12&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>9 Jul 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Somalia</Entry>
+                <Entry />
+                <Entry>14 Nov 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>3 Feb 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>30 Jun 1975 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry />
+                <Entry>16 Mar 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry />
+                <Entry>28 Jun 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>25 Jun 1975</Entry>
+                <Entry>12 Jan 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>3 Aug 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>15 Mar 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>30 Jun 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3,13,14&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[28 Jun 1985 a]</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry />
+                <Entry>3 Nov 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>9 Jul 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>30 Jun 1975 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>8 Apr 1988 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon</Title>
+      <Title>definitive signature, ratification, accession, acceptance, approval or succession.)</Title>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">Under Belgian law, the Convention must be approved by the legislative chambers before it can be ratified.</text>
+        <text type="para">In due course, the Belgian Government will submit this Convention to the legislative chambers for ratification, with the express reservation that its implementation should not be contrary to the commitments undertaken by Belgium under the Treaty of Rome establishing the European Economic Community and the OECD Code of Liberalisation of invisible trade, and taking into account any reservations it may deem fit to make to the provisions of this Convention.</text>
+        <text type="title">Upon ratification:</text>
+        <text type="para">I. &lt;i&gt;Reservations: &lt;/i&gt;</text>
+        <text type="para">1. For the purposes of the Code of Conduct, the term "national shipping line" may, in the case of a State member of the European Economic Community, include any vessel-operating shipping line established on the territory of that member State, in accordance with the Treaty establishing the European Economic Community.</text>
+        <text type="para">2. (a) Without prejudice to paragraph (b) of this reserva- tion, Article 2 of the Code of Conduct shall not be applied in conference trades between States members of the Community and, on a reciprocal basis, between these States and other OECD countries which are parties to the Code:</text>
+        <text type="para">(b) Point (a) shall not affect the opportunities for participation as third country shipping lines in such trades, in accordance with the principles reflected in Article 2 of the Code, of the shipping lines of a developing country which are recognized as national shipping lines under the Code and which are:</text>
+        <text type="para">(i) Already members of a conference serving these trades, or</text>
+        <text type="para">(ii) Admitted to such a conference under Article 1 (3) of the Code.</text>
+        <text type="para">3. Articles 3 and 14 (9) of the Code of Conduct shall not be applied in conference trades between the States members of the Community and, on a reciprocal basis, between these States and other OECD countries which are parties to the Code.</text>
+        <text type="para">4. In trades to which Article 3 of the Code of Conduct applies, the last sentence of that Article is interpreted as meaning that:</text>
+        <text type="para">(a) The two groups of national shipping lines will co-ordinate their positions before voting on matters concerning the trade between their two countries;</text>
+        <text type="para">(b) This sentence applies solely to matters which the confer- ence agreement identifies as requiring the assent of both groups of national shipping lines concerned, and not to all matters covered by the conference agreement.</text>
+        <text type="para">II. &lt;i&gt;Declarations: &lt;/i&gt;</text>
+        <text type="para">1. In accordance with the Resolution on non-conference shipping lines adopted by the Conference of Plenipotentiaries, as reproduced in annex II-2 to this convention, the Government of the Kingdom of Belgium shall not prevent non-conference shipping lines from operating, provided that they compete with the conferences on a commercial basis, respecting the principle of fair competition. This government confirms its intention to abide by the said Resolution.</text>
+        <text type="para">2. The Government of the Kingdom of Belgium declares that it will implement the Convention and its annexes in accordance with the basic concepts and considerations herein stated and, in so doing, is not precluded by the Convention from taking appropriate steps in the event that another contracting party adopts measures or practices that prevent fair competition on a commercial basis in its liner trades.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Brazil</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">"In accordance with SUNAMAM's resolutions Nos. 3393, of 12/30/1972, and 4173, of 12/21/1972, which set up and structured the "Bureau de Estudos de Fretes Internacionais da SUNAMAM", and by which the "Superintendência Nacional de Marinha Mercante (SUNAMAM)" has the authority to reject any proposal on freight rates put forward by Liner Conferences, the contents of article 14, paragraph 6, of that Convention do not conform to Brazilian Law."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>China</Participant>
+        <text type="para">The joint shipping services established between the People's Republic of China and any other country through consultations and on a basis that the parties concerned may deem appropriate, are totally different from liner conferences in nature, and the provisions of the UnitedNations Convention on a Code of Conduct for Liner Conferences shall not be applicable thereto.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Republic of Cuba enters a reservation concerning the provisions of article 2, paragraph 17, of the Convention, to the effect that Cuba will not apply said paragraph to goods carried by joint liner services for the carriage of any cargo, established in accordance with inter-governmental agreements, regardless of their origin, their destination or the use for which they are intended.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">With regard to the definitions in the first paragraph of part one, chapter I, the Republic of Cuba does not accept the inclusion in the concept of "Liner conference or conference" of joint liner services for the carriage of any type of cargo, established in accordance with inter-governmental agreements.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">"1. For the purposes of the Code of Conduct, the term "national shipping line" may, in the case of a State member of the European Economic Community, include any vessel-operating shipping line established on the territory of that member State, in accordance with the Treaty establishing the European Economic Community.</text>
+        <text type="para">2. (a) Without prejudice to paragraph (b) of this reservation, Article 2 of the Code of Conduct shall not be applied in conference trades between States members of the Community and, on a reciprocal basis, between these States and other OECD countries which are parties to the Code;</text>
+        <text type="para">(b) Point (a) shall not affect the opportunities for participation as third country shipping lines in such trades, in accord- ance with the principles reflected in Article 2 of the Code, of the shipping lines of a developing country which are recognized as national shipping lines under the Code and which are:</text>
+        <text type="para">(i) Already members of a conference serving these trades; or</text>
+        <text type="para">(ii) Admitted to such a conference under Article 1 (3) of the Code.</text>
+        <text type="para">3. Article 3 and 14 (9) of the Code of Conduct shall not be applied in conference trades between the States members of the Community and, on a reciprocal basis, between these States and other OECD countries which are parties to the Code.</text>
+        <text type="para">4. In trades to which Article 3 of the Code of Conduct applies, the last sentence of that Article is interpreted as meaning that:</text>
+        <text type="para">(a) The two groups of national shipping lines will co-ordinate their positions before voting on matters concerning the trade between their two countries;</text>
+        <text type="para">(b) This sentence applies solely to matters which the conference agreement identifies as requiring the assent of both groups of national shipping lines concerned, and not to all matters covered bythe conference agreement."</text>
+        <text type="title">Declarations:</text>
+        <text type="para">The Government of Denmark considers that the UnitedNations Convention on a Code of Conduct for Liner Conferences affords the shipping lines of develing countries extended opportunities to participate in the conference system and is drafted so as to regulate conferences and their activities in open trades (i.e., when opportunities to compete exist). This Government also considers that it is essential for the functioning of the Code and conferences subject thereto that opportunities for fair competition on a commercial basis by non-conference shipping lines continue to exist and that shippers are not denied an option in the choice between conference shipping lines and non-conference shipping lines, subject to loyalty arrangements where they exist. These basic concepts are reflected in a number of provisions of the Code itself, including its objectives and principles, and they are expressly set out in Resolution No. 2 on non-conference shipping lines adopted by the UnitedNations Conference of Plenipotentiaries.</text>
+        <text type="para">This Government considers furthermore that any regulations or other measures adopted by a contracting party to the UnitedNations Convention with the aim or effect of eliminating such opportunities for competition by non-conference shipping lines would be inconsistent with the above-mentioned basic concepts and would bring about a radical change in the circumstances in which conferences subject to the Code are envisaged as operating. Nothing in the Convention obliges other contracting parties to accept either the validity of such regulations or measures, or situations where conferences, by virtue of such regulations or measures, acquire effective monopoly in trades subject to the Code.</text>
+        <text type="para">The Government of Denmark declares that it will implement the Convention in accordance with the basic concepts and considerations herein stated and, in so doing, is not precluded by the Convention from taking appropriate steps in the event that another contracting party adopts measures or practices that prevent fair competition on a commercial basis in its liner trades.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Finland</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">"1. Articles 2, 3 and 14 (9) of the Code of Conduct shall, on a reciprocal basis, not be applied in conference trades between Finland and other OECD countries which are parties to the Code.</text>
+        <text type="para">2. In trades to which Article 3 of the Code of Conduct applies, the last sentence of that Article is interpreted as meaning that:</text>
+        <text type="para">a) The two groups of national shipping lines will coordinate their positions before voting on matters concerning the trade between their two countries;</text>
+        <text type="para">b) This sentence applies solely to matters which the conference agreement identifies as requiring the assent of both groups of national shipping lines concerned, and not to all matters covered by the conference agreement.</text>
+        <text type="title">Declarations:</text>
+        <text type="para">A. The Government of Finland considers that the UnitedNations Convention on a Code of Conduct for Liner Conferences affords the shipping lines of developing countries extended opportunities to participate in the conference system and is drafted so as to regulate conferences and their activities in open trades (i.e. , when opportunities to compete exist). This Government also considers that it is essential for the functioning of the Code and conferences subject thereto that opportunities for fair competition on a commercial basis by non-conference shipping lines continue to exist and that shippers are not denied an option in the choice between conference shipping lines and non-conference shipping lines, subject to loyalty arrangements where they exist. These basic concepts are reflected in a number of provisions of the Code itself, including its objectives and principles, and they are expressly set out in Resolution No. 2 on non-conference shipping lines adopted by the UnitedNations Conference of Plenipotentiaries.</text>
+        <text type="para">B. This Government considers furthermore that any regula- tions or other measures adopted by a contracting party to the UN Convention with the aim or effect of eliminating such opportunities for competition byconference shipping lines would be inconsistent with the above-mentioned basic concepts and would bring about a radical change in the circumstances in which conferences subject to the Code are envisaged as operating. Nothing in the Convention obliges other contracting parties to accept either the validity of such regulations or measures or situations where conferences, by virtue of such regulations or measures, acquire effective monopoly in trades subject to the Code.</text>
+        <text type="para">C. The Government of Finland declares that it will imple- ment the Convention in accordance with the basic concepts and considerations herein stated and, in so doing is not precluded by the Convention from taking appropriate steps in the event that another contracting party adopts measures or practices that pre- vent fair competition on a commercial basis in its liner trades."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="title">Declaration made upon signature:</text>
+        <text type="para">Under the French Constitution, approval of the Convention is subject to authorization by Parliament.</text>
+        <text type="para">It is understood that this approval is conditional upon compliance with the commitments undertaken by France under the Treaty of Rome establishing the European Economic Community and the Code of Liberalisation of invisible trade of the Organisation for Economic Co-operation and Development, taking into account any reservations which the French Government may deem fit to make to the provisions of this Convention.</text>
+        <text type="title">Reservations made upon approval:</text>
+        <text type="title">[Same reservations, identical in essence, as those made by Denmark.]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>India</Participant>
+        <text type="para">"In confirmation of paragraph (2) of the statement filed by the Representative of India on behalf of the Group of 77 on 8 April 1974 at the UnitedNations Conference of Plenipotentiaries on a Code of Conduct for Liner Conferences, it is the understanding of the Government of India that the inter-governmental shipping services established in accordance with inter-governmental agreements fall outside the purview of the Convention on the Code of Conduct for Liner Conferences regardless of the origin of the cargo, their destination or the use for which they are intended."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iraq</Participant>
+        <text type="para">The accession shall in no way signify recognition of Israel or entry into any relation therewith.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">1. In application of the Code of Conduct, the concept of a "national shipping line" may, in the case of a member State of the European Community, include all shipping companies established on the territory of that member State in accordance with the treaty setting up the European Economic Community.</text>
+        <text type="para">2. (a) Without prejudice to the text of paragraph (b) of this reservation, article 2 of the Code of Conduct shall not be applied in trade carried by a conference between the member States of the Community and, on a reciprocal basis, between those States and the other OECD countries parties to the Code,</text>
+        <text type="para">(b) The text of paragraph (a) shall not affect the opportunities for shipping lines of developing countries, as third-country shipping lines, to take part in such trade in accordance with the principles set out in article 2 of the Code, provided they have been recognized as national shipping lines under the terms of the Code and:</text>
+        <text type="para">(i) Are already members of a conference carrying such trade, or</text>
+        <text type="para">(ii) Have been accepted for membership of such a conference under the provisions of article 1(3) of the Code.</text>
+        <text type="para">3. Article 3 and article 14(9) of the Code of Conduct shall not be applied in trade carried out by a conference between the member States of the Community and, on a reciprocal basis, between those countries and the other OECD countries parties to the Code.</text>
+        <text type="para">4. In any trade to which article 3 of the Code of Conduct applies, the last sentence of the article is taken to mean that:</text>
+        <text type="para">(a) The two groups of national shipping lines shall co-ordinate their positions before voting on matters relating to trade between their two countries;</text>
+        <text type="para">(b) The sentence shall be applied solely to matters defined in a conference agreement as requiring the consent of the two groups of national shipping lines concerned and not to all matters covered by the conference agreement.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of the Republic of Italy</text>
+        <text type="para">- Will not prevent non-conference lines from operating as long as they compete with conferences on a commercial basis while adhering to the principle of fair competition, in accordance with the Resolution on non-conference lines adopted by the Conference of Plenipotentiaries;</text>
+        <text type="para">- Confirms its intention of acting in accordance with the said Resolution."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kuwait</Participant>
+        <text type="title">Understanding:</text>
+        <text type="para">The accession to the Convention does not mean in any way a recognition of Israel by the Government of Kuwait.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">[Same declarations, identical in essence, as those made by the Federal Republic of Germany upon ratification]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Norway</Participant>
+        <text type="title">[Same declarations and reservations, identical in essence, as those made by Denmark.]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Peru</Participant>
+        <text type="para">The Government of Peru does not regard itself as being bound by the provisions of chapter II, article 2, paragraph 4, of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Portugal</Participant>
+        <text type="para">A. &lt;i&gt; Reservations &lt;/i&gt;:</text>
+        <text type="para">1. In application of the Code of Conduct, the term "national shipping line" may, in the case of a Member State of the European Community, include any vessel-operating shipping line established on the territory of such Member State in accordance with the EEC Treaty.</text>
+        <text type="para">2 (a) Without prejudice to paragraph (b) of this reserva- tion, article 2 of the Code of Conduct shall not be applied in conference trades between the Member States of the Community and, on a reciprocal basis, between such States and the other OECD countries which are parties to the Code.</text>
+        <text type="para">(b) The text of paragraph (a) shall not affect the opportunities for participation as third country shipping lines in such trades, in accordance with the principles reflected in article 2 of the Code, of the shipping lines of a developing country which are recognized as national shipping lines under the Code and which are:</text>
+        <text type="para">(i) Already members of a conference serving these trade; or</text>
+        <text type="para">(ii) Admitted to such a conference under article 1 (3) of the Code.</text>
+        <text type="para">3. Articles 3 and 14 (9) of the Code of Conduct shall not be applied in conference trades between the Member States of the Community and, on a reciprocal basis, between such States and the other OECD countries which are parties to the Code. In trades to which Article 3 of the Code of Conduct applies, the last sentence of that Article is interpreted as meaning that:</text>
+        <text type="para">- The two groups of national shipping lines will co-ordinate their positions before voting on matters concerning the trade between their two countries;</text>
+        <text type="para">- This sentence applies solely to matters which the conference agreement identifies as requiring the assent of both groups of national shipping lines concerned, and not to all matters covered by the conference agreement.</text>
+        <text type="para">B. &lt;i&gt; Declarations: &lt;/i&gt;</text>
+        <text type="para">1. The Government of Portugal considers that the UnitedNations Convention on a Code of Conduct for Liner Conferences affords the shipping lines of developing countries extended opportunitieso participate in the conference system and is drafted so as to regulate conferences and their activities in open trades. The Government also considers that it is essential for the functioning of the Code and conferences subject thereto that opportunities for fair competition on a commercial basis by non-conference shipping lines continue to exist and that shippers are not denied an option in the choice between conference shipping lines and non-conference shipping lines, subject to loyalty arrangements where they exist. These basic concepts are reflected in a number of provisions of the Code itself, including its objectives and principles, and they are expressly set out in Resolution No. 2 on non-conference shipping lines adopted by the UnitedNations Conference of Plenipotentiaries.</text>
+        <text type="para">2. The Government considers furthermore that any regulations or other measures adopted by a Contracting Party to the Convention with the aim or effect of eliminating such opportu- nities for competition by non-conference shipping lines would be inconsistent with the above-mentioned basic concepts and would bring about a radical change in the circumstances in which conferences subject to the Code are envisaged as operating. Nothing in the Convention obliges other Contracting Parties to accept either the validity of such regulations or measures or situations where conferences, by virtue of such regulations or measures, acquire effective monopoly in trades subject to the Code.</text>
+        <text type="para">3. The Government of Portugal declares that it will implement the Convention in accordance with the basic concepts and considerations herein stated and, in so doing, is not precluded by the Convention from taking appropriate steps in the event that another Contracting Party adopts measures or practices that prevent fair competition on a commercial basis in its liner trade.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="para">The Government of the Union of Soviet Socialist Republics considers that the provisions of the Convention on a Code of Conduct for Liner Conferences do not apply to joint shipping lines established on the basis of intergovernmental agreements to serve bilateral trade between the countries concerned.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="title">Reservation 1:</text>
+        <text type="para">For the purposes of implementing the Code of Conduct, the concept of a "national shipping line" may, in the case of a State member of the European Economic Community, include any vessel-operating shipping line established in the territory of that State, in accordance with the Treaty establishing the European Economic Community.</text>
+        <text type="title">Reservation 2:</text>
+        <text type="para">(a) Without prejudice to the text of (b) below, article 2 of the Code of Conduct shall not apply in conference trades between States members of the Community and, on the basis of reciprocity, between these States and other Organization for Economic Cooperation and Development (OECD) countries which are parties to the Code.</text>
+        <text type="para">(b) The text of (a) above shall not affect the opportunities for participation in such trades, as third-country shipping lines, in accordance with the principles set out in article 2 of the Code, by the shipping lines of a developing country which are recognized as national shipping lines under the Code and which are:</text>
+        <text type="para">(I) Members of a conference which ensures such trades, or</text>
+        <text type="para">(II) Admitted to membership of that conference under article?, paragraph 3, of the Code.</text>
+        <text type="title">Reservation 3:</text>
+        <text type="para">Article 3 and article 14, paragraph 9, of the Code shall not apply in conference trades between States members of the Community and, on the basis of reciprocity, between these States and other OECD countries which are parties to the Code.</text>
+        <text type="title">Reservation 4:</text>
+        <text type="para">In trades to which article 3 of the Code applies, the final sentence of that article shall be interpreted as follows:</text>
+        <text type="para">(a) The two groups of national shipping lines shall coordinate their positions prior to voting on issues relating to trade between their two countries.</text>
+        <text type="para">(b) This sentence shall apply solely to issues which, under the conference agreement, require the consent of the two groups of national shipping lines concerned, and not to all issues dealt with in the conference agreement.</text>
+        <text type="title">Dclaration:</text>
+        <text type="para">A. The Government of Spain considers that the UnitedNations Convention on a Code of Conduct for Liner Conferences provides the shipping lines of developing countries with ample opportunities to participate in the liner conference system, and that it has been drafted in such a manner as to regulate conferences and their activities within a system of free trade (where there are opportunities for non-conference shipping lines).</text>
+        <text type="para">This Government also deems it essential to the functioning of the Code and of the conferences whose regulation is referred to that there should continue to be opportunities for fair competition on a commercial basis for non-conference shipping lines, and that shippers should not be denied an option in the choice between conference shipping lines and non-conference shipping lines, subject to any loyalty arrangements where they exist. These basic concepts are reflected in several provisions of the Code itself, including its objectives and principles, and are expressly set out in resolution No. 2, concerning non-conference shipping lines, adopted by the UnitedNations Conference of Plenipotentiaries.</text>
+        <text type="para">B. This Government further believes that any regulation or other measures adopted by a Contracting Party to the UnitedNations Convention and having the purpose or effect of eliminating such opportunities for competition for non-conference shipping lines would be incompatible with the basic concepts mentioned above, and would effect a radical change in the circumstances under which conferences subject to the Code are envisaged as operative. Nothing in the Convention requires other Contracting Parties to accept either the validity of such regulations, or measures or situations whereby conferences, through such regulations or measures, would, in practice, acquire a monopoly on trades subject to the Code.</text>
+        <text type="para">C. The Government of Spain declares that it will implement the Convention in accordance with the basic concepts and conns stipulatein and that, accordingly, the Convention shall not prevent it from taking appropriate steps in the event that another Contracting Party adopts measures or practices which impede fair competition on a commercial basis in liner shipping service.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden</Participant>
+        <text type="title">Reservations and declarations:</text>
+        <text type="para">[ &lt;i&gt;Same declarations and reservations, identical in essence, as those made by Denmark &lt;/i&gt;.]</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the General Assembly, Twenty-seventh Session, Supplement No. 30 &lt;/i&gt; (A/8730), p. 51.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>On 22 December 2008, the Secretary-General received from the Government of Bulgaria a notification of denunciation of the said Convention.</text>
+        <text>In accordance with the provisions of article 50 (2) of the Convention, the denunciation will take effect on 22 December 2009.</text>
+        <text>[Upon accession to the Convention, the Government of Bulgaria made the following declaration to the Convention:</text>
+        <text>The Government of the People's Republic of Bulgaria considers that the definition of liner conference does not include joint bilateral lines operating on the basis of inter-governmental agreements.</text>
+        <text>With regard to the text of point 2 of the annex to resolution I, adopted on 6 April 1974, the Government of the People's Republic of Bulgaria considers that the provisions of the Convention on a Code of Conduct for Liner Conferences do not cover the activities of non-conference shipping lines.]</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 6 and 10 June 1997, the Secretary-General received communications concerning the status of Hong Kong from the Governments of the United Kingdom and China (see also note 2 under "China" and note 2 under "United Kingdom of Great Britain and Northern Ireland" regarding Hong Kong in the "Historical Information" section in the front matter of this volume). Upon resuming the exercise of sovereignty over Hong Kong, China notified the Secretary-General that the Convention with the reservation made by China will also apply to the Hong Kong Special Administrative Region.</text>
+        <text>In addition, the notification made by the Government of China contained the following declaration:</text>
+        <text>1. (A) Without prejudice to paragraph 1 (B) of this reservation, article 2 of the Convention shall not be applied in conference trades, on a reciprocal basis, between the Hong Kong Special Administrative Region and any State which has made a reservation disapplying article? in respect of its trade with the People's Republic of China.</text>
+        <text>(B) Paragraph 1 (A) above shall not affect the opportunity of shipping lines of a developing country for participation as third country shipping lines in such trades in accordance with the principles reflected in article 2 of the Convention, or the shipping lines of a developing country which are recognised as national shipping lines under the Convention and which are:</text>
+        <text>(a) Already members of a conference serving these trades: or</text>
+        <text>(b) Admitted to such a conference under article 1(3) of the Convention.</text>
+        <text>2. In trades where article 2 of the Convention applies, shipping lines incorporated in the Hong Kong Special Administrative Region will, subject to reciprocity, allow participation in redistribution by lines from any country which has agreed to allow participation by lines of the People's Republic of China in redistribution in respect of its trades.</text>
+        <text>3. Article 3 and article 14 (9) of the Convention shall not be applied in conference trades, on a reciprocal basis, betweenhe Hong Kong Special Administrative Region and any State which has made a reservation disapplying article 3 and article 14 (9) in respect of its trade with the People's Republic of China.</text>
+        <text>4. In trade to which article 3 of the Convention applies, the last sentence of that article is interpreted as meaning that:</text>
+        <text>(A) The two groups of national shipping lines will coordinate their position before voting on matters concerning the trade between their two countries; and</text>
+        <text>(B) This sentence applies solely to matters which the conference agreement identifies as requiring the assent of both groups of national shipping lines concerned, and not to all matters covered by the conference agreement.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Czechoslovakia had signed and approved the Convention on 30 June 1975 and 4 June 1979, respectively, with a declaration made upon signature. For the text of the declaration, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.1334, p.202. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>The instrument also specifies that the accession shall not apply to Greenland and the Faroe Islands.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>On 17 April 2009, the Secretary-General received from the Government of Denmark a notification of denunciation of the said Convention.</text>
+        <text>In accordance with the provisions of article 50 (2) of the Convention, the denunciation will take effect on 17 April 2010.</text>
+        <text></text>
+        <text />
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>The German Democratic Republic had signed and ratified the Convention on 27 June 1975 and 9 July 1979, respectively, with a reservation. For the text of the reservation, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.1334, p.206. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>On 26 September 2007, the Secretary-General received from the Government of the Federal Republic of Germany a notification of denunciation of the said Convention.</text>
+        <text>In accordance with the provisions of article 50 (2) of the Convention, the denunciation will take effect on 26 September 2008.</text>
+        <text>[Upon Signature and Ratification to the Convention, the Government of the Repulic of Germany made the following declarations to the Convention:</text>
+        <text>Upon signature:</text>
+        <text>"The Convention under the law of the Federal Republic of Germany, requires the approval of the legislative bodies for ratification. At the appropriate time, the Federal Republic of Germany will implement the Convention in conformity with its obligations under the Treaty of Rome establishing the European Economic Community as well as under the OECD Code of Liberalisation of Current Invisible Operations."</text>
+        <text>Upon ratification:</text>
+        <text>1. For the purposes of the Code of Conduct, the term "national shipping line" may, in the case of a Member State of the European Economic Community, include any vessel operating shipping line established on the territory of such Member State in accordance with the EEC Treaty.</text>
+        <text>2. (a) Without prejudice to paragraph (b) [hereinafter], article 2 of the Code of Conduct shall not be applied in conference trades between the Member States of the European Economic Community or, on the basis of reciprocity, between such States and other OECD countries which are parties to the Code.</text>
+        <text>(b) Paragraph (a) [above] shall not affect the opportunities for participation as third-country shipping lines in such trades, in accordance with the principles laid down in such trades, in accordance with the principles laid down in article 2 of the Code, of the shipping lines of a developing country whichare recognized as national shipping lines under the Code and which are:</text>
+        <text>(i) Already members of a conference serving these trades; or</text>
+        <text>(ii) Admitted to such a conference under article 1 (3) of the Code</text>
+        <text>3. Articles 3 and 14 (9) of the Code of Conduct shall not be applied in conference trades between the Member States of the Community or, on a reciprocal basis, between such States and the other OECD countries which are parties to the Code.</text>
+        <text>4. In trades to which article 3 of the Code of Conduct applies, the last sentence of that article is interpreted as meaning that:</text>
+        <text>(a) The two groups of national shipping lines will coordinate their positions before voting on matters concerning the trade between their two countries;</text>
+        <text>(b) this sentence applies solely to matters which the conference agreement identifies as requiring the assent of both groups of national shipping lines concerned, and not to all matters covered by the conference agreement.</text>
+        <text>5. The Government of the Federal Republic of Germany will not prevent non-conference shipping lines from operating as long as they compete with conferences on a commercial basis while adhering to the principle of fair competition, in accordance with the resolution on non-conference lines adopted by the Conference of Plenipotentiaries. It confirms its intention to act in accordance with the said resolution.]</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>For the Kingdom in Europe and, as from 1 January 1986, for Aruba. See also note 1 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+        <text>Subsequently, on 25 July 2011, pursuant to Article 50 of the Convention, the Netherlands deposited with the Secretary-General an instrument of denunciation for the European part of the Netherlands. The Convention remains in effect for Aruba.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 17 December 1974 and 7 July 1980, respectively. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>On behalf of the United Kingdom, Gibraltar and Hong Kong.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>On 16 October 2007, the Secretary-General received from the Government of the United Kingdom of Great Britain and Northern Ireland a notification of denunciation of the said Convention:</text>
+        <text>In accordance with the provisions of article 50 (2) of the Convention, the denunciation will take effect on 20 October 2008.</text>
+        <text>[Upon accession to the Convention, the Government of the United Kingdom of Great Britain and Northern Ireland made the following reservations and declarations to the Convention:</text>
+        <text>I. In relation to the United Kingdom of Great Britain and Northern Ireland and to Gibraltar:</text>
+        <text>[Same reservations, identical in essence, as those made by Denmark.]</text>
+        <text>II. In relation to Hong Kong :</text>
+        <text>1. (a) Without prejudice to paragraph (b) of this reservation, Article 2 of the Code of Conduct shall not be applied in conference trades, on a reciprocal basis, between Hong Kong and any State which has made a reservation disapplying Article 2 in respect of its trades with the United Kingdom</text>
+        <text>(b) Point (a) above shall not affect the opportunity for participation as a third country shipping lines in such trades in accordance with the principles reflected in Article 2 of the Code, of the shipping lines of a developing country which are recognized as national shipping lines under the Code and which are:</text>
+        <text>(i) Already members of a conference serving these traces; or</text>
+        <text>(ii) Admitted to such a conference under Article 1 (3) of the Code.</text>
+        <text>2. In trades where Article 2 of the Code applies, Hong Kong shipping lines will, subject to reciprocity, allow participation in redistribution by lines from any country which has agreed to allow participation by United Kingdom lines in redistribution in respect of any of its trades.</text>
+        <text>3. Article 3 and Article 14 (9) of the Code shall not be applied in conference trades, on a reciprocal basis, between Hong Kong and any State which has made a reservation disapplying Article 3 and Article 14 (9) in respect of its trades with the United Kingdom.</text>
+        <text>4. In trades to which Article 3 of the Code applies, the last sentence of that article is interpreted as meaning that:</text>
+        <text>(i) The two groups of national shipping lines will co-ordinate their position before voting on matters concerning the trade between their two countries; and</text>
+        <text>(ii) This sentence applies solely to matters which the confer- ence agreement identifies as requiring the assent of both groups of national shipping lines concerned, and not to all matters covered by the conferenc agreement."</text>
+        <text>[ Same declarations, identical in essence, as those made by Denmark. ]</text>
+      </Note>
+    </EndNotes>
+    <Footer>XII 6. Navigation</Footer>
+  </Treaty>
+</Document>

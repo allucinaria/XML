@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXV</Header>
+        <Name>TELECOMMUNICATIONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Convention relating to the distribution of programme-carrying signals transmitted by satellite</Titlesect>
+        <Conclusion>Brussels, 21 May 1974</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>25 August 1979, in accordance with article 10(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>25 August 1979, No. 17949</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>18</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>38</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1144, p. 3.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the International Conference of States on the Distribution of Programme-Carrying Signals, transmitted by Satellite, convened jointly by the United Nations Educational, Scientific and Cultural Organization and the World Intellectual Property Organization. The Conference held discussions on the basis of the Draft Convention drawn up by the Committee of Governmental Experts on Problems in the Field of Copyright and of the Protection of Performers, Producers of Phonograms and Broadcasting Organizations Raised by Transmission via Space Satellites held at Nairobi (Kenya) from 2 to 11 July 1973.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>26 Mar 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>13 Sep 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>26 Jul 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>26 Mar 1975</Entry>
+                <Entry>6 May 1982</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>1 Feb 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>18 May 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry />
+                <Entry>8 Mar 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>20 Dec 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>25 Mar 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Jul 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry />
+                <Entry>22 Apr 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>27 Mar 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;2,3&lt;/superscript&gt;</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry>25 May 1979</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry />
+                <Entry>22 Jul 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>7 Jan 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry>7 Apr 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>12 Oct 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry>6 Jan 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry>18 Mar 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry>31 Mar 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>1 Dec 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>18 Dec 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>25 Jun 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>7 May 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry />
+                <Entry>11 Dec 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>19 Dec 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>28 Jul 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>20 Oct 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>25 Apr 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>27 Jan 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>3 Nov 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry>24 Jun 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>2 Sep 1997 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry />
+                <Entry>10 Mar 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>1 Aug 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>21 May 1974</Entry>
+                <Entry>7 Dec 1984</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>12 Oct 2005 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon</Title>
+      <Title>ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="para">With reference to article 8 (2) the Government of the Argentine Republic states that the words "where the originating organization is a national of another Contracting State" appearing in article 2 (1) are to be considered as if they were replaced by the words "where the signal is emitted from the territory of another Contracting State".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;3&lt;/superscript&gt;</Participant>
+        <text type="para">The Government of the Federal Republic of Germany herewith declares in pursuance of article 2 (2) of the Convention that the protection accorded pursuant to article 2 ( 1) is restricted in its territory to a period of 25 years after the expiry of the calendar year in which the transmission by satellite has occurred.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="para">The Italian Government declares, in accordance with the provisions of article 2 (2) of the Convention, that the protection accorded pursuant to article 2 (1) shall be limited in its territory to a period of 25 years following the end of the year in which the satellite transmission took place.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Trinidad and Tobago</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Government of the Republic of Trinidad and Tobago has decided that the duration of time referred to in article 2 of the said Convention shall be twenty (20) years."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 31 March 1975 and 29 December 1976, respectively. See also note? under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXV 1. Telecommunications</Footer>
+  </Treaty>
+</Document>

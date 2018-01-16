@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XI</Header>
+        <Name>TRANSPORT AND COMMUNICATIONS</Name>
+      </Chapter>
+      <SubChapter>
+        <Header>A</Header>
+        <Name>Custom Matters</Name>
+      </SubChapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Titlesect>Additional Protocol amending certain provisions of the Agreement providing for the provisional application of the Draft International Customs Conventions on Touring, on Commercial Road Vehicles and on the International Transport of Goods by Road*</Titlesect>
+        <Conclusion>Geneva, 28 November 1952</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>7 July 1955, in accordance with article VI.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>7 July 1955, No. 696</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, Treaty Series, vol. 212, p. 296.</Text>
+        </TreatyText>
+        <TreatyNote />
+        <Termination>
+          <Label>TERMINATION</Label>
+          <Labeltext>See under the Agreement of 16 June 1949, chapter XI.A-1. For the list of participants, see &lt;a href="/doc/source/publications/MTDSG/2000-english-vol.1.pdf" target="_blank"&gt;Multilateral Treaties Deposited with the Secretary-General, Status as at 31 December 2000" (ST/LEG/SER.E/19)&lt;/a&gt;.</Labeltext>
+        </Termination>
+      </ExternalData>
+    </Header>
+    <Footer>XI A 4. Transport and Communications - Custom Matters</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg3</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVIII</Header>
+        <Name>PENAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Titlesect>Supplementary Convention on the Abolition of Slavery, the Slave Trade, and Institutions and Practices Similar to Slavery</Titlesect>
+        <Conclusion>Geneva, 7 September 1956</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>30 April 1957, in accordance with article 13.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>30 April 1957, No. 3822</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>35</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>123</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 266, p. 3.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the United Nations Conference of Plenipotentiaries on a Supplementary Convention on the Abolition of Slavery, the Slave Trade, and Institutions and Practices Similar to Slavery. The Conference was convened pursuant to resolution &lt;a href="/doc/source/docs/E_RES_608_XXI-E.pdf" target="_blank"&gt;608 (XXI)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of 30 April 1956 of the Economic and Social Council of the United Nations, and met at the European Office of the United Nations in Geneva from 13 August to 4 September 1956. In addition to the Convention, the Conference adopted the Final Act and two resolutions for the texts of which, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 226, p. 3.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2,3,4,5&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Succession(d), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry />
+                <Entry>16 Nov 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>6 Nov 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>31 Oct 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>25 Oct 1988 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry />
+                <Entry>13 Aug 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>6 Jan 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>7 Oct 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>16 Aug 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry />
+                <Entry>10 Jun 1976 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>27 Mar 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>5 Feb 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>9 Aug 1972 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>5 Jun 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>13 Dec 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>6 Oct 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry />
+                <Entry>6 Jan 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>26 Jun 1957</Entry>
+                <Entry>21 Aug 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>12 Jun 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>27 Jun 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>10 Jan 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>30 Dec 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry />
+                <Entry>20 Jun 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>25 Aug 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>10 Dec 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Oct 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>10 Jan 1957</Entry>
+                <Entry>21 Aug 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>11 May 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Feb 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry />
+                <Entry>28 Feb 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>27 Jun 1957</Entry>
+                <Entry>24 Apr 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry />
+                <Entry>21 Mar 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>17 Aug 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>31 Oct 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>29 Mar 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>17 Apr 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry />
+                <Entry>21 Jan 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>12 Jun 1972 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>1 Apr 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>26 May 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;8,9&lt;/superscript&gt;</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>14 Jan 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry />
+                <Entry>3 May 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>13 Dec 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>11 Nov 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>14 Mar 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>12 Feb 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>26 Feb 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>17 Nov 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>23 Jun 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry />
+                <Entry>30 Dec 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>30 Sep 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>18 Sep 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>23 Oct 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>12 Feb 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>30 Jul 1964 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>27 Sep 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>1 May 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry />
+                <Entry>18 Jan 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>5 Sep 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>9 Sep 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>14 Apr 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>4 Nov 1974 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>16 May 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>1 May 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>29 Feb 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>2 Aug 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>18 Nov 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>2 Feb 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>3 Jan 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>6 Jun 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>18 Jul 1969 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>30 Jun 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>20 Dec 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>11 May 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>7 Jan 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>3 Dec 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;12&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Apr 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>14 Jan 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>22 Jul 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>26 Jun 1961 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>3 May 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>20 Mar 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>27 Sep 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry />
+                <Entry>17 Nov 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>10 Jan 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>10 Aug 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>13 Nov 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>12 Apr 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>4 Oct 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>29 Aug 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>5 Jul 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>19 Jul 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>5 May 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>13 Mar 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>28 Mar 1972 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry />
+                <Entry>3 Sep 1981 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>21 Nov 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>5 Jun 1957</Entry>
+                <Entry>21 Mar 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry />
+                <Entry>14 Feb 1990 d</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>9 Nov 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>9 Sep 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry />
+                <Entry>12 Oct 1979 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry />
+                <Entry>28 Oct 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>28 Jul 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic&lt;superscript&gt;13&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>17 Apr 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry />
+                <Entry>8 Jul 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>11 Apr 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>15 Jul 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>28 Jun 1957</Entry>
+                <Entry>17 Jul 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>1 May 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>12 Aug 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>3 Dec 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>7 Sep 1956</Entry>
+                <Entry>30 Apr 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry />
+                <Entry>28 Nov 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry />
+                <Entry>6 Dec 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>7 Jun 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>26 Mar 1973 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>1 Dec 1998 d</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Bahrain</Participant>
+        <text type="para">&lt;center&gt; &lt;i&gt;[See in chapter XVIII.2.] &lt;/i&gt; &lt;/center&gt;</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Australia</Participant>
+        <DateNotification>6 Jan 1958</DateNotification>
+        <Territories>All the non-self governing, trust and other non-metropolitan territories for the international relations of which Australia is responsible</Territories>
+      </Application>
+      <Application>
+        <Participant>France</Participant>
+        <DateNotification>26 May 1964</DateNotification>
+        <Territories>All the territories of the Republic (Metropolitan France, overseas departments and territories)</Territories>
+      </Application>
+      <Application>
+        <Participant>Italy</Participant>
+        <DateNotification>12 Feb 1958</DateNotification>
+        <Territories>Somaliland under Italian Administration</Territories>
+      </Application>
+      <Application>
+        <Participant>Netherlands</Participant>
+        <DateNotification>3 Dec 1957</DateNotification>
+        <Territories>Netherlands Antilles, Netherlands New Guinea and Suriname</Territories>
+      </Application>
+      <Application>
+        <Participant>New Zealand</Participant>
+        <DateNotification>26 Apr 1962</DateNotification>
+        <Territories>Cook Islands, Niue and Tokelau Islands</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;4,14,15&lt;/superscript&gt;</Participant>
+        <DateNotification>30 Apr 1957</DateNotification>
+        <Territories>Channel Islands and Isle of Man</Territories>
+      </Application>
+      <Application>
+        <Participant>United States of America</Participant>
+        <DateNotification>6 Dec 1967</DateNotification>
+        <Territories>All territories for the international relations of which the United States of America is responsible</Territories>
+      </Application>
+    </TerritorialApplications>
+    <SpecialTables>
+      <Table>
+        <TableNo>2</TableNo>
+        <Columns>3</Columns>
+        <Title>Notifications made under article 12 (2)</Title>
+        <TableHeader>
+          <Title>Participant</Title>
+          <Title>Date of receipt of the notification:</Title>
+          <Title>Territories:</Title>
+        </TableHeader>
+        <Rows>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>6 Sep 1957</Column>
+            <Column>Aden, Bahamas, Barbados, Basutoland, Bechuanaland, Bermuda, British Guiana, British Honduras, Brunei, Cyprus, Falkland Islands (Malvinas), Fiji, Gambia, Gibraltar, Hong Kong, Jamaica, Kenya, Antigua, Montserrat, St. Kitts-Nevis, Virgin Islands, Malta, Mauritius, North Borneo, St. Helena, Sarawak, Seychelles, Sierra Leone, Singapore, Somaliland Protectorate, Swaziland, Tanganyika, Gilbert and Ellice Islands, Solomon Islands Protectorate, Grenada, St. Lucia, St. Vincent, Zanzibar, Federation of Rhodesia and Nyasaland, Bahrain, Qatar, The Trucial States (Abu Dhabi, Ajman, Dubai, Fujairah, Ras al Khaimah, Sharjah and Ummal Qaiwain)</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>18 Oct 1957</Column>
+            <Column>Dominica and Tonga</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>21 Oct 1957</Column>
+            <Column>Kuwait</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>30 Oct 1957</Column>
+            <Column>Uganda</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>14 Nov 1957</Column>
+            <Column>Trinidad and Tobago</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland</Column>
+            <Column>1 July 1957</Column>
+            <Column>The Federation of Nigeria</Column>
+          </Row>
+        </Rows>
+      </Table>
+    </SpecialTables>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the Economic and Social Council, Twenty-first Session, Supplement No. 1 &lt;/i&gt; (E/2889), p. 7.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The Convention had been signed on behalf of the Republic of Viet-Nam on 7 September 1956. See also note 1 under Viet Nam in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 27 April 1999, the Government of Portugal informed the Secretary-General that the Convention would apply to Macao. On that same date and subsquently on 3 December 1999, the Secretary-General received communications concerning the status of Macao from Portugal and the China (see also note 3 under China and note 1 under Portugal regarding Macao in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Macao, China notified the Secretary-General that the Convention will also apply to the Macao Special Administrative Region.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>The Secretary-General received, on 10 June 1999, communications concerning the status of Hong Kong from China and the United Kingdom (see also note 2 under China and note 2 under United Kingdom of Great Britain and Northern Ireland regarding Hong Kong in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Hong Kong, China notified the Secretary-General that the Convention will also apply to the Hong Kong Special Administrative Region.</text>
+        <text>In addition, the communication by the Government of China also contained the following declaration:</text>
+        <text>The Government of the People's Republic of China also declares that the signature and ratification by the Taiwan authorities in the name of China on 23 May 1957 and 28 May 1959 respectively of the [said Convention] are all illegal and therefore null and void.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>Signed and ratified on behalf of the Republic of China on 23 May 1957 and 28 May 1959, respectively (note 1 under China in the Historical Information section in the front matter of this volume).</text>
+        <text>In communications addressed to the Secretary-General with reference to the above-mentioned signature and/or ratification, the Permanent Missions to the United Nations of Czechoslovakia, Denmark, India, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland and Yugoslavia stated that, since their Governments did not recognize the Nationalist Chinese authorities as the Government of China, they could not regard the said signature or ratification as valid. The Permanent Missions of Czechoslovakia and the Union of Soviet Socialist Republics further stated that the sole authorities entitled to act for China and the Chinese people in the United Nations and in international relations, and to sign, ratify, accede or denounce treaties, conventions and agreements on behalf of China, were the Government of the People's Republic of China and its duly appointed representatives.</text>
+        <text>In a note addressed to the Secretary-General, the Permanent Mission of China to the United Nations stated that the Government of the Republic of China was the only legal Government which represented China and the Chinese people in international relations and that, therefore, the allegations made in the above-mentioned communica tions as to the lack of validity of the signature or ratification in question had no legal foundation whatever.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 7 September 1956 and 20 May 1958, respectively. See also note 1 under "Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 7 September 1956 and 13 June 1958, respectively. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>The German Democratic Republic had acceded to the Convention on 16 July 1974. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>See note 1 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>See note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>Accession by the United Arab Republic. See note 1 under United Arab Republic (Egypt/Syria) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>On 3 October 1983, the Secretary-General received from the Government of Argentina the following objection:</text>
+        <text>[The Government of Argentina makes a] formal objection to the [declaration] of territorial extension issued by the United Kingdom with regard to the Malvinas Islands (and dependencies), which that country is illegally occupying and refers to as the "Falkland Islands".</text>
+        <text>The Argentine Republic rejects and considers null and void the [said declaration] of territorial extension.</text>
+        <text>With reference to the above-mentioned objection, the Secretary-General received, on 28 February 1985, from the Government of the United Kingdom of Great Britain and Northern Ireland the following declaration:</text>
+        <text>"The Government of the United Kingdom of Great Britain and Northern Ireland have no doubt as to their right, by notification to the Depositary under the relevant provisions of the above-mentioned Convention, to extend the application of the Convention in question to the Falkland Islands or to the Falkland Islands Dependencies, as the case may be.</text>
+        <text>For this reason alone, the Government of the United Kingdom are unable to regard the Argentine [communication] under reference as having any legal effect."</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>See note 1 under United Kingdom of Great Britain and Northern Ireland in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XVIII 4. Penal Matters</Footer>
+  </Treaty>
+</Document>

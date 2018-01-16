@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XII</Header>
+        <Name>NAVIGATION</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Amendment to article 28 of the Convention on the International Maritime Organization</Subtitlesect>
+        <Conclusion>London, 28 September 1965</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>3 November 1968, in accordance with article 52 of the Convention, for all Members of the Organization*.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>3 November 1968, No. 4214</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <CustomText>Parties*.</CustomText>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 649, p. 335.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>See " &lt;i&gt;Note: &lt;/i&gt;" at beginning of chapter XII.1. The amendment was adopted by the Assembly of the Organization by resolution &lt;a href="/doc/source/docs/A_70_IV-E.pdf" target="_blank"&gt;A.70 (IV)&lt;/a&gt; of 28 September 1965. Pursuant to article 54 of the Convention, the acceptance of an amendment shall be made by the communication of an instrument to the Secretary-General of the Organization for deposit with the Secretary-General of the United Nations. Following is the list of States which had accepted the Amendments to the Convention prior to their entry into force. </Text>
+          <Text>In accordance with article 52 of the Convention, the Assembly of the International Maritime Consultative Organization determined that these amendments were of such a nature that any Member which hereafter declares that it did not accept such amendments and within a period of twelve months after they had come into force would, upon the expiration of this period, cease to be a Party to the Convention.</Text>
+          <Text>*See chapter XII.1 for the complete list of Participants, Members of the International Maritime Organization, for which the above amendment is in force, pursuant to article 66 of the Convention as amended.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1,2&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>3 Nov 1968 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>3 Nov 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>5 Oct 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>23 Jun 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>6 Jun 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>30 Dec 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>3 Oct 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>29 Apr 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>20 Mar 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>15 Nov 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>15 Feb 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>20 Jan 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>14 Mar 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>22 Jul 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>13 Mar 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>13 Oct 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>1 Jul 1968 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>23 Jun 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>9 Feb 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry>6 Sep 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>20 Feb 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>27 Jan 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>22 Apr 1968 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>8 Sep 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>16 Oct 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>27 Jan 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>15 May 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry>29 Jul 1968 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>11 Dec 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>23 May 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>5 Jul 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>2 Aug 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>2 Nov 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>19 Aug 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>10 Jan 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>27 Jul 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>7 Mar 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>18 Feb 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>9 May 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>26 Jul 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>13 Jan 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>20 Apr 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>23 Feb 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>9 Jun 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>23 May 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>1 Feb 1968 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The instrument of acceptance by the Government of the Republic of China was received by the Secretary-General of the International Maritime Organization on 22 July 1966 and deposited with the Secretary-General of the United Nations on 27 July 1966. See note concerning signatures, ratifications, accessions, etc. on behalf of China (note 1 under China in the Historical Information section in the front matter of this volume.).</text>
+        <text>In communications addressed to the Secretary-General with reference to the above-mentioned acceptance, the Permanent Mission of Romania to the UnitedNations stated that the only government entitled to represent and to assume obligations on behalf of China is the Central Government of the People's Republic of China and that, consequently, the Government of Romania cannot take note of the said acceptance.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had accepted the amendments on 28 November 1966. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugsoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XII 1 b. Navigation</Footer>
+  </Treaty>
+</Document>

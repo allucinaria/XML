@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>11</Numsect>
+        <Titlesect>Lusaka Agreement on Co-operative Enforcement Operations Directed at Illegal Trade in Wild Fauna and Flora</Titlesect>
+        <Conclusion>Lusaka, 8 September 1994</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>10 December 1996, in accordance with article 13(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>10 December 1996, No. 33409</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>7</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>7</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.?950, p.?5.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was adopted at the Ministerial Meeting for the Adoption of the Agreed Text of the Lusaka Agreement on Co-operative Enforcement Operations Directed at Illegal Trade in Wild Fauna and Flora held at Lusaka on 8-9 September 1994. In accordance with its article 12 (1), the Agreement was open for signature on 9 September 1994 by all African States at Lusaka and thereafter from 12 September 1994 at the Headquarters of the United Nations Environment Programme in Nairobi, and from 13 December 1994 to 13 March 1995 at the United Nations Headquarters in New York.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Acceptance(A), Approval(AA)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>14 May 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>1 Feb 1995</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>9 Sep 1994</Entry>
+                <Entry>17 Jan 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>20 Jun 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry>9 Sep 1994</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry>9 Sep 1994</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>9 Sep 1994</Entry>
+                <Entry>12 Apr 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>9 Sep 1994</Entry>
+                <Entry>11 Oct 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry>9 Sep 1994</Entry>
+                <Entry>9 Nov 1995</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XXVII 11. Environment</Footer>
+  </Treaty>
+</Document>

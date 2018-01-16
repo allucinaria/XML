@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>20</Numsect>
+        <Titlesect>International Natural Rubber Agreement, 1979*</Titlesect>
+        <Conclusion>Geneva, 6 October 1979</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 23 October 1980, in accordance with article 61(2) and definitively on 15 April 1982, in accordance with article 61(1). The Agreement was extended until 22 October 1987, and was termnated in accordance with its provisions on 22 October 1987.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>23 October 1980, No. 19184</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1201, p. 191.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>XIX 20. Commodities</Footer>
+  </Treaty>
+</Document>

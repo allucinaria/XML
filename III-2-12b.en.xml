@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER III</Header>
+        <Name>PRIVILEGES AND IMMUNITIES, DIPLOMATIC AND CONSULAR RELATIONS, ETC</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Subnumsect>12b</Subnumsect>
+        <Subtitlesect>Second Revised text of Annex XII - International Maritime Organization (IMO) - to the Convention on the Privileges and Immunities of the Specialized Agencies</Subtitlesect>
+        <Conclusion>London, 22 November 2001</Conclusion>
+        <EIF />
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>8 April 2002, No. 521</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>&lt;a href="/doc/source/docs/A908r1_22-E.pdf" target="_blank"&gt;IMO Resolution A.908 (22)&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The term &lt;i&gt;Participant &lt;/i&gt; in the present context refers to the State party to the Convention, which has undertaken to apply the provisions of the Convention to the above specialized agency, in accordance with section 43 of article X thereof.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Application</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry>9 May 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry>1 Feb 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>24 Sep 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>7 Nov 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry>18 Jul 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>17 Jan 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>19 Dec 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry>6 Oct 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>4 Apr 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>13 Jan 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>12 Mar 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>8 Nov 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry>10 Jan 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry>21 Feb 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>25 Sep 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry>11 Dec 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>17 Jul 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Vanuatu</Entry>
+                <Entry>2 Jan 2008</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Netherlands</Participant>
+        <DateNotification>4 Apr 2003</DateNotification>
+        <Territories>Aruba and Netherlands Antilles</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the Kingdom in Europe, the Netherlands Antilles and Aruba. See also note 2 under Netherlands regarding Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>III 2 12b. Privileges and Immunities, Diplomatic and Consular Relations, etc</Footer>
+  </Treaty>
+</Document>

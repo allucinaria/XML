@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>35</Numsect>
+        <Titlesect>Terms of Reference of the International Copper Study Group</Titlesect>
+        <Conclusion>Geneva, 24 February 1989</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>23 January 1992, in accordance with article 22(d).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>23 January 1992, No. 28603</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>21</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1662, p. 229 and depositary notification C.N.314.1992.TREATIES-7 of 16 November 1992 (amendments to paragraphs 13 and 14); C.N.505.2005.TREATIES- of 29 June 2005 [Entry into force of the amendment to paragraph?5?A) of the Terms of reference]&lt;superscript&gt;2&lt;/superscript&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Terms of Reference, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, were adopted on 24 February 1989 by the United Nations Conference on Copper, 1988 which met in Geneva from 13 to 24 June 1988 and from 20 to 24 February 1989. The terms of reference are open to acceptance at the Headquarters of the United Nations in New York.</Text>
+          <Text>Subsequently, the International Copper Study Group took the following decision:</Text>
+          <Text>&lt;b&gt;Date of decision: Subject:&lt;/b&gt;</Text>
+          <Text>7-9 June 1999 Extension until 30 June 2000 of the time-limit for the deposit of notifications of definitive acceptance by Belgium and Luxembourg .</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Provisional acceptance</Entry>
+              <Entry colname="3">Definitive acceptance</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>18 Apr 2001</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>6 Nov 1991</Entry>
+                <Entry>14 Oct 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry />
+                <Entry>9 Dec 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[19 Jun 1992 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>29 Jun 1990</Entry>
+                <Entry>25 Oct 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>China</Entry>
+                <Entry />
+                <Entry>12 Jul 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry />
+                <Entry>6 Nov 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>19 Jun 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>26 Nov 1991</Entry>
+                <Entry>7 Aug 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>22 Jan 1992</Entry>
+                <Entry>16 Dec 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>29 Jun 1990</Entry>
+                <Entry>11 May 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry />
+                <Entry>30 Jul 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[30 Jul 1992 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>15 May 1992</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Japan&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[12 Nov 2004 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry />
+                <Entry>14 Oct 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>3 Apr 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[ 6 Nov 1991 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[27 Feb 1991 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>28 Jun 1990</Entry>
+                <Entry>16 May 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>[13 Jan 1992 ]</Entry>
+                <Entry>[10 Sep 1993 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>29 Jun 1990</Entry>
+                <Entry>6 Feb 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry />
+                <Entry>6 Nov 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>21 Jan 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 May 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>6 Nov 1991</Entry>
+                <Entry>1 Feb 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry />
+                <Entry>24 Jun 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[17 Mar 2000 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>15 Mar 1990</Entry>
+                <Entry>11 Nov 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>18 Nov 1992</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>In accordance with article 23 (3) of the Terms of Reference, the following Governments notified the Secretary-General that they had decided to withdraw from the International Copper Study Group as from the dates indicated hereinafter: </text>
+        <table>
+          <totalCols>3</totalCols>
+          <row>
+            <col>Participant:</col>
+            <col>Date of notification:</col>
+            <col>Date of effect:</col>
+          </row>
+          <row>
+            <col>Philippines</col>
+            <col>4 Dec 1995</col>
+            <col>2 Feb 1996</col>
+          </row>
+          <row>
+            <col>Norway</col>
+            <col>14 July 2000</col>
+            <col>12 Sep 2000</col>
+          </row>
+          <row>
+            <col>Japan</col>
+            <col>31 Oct 2002</col>
+            <col>30 Dec 2002</col>
+          </row>
+          <row>
+            <col>United Kingdom of Great Britain and Northern Ireland</col>
+            <col>22 July 2003</col>
+            <col>20 Sep 2003</col>
+          </row>
+          <row>
+            <col>Indonesia</col>
+            <col>31 July 2003</col>
+            <col>29 Sep 2003</col>
+          </row>
+          <row>
+            <col>Canada</col>
+            <col>29 Sep 2003</col>
+            <col>28 Nov 2003</col>
+          </row>
+          <row>
+            <col>Netherlands</col>
+            <col>1 July 2010</col>
+            <col>22 June 2010</col>
+          </row>
+        </table>
+        <text />
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>At the Groups 3rd Special session held from 16-17 March 2005 in Lisbon, the members of the International Copper Study Group decided by consensus (See Annex B - Decision) to amend paragraph?5?a) of the above-mentioned Terms of Reference pursuant to article 21 thereof. In accordance with paragraph 2 of the above Decision, the amendment to paragraph 15 (a) entered into force for all parties immediately and apply to member assessments for 2006 and future years.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under former Yugoslavia, and note 1 under Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XIX 35. Commodities</Footer>
+  </Treaty>
+</Document>

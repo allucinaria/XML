@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>8</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Amendment effected by Resolution 100/XX adopted on 21 February 1997 by the Governing Council to article 4.1 of the Agreement establishing the International Fund for Agricultural Development</Subtitlesect>
+        <Conclusion>Rome, 21 February 1997</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>21 February 1997, in accordance with article 12.</Labeltext>
+        </EIF>
+        <Registration />
+        <TreatyText />
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>X 8 b. International Trade and Development</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IV</Header>
+        <Name>HUMAN RIGHTS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>16</Numsect>
+        <Titlesect>International Convention for the Protection of All Persons from Enforced Disappearance</Titlesect>
+        <Conclusion>New York, 20 December 2006</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>23 December 2010, in accordance with article 39(1) which reads as follows: This Convention shall enter into force on the thirtieth day after the date of deposit with the Secretary-General of the United Nations of the twentieth instrument of ratification or accession..</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>23 December 2010, No. 48088</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>97</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>58</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 2716,p. 3; &lt;a href="/doc/source/docs/A_61_448-E.pdf" target="_blank"&gt;Doc.A/61/448&lt;/a&gt;; C.N.737.2008.TREATIES-12 of 2 October 2008 (Proposal of corrections to the original text of the Convention (Arabic, Chinese, English, French, Russian and Spanish texts) and to the Certified True Copies) and C.N.1040.2008.TREATIES-20 of 2 January 2009 (Corrections).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Convention was adopted on 20 December 2006 during the sixty-first session of the General Assembly by resolution &lt;a href="/doc/source/docs/A_RES_61_177-E.pdf" target="_blank"&gt;A/RES/61/177&lt;/a&gt;. In accordance with its article 38, the Convention shall be open for signature by all Member States of the United Nations. The Convention shall be open for signature on 6 February 2007 in Paris, France, and thereafter at United Nations Headquarters in New York.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>8 Nov 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry>24 Sep 2014</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>14 Dec 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry>10 Apr 2007</Entry>
+                <Entry>24 Jan 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>7 Jun 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>2 Jun 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry />
+                <Entry>14 Aug 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>19 Mar 2010</Entry>
+                <Entry>2 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>17 Dec 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>30 Mar 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>29 Nov 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>24 Sep 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>3 Dec 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>27 Jun 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>11 Oct 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>8 Dec 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>27 Sep 2007</Entry>
+                <Entry>11 Jul 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>16 Feb 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>2 Feb 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>19 Jul 2016</Entry>
+                <Entry>8 Feb 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>25 Sep 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>24 May 2007</Entry>
+                <Entry>20 Oct 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>23 Sep 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>25 Sep 2007</Entry>
+                <Entry>19 Jan 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry>20 Sep 2017</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>26 Sep 2007</Entry>
+                <Entry>24 Sep 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>1 Oct 2008</Entry>
+                <Entry>9 Jul 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Grenada</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry>24 Sep 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>1 Apr 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>1 Oct 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>27 Sep 2010</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry />
+                <Entry>23 Nov 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>29 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>3 Jul 2007</Entry>
+                <Entry>8 Oct 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>23 Jul 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>27 Feb 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>29 Sep 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry>22 Sep 2010</Entry>
+                <Entry>6 Dec 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry>1 Oct 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>14 Aug 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>14 Jul 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>1 Jul 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>27 Mar 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry>27 Sep 2011</Entry>
+                <Entry>3 Oct 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>18 Mar 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>12 Feb 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>20 Sep 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>14 May 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry>24 Dec 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>29 Apr 2008</Entry>
+                <Entry>23 Mar 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>24 Jul 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>27 Jul 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>21 Dec 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry>20 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>25 Sep 2007</Entry>
+                <Entry>24 Jun 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>3 Aug 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>26 Sep 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>25 Jun 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>27 Jan 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>3 Dec 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>27 Nov 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>11 Dec 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>18 May 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>18 Jan 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>26 Sep 2007</Entry>
+                <Entry>15 Dec 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>26 Sep 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>27 Sep 2007</Entry>
+                <Entry>24 Sep 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>10 Dec 2015</Entry>
+                <Entry>25 May 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry>29 Mar 2010</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry>25 Sep 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>19 Jan 2011</Entry>
+                <Entry>2 Dec 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>9 Jan 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>27 Oct 2010</Entry>
+                <Entry>21 Jul 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>29 Jun 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry />
+                <Entry>14 Aug 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>29 Sep 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry>4 Mar 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Vanuatu</Entry>
+                <Entry>6 Feb 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>21 Oct 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry>27 Sep 2010</Entry>
+                <Entry>4 Apr 2011</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Cuba hereby declares, in accordance with article 42, paragraph 2, that it does not consider itself obliged to refer its disputes to the International Court of Justice, as provided for in paragraph 1 of the same article.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Germany</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">&lt;i&gt;Article 16&lt;/i&gt;</text>
+        <text type="para">The prohibition of return shall only apply if the person concerned faces a real risk of being subjected to enforced disappearance.</text>
+        <text type="para">&lt;i&gt;Regarding Art. 17 (2) (f)&lt;/i&gt;</text>
+        <text type="para">Under German law it is guaranteed that deprivation of liberty is only lawful if it has been ordered by a court or  in exceptional cases  subsequently authorized by a court. Article 104 para. 2 of the Basic Law (Grundgesetz) expressly provides: Only a judge may rule upon the permissibility or continuation of any deprivation of liberty. If such a deprivation is not based on a judicial order, a judicial decision shall be obtained without delay. Article 104 para. 3 of the Basic Law provides that a person who has been provisionally arrested on suspicion of having committed a criminal offence shall be brought before a judge no later than the day following the arrest.</text>
+        <text type="para">In the event that a person is being held arbitrarily in contravention of Article 104 of the Basic Law, anyone can bring about a judicial decision leading to that persons release by applying to the competent Local Court for his/her immediate release. If the person concerned has been detained beyond the time limit permissible under the Basic Law, the court has to order that persons release pursuant to section 128 (2), first sentence, of the Code of Criminal Procedure (Strafprozessordnung, StPO).</text>
+        <text type="para">&lt;i&gt;Article 17 para. 3&lt;/i&gt;</text>
+        <text type="para">In the case of an involuntary placement of sick persons by a custodian or a person having power of attorney, the information required under letters (a) to (h) is known to the court which authorizes the placement. The court can ascertain the information required under letters (a) to (h) at any time through the custodian or person having power of attorney; the information is then included in the</text>
+        <text type="para">case-file. This information is also to be regarded as records within the meaning of article 17 para. 3.</text>
+        <text type="para">&lt;i&gt;Regarding Article 18&lt;/i&gt;</text>
+        <text type="para">Under German law, all persons with a legitimate interest are entitled to obtain information from the court files. The restrictions provided for in German law for the protection of the interests of the person concerned or for safeguarding the criminal proceedings are permissible pursuant to Article 20 para. 1 of the Convention.</text>
+        <text type="para">&lt;i&gt;Regarding Article 24 para. 4&lt;/i&gt;</text>
+        <text type="para">It is clarified that the envisaged provision on reparation and compensation does not abrogate the principle of state immunity.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Morocco</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Pursuant to 42 (2) of the Convention, the Kingdom of Morocco does not consider itself bound by the provisions of paragraph 1 of this article and declares that for any dispute between two or more States to be brought before the International Court of Justice, it is necessary to have, in each case, the agreement of all States parties to the dispute.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="title">Declaration made upon accession:</text>
+        <text type="para">Regarding Articles 13 and 14 of the Convention, Ukraine empowers the Prosecutor Generals Office of Ukraine (concerning request during the pre-trial investigation) and Ministry of Justice of Ukraine (concerning request during the court proceedings or execution of judgments) to consider requests according to Articles 10-14 of Convention.</text>
+        <text type="para">[&]</text>
+        <text type="para">Regarding Article 42 of the Convention, Ukraine does not consider itself bound by the provisions of paragraph 1 of Article 42 concerning additional procedures of settlement of disputes by arbitration or the International Court of Justice.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="para">Reservation made upon signature:</text>
+        <text type="para">The Bolivarian Republic of Venezuela, in accordance with article 42, paragraph 2, of the International Convention for the Protection of All Persons from Enforced Disappearance, hereby formulates a specific reservation concerning the provisions of paragraph 1 of that article. Therefore, it does not consider itself to be obliged to resort to arbitration as a dispute settlement mechanism, nor does it recognize the compulsory jurisdiction of the International Court of Justice.</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle>
+      <Title>Declarations recognizing the competence of the Committee under articles 31 and 32</Title>
+      <Title>(Unless otherwise indicated, the declarations were made upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Albania</Participant>
+        <text>&lt;right&gt;8 November 2007&lt;/right&gt;</text>
+        <text type="title">Article 31</text>
+        <text type="para">In accordance with Article 31 of &..[the International Convention for the Protection of All Persons from Enforced Disappearance], the Republic of Albania declares that it recognizes the competence of the Committee to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation of provisions of this Convention by Albanian State.</text>
+        <text type="title">Article 32</text>
+        <text type="para">In accordance with Article 32 of &..[the International Convention for the Protection of all Persons from Enforced Disappearance], the Republic of Albania declares that it recognizes the competence of the Committee to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text>&lt;right&gt;11 June 2008&lt;/right&gt;</text>
+        <text type="title">Article 31</text>
+        <text type="para">In accordance with the provisions of article[s] 31, paragraph 1 ... of the International Convention for the Protection of All Persons from Enforced Disappearance, the Argentine Republic recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to the jurisdiction of the Argentine Republic claiming to be victims of a violation by the State of any of the provisions of the Convention ...</text>
+        <text type="title">Article 32</text>
+        <text type="para">In accordance with the provisions of ... article[s] 32 of the International Convention for the Protection of All Persons from Enforced Disappearance, the Argentine Republic recognizes the competence of the Committee on Enforced Disappearances ... to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Austria</Participant>
+        <text type="title">Declaration under article 31:</text>
+        <text type="para">Pursuant to Article 31 of the Convention, the Republic of Austria recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation of provisions of this Convention by Austria.</text>
+        <text type="title">Declaration under article 32:</text>
+        <text type="para">Pursuant to Article 32 of the Convention, the Republic of Austria recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="para">&lt;i&gt;Article 31:&lt;/i&gt;</text>
+        <text type="para">The Kingdom of Belgium declares that in accordance with article 31 of the convention, [Belgium] recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation of provisions of this Convention by the Kingdom of Belgium.</text>
+        <text type="para">&lt;i&gt;Article 32:&lt;/i&gt;</text>
+        <text type="para">The Kingdom of Belgium declares, in accordance with article 32 of hte Convention, that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Bosnia and Herzegovina</Participant>
+        <text>&lt;right&gt;13 December 2012&lt;/right&gt;</text>
+        <text type="title">Article 31</text>
+        <text type="para">Bosnia and Herzegovina hereby declares that in accordance with article 31 of the International Convention for the Protection of All Persons from Enforced Disappearance, adopted in New York, December 20, 2006, Bosnia and Herzegovina recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation of provisions of this Convention by Bosnia and Herzegovina.</text>
+        <text>&lt;right&gt;13 December 2012&lt;/right&gt;</text>
+        <text type="title">Article 32</text>
+        <text type="para">Bosnia and Herzegovina hereby declares, in accordance with article 32 of the International Convention for the Protection of All Persons from Enforced Disappearance, adopted in New York, December 20, 2006, that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Chile</Participant>
+        <text type="title">Article 31</text>
+        <text type="para">The Republic of Chile hereby declares, in accordance with article 31 of this Convention, that it recognizes the competence of the Committee to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation by this State Party of provisions of this Convention.</text>
+        <text type="title">Article 32</text>
+        <text type="para">The Republic of Chile hereby declares, in accordance with article 32 of this Convention, that it recognizes the competence of the Committee to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under this Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic</Participant>
+        <text type="title">Declaration under article 31</text>
+        <text type="para">& pursuant to Article 31 (1) of the International Convention for the Protection of All Persons from Enforced Disappearance, the Czech Republic declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation by the Czech Republic of provisions of this Convention.</text>
+        <text type="title">Declaration under article 32</text>
+        <text type="para">& pursuant to Article 32 of the of the International Convention for the Protection of All Persons from Enforced Disappearance, the Czech Republic declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Ecuador</Participant>
+        <text type="title">Article 31</text>
+        <text type="para">In accordance with the provisions of article 31 (1) of the International Convention for the Protection of All Persons from Enforced Disappearance, the Republic of Ecuador recognizes the competence of the Committee to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of violations of provisions of this Convention by this State Party.</text>
+        <text type="title">Article 32</text>
+        <text type="para">In accordance with the provisions of article 32 of the Convention for the Protection of All Persons from Enforced Disappearance, the Republic of Ecuador recognizes the competence of the Committee to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text>&lt;right&gt;9 December 2008&lt;/right&gt;</text>
+        <text type="title">Article 31</text>
+        <text type="para">... in accordance with the provisions of paragraph 1 of article 31, [France] recognizes the competence of the Committee on enforced disappearance to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation of provisions of this Convention by France.</text>
+        <text type="title">Article 32</text>
+        <text type="para">... in accordance with article 32, [France] recognizes the competence of the Committee on enforced disappearance to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Germany</Participant>
+        <text type="title">Article 31</text>
+        <text type="para">In accordance with Article 31 of the International Convention for the Protection of all Persons from Enforced Disappearance (CED) of 20 December 2006, the Federal Republic of Germany declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to the jurisdiction of the Federal Republic of Germany claiming to be victims of a violation of provisions of this Convention by the Federal Republic of Germany.</text>
+        <text type="title">Article 32</text>
+        <text type="para">In accordance with Article 32 of the International Convention for the Protection of all Persons from Enforced Disappearance (CED) of 20 December 2006, the Federal Republic of Germany declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that the Federal Republic of Germany is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Japan</Participant>
+        <text type="title">Article 32</text>
+        <text type="para">In accordance with Article 32 of the Convention, the Government of Japan declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Lithuania</Participant>
+        <text>&lt;right&gt;14 August 2013&lt;/right&gt;</text>
+        <text type="para">&lt;i&gt;Article 31&lt;/i&gt;</text>
+        <text type="para">& in accordance with Article 31 of the Convention, the Seimas of the Republic of Lithuania declares that the Republic of Lithuania recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to the jurisdiction of the Republic of Lithuania claiming to be victims of a violation by the Republic of Lithuania of provisions of this Convention.</text>
+        <text type="para" />
+        <text type="para">&lt;i&gt;Article 32&lt;/i&gt;</text>
+        <text type="para">& in accordance with Article 32 of the Convention, the Seimas of the Republic of Lithuania declares that the Republic of Lithuania recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party to this Convention claims that the Republic of Lithuania is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Mali</Participant>
+        <text>&lt;right&gt;2 February 2010&lt;/right&gt;</text>
+        <text type="title">Declaration under articles 31 and 32:</text>
+        <text type="para">The Government of the Republic of Mali declares that it recognizes the competence of the Committee on Enforced Disappearances to receive communications from individuals or any other State Party in accordance with the provisions of articles 31 and 32 of the International Convention for the Protection of All Persons against Enforced Disappearance, adopted on December 20, 2006.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Montenegro</Participant>
+        <text type="title">Article 31</text>
+        <text type="para">In accordance with Article 31 of the International Convention for the Protection al All Persons from Enforced Disappearance, adopted in New York, December 20, 2006, the Government of Montenegro declares that Montenegro recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation by Montenegro of provisions of this Convention.</text>
+        <text type="title">Article 32</text>
+        <text type="para">In accordance with Article 32 of the International Convention for the Protection al All Persons from Enforced Disappearance, adopted in New York, 20 December 2006, the Government of Montenegro declares that Montenegro recognizes the competence of the Committee to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Article 31:</text>
+        <text type="para">In accordance with Article 31 of the International Convention for the Protection of all Persons from Enforced Disappearance, the Kingdom of the Netherlands, for the European part of the Netherlands and the Caribbean part of the Netherlands (the islands of Bonaire, Sint Eustatius and Saba), declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation by the Kingdom of the Netherlands of provisions of this Convention.</text>
+        <text type="title">Article 32:</text>
+        <text type="para">In accordance with Article 32 of the International Convention for the Protection of all Persons from Enforced Disappearance, the Kingdom of the Netherlands, for the European part of the Netherlands and the Caribbean part of the Netherlands (the islands of Bonaire, Sint Eustatius and Saba), declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Peru</Participant>
+        <text>&lt;right&gt;22 July 2016&lt;/right&gt;</text>
+        <text type="title">Declaration under article 31:</text>
+        <text type="para">In accordance with article 31 of the International Convention for the Protection of All Persons from Enforced Disappearances, the Republic of Peru declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to its jurisdiction, claiming to be victims of a violation of the provisions of the Convention by the Republic of Peru.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Portugal</Participant>
+        <text>&lt;right&gt;27 January 2014&lt;/right&gt;</text>
+        <text type="title">Article 31</text>
+        <text type="para">The Portuguese Republic declares that it recognizes the competence of the Committee on Enforced Disappearances in accordance and for the purposes of Article 31, paragraph 1 of the International Convention for the Protection of All Persons from Enforced Disappearance, adopted in New York, on the Twentieth of December of two thousand and six.</text>
+        <text>&lt;right&gt;27 January 2014&lt;/right&gt;</text>
+        <text type="title">Article 32</text>
+        <text type="para">The Portuguese Republic declares that it recognizes the competence of the Committee on Enforced Disappearance[s] in accordance and for the purposes of Article 32 of the International Convention for the Protection of All Persons from Enforced Disappearance, adopted in New York, on the Twentieth of December of two thousand and six.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Serbia</Participant>
+        <text type="title">Declaration under article 31 (1):</text>
+        <text type="para">The Republic of Serbia recognizes the competence of the Committee to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation by the Republic of Serbia of provisions of this Convention.</text>
+        <text type="title">Declaration under article 32:</text>
+        <text type="para">The Republic of Serbia recognizes the competence of the Committee to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia</Participant>
+        <text type="title">Declaration under article 31</text>
+        <text type="para">In accordance with Article 31 of the Convention, the Slovak Republic declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to the jurisdiction of the Slovak Republic claiming to be victims of a violation of provisions of this Convention by the Slovak Republic.</text>
+        <text type="title">Declaration under article 32</text>
+        <text type="para">In accordance with Article 32 of the Convention, the Slovak Republic declares that it recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that the Slovak Republic is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text>&lt;right&gt;5 January 2011&lt;/right&gt;</text>
+        <text type="para">&lt;i&gt;Declarations under articles 31&lt;/i&gt;</text>
+        <text type="para">In accordance with article 31 of the International Convention for the Protection of All Persons from Enforced Disappearance, the Kingdom of Spain declares that it recognizes the competence of the Committee to receive and consider communications from or on behalf of individuals subject to its jurisdiction, claiming to be victims of violations by Spain of provisions of this Convention.</text>
+        <text type="para">&lt;i&gt;Declarations under articles 32&lt;/i&gt;</text>
+        <text type="para">In accordance with article 32 of the International Convention for the Protection of All Persons from Enforced Disappearance, the Kingdom of Spain declares that it recognizes the competence of the Committee to receive and consider communications in which a State party claims that another State party is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Sri Lanka</Participant>
+        <text type="title">Declaration under article 32</text>
+        <text type="para">& the Government [of the Democratic Socialist Republic of Sri Lanka] wishes to declare as per Article 32 of the Convention that it recognizes the competence of the Committee to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under this Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="title">Declaration under article 32</text>
+        <text type="para">In accordance with article 32 of the Convention, Switzerland recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under the Convention.</text>
+        <text type="title">Declaration under article 31</text>
+        <text type="para">In accordance with article 31 of the Convention, Switzerland recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation of provisions of this Convention by Switzerland.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text>&lt;right&gt;14 August 2015&lt;/right&gt;</text>
+        <text type="para">&lt;i&gt;Article 31&lt;/i&gt;</text>
+        <text type="para">Regarding Article 31 of the Convention, Ukraine recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications from or on behalf of individuals subject to its jurisdiction claiming to be victims of violation of provisions of the Convention by Ukraine.</text>
+        <text>&lt;right&gt;14 August 2015&lt;/right&gt;</text>
+        <text type="para">&lt;i&gt;Article 32&lt;/i&gt;</text>
+        <text type="para">Regarding Article 32 of the Convention, Ukraine recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications in which a State Party claims that another State Party is not fulfilling its obligations under the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Uruguay</Participant>
+        <text type="title">Article 31</text>
+        <text type="para">In accordance with article 31, paragraph 1, of the International Convention for the Protection of All Persons from Enforced Disappearance, the Eastern Republic of Uruguay recognizes the competence of the Committee on Enforced Disappearances to receive and consider communications submitted by or on behalf of individuals subject to its jurisdiction claiming to be victims of a violation by that State of the provisions of that Convention.</text>
+        <text type="title">Article 32</text>
+        <text type="para">& in accordance with article 32 of the International Convention for the Protection of All Persons from Enforced Disappearance, the Eastern Republic of Uruguay recognizes the competence of the Committee [on Enforced Disappearances] to receive and consider communications in which a State party claims that the Uruguayan State is not fulfilling its obligations under that Convention.</text>
+      </Declaration>
+    </DeclarationsUnderArticle>
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the European part of the Netherlands and the Caribbean part of the Netherlands (the Islands of Bonaire, Sint Eustatius and Saba).</text>
+        <text>Subsequently, on 21 December 2017, the Government of the Netherlands notified the Secretary-General that the Convention will apply to Aruba, with a declaration under articles 31 and 32. (See C.N.783.2017.TREATIES-IV.16 of 21 December 2017.)</text>
+      </Note>
+    </EndNotes>
+    <Footer>IV 16. Human Rights</Footer>
+  </Treaty>
+</Document>

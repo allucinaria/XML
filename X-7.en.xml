@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>7</Numsect>
+        <Titlesect>Convention on the Limitation Period in the International Sale of Goods</Titlesect>
+        <Conclusion>New York, 14 June 1974</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 August 1988, in accordance with article 44 which reads as follows: "1. This Convention shall enter into force on the first day of the month following the expiration of six months after the date of the deposit of the tenth instrument of ratification or accession. 2. For each State ratifying or acceding to this Convention after the deposit of the tenth instrument of ratification or accession, this Convention shall enter into force on the first day of the month following the expiration of six months after the date of the deposit of its instrument of ratification or accession.".</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 August 1988, No. 26119</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>12</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>30</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1511, p. 3; and depositary notification C.N.260.1975.TREATIES-6 of 30 September 1975 (procès-verbal of rectification of the authentic French text); C.N.754.2008.TREATIES-2 of 14 October 2008 (Proposal of corrections to the original text of the Protocol (Arabic, Chinese, English, French, Russian and Spanish authentic texts) and to the Certified True Copies) and C.N.8.2009.TREATIES-1 of 12 January 2009 (Corrections).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the United Nations Conference on Prescription (limitation) in the International Sale of Goods, which convened at the Headquarters of the United Nations, at New York, from 20 May to 14 June 1974. The Conference was convened in accordance with Resolution &lt;a href="/doc/source/docs/A_RES_28_3104-E.pdf" target="_blank"&gt;3104 (XXVIII)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of the General Assembly adopted on 12 December 1973. The Convention was opened for signature at the Headquarters of the UnitedNations, New York, on 14 June 1974, (closing date for signature: 31 December 1975).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Participation under article XI of the Protocol of 11 April 1980(P), Accession(a), Succession(d), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry />
+                <Entry>9 Oct 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>14 Jun 1974</Entry>
+                <Entry>23 Jan 1997 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>1 Aug 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>29 Jul 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>14 Jun 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>24 Feb 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry />
+                <Entry>4 Sep 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>30 Aug 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>1 Feb 2016 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>2 Nov 1994 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>30 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>23 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>6 Dec 1982 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>5 Dec 1974</Entry>
+                <Entry>7 Oct 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>23 Jan 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>14 Jun 1974</Entry>
+                <Entry>16 Jun 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>21 Jan 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>14 Jun 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>13 May 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>11 Dec 1975</Entry>
+                <Entry>20 Mar 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>18 Aug 2003 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>14 Jun 1974</Entry>
+                <Entry>19 May 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>28 Aug 1997 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>23 Apr 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>14 Jun 1974</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry />
+                <Entry>2 Aug 1995 P</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>12 Feb 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>14 Jun 1974</Entry>
+                <Entry>13 Sep 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry />
+                <Entry>5 May 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>1 Apr 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>6 Jun 1986 P</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession, succession or participation.)</Title>
+      <Declaration>
+        <Participant>Norway</Participant>
+        <text type="title">Declaration made upon signature and confirmed upon ratification:</text>
+        <text type="para">"In accordance with article 34 the Government of the Kingdom of Norway declares that the Convention shall not govern contracts of sale where the seller and the buyer both have their relevant places of business within the territories of the Nordic States (i.e. Norway, Denmark, Finland, Iceland and Sweden)."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the General Assembly, Twenty-eighth Session, Supplement No. 30 &lt;/i&gt;(A/9030), p.143.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The German Democratic Republic had signed and ratified the Convention on 14 June 1974 and 31 August 1989, respectively. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The former Yugoslavia had acceeded to the Convention on 27 November 1978. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 29 August 1975 and 26 May 1977, respectively. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 7. International Trade and Development</Footer>
+  </Treaty>
+</Document>

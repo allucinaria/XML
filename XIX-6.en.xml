@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>6</Numsect>
+        <Titlesect>International Sugar Agreement, 1968*</Titlesect>
+        <Conclusion>New York, 3 December 1968 and 24 December 1968</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 1 January 1969, in accordance with article 63(2) and definitively on 17 June 1969, in accordance with article 63(1). The Agreement expired in accordance with its provisions on 31 December 1973.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 January 1969, No. 9369</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 654, p. 3.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>XIX 6. Commodities</Footer>
+  </Treaty>
+</Document>

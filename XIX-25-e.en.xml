@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>25</Numsect>
+        <Subnumsect>e</Subnumsect>
+        <Subtitlesect>Third Extension of the International Coffee Agreement, 1983, as modified*</Subtitlesect>
+        <Conclusion>London, 27 September 1991</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 October 1992, in accordance with paragraphs 3, 4 and 5 of Resolution No. 355 adopted by the International Coffee Council on 27 September 1991. The Agreement was extended on 1 October 1993 by Resolution No. 363 adopted by the International Coffee Council on 4 June 1993 [see chapter XIX.25 g)].</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 October 1992, No. 22376</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1691, p. 449.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>XIX 25 e. Commodities</Footer>
+  </Treaty>
+</Document>

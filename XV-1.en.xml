@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XV</Header>
+        <Name>DECLARATION OF DEATH OF MISSING PERSONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Convention on the declaration of death of missing persons*</Titlesect>
+        <Conclusion>Lake Success, New York, 6 April 1950</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>24 January 1952 by the exchange of the said letters, in accordance with article 14.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>24 January 1952, No. 1610</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>7</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, Treaty Series, vol. 119, p. 99.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Conference was convened pursuant to General Assembly resolution 369 (IV)&lt;superscript&gt;1&lt;/superscript&gt; of 3 December 1949 and met at Lake Success, New York, from 15 March to 6 April 1950. For the text of the Final Act of the Conference, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 119, p. 99.</Text>
+          <Text>In accordance with article 17 (1), the Convention was to cease to have effect on 23 January 1957. However, the Convention was extended as a result of the adoption of the Protocols of 16 January 1957 and 15 January 1967, and remained in force until 24 January 1972 (see chapters XV.2 and XV.3).</Text>
+        </TreatyNote>
+        <Termination>
+          <Label>TERMINATION</Label>
+          <Labeltext>24 January 1972, in accordance with article 1 of the Protocol of 15 January 1967 (United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, &lt;a href="/doc/Publication/UNTS/Volume%20808/v808.pdf" target="_blank"&gt;vol. 808, p. 296&lt;/a&gt;.)</Labeltext>
+        </Termination>
+      </ExternalData>
+    </Header>
+    <Footer>XV 1. Declaration of Death of Missing Persons</Footer>
+  </Treaty>
+</Document>

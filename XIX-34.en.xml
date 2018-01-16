@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>34</Numsect>
+        <Titlesect>Terms of Reference of the International Tin Study Group</Titlesect>
+        <Conclusion>New York, 7 April 1989</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 21 which reads as follows: "(a) These terms of reference shall enter into force when States together accounting for at least 70 per cent of trade in tin, as set out in the annex to these terms of reference, have notified the Secretary-General of the United Nations (hereinafter referred to as "the depositary") pursuant to subparabraph (b) below of their acceptance of these terms of reference. (b) Any State or any intergovernmental organization referred to in paragraph 5 which desires to become a member of the Group shall notify the depositary that it accepts these terms of reference either provisionally, pending the conclusion of its internal procedures, or definitively. Any State or intergovernmental organization which has notified its provisional acceptance of these terms of reference shall endeavour to complete its procedures as quickly as possible and shall notify the depositary of their completion. (c) If the requirements for entry into force of these terms of reference have not been met on 31 December 1989, the depositary shall invite those States and intergovernmental organizations that have notified their acceptance of these terms of reference pursuant to subparagraph (b) above to decide whether or not to put these terms of reference into force among themselves. (d) When these terms of reference enter into force, the depositary shall convene an inaugural meeting of the Group as soon as possible thereafter. Members shall be notified at least one month, where possible, prior to that meeting.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>12</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc. &lt;a href="/doc/source/docs/TD_TIN7_13-E.pdf" target="_blank"&gt;TD/TIN.7/13&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Terms of Reference, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, were adopted on 7 April 1989 by the United Nations Tin Conference, 1988 which met in Geneva from 21 November to 2 December 1988 and from 29 March to 7 April 1989. The terms of reference are open to acceptance at the Headquarters of the United Nations in New York.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Provisional acceptance/accession</Entry>
+              <Entry colname="3">Definitive acceptance</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>6 Nov 1991</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry />
+                <Entry>6 Nov 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>26 Nov 1991</Entry>
+                <Entry>7 Aug 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>29 Jun 1990</Entry>
+                <Entry>11 May 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry />
+                <Entry>9 Mar 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry />
+                <Entry>15 May 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>6 Nov 1991</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>18 Oct 1989</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Nov 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>19 Dec 1989</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry />
+                <Entry>6 Nov 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry />
+                <Entry>16 Apr 1990</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XIX 34. Commodities</Footer>
+  </Treaty>
+</Document>

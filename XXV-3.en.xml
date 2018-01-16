@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXV</Header>
+        <Name>TELECOMMUNICATIONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Titlesect>Agreement establishing the Asia-Pacific Institute for Broadcasting Development</Titlesect>
+        <Conclusion>Kuala Lumpur, 12 August 1977</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>6 March 1981, in accordance with article 16.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>6 March 1981, No. 19609</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>14</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>26</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1216, p. 81&lt;superscript&gt;1&lt;/superscript&gt;; depositary notifications C.N.130.1986.TREATIES-1 of 13 June 1986 (amended authentic text in Chinese, English, French and Russian) and C.N.195.1986.TREATIES-3 of 15 October 1986 (Adoption of the amended text of the Agreement)&lt;superscript&gt;2&lt;/superscript&gt;; and C.N.707.1999.TREATIES-1 of 6 August 1999 [amendments &lt;i&gt;(see chapter XXV.3 a) &lt;/i&gt;].</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was adopted on 12 August 1977 by the Intergovernmental Meeting on the Asia-Pacific Institute for Broadcasting Development convened by the United Nations Development Programme at Kuala Lumpur, Malaysia, from 10 to 12 August 1977.</Text>
+          <Text>According to paragraph 3 of its article 14, the Agreement was to remain open for signature at the UNESCO Headquarters in Paris until 31 March 1978 and would then be transmitted for deposit to the Secretary-General of the United Nations. Instead, signatures on behalf of 11 States were affixed individually during the period 12 September 1977 - 11 October 1978 on separate copies of the text of the Agreement established by the Asia-Pacific Institute for Broadcasting Development which were transmitted to the Secretary-General in June 1979. By depositary notification of 3 August 1979, the Secretary-General, in his capacity as the designated depositary, submitted for approval by all States having participated in the adoption of the Agreement or having signed the separate copies, the original text of the Agreement, similar to the text adopted at Kuala Lumpur on 12 August 1977 except for minor changes in the formal clauses as were warranted by the circumstances. No objection having been received from the States concerned within ninety days from the notification, the original of the Agreement was deposited with the Secretary-General on 2 November 1979.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>23 Aug 1978</Entry>
+                <Entry>23 Dec 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>14 Sep 1977</Entry>
+                <Entry>11 Aug 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry />
+                <Entry>5 Jun 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry />
+                <Entry>6 Dec 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>10 Jul 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>5 Feb 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry>2 Jun 1978</Entry>
+                <Entry>26 Mar 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry />
+                <Entry>14 Dec 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>20 May 1980</Entry>
+                <Entry>25 Feb 1986</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>12 Aug 1978</Entry>
+                <Entry>31 Aug 1989</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry />
+                <Entry>18 Nov 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>12 Sep 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>11 Oct 1978</Entry>
+                <Entry>10 Nov 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry />
+                <Entry>25 Jun 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry />
+                <Entry>28 Dec 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry />
+                <Entry>29 Jul 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>15 May 1980</Entry>
+                <Entry>11 Sep 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>10 Apr 1978</Entry>
+                <Entry>7 Jul 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry>9 Mar 1978</Entry>
+                <Entry>1 May 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>12 Sep 1977</Entry>
+                <Entry>11 Sep 1986 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>11 Oct 1978</Entry>
+                <Entry>6 Mar 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry />
+                <Entry>25 Nov 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>29 Jun 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>15 Sep 1978</Entry>
+                <Entry>7 Nov 1988</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>25 Apr 1981</Entry>
+                <Entry>11 Sep 1986 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry>8 Sep 1978</Entry>
+                <Entry>23 Feb 1981 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon</Title>
+      <Title>ratification, accession or acceptance.)</Title>
+      <Declaration>
+        <Participant>France&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+        <text type="title">With regard to paragraph 2 (a) (iv) of article 11:</text>
+        <text type="para">1. Whether the remuneration of employees of the Institute is exempted from the tax levied in France shall depend on the establishment by the Institute of an internal tax on such remuneration;</text>
+        <text type="para">2. This exemption shall not apply to pensions and like income;</text>
+        <text type="para">3. Salaries and emoluments may be taken into account for purposes of calculating the tax due on income from other sources.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>Published as a UNESCO and WIPO document (vol. 19609). The signatures were affixed on separate copies of the Agreement (see " &lt;i&gt;Note &lt;/i&gt;" above). In accordance with the provision of article 14 (3) of the Agreement in the text established by the Secretary-General and accepted by the signatory States, these signatures were considered, in the absence of notification to the contrary, as tantamount to signatures under paragraph 1 of the same article 14.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>In accordance with a request made by the Governing Council of the Asia-Pacific Institute for Broadcasting Development the Secretary-General circulated on 13 June 1986 a proposed amended text of the Agreement (drawn up in Chinese, English, French and Russian) which was deemed adopted in the absence within 90 days of objections to the proposed amended text or to the amendment procedure thus adopted.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 29 January 2001, the Government of China notified the Secretary-General of the following:</text>
+        <text>The Peoples Republic of China confirmed that in accordance with the declaration contained in the instrument of acceptance by China to the Amendments [of 21 July 1999], which was deposited with the Secretary-General on 10 April 2000, the Agreement as amended by the Amendments of 21 July 1999 is applicable to the Macao Special Administrative Region.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>In connection with "the question of imposition of taxes on the income earned by the French nationals and the permanent residents in France while working at AIDB, the Council noted the position that in view of the articles 12.2 (a) (ii) and (iv) of the Agreement establishing AIBD and the article V.1. (B) of the supplementary Agreement signed by AIBD and the Government of Malaysia, the French nationals and the permanent residents of France will enjoy tax free benefits on the emoluments earned while working at AIBD and further recognised the right of the Government of France to levy taxes on such incomes derived by the French nationals and permanent residents in France during their secondment to, or employment at the AIBDSZ".</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXV 3. Telecommunications</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>25</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>International Coffee Agreement, 1983*</Subtitlesect>
+        <Conclusion>London, 16 September 1982</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 October 1989, in accordance with paragraphs 5 and 6 of Resolution No. 347. The Agreement was supposed to expire on 30 September 1991. The Agreement was extended on 1 October 1991 by Resolution No. 352 adopted by the International Coffee Council on 28 September 1990 [see chapter XIX.25 c)].</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 October 1989, No. 22376</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>27</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 1546, p. 389; Resolution No. 347 adopted by the International Coffee Council.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XIX 25 b. Commodities</Footer>
+  </Treaty>
+</Document>

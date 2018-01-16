@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XI</Header>
+        <Name>TRANSPORT AND COMMUNICATIONS</Name>
+      </Chapter>
+      <SubChapter>
+        <Header>A</Header>
+        <Name>Custom Matters</Name>
+      </SubChapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Agreement providing for the provisional application of the Draft International Customs Conventions on Touring, on Commercial Road Vehicles and on the International Transport of Goods by Road*</Titlesect>
+        <Conclusion>Geneva, 16 June 1949</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 January 1950, in accordance with article III.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 January 1950, No. 696</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, Treaty Series, vol. 45, p. 149.</Text>
+        </TreatyText>
+        <TreatyNote />
+        <Termination>
+          <Label>TERMINATION</Label>
+          <Labeltext>The Agreement, the Additional Protocol of 16 June 1949 (see chapter XI.A-2) and the Additional Protocol of 28 November 1952 (see chapter XI.A-4) were terminated, in accordance with articles III and IV of the Agreement, as follows: on 1 January 1965 in respect of the International Customs Convention on the International Transport of Goods by Road, and on 1 January 1966 in respect of the International Customs Conventions on Touring and on Commercial Road Vehicles. (The Additional Protocol of 11 March 1950 (see chapter XI.A-3) was abrogated by the Additional Protocol of 28 November 1952, in accordance with article V of the latter Protocol.) For the list of participants, see &lt;a href="/doc/source/publications/MTDSG/2000-english-vol.1.pdf" target="_blank"&gt;Multilateral Treaties Deposited with the Secretary-General, Status as at 31 December 2000" (ST/LEG/SER.E/19)&lt;/a&gt;.</Labeltext>
+        </Termination>
+      </ExternalData>
+    </Header>
+    <Footer>XI A 1. Transport and Communications - Custom Matters</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IV</Header>
+        <Name>HUMAN RIGHTS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>14</Numsect>
+        <Titlesect>Agreement establishing the Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean</Titlesect>
+        <Conclusion>Madrid, 24 July 1992</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>4 August 1993, in accordance with article 14(2).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>4 August 1993, No. 30177</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>24</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>23</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 1728, p. 380; Document of the Intergovernmental Technical Meeting for the Preparation of the Indigenous Fund, La Paz, Bolivia, of 20 June 1992.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement, of which the English, Portuguese and Spanish texts are equally authentic, was adopted during the Second Summit Meeting of Ibero-American Heads of State, held at Madrid from 23 to 24 July 1992. In accordance with its article 14 (1), the Agreement was opened for signature at Madrid on 24 July 1992 and shall remain open for signature at the Headquarters of the United Nations.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Acceptance(A), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>18 Mar 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>18 Nov 1993</Entry>
+                <Entry>27 Jun 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry>1 Feb 1996</Entry>
+                <Entry>1 Feb 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>4 Aug 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>17 Jun 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>31 Oct 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>9 May 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>15 Mar 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>13 Dec 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>26 Oct 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>12 May 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>28 Nov 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>10 May 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>12 Jul 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>10 Jul 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>10 Feb 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>1 Dec 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>1 Oct 1992</Entry>
+                <Entry>19 Apr 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>23 Jun 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>7 Dec 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry>29 Nov 2010</Entry>
+                <Entry>29 Nov 2010 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>24 Jul 1992</Entry>
+                <Entry>17 Feb 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>11 Feb 1993</Entry>
+                <Entry>13 May 2002</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification.)</Title>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In signing the present Agreement, the Republic of Venezuela understands that, under the provisions of article 1, the process of self-development of indigenous peoples, communities and organizations can in no way affect the sovereignty and territorial integrity of the Republic of Venezuela or the unity of its peoples.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>IV 14. Human Rights</Footer>
+  </Treaty>
+</Document>

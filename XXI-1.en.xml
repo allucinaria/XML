@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXI</Header>
+        <Name>LAW OF THE SEA</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Convention on the Territorial Sea and the Contiguous Zone</Titlesect>
+        <Conclusion>Geneva, 29 April 1958</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>10 September 1964, in accordance with article 29.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>22 November 1964, No. 7477</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>41</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>52</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 516, p. 205.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The four Conventions and the Optional Protocol of Signature listed in this chapter were prepared and opened for signature by the United Nations Conference on the Law of the Sea. The Conference was convened pursuant to resolution &lt;a href="/doc/source/docs/A_RES_11_1105-E.pdf" target="_blank"&gt;1105 (XI)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt;, adopted by the General Assembly of the United Nations on 21 February 1957, and met at the European Office of the United Nations at Geneva from 24 February to 27 April 1958. The Conference also adopted the Final Act and nine resolutions for the text of which, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 450, p. 11. For the &lt;i&gt;travaux préparatoires &lt;/i&gt; and the proceedings of the Conference, see &lt;i&gt;Official Records of the United Nations Conference on the Law of the Sea &lt;/i&gt;, vols. I to VII, United Nations publication, Sales No.: 58.V.4, vols. I to VII.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2,3&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry>14 May 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>27 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry>27 Feb 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>6 Jan 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>17 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>31 Oct 1958</Entry>
+                <Entry>31 Aug 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>18 Mar 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>3 Aug 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Feb 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>26 Sep 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>11 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>25 Mar 1971 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>27 Oct 1958</Entry>
+                <Entry>16 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>29 Mar 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry>30 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>31 Oct 1958</Entry>
+                <Entry>6 Dec 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>28 May 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>2 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>6 Sep 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry />
+                <Entry>17 Dec 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>8 Oct 1965 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry />
+                <Entry>10 Jun 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>20 Jun 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>17 Nov 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>23 Oct 1973 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>27 May 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>31 Jan 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>31 Jul 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>3 Nov 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>21 Dec 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>19 May 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>5 Oct 1970 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>2 Aug 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry>31 Oct 1958</Entry>
+                <Entry>18 Feb 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry>29 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>26 Jun 1961 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>31 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>2 May 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>28 Oct 1958</Entry>
+                <Entry>8 Jan 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>31 Oct 1958</Entry>
+                <Entry>12 Dec 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry>22 Nov 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>25 Apr 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>13 Mar 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry />
+                <Entry>3 Sep 1981 d</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>9 Apr 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>25 Feb 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry />
+                <Entry>16 Oct 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>22 Oct 1958</Entry>
+                <Entry>18 May 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry>2 Jul 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>29 Jun 1971 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>11 Apr 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>14 Sep 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry>12 Jan 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>9 Sep 1958</Entry>
+                <Entry>14 Mar 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>15 Sep 1958</Entry>
+                <Entry>12 Apr 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>29 Apr 1958</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>30 Oct 1958</Entry>
+                <Entry>15 Aug 1961</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon</Title>
+      <Title>ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="para">&lt;i&gt;Article 20 &lt;/i&gt;: The Government of the Byelorussian Soviet Socialist Republic considers that government ships in foreign territorial waters have immunity and that the measures mentioned in this article may therefore be applied to them only with the consent of the flag State.</text>
+        <text type="para">&lt;i&gt;Article 23 (Sub-section D. Rules applicable to warships) &lt;/i&gt;: The Government of the Byelorussian Soviet Socialist Republic considers that the coastal State has the right to establish procedures for the authorization of the passage of foreign warships through its territorial waters.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria</Participant>
+        <text type="para">&lt;i&gt;Article 20 &lt;/i&gt;: The Government of the People's Republic of Bulgaria considers that government ships in foreign waters have immunity and that the measures set forth in this article may therefore apply to such ships only with the consent of the flag state.</text>
+        <text type="para">&lt;i&gt;Article 23 (Sub-section D. Rules applicable to warships) &lt;/i&gt;: The Government of the People's Republic of Bulgaria considers that the coastal State has the right to establish procedures for the authorization of the passage of foreign warships through its territorial waters.</text>
+        <text type="title">Upon ratification:</text>
+        <text type="title">Reservations:</text>
+        <text type="para">&lt;i&gt;Article 20 &lt;/i&gt;: The Government of the People's Republic of Bulgaria considers that government ships in the territorial sea of another State have immunity and that the measures set forth in this article may therefore apply to such ships only with the consent of the flag State.</text>
+        <text type="para">&lt;i&gt;Article 23 &lt;/i&gt; &lt;i&gt;(Sub-section D. Rules applicable to warships) &lt;/i&gt;: The Government of the People's Republic of Bulgaria considers that the coastal State has the right to establish procedures for the authorization of the passage of foreign warships through its territorial sea.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Colombia</Participant>
+        <text type="para">With respect to the Convention on the Territorial Sea and the Contiguous Zone, the delegation of Colombia declares that, under article 98 of the Colombian Constitution, authorization by the Senate is required for the passage of foreign troops through Colombian territory and that, by analogy, such authorization is accordingly also required for the passage of foreign warships through Colombian territorial waters.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary</Participant>
+        <text type="para">&lt;i&gt;Articles 14 and 23 &lt;/i&gt;: "The Government of the Hungarian People's Republic is of the opinion that the coastal State is entitled to make the passage of warships through its territorial waters subject to previous authorization.</text>
+        <text type="para">&lt;i&gt;Article 21 &lt;/i&gt;: "The Government of the Hungarian People's Republic is of the opinion that the rules contained in Sub-Section B of Section III of Part I of the Convention are generally inapplicable to government ships operated for commercial purposes so far as they encroach on the immunities enjoyed under international law by all government ships, whether commercial or non-commercial, on foreign territorial waters. Consequently, the provisions of Sub-Section B restricting the immunities of government ships operated for commercial purposes are applicable only upon consent of the State whose flag the ship flies."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iran (Islamic Republic of)</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="title">Reservation:</text>
+        <text type="para">&lt;i&gt;Article 14 &lt;/i&gt;: The Iranian Government maintains the objection on the ground of excess of competence, expressed by its delegation at the twelfth plenary meeting of the Conference on the Law of the Sea on 24 April 1958, to the articles recommended by the Fifth Committee of the Conference and incorporated in part in article 14 of this Convention. The Iranian Government accordingly reserves all rights regarding the contents of this article in so far as it relates to countries having no sea coast.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="para">The Government of the Republic of Italy, beside exercising control for the purposes of article 24, paragraph 1 in the zone of the high seas contiguous to the territorial sea, reserves the right to exercise surveillance within the belt of sea extending twelve nautical miles from the coast for the purpose of preventing and punishing infringements of the customs regulations in whatever point of this belt such infringements may be committed.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lithuania</Participant>
+        <text type="title">Upon ratification:</text>
+        <text type="title">Declaration:</text>
+        <text type="para">". . .The Republic of Lithuania declares the establishing of the procedure for the authorization of the passage of foreign warships through its territorial waters for the warships of those States which have established the procedure for the authorization of the passage of foreign warships through its territorial waters."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mexico</Participant>
+        <text type="para">The Government of Mexico considers that government ships, irrespective of the use to which they are put, enjoy immunity, and it therefore enters an express reservation with regard to article 21 of Sub-Section C (Rules applicable to government ships other than warships) in so far as it applies to article 19, paragraphs 1, 2 and 3, and article 20, paragraphs 2 and 3, of Sub-Section B (Rules applicable to merchant ships).</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Romania</Participant>
+        <text type="para">&lt;i&gt;Article 20 &lt;/i&gt;: The Government of the Romanian People's Republic considers that government ships have immunity in foreign territorial waters and that the measures envisaged in this article may not be applied to such ships except with the consent of the flag State.</text>
+        <text type="para">&lt;i&gt;Article 23 &lt;/i&gt;: The Government of the Romanian People's Republic considers that the coastal State has the right to provide that the passage of foreign warships through its territorial waters shall be subject to previous approval.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="para">&lt;i&gt;Article 20 &lt;/i&gt;: The Government of the Union of Soviet Socialist Republics considers that government ships in foreign territorial waters have immunity and that the measures mentioned in this article may therefore be applied to them only with the consent of the flag State.</text>
+        <text type="para">&lt;i&gt;Article 23 (Sub-Section D. Rule applicable to warships) &lt;/i&gt;: The Government of the Union of Soviet Socialist Republics considers that the coastal State has the right to establish procedures for the authorization of the passage of foreign warships through its territorial waters.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Solomon Islands</Participant>
+        <text type="para">"The succession of Solomon Islands to the said Treaty shall be without prejudice to the right of Solomon Islands</text>
+        <text type="para">(1) to employ straight base lines drawn between its islands as the basis for the delimitation of its territorial sea and contiguous zone, and</text>
+        <text type="para">(2) to designate all waters enclosed by the said straight base lines as internal or archipelagic water."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="para">Spain's accession is not to be interpreted as recognition of any rights or situations in connexion with the waters of Gibraltar other than those referred to in article 10 of the Treaty of Utrecht, of 13 July 1713, between the Crowns of Spain and Great Britain.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Tunisia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of the Tunisian Republic does not consider itself bound by the provisions of article 16, paragraph 4 of this Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="para">&lt;i&gt;Article 20 &lt;/i&gt;: The Government of the Ukrainian Soviet Socialist Republic considers that government ships in foreign territorial waters have immunity and that the measures mentioned in this article may therefore be applied to them only with the consent of the flag State.</text>
+        <text type="para">&lt;i&gt;Article 23 (Sub-Section D. Rule applicable to warships) &lt;/i&gt;: The Government of the Ukrainian Soviet Socialist Republic considers that the coastal State has the right to establish procedures for the authorization of the passage of foreign warships through its territorial waters.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="para">Save as may be stated in any further and separate notices that may hereafter be given, ratification of this Convention on behalf of the United Kingdom does not extend to the States in the Persian Gulf enjoying British protection. Multilateral conventions to which the United Kingdom becomes a party are not extended to these States until such times as an extension is requested by the Ruler of the State concerned.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="para">With reference to article 12 that there are special circumstances to be taken into consideration in the following areas: The Gulf of Paria and zones adjacent thereto; the area between the coast of Venezuela and the island of Aruba; and the Gulf of Venezuela.</text>
+        <text type="title">Reservation made upon ratification:</text>
+        <text type="para">With express reservation in respect of article 12 and paragraphs 2 and 3 of article 24 of the said Convention.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made upon</Title>
+      <Title>ratification, accession or succession.)</Title>
+      <Objection>
+        <Participant>Australia</Participant>
+        <text type="title">Objections to the following reservations:</text>
+        <text type="para">"(a) The declaration made with reference to article 12 by Venezuela on signature and the reservation made to that article by Venezuela on ratification.</text>
+        <text type="para">"(b) The reservation made to article 14 by Iran on signature.</text>
+        <text type="para">"(c) The reservations made to articles 14 and 23 by Czechoslovakia and Hungary on signature and confirmed on ratification.</text>
+        <text type="para">"(d) The reservation made to paragraph 4 of article 16 by Tunisia on signature.</text>
+        <text type="para">"(e) The reservation made with regard to the application of articles 19 and 20 to government ships operated for commercial purposes by Czechoslovakia on signature and confirmed on ratification.</text>
+        <text type="para">"(f) The reservations made to article 20 by Bulgaria on signature and on ratification.</text>
+        <text type="para">"(g) The reservations made to article 20 by the Byelorussian Soviet Socialist Republic, Romania, the Ukrainian Soviet Socialist Republic and the Union of Soviet Socialist Republics on signature and confirmed on ratification.</text>
+        <text type="para">"(h) The reservation made to article 21 by Hungary on signature and confirmed on ratification.</text>
+        <text type="para">"(i) The reservations made to article 23 by Bulgaria on signature and on ratification.</text>
+        <text type="para">"(j) the reservations made to article 23 by the Byelorussian Soviet Socialist Republic, Romania, the Ukrainian Soviet Socialist Republic and the Union of Soviet Socialist Republics on signature and confirmed on ratification.</text>
+        <text type="para">"(k) The reservation made to paragraphs 2 and 3 of article 24 by Venezuela on ratification.</text>
+        <text type="para">If the statements referred to above with regard to article 23 are juridically in the nature of declarations rather than of reservations strictly so-called, the objections recorded by [the Government of Australia] will serve to record disagreement with the opinions so declared."</text>
+        <text>&lt;right&gt;31 January 1968&lt;/right&gt;</text>
+        <text type="para">"The Government of Australia places on record the formal objection to the reservation made by the Government of Mexico."</text>
+        <text>&lt;right&gt;29 September 1976&lt;/right&gt;</text>
+        <text type="para">"Objection to the reservation by the German Democratic Republic concerning article 20 of the Convention on the Territorial Sea and the Contiguous Zone, 1958, and contained in the instrument of accession of the German Democratic Republic to the said Convention on the Territorial Sea and the Contiguous Zone."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Denmark</Participant>
+        <text type="para">"The Government of Denmark declares that it does not find acceptable:</text>
+        <text type="para">"The reservations made by the Governments of Czechoslovakia and Hungary to article 14;</text>
+        <text type="para">"The reservations made by the Government of Tunisia to article 16, paragraph 4;</text>
+        <text type="para">"The reservations made by the Government of Czechoslovakia to article 19;</text>
+        <text type="para">"The reservations made by the Governments of Bulgaria, the Byelorussian Soviet Socialist Republic, Czechoslovakia, Romania, the Ukrainian Soviet Socialist Republic and the Union of Soviet Socialist Republics to article 20 and the reservations made by the Governments of Czechoslovakia, Hungary and Mexico to article 21.</text>
+        <text type="para">"The above-mentioned objections shall not affect the coming into force of the Convention, according to article 29, as between Denmark and the Contracting Parties concerned."</text>
+        <text>&lt;right&gt;31 October 1974&lt;/right&gt;</text>
+        <text type="para">"The Government of Denmark does not find acceptable the reservations made by the German Democratic Republic on December 27, 1973 to article 20 of the Convention on the Territorial Sea and the Contiguous Zone.</text>
+        <text type="para">"The Government of Denmark also finds unacceptable the reservation made by the German Democratic Republic on the same date to article 9 of the Convention on the High Seas.</text>
+        <text type="para">"The above-mentioned objections shall not affect the coming into force of the Conventions as between Denmark and the German Democratic Republic."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Fiji</Participant>
+        <text type="para">"The Government of Fiji maintains all other objections communicated to the Secretary-General by the United Kingdom Government to the reservations or declarations made by certain States with respect to this Convention, reserving only its position on that Government's observation bearing on the application of the Optional Protocol of Signature pending final disposition of the question of the succession by the Government of Fiji to the said Protocol."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Israel</Participant>
+        <text type="para">"Objection to all reservations and declarations made in connection with the signing or ratification of or accession to the Convention on the Territorial Sea and the Contiguous Zone and the Convention on the High Seas which are incompatible with the purposes and objects of these Conventions. This objection applies in particular to the declaration or reservation made by Tunisia to article 16, paragraph 4, of the first of the above-mentioned Conventions on the occasion of signature."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Japan</Participant>
+        <text type="para">"1. The Government of Japan wishes to state that it does not consider acceptable any unilateral statement in whatever form, made by a State upon signing, ratifying or acceding to the Convention on the Territorial Sea and the Contiguous Zone, which is intended to exclude or modify for such State legal effects of the provisions of the Convention.</text>
+        <text type="para">"2. In particular, the Government of Japan finds unacceptable the following reservations:</text>
+        <text type="para">"(a) The reservations made by the Government of Czechoslovakia to article 19, by the Governments of Bulgaria, the Byelorussian Soviet Socialist Republic, Czechoslovakia, Romania, the Ukrainian Soviet Socialist Republic and the Union of Soviet Socialist Republics to article 20, and by the Government of Hungary to article 21.</text>
+        <text type="para">"(b) The reservation made by the Government of Tunisia to article 16, paragraph 4.</text>
+        <text type="para">"The reservation made by the Government of Italy to article 24 in its instrument of accession.</text>
+        <text type="para">"The reservation made by the Government of Mexico to article 21 in its instrument of accession."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Madagascar</Participant>
+        <text type="para">The Malagasy Republic formally expresses its objection to all reservations and statements made in connexion with signature or ratification of the Convention on the Territorial Sea and the Contiguous Zone or in connexion with accession to the said Convention which are inconsistent with the aims and purposes of this Convention.</text>
+        <text type="para">This objection applies in particular to the statements or reservations made with regard to the Convention on the Territorial Sea and the Contiguous Zone by Bulgaria, the Byelorussian Soviet Socialist Republic, Colombia, Czechoslovakia, Hungary, Romania, Tunisia, the Ukrainian Soviet Socialist Republic and the Union of Soviet Socialist Republics.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Netherlands</Participant>
+        <text type="para">"The Government of the Kingdom of the Netherlands declare that they do not find acceptable</text>
+        <text type="para">-- "the reservations made by the Government of Czechoslovakia to article 19, by the Governments of Bulgaria, the Byelorussian Soviet Socialist Republic, Czechoslovakia, Romania, the Ukrainian Soviet Socialist Republic and the Union of Soviet Socialist Republics to article 20, and by the Governments of Hungary and Czechoslovakia to article 21;</text>
+        <text type="para">-- "the reservations made by the Iranian Government to article 14;</text>
+        <text type="para">-- "the declaration by the Government of Colombia as far as it amounts to a reservation on article 14;</text>
+        <text type="para">--"the reservation made by the Government of the Tunisian Republic to article 16, paragraph 4;</text>
+        <text type="para">-- "the declarations made by the Governments of Bulgaria, the Byelorussian Soviet Socialist Republic, Romania, the Ukrainian Soviet Socialist Republic and the Union of Soviet Socialist Republics on article 23, and the declarations made by the Governments of Czechoslovakia and Hungary on the articles 14 and 23 as far as these declarations amount to a reservation to the said articles;</text>
+        <text type="para">-- "the reservation made by the Government of the Republic of Italy to article 24, paragraph 1.</text>
+        <text type="para">"The Government of the Kingdom of the Netherlands reserve all rights regarding the reservations made by the Government of Venezuela on ratifying the present Convention in respect of article 12 and article 24, paragraphs 2 and 3."</text>
+        <text>&lt;right&gt;17 March 1967&lt;/right&gt;</text>
+        <text type="para">"The Government of the Kingdom of the Netherlands do not find acceptable the reservation made by the Government of Mexico."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Portugal</Participant>
+        <text>&lt;right&gt;27 December 1966&lt;/right&gt;</text>
+        <text type="para">"The Government of Portugal cannot accept the reservation proposed by the Mexican Government requiring the exemption of government ships from the dispositions laid down in the Convention, irrespective of the use to which these ships are put."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Thailand</Participant>
+        <text type="title">Objections to the following reservations:</text>
+        <text type="para">"1. the reservations to article 20 made by the Governments of Bulgaria, the Byelorussian SSR, Romania, the Ukrainian SSR and the USSR;</text>
+        <text type="para">"2. the reservations to article 21 made by the Governments of Czechoslovakia, Mexico and Hungary;</text>
+        <text type="para">"3. the reservations to article 23 made by the Governments of Bulgaria, the Byelorussian SSR, Colombia, Czechoslovakia, Hungary, Romania, the Ukrainian SSR and the USSR."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Tonga</Participant>
+        <text type="para">"The Government of Tonga affirms that in the absence of any other statement expressing a contrary intention, it wishes to maintain all objections communicated to the Secretary-General by the United Kingdom to the reservations or declarations made by States with respect to any conventions of which the Secretary-General is the depositary."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text>&lt;right&gt;6 November 1959&lt;/right&gt;</text>
+        <text type="para">"Her Majesty's Government desire to place on record their formal objections to the following reservations and declarations:</text>
+        <text type="para">"(a) The reservations made by the Government of Czechoslovakia to article 19, by the Governments of Bulgaria, the Byelorussian SSR, Czechoslovakia, Romania, the Ukrainian SSR, and the USSR to article 20, and by Hungary to article 21.</text>
+        <text type="para">"(b) The reservation made by the Government of Iran to article 14.</text>
+        <text type="para">"(c) The reservation made by the Government of the Tunisian Republic to article 16, paragraph 4."</text>
+        <text>&lt;right&gt;5 April 1962&lt;/right&gt;</text>
+        <text type="para">"The reservations made by the Government of Venezuela to article 12 and paragraphs 2 and 3 of article 24."</text>
+        <text>&lt;right&gt;2 November 1966&lt;/right&gt;</text>
+        <text type="para">"The reservation to article 21 of Sub-section C contained in the Mexican instrument of accession."</text>
+        <text>&lt;right&gt;13 May 1975&lt;/right&gt;</text>
+        <text type="para">"Her Majesty's Government desire to place on record their formal objection to the reservations by the German Democratic Republic concerning article 20 of the Convention on the Territorial Sea and the Contiguous Zone". &lt;i&gt;(In this connexion, the Government of the United Kingdom indicated that they had not received the circular letter reproducing the text of the reservations made by the Government of the German Democratic Republic until early in August 1974.) &lt;/i&gt;</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>United States of America&lt;superscript&gt;9&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;19 September 1962&lt;/right&gt;</text>
+        <text type="para">"The United States does not find the following reservations acceptable:</text>
+        <text type="para">"1. The reservations made by the Government of Czechoslovakia to article 19, by the Governments of Bulgaria, the Byelorussian Soviet Socialist Republic, Czechoslovakia, Romania, the Ukrainian Soviet Socialist Republic and the Union of Soviet Socialist Republics to article 20, and by Hungary to article 21.</text>
+        <text type="para">"2. The reservations made by the Government of the Tunisian Republic to article 16, paragraph 4.</text>
+        <text type="para">"3. The reservation made by the Government of Venezuela to article 12 and to article 24, paragraphs 2 and 3."</text>
+        <text>&lt;right&gt;17 June 1965&lt;/right&gt;</text>
+        <text type="para">"Objection to the reservation made by the Government of Italy in its instrument of accession."</text>
+        <text>&lt;right&gt;28 September 1966&lt;/right&gt;</text>
+        <text type="para">"Objection to the reservation made by the Government of Mexico in its instrument of accession."</text>
+        <text>&lt;right&gt;11 July 1974&lt;/right&gt;</text>
+        <text type="para">"The Government of the United States does not find acceptable the reservations made by the German Democratic Republic to article 20 of the Convention on the Territorial Sea and the Contiguous Zone and to article 9 of the Convention on the High Seas. The Government of the United States, however, considers those Conventions as continuing in force between it and the German Democratic Republic except that provisions to which the above-mentioned reservations are addressed shall apply only to the extent that they are not affected by those reservations."</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the General Assembly, Eleventh Session, Supplement No. 17 &lt;/i&gt; (A/3572), p. 54.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The German Democratic Republic had acceded to the Convention on 27 December 1973 with a reservation and a declaration. For the text of the reservation and the declaration, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 905, p. 84. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>Signed on behalf of the Republic of China on 29 April 1958. See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information secton in the front matter of this volume).</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 29 April 1958 and 28 January 1966, respectively. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 30 October 1958 and 31 August 1961, respectively, with reservations. For the text of the reservations, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.?16, p. 256. See note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>In respect of the Kingdom in Europe, Surinam and the Netherland Antilles. See also note 1 under Netherlands Antilles and Suriname in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>The Secretary-General received, on 9 June 1971, a communication from the Government of Senegal denouncing this Convention as well as the Convention on the Living Resources of the High Seas, and specifying that the denunciation would take effect on the thirtieth day from its receipt. The said communication, as well as the related exchange of correspondence between the Secretariat and the Govern- ment of Senegal, was circulated by the Secretary-General to all States entitled to become parties to the Conventions concerned under their respective clauses.</text>
+        <text>The notification of denunciation was registered by the Government of Senegal as at 9 June 1971, under Nos. 7477 and 8164. See United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 781, p. 332.</text>
+        <text>In this connection, a communication from the Government of the United Kingdom was received by the Secretary-General on 2 January 1973, stating &lt;i&gt;inter alia &lt;/i&gt;:</text>
+        <text>". . . As regards the notification by the Government of Senegal purporting to denounce the two Conventions of 1958, the Government of the United Kingdom wish to place on record that in their view those Conventions are not susceptible to unilateral denunciation by a State which is a party to them and they therefore cannot accept the validity or effectiveness of the purported denunciation by the Government of Senegal. Accordingly, the Government of the United Kingdom regard the Government of Senegal as still bound by the obligations which they assumed when they became a party to those Conventions and the Government of the United Kingdom fully reserve all their rights under them as well as their rights and the rights of their nationals in respect of any action which the Government of Senegal have taken or may take as a consequence of the said purported denunciation.</text>
+        <text>"As regards the various arguments that are set out in the correspondence referred to above with reference to certain other questions relating to the law of treaties, including in particular the question ofhe funtions of the Secretary-General as a depositary of the Conventions of 1958 and the question of the duties of the Secretariat in relation to the registration of treaties and in relation to acts, notifications and communications, relating to treaties, the Government of the United Kingdom do not consider it necessary at this stage to express any view on those matters but they fully reserve their position in relation thereto and expressly reserve their right formally to make their views known at a later date.</text>
+        <text>"The Permanent Representative of the United Kingdom of Great Britain and Northern Ireland to the United Nations requests that copies of this Note should be transmitted by the Secretariat to all States concerned, that is to say, all States Members of the United Nations or Members of any of the Specialised Agencies, and, since the notification by the Government of Senegal was registered by Senegal, further requests that the statement of the position of the Government of the United Kingdom in relation to that notification, as set out in the second paragraph of the present Note, should similarly be registered."</text>
+        <text>The said communication was registered in the name of the Government of the United Kingdom on 2 January 1973 under Nos.?477 and 8164. See United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 854, pp.?14 and 220.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>On 27 October 1967, the Government of the United States of America transmitted to the Secretary-General the following communication with reference to its previous communications regarding ratifications and accessions to the Law of the Sea Conventions with reservations which were unacceptable to the United States of America:</text>
+        <text>"The Government of the United States of America has received an inquiry regarding the applicability of several of the Geneva Law of the Sea Conventions of 1958 between the United States and States which ratified or acceded to those Conventions with reservations which the United States found to be unacceptable. The Government of the United States wishes to state that it has considered and will continue to consider all the Geneva Law of the Sea Conventions of 1958 as being in force between it and all other States that have ratified or acceded thereto, including States that have ratified or acceded with reservations unacceptable to the United States. With respect to States which ratified or acceded with reservations unacceptable to the United States, the Conventions are considered by the United States to be in force between it and each of those States except that provisions to which such reservations are addressed shall apply only to the extent that they are not affected by those reservations. The United States considers that such application of the Convention does not in any manner constitute any concurrence by the United States in the substance of any of the reservations involved."</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXI 1. Law of the Sea</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IV</Header>
+        <Name>HUMAN RIGHTS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>13</Numsect>
+        <Titlesect>International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families</Titlesect>
+        <Conclusion>New York, 18 December 1990</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 July 2003, in accordance with article 87(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 July 2003, No. 39481</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>39</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>51</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 2220, p. 3; Doc. &lt;a href="/doc/source/docs/A_RES_45_158-E.pdf" target="_blank"&gt;A/RES/45/158&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, was adopted by Resolution &lt;a href="/doc/source/docs/A_RES_45_158-E.pdf" target="_blank"&gt;A/RES/45/158&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of 18 December 1990 at the forty-fifth session of the General Assembly of the United Nations. The Convention is open for signature by all States in accordance with its article 86 (1).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature, Succession to signature(d)</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>5 Jun 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>21 Apr 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>10 Aug 2004</Entry>
+                <Entry>23 Feb 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry>26 Sep 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>11 Jan 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>7 Oct 1998</Entry>
+                <Entry>24 Aug 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry />
+                <Entry>14 Nov 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>15 Sep 2005</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>16 Oct 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry />
+                <Entry>13 Dec 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>16 Nov 2001</Entry>
+                <Entry>26 Nov 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry />
+                <Entry>16 Sep 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>27 Sep 2004</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>15 Dec 2009</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>26 Sep 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>24 Sep 1993</Entry>
+                <Entry>21 Mar 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>24 May 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry>22 Sep 2000</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>29 Sep 2008</Entry>
+                <Entry>31 Mar 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>5 Feb 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>19 Feb 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>13 Sep 2002</Entry>
+                <Entry>14 Mar 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>15 Dec 2004</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry>20 Sep 2017</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>7 Sep 2000</Entry>
+                <Entry>7 Sep 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>7 Sep 2000</Entry>
+                <Entry>14 Mar 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>7 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry>12 Sep 2000</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry>15 Sep 2005</Entry>
+                <Entry>7 Jul 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>5 Dec 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>9 Aug 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>22 Sep 2004</Entry>
+                <Entry>31 May 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry>25 Sep 2008</Entry>
+                <Entry>25 Sep 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>29 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry>24 Sep 2004</Entry>
+                <Entry>16 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>22 Sep 2004</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>18 Jun 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>24 Sep 2014</Entry>
+                <Entry>13 May 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>5 Jun 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>22 Jan 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>22 May 1991</Entry>
+                <Entry>8 Mar 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>23 Oct 2006 d</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>15 Aug 1991</Entry>
+                <Entry>21 Jun 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry>15 Mar 2012</Entry>
+                <Entry>19 Aug 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>26 Oct 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>18 Mar 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>27 Jul 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry>20 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>13 Sep 2000</Entry>
+                <Entry>23 Sep 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>22 Sep 2004</Entry>
+                <Entry>14 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>15 Nov 1993</Entry>
+                <Entry>5 Jul 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>15 Dec 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry>6 Sep 2000</Entry>
+                <Entry>10 Jan 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>9 Jun 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>11 Nov 2004</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>15 Dec 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>15 Sep 2000</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>11 Mar 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>29 Oct 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>2 Jun 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry>7 Sep 2000</Entry>
+                <Entry>8 Jan 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Timor-Leste</Entry>
+                <Entry />
+                <Entry>30 Jan 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>15 Nov 2001</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>13 Jan 1999</Entry>
+                <Entry>27 Sep 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>14 Nov 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>15 Feb 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>4 Oct 2011</Entry>
+                <Entry>25 Oct 2016</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Algeria</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of the People's Algerian Democratic Republic does not consider itself bound by article 92, paragraph 1 of this Convention which provides that any dispute between two or more States Parties concerning the interpretation or application of the present Convention, that is not settled by negotiation shall, at the request of one of them, be submitted to arbitration or to the International Court of Justice.</text>
+        <text type="para">The Government of the People's Algerian Democratic Republic considers that any such dispute may be submitted to arbitration only with the agreement of all the parties to the conflict.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">As provided for in article 92 (2), the Republic of Argentina does not consider itself bound by the provisions of article 92 (1) of the International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Chile</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">The Republic of Chile makes a reservation with respect to the provisions of article 22, paragraph 5, of this Convention which it considers to be inapplicable to Chile.</text>
+        <text type="para">The Republic of Chile will consider the provisions of article?8, paragraph 2, to be fulfilled under the terms of international conventions for the avoidance of double taxation that either have been entered into or will be entered into in the future.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Colombia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">Articles 15, 46 and 47 of the [said Convention], which was adopted by means of Act No. 146 of 1994, shall be executed with the understanding that the State of Colombia retains the right to promulgate taxation, exchange and monetary regulations establishing equality of treatment of migrant workers and their families with that of nationals in respect of the import and export of personal and household effects and the transfer of earnings and savings abroad, and in respect of expropriation for reasons of equity and the nullification of ownership of property in the cases envisaged in article 34 of the Political Constitution.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ecuador</Participant>
+        <text>&lt;right&gt;12 January 2018&lt;/right&gt;</text>
+        <text type="title">Declaration under articles 76 and 77:</text>
+        <text type="para">The Government of the Republic of Ecuador recognizes the competence of the Committee on the Protection of the Rights of All Migrant Workers and Members of Their Families:</text>
+        <text type="para" />
+        <text type="para">a) to receive and consider communications to the effect that a State Party claims that another State Party is not fulfilling its obligations under the Convention, in accordance with article 76 of the Convention; and</text>
+        <text type="para" />
+        <text type="para">b) to receive and consider communications from or on behalf of individuals subject to its jurisdiction who claim that their individual rights as established by the Convention have been violated by that State Party, in accordance with the article 77 of the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Egypt</Participant>
+        <text type="title">Reservation concerning article 4:</text>
+        <text type="para">For the purposes of the present Convention the term `members of the family' refers to persons married to migrant workers or having with them a relationship that, according to applicable law, produces effects equivalent to marriage, as well as their dependent children and other dependent persons who are recognized as members of the family by applicable legislation or applicable bilateral or multilateral agreements between the States concerned.</text>
+        <text type="title">Reservation concerning article 18, paragraph 6:</text>
+        <text type="para">When a migrant worker or a member of his or her family has, by a final decision, been convicted of a criminal offence and when subsequently his or her conviction has been reversed or he or she has been pardoned on the ground that a new or newly discovered fact shows conclusively that there has been a miscarriage of justice, the person who has suffered punishment as a result of such conviction shall be compensated according to law, unless it is proved that the non-disclosure of the unknown fact in time is wholly or partially attributable to that person.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>El Salvador</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">The Government of the Republic of El Salvador does not consider itself bound by article 92, paragraph 1, of the Convention. With respect to articles 46, 47, 48 and 61, paragraph 4, governing exemption from import and export duties and taxes in respect of personal and household effects and the right to transfer earnings and savings, the Government of El Salvador wishes to make it clear that the exemption shall apply only after any taxes that the articles in question might incur have been paid. Moreover, the right of workers to transfer their earnings to their State of origin or State of habitual residence may be exercised without restriction, provided that the tax obligations arising in each particular case have been fulfilled. With regard to article 32, transfer of earnings and savings shall include amounts accumulated under retirement social security schemes, whether public or private. The Government of the Republic of El Salvador wishes to reiterate its respect for all universal and regional human rights principles and norms enshrined in international human rights instruments.</text>
+        <text type="para" />
+        <text>&lt;right&gt;23 January 2015&lt;/right&gt;</text>
+        <text type="title">Declaration under articles 76 and 77</text>
+        <text type="para">... the Government of the Republic of El Salvador recognizes the competence of the Committee on the Protection of the Rights of All Migrant Workers and Members of their Families, to receive and consider communications to the effect that a State Party claims that another Party is not fulfilling its obligations, as well as communications from or on behalf of individuals subject to its jurisdiction, under articles 76 and 77, respectively, of the International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Guatemala</Participant>
+        <text>&lt;right&gt;11 September 2007&lt;/right&gt;</text>
+        <text type="title">Declarations:</text>
+        <text type="para">[Agrees to] recognize the competence of the Committee on the Protection of the Rights of All Migrant Workers and Members of Their Families to receive and examine communications in which one State Party to the International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families alleges non-compliance by another State Party with obligations arising under the Convention, as well as to receive and examine communications sent by persons subject to the jurisdiction of a State Party, alleging the violation by that State Party of their individual rights as recognized under the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mexico&lt;superscript&gt;3&lt;/superscript&gt;</Participant>
+        <text type="title">Interpretative declaration:</text>
+        <text type="para">Upon ratifying the [Convention], the Government of the United Mexican States reaffirms its political will to ensure international protection of the rights of all migrant workers, in accordance with this international instrument. all the provisions of this Convention will be applied in conformity with its national legislation.</text>
+        <text>&lt;right&gt;15 September 2008&lt;/right&gt;</text>
+        <text type="title">Declaration under article 77:</text>
+        <text type="para">The United Mexican States recognizes as fully binding the competence of the Committee on the Protection of the Rights of All Migrant Workers and Members of Their Families, established by the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families adopted in New York on 18 December 1990.</text>
+        <text type="para">In accordance with article 77 of the Convention, the United Mexican States declares that it recognizes the competence of the Committee to receive and consider communications from or on behalf of individuals subject to its jurisdiction who claim that the United Mexican States has violated their individual rights as established by the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Morocco</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of the Kingdom of Morocco does not consider itself bound by article 92, paragraph 1 of this Convention which provides that any dispute between two or more States Parties concerning the interpretation or application of the present Convention shall, at the request of one of them, be submitted to arbitration.</text>
+        <text type="para">The Government of the Kingdom of Morocco considers that any such dispute may be submitted to arbitration only with the agreement of all the parties to the conflict.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Nicaragua</Participant>
+        <text type="title">Declaration and reservation:</text>
+        <text type="para">Declaration</text>
+        <text type="para">The Republic of Nicaragua, onacceding to this Convention, agrees to apply it in accordance with its domestic laws.</text>
+        <text type="para">Reservations:</text>
+        <text type="para">The Republic of Nicaragua, in the exercise of its sovereignty, does not allow foreigners to enjoy political rights; this is embodied in articles 27 and 182 of the Constitution.</text>
+        <text type="para">Article 91 of the Convention establishes the possibility of formulating reservations at the time of signature, ratification or accession. Consequently, by virtue of the provisions of article?2, paragraph 3, of this Convention, the Republic of Nicaragua will not grant political rights to migratory workers owing to the express prohibition contained in article 27, paragraph?, of its Constitution, which states:</text>
+        <text type="para">"Foreigners have the same rights and obligations as Nicaraguans, with the exception of political rights and others established by law; they may not intervene in the political affairs of the country."</text>
+        <text type="para">The Republic of Nicaragua considers that this reservation is not incompatible with the object and purpose of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sri Lanka&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+        <text type="title">Declarations:</text>
+        <text type="title">Article 8 (2):</text>
+        <text type="para">"The right of non-Sri Lankans to enter and remain in SriLanka shall be subject to existing visa regulations.</text>
+        <text type="title">Article 49:</text>
+        <text type="para">Resident visas to expatriate workers are allowed in respect of identified professions where there is a dearth of qualified personnel. Existing visa regulations do not permit migrant workers either to change their professions or the institutions in which they have been authorised to work, which is the basis on which the visa is issued.</text>
+        <text type="title">Article 54:</text>
+        <text type="para">Protection against dismissal, quantum of remuneration, period of employment, etc., are governed by the terms of individual contracts entered into between the worker and the organisation which employs him. A visa issued to an expatriate worker under the visa regulations is limited to a pre-identified job assignment."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Syrian Arab Republic</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">.....accession of the Syrian Arab Republic to the said Convention thereof by its Government does not, in any way, imply recognition of Israel, nor shall it lead to any such dealing with the latter as are governed by the provisions of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Turkey</Participant>
+        <text type="title">Declarations:</text>
+        <text type="title">A) The declaration regarding Article 15:</text>
+        <text type="para">The restrictions by the related Turkish laws regarding acquisition of immovable property by the foreigners are preserved....</text>
+        <text type="title">B) The reservation regarding Article 40:</text>
+        <text type="para">The Turkish Law on Trade Unions allows only the Turkish citizens to form trade unions in Turkey."</text>
+        <text type="title">C) The declaration regarding Article 45:</text>
+        <text type="para">The stipulations of the paragraphs 2, 3 and 4 of the Article?5 will be implemented in accordance with the provisions of the Turkish Constitution and the related Laws.</text>
+        <text type="title">D) The declaration regarding Article 46:</text>
+        <text type="para">The implementation of the Article 46 will be made in accordance with the national laws.</text>
+        <text type="title">E) The declaration regarding Articles 76 and 77:</text>
+        <text type="para">Turkey will recognize the competence of the Committee on the Protection of the Rights of All Migrant Workers and Members of Their Families at a later time."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Uganda</Participant>
+        <text type="title">Reservation:</text>
+        <text type="title">Article 18:</text>
+        <text type="para">"The Republic of Uganda cannot guarantee at all times to provide free legal assistance in accordance with the provisions of article 18 paragraph 3(d)."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Uruguay</Participant>
+        <text>&lt;right&gt; 13 April 2012&lt;/right&gt;</text>
+        <text type="title">Declaration under article 77</text>
+        <text type="para">On behalf of the Eastern Republic of Uruguay, I have the honour to inform you that the Government of Uruguay has decided to recognize, pursuant to article 77 of the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families, the competence of the Committee on the Protection of the Rights of All Migrant Workers and Members of Their Families to receive and consider communications from or on behalf of individuals subject to its jurisdiction who claim that their individual rights as established by the above-mentioned international instrument have been violated by the Uruguayan State.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">With regard to the provisions of article 26, paragraph 1, of the International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families, the Bolivarian Republic of Venezuela considers that the right to join freely any trade union, contained in subparagraph (b), applies exclusively to migrant workers.</text>
+        <text type="para">Considering the provisions of article 92, paragraph 2, of the International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families, the Bolivarian Republic of Venezuela declares that it does not consider itself bound by paragraph 1 of said article. Consequently, it does not consider itself bound to resort to arbitration as a means of dispute settlement, and does not recognize the binding jurisdiction of the International Court of Justice.</text>
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Objection>
+        <Participant>Mexico</Participant>
+        <text>&lt;right&gt;26 October 2017&lt;/right&gt;</text>
+        <text type="title">With regard to the declaration made by Venezuela upon ratification:</text>
+        <text type="para">After analyzing the declaration made by the Bolivarian Republic of Venezuela regarding the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families, the Government of the United Mexican States has reached the conclusion that the declaration in fact constitutes a reservation.</text>
+        <text type="para">This reservation, which is designed to exclude the legal effects of article 26, paragraph 1, of the Convention, is contrary to the object and purpose of the Convention and, particularly, to the right of members of the families of migrant workers to join freely any trade union or association, and therefore contravenes the provisions of article 91, paragraph 2, of the Convention and article 19 of the Vienna Convention on the Law of Treaties.</text>
+        <text type="para">This objection does not prevent the entry into force of the Convention between the Bolivarian Republic of Venezuela and the United Mexican States. Consequently, the Convention will apply between the two States without the Bolivarian Republic of Venezuela being able to avail itself of the above-mentioned reservation.</text>
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the General Assembly, Forty-fifth Session, Supplement No. 49 (A/45/49) &lt;/i&gt;, p. 261.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 11 July 2014, the Government of Mexico notified the Secretary-General of the withdrawal of the reservation to article 22 paragraph 4 made upon ratification. The reservation which has been withdrawn read as follows:</text>
+        <text>The Government of the United Mexican States makes an express reservation with regard to article 22, paragraph 4, of this Convention, insofar as it refers to the application of article 33 of the Political Constitution of the United Mexican States and article 125 of the General Population Act.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>On 16 August 2016, the Government of the Democratic Socialist Republic of Sri Lanka notified the Secretary-General of the withdrawal of the reservation to article 29 made upon accession. The reservation which has been withdrawn read as follows: </text>
+        <text>According to the citizenship Act No. 18 of 1948, citizenship rights flow from the father and in the event a child is born out of wedlock, from the mother. A child will be deemed to be a citizen of Sri Lanka if he and his father were born in Sri Lanka before 1.11.49 or if at the time of his birth the father was a Sri Lankan.</text>
+      </Note>
+    </EndNotes>
+    <Footer>IV 13. Human Rights</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIII</Header>
+        <Name>ECONOMIC STATISTICS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Protocol</Subtitlesect>
+        <Conclusion>Geneva, 14 December 1928</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>14 December 1930.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>14 December 1930, No. 2560</Labeltext>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>League of Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 110, p. 171;</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <LON>
+      <Table>
+        <Title>Ratifications or definitive accessions</Title>
+        <Ratification>
+          <State.no.link>Austria</State.no.link>
+          <Ratification.date>&lt;right&gt; (March 27th, 1931)&lt;/right&gt;</Ratification.date>
+          <State.no.link>United Kingdom of Great Britain and Northern Ireland</State.no.link>
+          <Para>and &lt;i&gt;all parts of the British Empire which are not separate Members of the League of Nations&lt;/i&gt;</Para>
+          <Ratification.date>&lt;right&gt; (May 9th, 1930)&lt;/right&gt;</Ratification.date>
+          <Territories>Southern Rhodesia</Territories>
+          <Ratification.date>&lt;right&gt; (October 14th, 1931 a)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Canada</State.no.link>
+          <Ratification.date>&lt;right&gt; (August 23rd, 1930)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Australia</State.no.link>
+          <Ratification.date>&lt;right&gt; (April 13th, 1932 a)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Union of South Africa</State.no.link>
+          <Para>(including the mandated territory of &lt;i&gt;South West Africa&lt;/i&gt;</Para>
+          <Ratification.date>&lt;right&gt;(May 1st, 1930)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Ireland</State.no.link>
+          <Ratification.date>&lt;right&gt; (September 15th, 1930)&lt;/right&gt;</Ratification.date>
+          <State.no.link>India</State.no.link>
+          <Ratification.date>&lt;right&gt; (May 15th, 1931 a)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Bulgaria</State.no.link>
+          <Ratification.date>&lt;right&gt; (November 29th, 1929)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Chile</State.no.link>
+          <Ratification.date>&lt;right&gt; (November 20th, 1934 a)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Cuba</State.no.link>
+          <Ratification.date>&lt;right&gt; (August 17th, 1932 a)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Czechoslovakia&lt;superscript&gt;2&lt;/superscript&gt;</State.no.link>
+          <Ratification.date>&lt;right&gt; (February 19th, 1931)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Denmark</State.no.link>
+          <Ratification.date>&lt;right&gt; (September 9th, 1929)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Egypt</State.no.link>
+          <Ratification.date>&lt;right&gt; (June 27th, 1930)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Finland</State.no.link>
+          <Ratification.date>&lt;right&gt; (September 23rd, 1938)&lt;/right&gt;</Ratification.date>
+          <State.no.link>France</State.no.link>
+          <Ratification.date>&lt;right&gt; (February 1st, 1933)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Greece</State.no.link>
+          <Ratification.date>&lt;right&gt; (September 18th, 1930)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Italy</State.no.link>
+          <Ratification.date>&lt;right&gt; (June 11th, 1931)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Latvia</State.no.link>
+          <Ratification.date>&lt;right&gt; (July 5th, 1937)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Lithuania</State.no.link>
+          <Ratification.date>&lt;right&gt; (April 2nd, 1938 a)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Netherlands</State.no.link>
+          <Ratification.date>&lt;right&gt; (September 13th, 1932)&lt;/right&gt;</Ratification.date>
+          <Para>This ratification applies only to the territory of the Netherlands in Europe; the Netherlands do not intend to assume, at present, any obligation as regards the whole of the Netherlands overseas territories.</Para>
+          <Territories>Netherlands Indies</Territories>
+          <Ratification.date>&lt;right&gt; (May 5th, 1933 a)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Norway</State.no.link>
+          <Ratification.date>&lt;right&gt; (March 20th, 1929)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Poland</State.no.link>
+          <Ratification.date>&lt;right&gt; (July 23rd, 1931)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Portugal</State.no.link>
+          <Ratification.date>&lt;right&gt; (October 23rd, 1931)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Romania</State.no.link>
+          <Ratification.date>&lt;right&gt; (June 22nd, 1931)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Sweden</State.no.link>
+          <Ratification.date>&lt;right&gt; (February 17th, 1930)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Switzerland</State.no.link>
+          <Ratification.date>&lt;right&gt; (July 10th, 1930)&lt;/right&gt;</Ratification.date>
+        </Ratification>
+      </Table>
+      <Table>
+        <Title>Signatures not yet perfected by ratification</Title>
+        <Signature>
+          <State.no.link>Brazil</State.no.link>
+          <State.no.link>Estonia</State.no.link>
+          <State.no.link>Germany</State.no.link>
+          <State.no.link>Hungary</State.no.link>
+          <State.no.link>Yugoslavia (former)&lt;superscript&gt;3&lt;/superscript&gt;</State.no.link>
+        </Signature>
+      </Table>
+      <Table>
+        <Title>Actions subsequent to the assumption of depositary functions by the Secretary-General of the UnitedNations</Title>
+      </Table>
+    </LON>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Ratification, Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>5 May 1950</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>30 Dec 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>3 Sep 1952</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>See League of Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.110, p.171.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>See note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XIII 3 b. Economic Statistics</Footer>
+  </Treaty>
+</Document>

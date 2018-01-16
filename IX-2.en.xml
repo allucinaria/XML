@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IX</Header>
+        <Name>HEALTH</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Titlesect>Protocol concerning the Office international d'hygiène publique</Titlesect>
+        <Conclusion>New York, 22 July 1946&lt;superscript&gt;1&lt;/superscript&gt;</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>20 October 1947, in accordance with article 7.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>20 October 1947, No. 125</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>42</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>55</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 9, p. 3.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2,3&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Definitive signature(s), Acceptance(A), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry />
+                <Entry>19 Apr 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>22 Oct 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>8 May 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>25 Jun 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>2 Jun 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>29 Aug 1946 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>9 May 1950 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>21 Apr 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>16 Dec 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>11 Apr 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>12 Mar 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>26 Aug 1949 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>12 Aug 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>8 Apr 1949 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>19 Feb 1947</Entry>
+                <Entry>17 Jun 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>12 Jan 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>27 Jan 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>23 Sep 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>20 Oct 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>11 Apr 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry />
+                <Entry>11 Dec 1951 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>3 Jun 1949 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>7 Apr 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry />
+                <Entry>1 Jul 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>25 Apr 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>10 Dec 1946 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>18 Aug 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>23 Jun 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>20 Feb 1951 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>11 Aug 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>19 Mar 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>23 May 1949 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>13 Jan 1947</Entry>
+                <Entry>28 Aug 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>26 Mar 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry />
+                <Entry>22 Jul 1946 s</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>7 Aug 1947 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>22 Jul 1946</Entry>
+                <Entry>7 Mar 1949 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The Constitution was drawn up by the International Health Conference, which had been convened pursuant to resolution?lt;a href="/doc/source/docs/E_RES_I_I-E.pdf" target="_blank"&gt;l?I)&lt;/a&gt; 3 of the Economic and Social Council of the UnitedNations, adopted on 15 February 1946. The Conference was held at New York from 19 June to 22 July 1946. In addition to the Constitution, the Conference drew up the Final Act, the Arrangements for the Establishment of an Interim Commission of the World Health Organization and the Protocol concerning the &lt;i&gt;Office international d'hygiène publique &lt;/i&gt;, for the text of which, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.9, p.3.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The States parties to the Arrangement for the creation at Paris of an Office international dhygiène publique, signed at Rome on 9 December 1907, were as follows:</text>
+        <text>Argentina, Australia, Belgium, Bolivia, Brazil, Bulgaria, Canada, Chile, Denmark, France, Greece, Hungary, India, Iran (Islamic Republic of ), Iraq, Ireland, Italy, Japan, Lebanon, Luxembourg, Mexico, Myanmar, Netherlands, New Zealand, Norway, Pakistan, Peru, Poland, Portugal, Russian Federation, Saudi Arabia, South Africa, Sweden, Switzerland, Turkey, United Kingdom, United States of America, Uruguay, and Yugoslavia.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>Czechoslovakia, who was a participating party to the Arrangement for the creation at Paris of an &lt;i&gt;Office international d'hygiène publique, &lt;/i&gt; had signed and accepted the Protocol on 22 July 1946 and 1 March 1948, respectively. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note concerning signatures, ratifications, accession, etc. on behalf of China (note 1 under China in the Historical Information section in the front matter of this volume).</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 1 under "New Zealand" regarding Tokelau in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The former Yugoslavia had signed and accepted the Protocol on 22 July 1946 and 19 November 1947, respectively. See also note 1 under "Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>IX 2. Health</Footer>
+  </Treaty>
+</Document>

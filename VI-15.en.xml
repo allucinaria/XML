@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER VI</Header>
+        <Name>NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>15</Numsect>
+        <Titlesect>Single Convention on Narcotic Drugs, 1961</Titlesect>
+        <Conclusion>New York, 30 March 1961</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>13 December 1964, in accordance with article 41.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>13 December 1964, No. 7515</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>61</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>154</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 520, p. 151, vol. 557, p. 280 (corrigendum to the Russian text), vol. 570, p. 346 (procès-verbal of rectification of the authentic Russian text), and vol. 590, p.?25 (procès-verbal of rectification of the authentic Spanish text).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted and opened for signature by the United Nations Conference for the Adoption of a Single Convention on Narcotic Drugs, held at United Nations Headquarters, New York, from 24 January to 25 March 1961. The Conference was convened pursuant to resolution &lt;a href="/doc/source/docs/E_RES_689_XXVI-E.pdf" target="_blank"&gt;689J (XXVI)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of 28 July 1958 of the Economic and Social Council of the United Nations. The Conference also adopted the Final Act and five resolutions for the text of which, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 520, p.?51. For the proceedings of the Conference, see &lt;i&gt;Official Records of the United Nations Conference for the Adoption of a Single Convention on Narcotic Drugs &lt;/i&gt;volumes I and II, United Nations publications, Sales Nos. 63.XI.4 and 63.XI.5.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2,3,4,5&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>19 Mar 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>7 Apr 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry />
+                <Entry>26 Oct 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>5 Apr 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>31 Jul 1961</Entry>
+                <Entry>10 Oct 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>1 Dec 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>1 Feb 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>11 Jan 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry />
+                <Entry>13 Aug 1975 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>25 Apr 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>21 Jun 1976 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>31 Jul 1961</Entry>
+                <Entry>20 Feb 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>28 Jul 1961</Entry>
+                <Entry>17 Oct 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>27 Apr 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry />
+                <Entry>27 Dec 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>18 Jun 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry />
+                <Entry>25 Nov 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>31 Jul 1961</Entry>
+                <Entry>25 Oct 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>16 Sep 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>7 Jul 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>15 Jan 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>11 Oct 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>29 Jan 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>7 Feb 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>3 Mar 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>3 Mar 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>7 May 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>10 Jul 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Jul 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>30 Aug 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>30 Jan 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>30 Dec 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry />
+                <Entry>19 Mar 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>28 Apr 1961</Entry>
+                <Entry>19 Nov 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>15 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry />
+                <Entry>22 Feb 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>24 Sep 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>26 Sep 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>14 Jan 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>20 Jul 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>26 Feb 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Eritrea</Entry>
+                <Entry />
+                <Entry>30 Jan 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry />
+                <Entry>29 Apr 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>1 Nov 1971 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>6 Jul 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry />
+                <Entry>19 Feb 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>29 Feb 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry />
+                <Entry>23 Apr 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;8,9&lt;/superscript&gt;</Entry>
+                <Entry>31 Jul 1961</Entry>
+                <Entry>3 Dec 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>15 Jan 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry />
+                <Entry>6 Jun 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>26 Jul 1961</Entry>
+                <Entry>1 Dec 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>7 Oct 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry />
+                <Entry>27 Oct 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>15 Jul 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>3 Apr 1961</Entry>
+                <Entry>29 Jan 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>1 Sep 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>16 Apr 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>31 Jul 1961</Entry>
+                <Entry>24 Apr 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>18 Dec 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>13 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>28 Jul 1961</Entry>
+                <Entry>3 Sep 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>30 Aug 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>29 Aug 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>16 Dec 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry />
+                <Entry>23 Nov 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>4 Apr 1961</Entry>
+                <Entry>14 Apr 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>29 Apr 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>26 Jul 1961</Entry>
+                <Entry>13 Jul 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>15 Nov 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>29 Apr 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>13 Nov 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry />
+                <Entry>16 Apr 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>7 Oct 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>22 Jun 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>16 Jul 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>23 Apr 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>4 Nov 1974 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>13 Apr 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>27 Sep 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry>14 Jul 1961</Entry>
+                <Entry>31 Oct 1979</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>28 Feb 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>28 Jul 1961</Entry>
+                <Entry>27 Oct 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>20 Jun 1974</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>8 Jun 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>11 Jul 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>15 Dec 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry />
+                <Entry>9 Aug 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>18 Jul 1969 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>24 Jul 1961</Entry>
+                <Entry>18 Apr 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry />
+                <Entry>29 Apr 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry />
+                <Entry>14 Aug 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>6 May 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>4 Dec 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>8 Jun 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>29 Jul 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;12&lt;/superscript&gt;</Entry>
+                <Entry>31 Jul 1961</Entry>
+                <Entry>16 Jul 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;13&lt;/superscript&gt;</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>26 Mar 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>21 Jun 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>18 Apr 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>6 Jun 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>1 Sep 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>24 Jul 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>9 Jul 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>4 Dec 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry />
+                <Entry>28 Oct 1980 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>3 Feb 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru&lt;superscript&gt;14&lt;/superscript&gt;</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>22 Jul 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>2 Oct 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>31 Jul 1961</Entry>
+                <Entry>16 Mar 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal&lt;superscript&gt;3,15&lt;/superscript&gt;</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>30 Dec 1971</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>13 Feb 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>15 Feb 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>14 Jan 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>31 Jul 1961</Entry>
+                <Entry>20 Feb 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry />
+                <Entry>10 Oct 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry />
+                <Entry>20 Jun 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>21 Apr 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>24 Jan 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>27 Feb 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>15 Mar 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry />
+                <Entry>17 Mar 1982 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Somalia</Entry>
+                <Entry />
+                <Entry>9 Jun 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>16 Nov 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>27 Jul 1961</Entry>
+                <Entry>1 Mar 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>11 Jul 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Kitts and Nevis</Entry>
+                <Entry />
+                <Entry>9 May 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry />
+                <Entry>5 Jul 1991 d</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>3 Dec 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry />
+                <Entry>24 Apr 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry />
+                <Entry>29 Mar 1990 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>3 Apr 1961</Entry>
+                <Entry>18 Dec 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>20 Apr 1961</Entry>
+                <Entry>17 Feb 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>22 Aug 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>24 Jul 1961</Entry>
+                <Entry>31 Oct 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;16&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>13 Oct 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry />
+                <Entry>6 May 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>5 Sep 1973 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>22 Jun 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>8 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>23 May 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>21 Feb 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>15 Apr 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>31 Jul 1961</Entry>
+                <Entry>15 Apr 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>2 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry />
+                <Entry>25 May 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>31 Oct 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>30 Mar 1961</Entry>
+                <Entry>14 Feb 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>14 Sep 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>12 Aug 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>1 Dec 1998 d</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Algeria</Participant>
+        <text type="para">The Democratic and Popular Republic of Algeria does not approve the present wording of article 42 which might prevent the application of the Convention to "non-metropolitan" territories.</text>
+        <text type="para">The Democratic and Popular Republic of Algeria does not consider itself bound by the provisions of article 48, paragraph 2, which prescribe the compulsory referral of any dispute to the International Court of Justice.</text>
+        <text type="para">The Democratic and Popular Republic of Algeria declares that the agreement of all parties to a dispute shall in every case be necessary for the referral thereof to the International Court of Justice.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Argentina&lt;superscript&gt;17&lt;/superscript&gt;</Participant>
+        <text type="title">Reservation to article 48, paragraph 2:</text>
+        <text type="para">The Argentine Republic does not recognize the compulsory jurisdiction of the International Court of Justice.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Austria</Participant>
+        <text type="para">"The Republic of Austria interprets article 36, paragraph 1, as follows: The obligation of the Party contained therein may also be implemented by administrative regulations providing adequate sanction for the offences enumerated therein."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bangladesh</Participant>
+        <text type="para">"[Subject to the reservations] referred to in article 49 (1) (a), (d) and (e) of the Convention, namely, subject to the right of the Government of the People's Republic of Bangladesh to permit temporarily in its territory:</text>
+        <text type="para">(a) The quasi-medical use of opium,</text>
+        <text type="para">(d) The use of cannabis, cannabis resin, extracts and tinctures of cannabis for non-medical purposes, and</text>
+        <text type="para">(e) The production and manufacture of and trade in the drugs referred to under (a) and (d) above for the purposes mentioned therein."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="para">The Government of the Byelorussian Soviet Socialist Republic will not consider itself bound by the provisions of article 12, paragraphs 2 and 3; article 13, paragraph 2; article 14, paragraphs 1 and 2; and article 31, paragraph 1 (b) of the Single Convention on Narcotic Drugs as applied to States not entitled to become Parties to the Single Convention on the basis of the procedure provided for in article 40 of that Convention.</text>
+        <text type="para">The Byelorussian Soviet Socialist Republic deems it essential to draw attention to the discriminatory character of article 40, paragraph 1, of the Single Convention on Narcotic Drugs, under the terms of which certain States are not entitled to become Parties to the said Convention. The Single Convention concerns matters which are of interest to all States and has as its objective the enlistment of the efforts of all countries in the struggle against the social evil of the abuse of narcotics. The Convention should therefore be open to all countries. According to the principle of the sovereign equality of States, no States have the right to deny to other countries the possibility of participating in a Convention of this type.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria&lt;superscript&gt;18&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration</text>
+        <text type="para">"The People's Republic of Bulgaria considers it necessary to stress that the wording of article 40, paragraph 1; article 12, paragraphs 2 and 3; article 13, paragraph 2; article 14, paragraphs 1 and 2; and article 31, paragraph 1 "b" has a discriminatory character as it excludes the participation of a certain number of States. These texts are obviously inconsistent with the character of the Convention, aiming at unifying the efforts of all Parties with a view to achieving regulation of the questions, affecting the interests of all countries in this field."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Egypt&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="para">The Government of the French Republic declares that it accedes to this Convention while reserving the possibility provided for in article 44, paragraph 2 &lt;i&gt;in fine &lt;/i&gt; of continuing in force article 9 of the Convention for the Suppression of the Illicit Traffic in Dangerous Drugs, signed at Geneva on 26 June 1936.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary&lt;superscript&gt;20&lt;/superscript&gt;</Participant>
+        <text type="para">"(2) As regards countries which have been deprived of the possibility of becoming parties, on the basis of the provisions of article 40 of the Single Convention on Narcotic Drugs, 1961, to the Convention, the Government of the Hungarian People's Republic does not consider as obligatory upon herself points 2 and 3 of article 12, point 2 of article 13, points 1 and 2 of article 14 and sub-point 1 (b) of article 31.</text>
+        <text type="para">"The Hungarian People's Republic deems it necessary to state that the provisions in article 40 of the Single Convention on Narcotic Drugs by which certain States are barred from becoming Parties to the Convention are at variance with the principle of sovereign equality of States and are detrimental to the interests attached to the universality of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>India</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">"Subject to the reservations referred to in Article 49 (1) (a), (b), (d) and (e) of the Convention, namely, subject to the right of the Government of India to permit temporarily in any of its territories:</text>
+        <text type="para">"(a) The quasi-medical use of opium,</text>
+        <text type="para">"(b) Opium smoking,</text>
+        <text type="para">"(d) The use of cannabis, cannabis resin, extracts and tinctures of cannabis for non-medical purposes, and</text>
+        <text type="para">"(e) The production and manufacture of and trade in the drugs referred to under (a), (b), and</text>
+        <text type="para"> (d) above for the purposes mentioned therein.</text>
+        <text type="title">Declarations:</text>
+        <text type="para">"Since the Government of India do not recognise the Nationalist Chinese authorities as the competent Government of China, they cannot regard signature of the said Convention by a Nationalist Chinese Representative as a valid signature on behalf of China."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Indonesia&lt;superscript&gt;21&lt;/superscript&gt;</Participant>
+        <text type="title">Reservation made upon signature and confirmed upon ratifica tion:</text>
+        <text type="para">"(1) . . .</text>
+        <text type="para">"(2) . . .</text>
+        <text type="para">"(3) With respect to article 48, paragraph 2, the Indonesian Government does not consider itself bound by the provisions of this paragraph which provide for a mandatory reference to the International Court of Justice of any dispute which cannot be resolved according to the terms of paragraph 1. The Indonesian Government takes the position that for any dispute to be referred to the International Court of Justice for decision the agreement of all the parties to the dispute shall be necessary in each individual case."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Liechtenstein</Participant>
+        <text type="para">The Principality of Liechtenstein maintains in force article 9 of the Convention for the Suppression of the Illicit Traffic in Dangerous Drugs, signed at Geneva on 26 June 1936.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Myanmar</Participant>
+        <text type="title">Reservation made upon signature and confirmed upon ratifica tion:</text>
+        <text type="para">"Subject to the understanding that the Shan State is being allowed to have reservation of the right:</text>
+        <text type="para">"(1) To allow addicts in the Shan State to smoke opium for a transitory period of 20 years with effect from the date of coming into force of this Single Convention;</text>
+        <text type="para">"(2) To produce and manufacture opium for the above purpose;</text>
+        <text type="para">"(3) To furnish a list of opium consumers in the Shan State after the Shan State Government has completed the taking of such list on the 31st December, 1963."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="para">In view of the equality from the point of view of public law between the Netherlands, Surinam and the Netherlands Antilles, the term "non-metropolitan" mentioned in article 42 of this Convention no longer has its original meaning so far as Surinam and the Netherlands Antilles are concerned, and will consequently be deemed to mean "non-European".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Pakistan</Participant>
+        <text type="para">"The Government of the Islamic Republic of Pakistan will permit temporarily in any of its territories:</text>
+        <text type="para">"(i) The quasi-medical use of opium;</text>
+        <text type="para">"(ii) The use of cannabis, cannabis resin, extracts and tinctures of cannabis for non-medical purposes, and</text>
+        <text type="para">"(iii) The production and manufacture of and trade in the drugs referred to under (i) and (ii) above."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Papua New Guinea&lt;superscript&gt;22&lt;/superscript&gt;</Participant>
+        <text type="para">"In accordance with article 50, paragraph 2, the Government of Papua New Guinea hereby lodges a reservation in relation to article 48, paragraph 2, which provides for reference of a dispute to the International Court of Justice."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Poland</Participant>
+        <text type="para">"The Government of the Polish People's Republic does not consider itself being bound by the provisions of article 12, paragraphs 2 and 3, article 13, paragraph 2, article 14, paragraphs 1 and 2 and article 31, paragraph 1 (b) of the Single Convention on Narcotic Drugs, 1961, and concerning States deprived of the opportunity to participate in the above Convention.</text>
+        <text type="para">"In the opinion of the Government of the Polish People's Republic it is inadmissible to impose obligations contained in the mentioned provisions, upon States which in result of other provisions of the same Convention may be deprived of the opportunity to adhere to it.</text>
+        <text type="para">"The Polish People's Republic deems it appropriate to draw the attention to the discriminatory character of article 40, paragraph 1, of the Single Convention on Narcotic Drugs, 1961, on the basis of which certain States have been deprived of the opportunity of becoming Parties to this Convention. The Single Convention deals with the question of interest to all States and is meant to mobilize efforts of all countries in the struggle against the social danger which is the abuse of narcotic drugs. This Convention therefore should be open to all States. In accordance with the principle of sovereign equality of States, no State has the right to deprive any other State of the opportunity to participate in a Convention of such type."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Romania&lt;superscript&gt;23&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">(a) ...</text>
+        <text type="para">(b) The Socialist Republic of Romania does not consider itself bound by the provisions of article 12, paragraphs 2 and 3; article 13, paragraph 2; article 14, paragraphs 1 and 2; article 31, paragraph 1 (b), in so far as those provisions refer to States which are not Parties to the Single Convention.</text>
+        <text type="title">Declarations:</text>
+        <text type="para">(a) The Council of State of the Socialist Republic of Romania considers that the maintenance of the state of dependence of certain territories to which the provisions of article 42 and article 46, paragraph 1, of the Convention apply is not in accordance with the Charter of the United Nations and the documents adopted by the United Nations concerning the granting of independence to colonial countries and peoples, including the Declaration on Principles of International Law concerning Friendly Relations and Cooperation among States in accordance with the Charter of the United Nations, unanimously adopted by the United Nations General Assembly in its resolution 2625 (XXV) of 1970, which solemnly proclaims the obligation of States to promote realization of the principle of equal rights and self-determination of peoples in order to bring an end to colonialism without delay.</text>
+        <text type="para">(b) The Council of State of the Socialist Republic of Romania considers that the provisions of article 40 of the Convention are not in accordance with the principle that international multilateral treaties, the aims and objectives of which concern the international community as a whole, should be open to participation by all States.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="para">The Government of the Union of Soviet Socialist Republics will not consider itself bound by the provisions of article 12, paragraphs 2 and 3, article 13, paragraph 2, article 14, paragraphs 1 and 2 and article 31, paragraph 1 (b) of the Single Convention on Narcotic Drugs as applied to States not entitled to become Parties to the Single Convention on the basis of the procedure provided for in article 40 of that Convention.</text>
+        <text type="para">The Union of Soviet Socialist Republics deems it essential to draw attention to the discriminatory character of article 40, paragraph 1, of the Single Convention on Narcotic Drugs, under the terms of which certain States are not entitled to become Parties to the said Convention. The Single Convention concerns matters which are of interest to all States and has as its objective the enlistment of the efforts of all countries in the struggle against the social evil of the abuse of narcotics. The Convention should therefore be open to all countries. According to the principle of the sovereign equality of States, no States have the right to deny to other countries the possibility of participating in a Convention of this type.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Saudi Arabia&lt;superscript&gt;24&lt;/superscript&gt;</Participant>
+        <text type="para">"The accession of the Government of Saudi Arabia to the Single Convention on Narcotic Drugs shall not be construed as implying recognition of the so-called State of Israel nor does the accession, in any way, imply the intention of the Government of Saudi Arabia to enter into any intercourse whatsoever with the latter in matters bearing on this Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>South Africa</Participant>
+        <text type="para">"Subject to a reservation in respect of article 48 of the Convention, as provided for in article 50, paragraph 2."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sri Lanka</Participant>
+        <text type="para">The Government of Ceylon notified the Secretary-General that in respect of article 17 of the Convention, "the existing administration will be maintained for the purpose of applying the provisions of the Convention without setting up a special administration for the purpose."</text>
+        <text type="para">The Government added that this was to be considered a statement and not a reservation.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="para">Switzerland maintains in force article 9 of the Convention for the Suppression of the Illicit Traffic in Dangerous Drugs, signed at Geneva on 26 June 1936.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="para">The Government of the Ukrainian Soviet Socialist Republic will not consider itself bound by the provisions of article 12, paragraphs 2 and 3; article 13, paragraph 2; article 14, paragraphs 1 and 2; and article 31, paragraph 1 (b) of the Single Convention on Narcotic Drugs as applied to States not entitled to become Parties to the Single Convention on the basis of the procedure provided for in article 40 of that Convention.</text>
+        <text type="para">The Ukrainian Soviet Socialist Republic deems it essential to draw attention to the discriminatory character of article 40, paragraph 1, of the Single Convention on Narcotic Drugs, under the terms of which certain States are not entitled to become Parties to the said Convention. The Single Convention concerns matters which are of interest to all States and has as its objective the enlistment of the efforts of all countries in the struggle against the social evil of the abuse of narcotics. The Convention should therefore be open to all countries. According to the principle of the sovereign equality of States, no States have the right to deny to other countries the possibility of participating in a Convention of this type.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Australia</Participant>
+        <DateNotification>1 Dec 1967</DateNotification>
+        <Territories>All non-metropolitan territories for the international relations of which Australia is responsible, namely, the territories of Papua, Norfolk Island, Christmas Island, Cocos (Keeling) Islands, Heard and MacDonald Islands, Ashmore and Cartier Islands, the Australian Antarctic Territory and the Trust Territories of New Guinea and Nauru</Territories>
+      </Application>
+      <Application>
+        <Participant>France</Participant>
+        <DateNotification>19 Feb 1969</DateNotification>
+        <Territories>The whole of the territory of the French Republic</Territories>
+      </Application>
+      <Application>
+        <Participant>India</Participant>
+        <DateNotification>13 Dec 1964</DateNotification>
+        <Territories>Sikkim</Territories>
+      </Application>
+      <Application>
+        <Participant>Netherlands&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <DateNotification>16 Jul 1965</DateNotification>
+        <Territories>For the Kingdom in Europe, Surinam and the Netherlands Antilles</Territories>
+      </Application>
+      <Application>
+        <Participant>New Zealand&lt;superscript&gt;13&lt;/superscript&gt;</Participant>
+        <DateNotification>26 Mar 1963</DateNotification>
+        <Territories>Cook Islands (including Niue) and the Tokelau Islands, being non-metropolitan territories for the international relations of which the Government of New Zealand is responsible</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;4,25&lt;/superscript&gt;</Participant>
+        <DateNotification>26 Jan 1965</DateNotification>
+        <Territories>Antigua, Bahamas, Basutoland, Bechuanaland Protectorate, Bermuda, British Guiana, British Honduras, British Solomon Islands, British Virgin Islands, Brunei, Cayman Islands, Dominica, Falkland Islands (Malvinas), Fiji, Gambia, Gibraltar, Gilbert and Ellice Islands, Grenada, Hong Kong, Mauritius, Montserrat, Seychelles, Southern Rhodesia, St. Christopher and Nevis, St. Helena, St. Lucia, St. Vincent, Swaziland, Tonga and Turks and Caicos Islands</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>27 May 1965</DateNotification>
+        <Territories>Colony of Aden and Protectorate of South Arabia</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>3 May 1966</DateNotification>
+        <Territories>Barbados</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>24 Jun 1977</DateNotification>
+        <Territories>Channel Islands and Isle of Man</Territories>
+      </Application>
+      <Application>
+        <Participant>United States of America</Participant>
+        <DateNotification>25 May 1967</DateNotification>
+        <Territories>All areas for the international relations of which the United States is responsible</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the Economic and Social Council, Twenty-sixth Session, Supplement No. 1 &lt;/i&gt; (E/3169), p. 17.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Signed and ratified on behalf of the Republic of China on 30 March 1961 and 12 May 1969 respectively. See note concerning signatures, ratifications, accessions, etc. on behalf of China (note 1 under China in the Historical Information section in the front matter of this volume). See also the declaration made by the Government of India upon ratification.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 27 April 1999, the Government of Portugal informed the Secretary-General that the Convention would apply to Macao.</text>
+        <text>Subsequently, on 19 October and 21 October 1999, the Secretary-General received communications regarding the status of Macao from China and Portugal (see also note 3 under China and note 1 under Portgual in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Macao, China notified the Secretary-General that the Convention will also apply to the Macao Special Administrative Region.</text>
+        <text>In addition, the communication by the Government of the People's Republic of China contained the following reservation:</text>
+        <text>The Government of the People's Republic of China has reservation to paragraph 2 of Article 48 of the Convention.</text>
+        <text>Within the above ambit, the Government of the People's Republic of China will assume the responsibility for the international rights and obligations that place on a Party to the Convention.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 2 under United Kingdom of Great Britain and Northern Ireland regarding Hong Kong in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>The Republic of Viet-Nam had acceded to the Convention on 14September 1970. In this regard, see also note 1 under Viet Nam in the Historical Information section in the front matter of this volume.</text>
+        <text>In a communication received by the Secretary-General on 23November 1970, the Ministry of Foreign Affairs of Albania had stated that the Albanian Government considered the above-mentioned accession to be without any legal validity, since the only representative of the people of South Viet-Nam qualified to speak on its behalf and to enter into international commitments were the Provisional Revolution ary Government of the Republic of South Viet-Nam.</text>
+        <text>A similar communication was received by the Secretary-General on 11 January 1971 from the Permanent Representative of the Mongolian People's Republic to the United Nations.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 30 March 1961 and 27 August 1963, respectively. See also note 1 under "Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 31July 1961 and 20 March 1964, respectively, with reservations. For the text of the reservations, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 520, pp.361 and 412. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>The German Democratic Republic had acceded to the Convention on 2 December 1975 with reservations and declarations. For the text of the reservations and declarations see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 987, p. 425.</text>
+        <text>The Secretary-General had also received on 15 March 1976 a communication from the Government of the German Democratic Republic stating in part as follows:</text>
+        <text>In acceding to the Single Convention on Narcotic Drugs of 30 March 1961, the German Democratic Republic started solely from the provisions on accession to this Convention as set forth in its article 40. There was no intention of acceding to the Convention as amended by the Protocol of 25 March 1972.</text>
+        <text>Later, upon its accession to the 1972 Protocol, the Government of the German Democratic Republic declared that the said communication was to be considered as withdrawn.</text>
+        <text>See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>By a communication received by the Secretary-General on 11March 1980, the Government of Liechtenstein confirmed that it was not its intention to become a Party to the Convention as modified by the Protocol of 23 March 1972.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>For the Kingdom in Europe, Surinam and the Netherlands Antilles. See also notes 1 and 2 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>See note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>In the instrument of ratification, the Government of Peru withdrew the reservation made on its behalf at the time of signing the Convention; for the text of that reservation, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 520, p. 376.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>See note 1 under Uganda in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>On 12 April 1994, the Secretary-General received from the Government of Greece the following communication:</text>
+        <text>"Accession of the former Yugoslav Republic of Macedonia to the Single [Convention on] Narcotic Drugs of the United Nations of 1961 does not imply its recognition on behalf of the Hellenic Republic."</text>
+        <text>See also note 1 under Greece in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>In a communication received by the Secretary-General on 24 October 1979, the Government of Argentina declared that it withdrew the reservation relating to article 49 of the Convention. (For the text of that reservation, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 520, p.?53.)</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>For the text of reservations as formulated by the Government of Bulgaria in respect of the same articles of the Convention at the time of its signature, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 520, p. 355.</text>
+        <text>In a notification received on 6 May 1994, the Government of Bulgaria notified the Secretary-General that it had decided to withdraw the reservations made by Bulgaria upon ratification with respect to article 48 (2). For the text of the reservations, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 649, p. 362.</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>In a notification received on 18 January 1980, the Government of Egypt informed the Secretary-General that it had decided to withdraw the declaration relating to Israel. For the text of the said declaration, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 568 p. 364. The notification indicates 25 January 1980 as the effective date of the withdrawal.</text>
+        <text>A communication was received by the Secretary-General on 21September 1966 from the Government of Israel with reference to the above-mentioned declaration. For the text of the communication see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 573,p. 347.</text>
+      </Note>
+      <Note>
+        <index>20</index>
+        <text>In a communication received on 8 December 1989, the Government of Hungary notified the Secretary-General that it had decided to withdraw the reservation in respect of article 48 (2) of the Convention made upon ratification. For the text of the reservation, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 520, p. 364.</text>
+      </Note>
+      <Note>
+        <index>21</index>
+        <text>In its instrument of ratification the Government of Indonesia withdraws the declarations made upon signature regarding its intention to make reservations with respect to article 40 (1) and article 42 of the said Convention. For the text of these declarations, corresponding to paragraphs 1 and 2, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 520, p. 368.</text>
+      </Note>
+      <Note>
+        <index>22</index>
+        <text>Inasmuch as the reservation in question was not formulated by Australia at the time the Convention was originally extended to Papua and New Guinea, it will become effective on the date when it would have done so, pursuant to article 41 (2) and 50 (2) of the Convention, had it been formulated on accession, that is to say the thirtieth day after the deposit of the notification of succession by the Government of Papua New Guinea, i.e., on 27 November 1980.</text>
+      </Note>
+      <Note>
+        <index>23</index>
+        <text>In a communication received on 19 September 2007, the Government of Romania notified the Secretary-General that it had decided to withdraw the reservation in respect of article 48 (2) of the Convention made upon accession. For the text of the reservation, see United Nations, Treaty Series, vol. 908, p. 91.</text>
+      </Note>
+      <Note>
+        <index>24</index>
+        <text>In a communication received by the Secretary-General on 23 May 1972 the Permanent Representative of Israel to the United Nations made the following declaration:</text>
+        <text>"The Government of Israel has noted the political character of the reservation made by the Government of Saudi Arabia on that occasion. In the view of the Government of Israel, this Convention is not the proper place for making such political pronouncements. Moreover, the said pronouncement by the Government of Saudi Arabia cannot in any way affect whatever obligations are binding upon Saudi Arabia, under general international law or under particular treaties. The Government of Israel will, in so far as concerns the substance of the matter, adopt towards the Government of Saudi Arabia an attitude of complete reciprocity."</text>
+      </Note>
+      <Note>
+        <index>25</index>
+        <text>On 3 October 1983, the Secretary-General received from the Government of Argentina the following objection :</text>
+        <text>[The Government of Argentina makes a] formal objection to the declaration of territorial extension issued by the United Kingdom with regard to the Malvinas Islands (and dependencies), which that country is illegally occupying and refers to as the "Falkland Islands".</text>
+        <text>The Argentine Republic rejects and considers null and void the [said declaration] of territorial extension.</text>
+        <text>With reference to the above-mentioned objection the Secretary-General received, on 28 February 1985, from the Government of the United Kingdom of Great Britain and Northern Ireland the following declaration:</text>
+        <text>"The Government of the United Kingdom of Great Britain and Northern Ireland have no doubt as to their right, by notification to the Depositary under the relevant provisions of the above-mentioned Convention, to extend the application of the Convention in question to the Falkland Islands or to the Falkland Islands Dependencies, as the case may be.</text>
+        <text>For this reason alone, the Government of the United Kingdom are unable to regard the Argentine [communication] under reference as having any legal effect."</text>
+      </Note>
+    </EndNotes>
+    <Footer>VI 15. Narcotic Drugs and Psychotropic Substances</Footer>
+  </Treaty>
+</Document>

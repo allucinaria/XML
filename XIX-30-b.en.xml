@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>30</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>International Agreement on Olive Oil and Table Olives, 1986, as amended and extended, 1993*</Subtitlesect>
+        <Conclusion>Geneva, 1 July 1986</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 26 January 1994, in accordance with article 8(1) and definitively on 25 March 1994, in accordance with article 8(1) of the Protocol and was terminated in accordance with its provisions on 1 January 2006, upon the entry into force of the International Agreement on Olive Oil and Table Olives, 2005, which is deposited with the Government of Spain..</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>25 March 1994, No. 24591</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 1772, p. 342; Doc. TD/OLIVE OIL.9/4 and depositary notifications C.N.284.1994.TREATIES-3 of 11 November 1994; C.N.39.1997.TREATIES-1 of 28 February 1997 [amendment of designations and definitions in article 26, paragraph 1 A, sub-paragraphs (a) and (b)]; C.N.870.1998.TREATIES-6 of 24 May 1999 (revision of annexes A and B); and C.N.?229.1999.TREATIES-6 of 19 January 2000 (revision of annexes A and B); C.N.1424.2001.TREATIES-4 of 11 December 2001 (revision of annexes A and B); C.N.708.2003.TREATIES-5 of 7 July 2003 (modification of the participation shares); C.N.704.2003.TREATIES-3 OF 16 July 2003 (modification of designations and definitions of olive oils and olive-pomace oils); C.N.1135.2004.TREATIES-3 of 4 November 2004 (modification of the participation shares).</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XIX 30 b. Commodities</Footer>
+  </Treaty>
+</Document>

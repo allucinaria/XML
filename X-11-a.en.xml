@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>11</Numsect>
+        <Subnumsect>a</Subnumsect>
+        <Subtitlesect>Amendments to the Charter of the Asian and Pacific Development Centre</Subtitlesect>
+        <Conclusion>Kuala Lumpur, 16 July 1998</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article XIX of the Charter which reads as follows : "1. Any party to this Charter may propose an amendment to it. 2. The proposed amendment shall be considered by the General Council and if approved by a two-thirds majority in the General Council shall enter into force for all parties to this Charter on the thirtieth day after the deposit with the Secretary-General of the United Nations of instruments of acceptance of the proposed amendment by two thirds of the parties to this Charter.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>5</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc. Report of the Twelfth Session of the General Council.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>In accordance with article XIX of the Charter, the General Council, at its Twelfth Session held at Kuala Lumpur from 15 to 16 July 1998, approved various amendments to he Charter.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry>17 Aug 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>China</Entry>
+                <Entry>14 Sep 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>14 May 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>25 Jan 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry>9 Jul 2001 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>X 11 a. International Trade and Development</Footer>
+  </Treaty>
+</Document>

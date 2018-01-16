@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>31</Numsect>
+        <Titlesect>International Cocoa Agreement, 1986*</Titlesect>
+        <Conclusion>Geneva, 25 July 1986</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 20 January 1987, in accordance with article 70(3). The Agreement was extended until 30 September 1992 and 30 September 1993, respectively, and expired in accordance with its provisions on 30 September 1993.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>20 January 1987, No. 24604</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1446, p. 103; depositary notifications C.N.189.1986.TREATIES-1 of 29 September 1986; C.N.51.1987.TREATIES-4 of 5 May 1987 (procès-verbal of rectification of the original English text); C.N.186.1987.TREATIES-10 of 10 September 1987 (adoption of the authentic Chinese text); C.N.20.1988.TREATIES-1 of 8 April 1988 (procès-verbal of rectification of the original Chinese text); C.N.267.1987.TREATIES-13 of 7 December 1987 (communication by the International Cocoa Council concerning the inclusion of Mexico in Annex B); C.N.115.1990.TREATIES-1 of 29 May 1990 (partial extension of the Agreement with list of provisions extended: see "Note" below) and C.N.77.1991.TREATIES-1 of 25 June 1991 [procès-verbal of rectification of the authentic text of Annex E (Russian version)].</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <DateNotification>24 Jul 1992</DateNotification>
+        <Territories>Isle of Man and Bailiwick of Jersey</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes />
+    <Footer>XIX 31. Commodities</Footer>
+  </Treaty>
+</Document>

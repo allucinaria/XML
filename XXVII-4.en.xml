@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Titlesect>Convention on Environmental Impact Assessment in a Transboundary Context</Titlesect>
+        <Conclusion>Espoo, Finland, 25 February 1991</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>10 September 1997, in accordance with article 18(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>10 September 1997, No. 34028</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>30</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>45</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1989, p. 309. C.N.443.2014.TREATIES-XXVII.4 of 11 August 2014 (Proposal of Corrections to the original text of the Convention (English, French and Russian texts) and to the certified true copies) and C.N.737.2014.TREATIES-XXVII.4 of 17 November 2014 (Corrections).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the Senior Advisers to ECE Governments on Environmental and Water Problems of the Economic Commission for Europe at their fourth session held in Espoo, Finland, from 25 February to 1 March 1991. The Convention was open for signature at Espoo, Finland, during the said period and thereafter at the United Nations Headquarters in New York until 2 September 1991.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature, Succession to signature(d)</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Approval(AA), Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>4 Oct 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>21 Feb 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>27 Jul 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>25 Mar 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>10 Nov 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>2 Jul 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry />
+                <Entry>14 Dec 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>12 May 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>13 May 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry />
+                <Entry>8 Jul 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>20 Jul 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>30 Sep 1993 d</Entry>
+                <Entry>26 Feb 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>14 Mar 1997 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>25 Apr 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>24 Jun 1997 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>10 Aug 1995 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>15 Jun 2001 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>8 Aug 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>24 Feb 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>11 Jul 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>27 Feb 1991</Entry>
+                <Entry>25 Jul 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>19 Jan 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>11 Jan 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>1 May 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>31 Aug 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry />
+                <Entry>9 Jul 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>11 Jan 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>29 Aug 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>20 Oct 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry />
+                <Entry>9 Jul 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>25 Feb 1991</Entry>
+                <Entry>28 Feb 1995 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>25 Feb 1991</Entry>
+                <Entry>23 Jun 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>12 Jun 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>6 Apr 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>4 Jan 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>29 Mar 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>6 Jun 1991</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry />
+                <Entry>18 Dec 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>28 May 1993 d</Entry>
+                <Entry>19 Nov 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry />
+                <Entry>5 Aug 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>10 Sep 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>24 Jan 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>16 Sep 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry />
+                <Entry>31 Aug 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>20 Jul 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry>10 Oct 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>26 Feb 1991</Entry>
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, acceptance, approval or accession.)</Title>
+      <Declaration>
+        <Participant>Austria</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Republic of Austria declares in accordance with article 15 paragraph 2 of the Convention that it accepts both of the means of dispute settlement mentioned in this paragraph as compulsory in relation to any Party accepting an obligation concerning one or both of these means of dispute settlement."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Bulgaria declares that for a dispute not resolved in accordance with paragraph 1 of article 15, it accepts both of the following means of dispute settlement as compulsory in relation to any Party accepting the same obligation:</text>
+        <text type="para">&lt;i&gt;a &lt;/i&gt;) Submission of the dispute to the International Court of Justice;</text>
+        <text type="para">&lt;i&gt; b &lt;/i&gt;) Arbitration in accordance with the procedure set out in Appendix VII.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Canada&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">Inasmuch as under the Canadian constitutional system legislative jurisdiction in respect of environmental assessment is divided between the provinces and the federal government, the Government of Canada in ratifying this Convention, makes a reservation in respect of proposed activities (as defined in this Convention) that fall outside of federal legislative jurisdiction exercised in respect of environmental assessment.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>European Union</Participant>
+        <text type="title">Declarations made upon signature and confirmed upon approval:</text>
+        <text type="para">"It is understood, that the Community Member States, in their mutual relations, will apply the Convention in accordance with the Community's internal rules, including those of the EURATOM Treaty, and without prejudice to appropriate amendments being made to those rules.</text>
+        <text type="para">"The European Community considers that, if the information of the public of the Party of origin takes place when the environmental impact assessment documentation is available, the information of the affected Party by the Party of origin must be implemented simultaneously at the latest.</text>
+        <text type="para">"The Community considers that the Convention implies that each Party must assure, on its territory, that the public is provided with the environmental impact assessment documentation, that it is informed and that its observations are collected."</text>
+        <text type="title">Declaration made upon approval with respect to Article 17 (5) of the Convention:</text>
+        <text type="para">"In the field covered by the Espoo Convention, Council Directive 85/337/EEC of 27 June 1985, annexed to this Declaration, applies. It enables the Community to comply with most of the obligations under the Espoo Convention. Member States are responsible for the performance of those obligations resulting from the Espoo Convention not currently covered by Community law and more specifically by Directive 85/337/EEC. The Community underlines that Directive 85/337/EEC does not cover the application of the Espoo Convention between the Community on the one hand and non-Member States party to the Espoo Convention on the other hand. The Community will inform the depositary of any future amendment to Directive 85/337/EEC.</text>
+        <text type="para">From this, it follows that the Community, within the limits indicated above, is competent to enter into binding commitments on its own behalf with non-members countries which are Contracting Parties to the Espoo Convention."</text>
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">.... When approving the Convention on Environmental Impact Assessment in a Transboundary Context, signed at Espoo on 25 February 1991, the Government of the French Republic declares that it associates itself with the declarations made by the European Commission, both when signing this Convention and when depositing the Community's instrument of ratification, and stresses in particular that:</text>
+        <text type="para"> In its relations with the member States of the European Union, France will apply the Convention in accordance with the Union's internal rules, including those laid down in the Euratom treaty;</text>
+        <text type="para"> When the public in the Party of origin is provided with information through the public distribution of the environmental impact assessment documentation, the notification of the affected Party by the Party of origin must be given no later than when the documentation is distributed;</text>
+        <text type="para"> The Convention implies that it is the responsibility of each Party to ensure the public distribution within its territory of the environmental impact assessment documentation, inform the public and collect its comments, except where different bilateral arrangements apply.</text>
+        <text type="para">It specifies that, any projects for which a request for authorization or approval is required and has already been submitted to the competent authority at the time when the Convention enters into force in France shall not be subject to the Convention.</text>
+        <text type="para">Lastly, it specifies that the word national' in article 2, paragraph 8, of the Convention shall be understood to refer to national laws, national regulations, national administrative provisions and commonly accepted national legal practices.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Liechtenstein</Participant>
+        <text type="title">Declaration concerning article 15 (2):</text>
+        <text type="para">The Principality of Liechtenstein declares in accordance with article 15, paragraph 2, of the Convention that it accepts both of the means of dispute settlement mentioned in this paragraph as compulsory in relation to any Party accepting an obligation concerning one or both of these means of dispute settlement.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Kingdom of the Netherlands declares, in accordance with paragraph 2 of article 15 of [the said Convention], that it accepts both means of dispute settlement referred to in that paragraph as compulsory in relation to any Party accepting one or both of these means of dispute settlement."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">"The United Kingdom considers the Convention is incom- plete. Annex I of the Convention lists offshore hydrocarbon production. The United Kingdom considers there is no reason to exclude onshore hydrocarbon production from Annex I, and therefore intends to seek an early amendment to the Convention to remedy this omission."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, acceptance, approval or accession.)</Title>
+      <Objection>
+        <Participant>Spain</Participant>
+        <text>&lt;right&gt;26 May 1999&lt;/right&gt;</text>
+        <text type="title">With regard to the reservation made by Canada upon ratification :</text>
+        <text type="para">The Government of the Kingdom of Spain notes that the said reservation is of a general nature, rendering compliance with the provisions of the Convention dependent on certain norms of Canada's internal legislation.</text>
+        <text type="para">The Government of the Kingdom of Spain believes that this general reservation gives rise to doubts concerning Canada's commitment to the object and purpose of the Convention and recalls that, according to article 19 (c) of the Vienna Convention on the Law of Treaties, reservations that are incompatible with the object and purpose of a treaty are impermissible.</text>
+        <text type="para">It is in the common interest of States that treaties to which they have decided to become parties should be respected in their entirety by all parties, and that States should be prepared to adapt their internal legislation to comply with their obligations under those treaties. A general reservation such as that made by the Government of Canada, which does not clearly specify either the provisions of the Convention to which it applies or the scope of the derogation, undermines the foundations of international treaty law.</text>
+        <text type="para">The Government of the Kingdom of Spain therefore objects to the aforementioned general reservation made by the Government of Canada to the Convention on Environmental Impact Assessment in a Transboundary Context. This objection does not prevent the entry into force of the Convention between the Kingdom of Spain and Canada..</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Sweden</Participant>
+        <text>&lt;right&gt;26 May 1999&lt;/right&gt;</text>
+        <text type="title">With regard to the reservation made by Canada upon ratification:</text>
+        <text type="para">"The Government of Sweden is of the view that the general reservation made by the Government of Canada does not clarify to which extent Canada considers itself bound by the Convention.</text>
+        <text type="para">It is in the common interest of States that treaties to which they have chosen to become parties are respected as to their object and purpose by all parties, and that States are prepared to undertake any legislative changes necessary to comply with their obligations under the treaties. Furthermore, according to the Vienna Convention on the Law of Treaties of 23 May 1969, and well established customary international law, a reservation contrary to the object and purpose of the treaty shall not be permitted.</text>
+        <text type="para">Sweden does not consider the reservation made by the Government of Canada as admissible unless the Government of Canada, by providing additional information or through subsequent practice, ensures that the reservation is compatible with the provisions essential for the implementation of the object and purpose of the Convention. The Government of Sweden therefore, pending clarification of the exact extent of the reservation, objects to the [...] general reservation made by the Government of Canada.</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the purpose of entry into force of the [Convention/Protocol] , any instrument of ratification, acceptance, approval or accession deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of that Organization.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Czechoslovakia had signed the Convention on 30 August 1991 (See, &lt;a href="https://../doc/Publication/CN/1991/CN.188.1991-Eng.pdf target="_blank"&gt;C.N.188.1991.TREATIES-5 (Depositary Notification)&lt;/a&gt;. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>Upon signature, the Government of Denmark made the following declaration (which was not confirmed upon approval):</text>
+        <text>Decision reserved as concerns the application of the Convention to the Faeroe Islands and Greenland.</text>
+        <text>On 12 December 2001, the Secretary-General received from the Government of Denmark a communication declaring that the Convention shall apply to the Faeroe Islands and Greeland as from 14 March 1997.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Upon depositing its instrument of approval, the Government of France declared the following:</text>
+        <text>The Government of the French Republic declares that the Convention on Environmental Impact Assessment in a Transboundary Context, signed at Espoo on 25 February 1991, does not apply to the territory of French Polynesia.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>On behalf of the United Kingdom of Great Britain and Northern Ireland, the Bailiwick of Jersey, the Bailiwick of Guernsey, the Isle of Man and Gibraltar.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>In this regard, the Secretary-General received from the following States, communications on the dates indicated:</text>
+        <text>&lt;i&gt;Finland (28 May 1999): &lt;/i&gt;</text>
+        <text>In the view of the Government of Finland the general reservation made by the Government of Canada does not adequately clarify to which extent Canada considers itself bound by the Convention. It is of fundamental importance that States are prepared to undertake legislative changes necssary to comply with their obligations under their treaties.</text>
+        <text>Furthermore, according to article 19 of the Vienna Convention on the Law of Treaties of 23 May 1969 as well as customary international law a reservation incompatible with the object and purpose of a treaty shall not be permitted.</text>
+        <text>Accordingly, Finland objects to the general reservation of Canada as not compatible with the object and purpose of the [Convention].</text>
+        <text>&lt;i&gt;Italy (1 June 1999): &lt;/i&gt;</text>
+        <text>The Italian Government notes that the reservation made by the Government of Canada in ratifying the Espoo Convention is of a general nature, since it subordinates the application of the said Convention to certain provisions of Canada's domestic law.</text>
+        <text>The Italian Government is of the view that this general reservation raises doubts regarding Canada's commitment to the object and purpose of the Convention, and wishes to recall that under article 19 (c) of the Vienna Convention on the Law of Treaties, a State may not formulate a reservation that is incompatible with the object and purpose of the treaty to which it refers.</text>
+        <text>It is in the common interest of States to ensure that the treaties to which they are parties are respected in their entirety by all the Contracting Parties, and that the latter are willing to undertake the legislative changes needed to comply with the obligations arising under such treaties.</text>
+        <text>Reservations of a general nature like the one made by the Government of Canada, which do not clearly specify the scope of the derogations resulting therefrom, undermine the foundations of international treaty law.</text>
+        <text>Consequently, the Italian Government opposes the aforesaid general reservation made by the Government of Canada to the [Convention].</text>
+        <text>&lt;i&gt;France (communicated on 8 June 1999 and confirmed on 15 June 2001) &lt;/i&gt;</text>
+        <text>The Government of the French Republic has considered the reservation made by the Government of Canada with respect to the Convention on Environmental Impact Assessment in a Transboundary Context.</text>
+        <text>This reservation, which stresses that legislative jurisdiction with respect to environmental impact assessment is divided between the provinces and the federal government, limits the responsibilities assigned by the Convention to a federal State. However, it is a principle of international law that a State may not invoke its domestic law to justify its failure to fulfil its obligations under a treaty. Moreover, since the reservation is worded in a very general fashion, the Government of the French Republic has been unable to establish to which provisions of the Convention the reservation applies or could apply, or in what way; it believes that application of the reservation could render the provisions of the Convention null and void. It therefore objects to the reservation.</text>
+        <text>France would be in a position to consider the reservation made by Canada admissible in the light of articles 19 and 21 of the Vienna Convention only if Canada demonstrates, by means of additional statements or through its future practice, that its reservation is in keeping with provisions that are essential for achieving the object and purpose of the Convention.</text>
+        <text>This objection does not preclude the entry into force of the Convention between Canada and France.</text>
+        <text>&lt;i&gt;Norway (28 July 1999): &lt;/i&gt;</text>
+        <text>"It is in the common interest of States that treaties to which they have chosen to become Parties are respected as to their object and purpose by all Parties and that States are prepared to undertake any legislative changes necessary to comply with their obligations under the treaties. Furthermore, according to well-established customary international law, a reservation contrary to the object and purpose of the treaty shall not be permitted. Norway holds the opinion that according to customary international law, reservations of a general character, taken because of division of jurisdictional competence in the national constitution, normally are incompatible with the object and purpose of the Convention in question. Such a reservation does not sufficiently clarify to which extent the reserving State Party is bound by the provisions of the Convention.</text>
+        <text>Norway does not consider the reservation made by the Government of Canada as admissible unless the Government of Canada, by providing additional information or through subsequent practice, ensures that the reservation is compatible with the provisions essential for the implementation of the object and purpose of the Convention. The Government of Norway, therefore, pending clarification of the exact extent of the reservation, objects to the aforesaid general reservation made by the Government of Canada.</text>
+        <text>&lt;i&gt;Luxembourg (20 August 1999): &lt;/i&gt;</text>
+        <text>The Government of Luxembourg notes that this reservation is of a general nature and makes compliance with the Convention subject to certain provisions of Canada's domestic laws.</text>
+        <text>This reservation casts doubt on Canada's commitment to the object and purpose of the Convention. Luxembourg wishes to recall that, under the provisions of article 19 (c) of the Vienna Convention on the Law of Treaties, reservations that are incompatible with the object and purpose of a treaty are not authorized.</text>
+        <text>It is in the common interest of States that treaties to which they decide to accede be fully complied with by all parties and that States be prepared to adapt their national legislation to their obligations under such treaties. A general reservation such as the one made by the Government of Canada, which specifies neither the provisions of the Convention to which it applies nor its scope, undermes the basis of the international law of treaties.</text>
+        <text>The Government of Luxembourg therefore objects to this general reservation made by the Government of Canada with respect to the Convention on Environmental Impact Assessment in a Transboundary Context. This objection does not preclude the entry into force of the Convention as between the Grand Duchy of Luxembourg and Canada.</text>
+        <text>On 21 January 2000, the Secretary-General received from the Government of Canada, the following communciation:</text>
+        <text>"The Government of Canada notes that some States have formulated objections to the reservation of the Government of Canada to the Espoo Convention. The Government of Canada wishes to reaffirm its view that a reservation in respect of proposed activities (as defined in the Convention) that fall outside federal legislative jurisdiction exercised in respect of environmental assessment is compatible with the object and purpose of the Convention and is thus admissible. In reaffirming its position on this matter, the Government of Canada refers to the negotiating history of the Convention and specifically to the sixth and final meeting of the Working Group to elaborate a draft Convention. At that meeting, the states present agreed to delete a draft article that would have prohibited all reservations to the Convention. It was and remains Canada's understanding that the agreement to delete the prohibition on reservations was linked directly with a further decision not to include a "federal clause" within the Convention.</text>
+        <text>Canada further wishes to state that Canada's reservation to the Espoo Convention is an integral part of Canada's ratification of the Convention and is not severable therefrom. Canada can only accept treaty relations with other states on the basis of the reservation as formulated and in conformity with Article 21 of the Vienna Convention on the Law of Treaties."</text>
+        <text>&lt;i&gt;Ireland (25 July 2002): &lt;/i&gt;</text>
+        <text>"The Government of Ireland has noted the reservation made by the Government of Canada when ratifying the Convention. The reservation appears to limit the application of the Convention in respect of Canada, to the proposed activities (as defined by the Convention) only insofar as they fall within the federal legislative jurisdiction exercised by Canada in respect of environmental assessment and therefore to have the effect of excluding the Convention's application to Canada insofar as the proposed activities fall within the jurisdiction of the Canadian provinces.</text>
+        <text>The reservation is of such a general nature that the Government of Ireland is unable to establish the extent to which Canada considers itself bound by the Convention.</text>
+        <text>Furthermore, it is a principle of international law that a State may not invoke its domestic law to justify its failure to fulfil its obligations under a treaty. It is, therefore, the view of the Government of Ireland that, without further clarification, it is not possible to determine whether or not the reservation is compatible with the object and purpose of the Convention in question.</text>
+        <text>Pending further clarification from Canada ensuring that the reservation is compatible with the object and purpose of the Convention, the Government of Ireland objects to the reservation made by Canada."</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXVII 4. Environment</Footer>
+  </Treaty>
+</Document>

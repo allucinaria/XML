@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVIII</Header>
+        <Name>PENAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>6</Numsect>
+        <Titlesect>International Convention Against the Recruitment, Use, Financing and Training of Mercenaries</Titlesect>
+        <Conclusion>New York, 4 December 1989</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>20 October 2001, in accordance with article 19(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>20 October 2001, No. 37789</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>17</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>35</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 2163, p. 75; depositary notification C.N.888.2004.TREATIES-1 of 3 September 2004 [Proposal of corrections to the original text of the Convention (authentic Russian text)] and C.N.1070.2004.TREATIES-4 of 4 October 2004 [Rectification of the original of the Convention (Russian authentic text)].</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by Resolution &lt;a href="/doc/source/docs/E_RES_44_34-E.pdf" target="_blank"&gt;44/34&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; on 4 December 1989. It is open for signature by all States until 31 December 1990 at United Nations Headquarters in New York.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature, Succession to signature(d)</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry>28 Dec 1990</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>4 Dec 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>10 Jul 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>13 Dec 1990</Entry>
+                <Entry>28 May 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>31 May 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>21 Dec 1990</Entry>
+                <Entry>26 Jan 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>20 Jun 1990</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>20 Sep 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>27 Mar 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>9 Feb 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>8 Jul 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>20 Mar 1990</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>7 Dec 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>8 Jun 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>20 Dec 1990</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>18 Jul 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>1 Apr 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>5 Feb 1990</Entry>
+                <Entry>21 Aug 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>22 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>17 Jul 1990</Entry>
+                <Entry>11 Sep 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>12 Apr 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>9 Feb 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>23 Oct 2006 d</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>5 Oct 1990</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Sep 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>4 Apr 1990</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>23 Mar 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>28 Dec 1990</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry />
+                <Entry>26 Mar 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>28 Feb 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>17 Dec 1990</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>14 Apr 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>9 Jun 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>12 Mar 2001 d</Entry>
+                <Entry>14 Jan 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>12 Mar 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry>27 Feb 1990</Entry>
+                <Entry>10 Aug 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>23 Oct 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry />
+                <Entry>25 Feb 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>18 Sep 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>21 Sep 1990</Entry>
+                <Entry>13 Sep 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>20 Nov 1990</Entry>
+                <Entry>14 Jul 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>19 Jan 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>12 Nov 2013 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification or acession.)</Title>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">No provision of the present Convention should be interpreted as implying an obligation of mutual judicial assistance if the requested State party has reason to believe that the request for judicial assistance concerning certain offences has been submitted for the purposes of prosecuting or punishing a certain person on the grounds of ethnic origin, religion, nationality or political views, or if acceding to the request would prejudice the situation of that person on any of those grounds.</text>
+        <text type="para">No provision of the present Convention should be interpreted as implying an obligation of extradition if the requested State party has reason to believe that the request for extradition based on the offences set forth in the Convention has been submitted for the purposes of prosecuting or punishing a certain person on the grounds of ethnic origin, religion, nationality or political views , or if acceding to the request would prejudice the situation of that person on any of those grounds.</text>
+        <text type="para">No provision of the Convention should be interpreted as implying, for Belgium, an obligation to extradite Belgian nationals.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="title">Declarations, notification and reservation:</text>
+        <text type="para">With respect to article 1, paragraph 1, Cuba considers it pointless and irrelevant to include in the definition of "mercenary" the criterion established in paragraph 1 (b), which requires that material compensation be "substantially in excess of that promised or paid to combatants of similar rank and functions in the armed forces of that party". Cuba is of the view that material compensation alone, whatever the amount, is sufficient for an activity to be considered mercenary.</text>
+        <text type="para">Cuba considers that in order for a natural or legal person to be defined as a mercenary under this Convention, it is not necessary for all the criteria set forth in articles 1 and 2 to be met.</text>
+        <text type="para">The Republic of Cuba will therefore continue to apply the definition set forth in article 119 of its Penal Code of 1988, which defines a mercenary as "anyone who, in order to receive a wage or other form of material compensation, joins a military formation made up, in whole or in part, of individuals who are not citizens of the State in whose territory they plan to act" and "who collaborates in or carries out any other act for the direct or indirect purpose of achieving the aforementioned objective".</text>
+        <text type="para">With respect to article 13, paragraph 1, Cuba considers that it should be clarified that the law referred to in this article applies only to judicial cooperation between States parties, not to criminal proceedings brought against persons presumed to have committed the offence of mercenarism.</text>
+        <text type="para">Pursuant to the provisions of article 17, paragraph 2, Cuba declares that it does not consider itself bound by paragraph 1 of this article.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Republic of Moldova</Participant>
+        <text type="title">Declarations and Reservation:</text>
+        <text type="para">Until the full re-establishment of the territorial integrity of the Republic of Moldova, the provisions of the Convention shall be applied only on the territory controlled effectively by the authorities of the Republic of the Moldova.</text>
+        <text type="para">No provision of the Convention should be interpreted as implying, for the Republic of Moldova, an obligation to extradite its own citizens or persons granted with political asylum.</text>
+        <text type="para">According to article 17 paragraph 2 of the Convention, the Republic of Moldova does not consider itself bound by article?7, paragraph 1 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Saudi Arabia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Kingdom of Saudi Arabia does not consider itself bound by article 17, paragraph 1, of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Syrian Arab Republic</Participant>
+        <text type="para">Reservation:</text>
+        <text type="para">The Syrian Arab Republic makes a reservation to article 17, paragraph 1 of the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">With regard to the provisions laid down in article 12, the extradition of Venezuelan nationals is expressly prohibited by the Venezuelan law. In that respect, in the event of a request for extradition of a Venezuelan national, the Bolivarian Republic of Venezuela will submit the case to the competent Venezuelan authorities for the purpose of prosecution, through proceedings in accordance with the laws of the Bolivarian Republic of Venezuela.</text>
+        <text type="title">Reservation:</text>
+        <text type="para">Pursuant to paragraph 2, article 17, of the International Convention against the Recruitment, Use, Financing and Training of Mercenaries, the Bolivarian Republic of Venezuela makes an express reservation to paragraph 1 of the same article. Therefore, it does not consider itself bound to resort to arbitration as a means of dispute settlement, nor does it recognize the compulsory jurisdiction of the International Court of Justice.</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the General Assembly, Forty-fourth Session, Supplement No. 49 &lt;/i&gt; (A/44/49), p. 306.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had signed the Convention on 12 December 1990. See also note 1 under "Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>With the following territorial exclusion:</text>
+        <text>"... consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory."</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>On 20 October 2015, the Government of Ukraine made a communication. The text can be found here: C.N.614.2015.TREATIES-XVIII.6 of 20 October 2015.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XVIII 6. Penal Matters</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>5</Numsect>
+        <Titlesect>Articles of Association for the establishment of an Economic Community of West Africa</Titlesect>
+        <Conclusion>Accra, 4 May 1967</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>4 May 1967, in accordance with article 7(2).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>4 May 1967, No. 8623</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>12</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 595, p. 287.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>Adopted by the West African Sub-regional Conference on Economic Co-operation, held at Accra from 27 April to 4 May?967. )</Text>
+          <Text>The Articles of Association for the Establishment of an Economic Community of West Africa done at Accra on 4 May 1967 were concluded "pending the formal establishment of the Community" (preamble). Thereafter, two additional agreements were concluded: (1) the Treaty establishing the Community of West Africa, concluded at Abidjan on 17 April 1973 between the Ivory Coast, Mali, Mauritania, Niger, Senegal and Upper Volta (came into force on 1 January 1974 and deposited with the Government of Upper Volta); and (2) the Treaty of the Economic Community of West African States (ECOWAS), concluded at Lagos on 28 May 1975 between Benin, the Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo and Upper Volta (came into force on 20 June 1975 and deposited with the Government of Nigeria.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Definitive signature(s)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry>21 Nov 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>4 May 1967 s</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>X 5. International Trade and Development</Footer>
+  </Treaty>
+</Document>

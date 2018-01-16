@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>42</Numsect>
+        <Titlesect>International Natural Rubber Agreement, 1994*</Titlesect>
+        <Conclusion>Geneva, 17 February 1995</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 6 February 1997 and definitively on 14 February 1997, in accordance with article 61. The Agreement was terminated with effect from 13 October 1999 in accordance with Resolution 212 (XXXXI) adopted by the International Rubber Council at its Forty-first session held in Kuala Lumpur on 30 September 1999.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>6 February 1997, No. 33546</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>20</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>14</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1964, p. 3 and depositary notification C.N.466.1995.TREATIES-5 of 8 February 1996 (procès-verbal of rectification of the authentic text).</Text>
+        </TreatyText>
+        <TreatyNote />
+        <Termination>
+          <Label>TERMINATION</Label>
+          <Labeltext>Terminated with effect from 13 October 1999 in accordance with Resolution 212 (XXXXI) adopted by the International Rubber Council at its Forty-first session held in Kuala Lumpur on 30 September 1999.</Labeltext>
+        </Termination>
+      </ExternalData>
+    </Header>
+    <Footer>XIX 42. Commodities</Footer>
+  </Treaty>
+</Document>

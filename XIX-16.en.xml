@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>16</Numsect>
+        <Titlesect>Agreement establishing the International Tea Promotion Association</Titlesect>
+        <Conclusion>Geneva, 31 March 1977</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>23 February 1979, in accordance with article 19(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>23 February 1979, No. 17582</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>6</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>8</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt; Treaty Series &lt;/i&gt;, vol. 1128, p. 367.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was drawn up by the Intergovernmental Conference of the Tea Producing Countries for the establishment of an International Tea Promotion Association, which met in Geneva from 7 to 17 September 1976. (The Conference had been convened by the International Trade Centre UNCTAD/GATT.) In accordance with the provisions of the resolution adopted on 17 September 1976 by the Conference, the Governments of nine countries whose total volume of exports of tea accounted for more than two-thirds of the total volume of exports of tea of all countries qualified to participate in the Agreement had, as at 31 March 1977, notified the Director of the International Trade Centre UNCTAD/GATT their approval of the text of the Agreement. In accordance with the provisions of article 18, the Agreement has been opened for signature at the United Nations Headquarters, New York, from 15 April 1977 until and including 15 October 1977.By a Resolution adopted by the Governing Board of the International Tea Promotion Association on 2l November 1984, it was decided to suspend for an initial period of two years the following articles of the Agreement establishing the International Tea Promotion Association: article 1, paragraph 2, but only with regard to the phrase "and to formulate programmes to achieve this objective"; article 1, paragraph 3; article 11; article 12 and article 13.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Approval(AA), Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>2 Apr 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>[20 Jul 1977 ]</Entry>
+                <Entry>[ 1 Nov 1977 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>7 Jul 1977</Entry>
+                <Entry>31 Aug 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>2 Aug 1977</Entry>
+                <Entry>17 May 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry>17 Aug 1977</Entry>
+                <Entry>22 Feb 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>2 Aug 1977</Entry>
+                <Entry>25 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>29 Mar 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>[22 Sep 1977 ]</Entry>
+                <Entry>[ 1 Nov 1977 ]</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>14 Oct 1977</Entry>
+                <Entry>23 Aug 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>27 Jul 1977</Entry>
+                <Entry>28 Jul 1978</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>Notifications of withdrawal received by the following States on the dates indicated hereinafter:</text>
+        <table>
+          <totalCols>2</totalCols>
+          <row>
+            <col>Participant:</col>
+            <col>Date of the notification:</col>
+          </row>
+          <row>
+            <col>India</col>
+            <col>25 Jul 1984</col>
+          </row>
+          <row>
+            <col>Sri Lanka</col>
+            <col>29 Sep 1982</col>
+          </row>
+        </table>
+        <text />
+      </Note>
+    </EndNotes>
+    <Footer>XIX 16. Commodities</Footer>
+  </Treaty>
+</Document>

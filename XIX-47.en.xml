@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>47</Numsect>
+        <Titlesect>International Cocoa Agreement, 2010</Titlesect>
+        <Conclusion>Geneva, 25 June 2010</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 1 October 2012, in accordance with article 57.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 October 2012, No. 50115</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>20</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>18</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations,&lt;i&gt;Treaty Series&lt;/i&gt;,vol. 2871, p.3; Doc. &lt;a href="/doc/source/docs/TD_COCOA.10_3-E.pdf" target="_blank"&gt;TD/COCOA.10/3&lt;/a&gt;; Depositary notification C.N.810.2010.TREATIES-2 (Proposal of Correction to the original text of the Agreement (Arabic, Chinese, English, French, Russian and Spanish authentic texts) and to the certified true copies and C.N.114.2011.TREATIES-1 reissued on 21 March 2011 (Correction to the original text of the Agreement (Arabic, chinese, English, French, russian and Spanish authentic texts) and to the certified true copies). &lt;a href="/doc/source/docs/TD_COCOA_10_7-E.pdf" target="_blank"&gt; TD/COCOA/10/7&lt;/a&gt; in C.N.567.2012.TREATIES-XIX-47</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Agreement was adopted on 25 June 2010 at Geneva by the United Nations Cocoa Conference for the Negotiation of a Successor Agreement to the International Cocoa Agreement, 2001. In accordance with its article 53, the Agreement was opened for signature at United Nations Headquarters in New York from 1 October 2010 until and including 30 September 2012 by parties to the International Cocoa Agreement, 2001, and Governments invited to the United Nations Cocoa Conference, 2010.</Text>
+          <Text>At its 85th regular session, held from 27 to 30 March 2012, the International Cocoa Council, pursuant to article 53 of the Agreement, decided to extend the period of signature of the Agreement from 1 October 2012 to 30 September 2026.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="4">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Provisional application(n)</Entry>
+              <Entry colname="4">Approval(AA), Acceptance(A), Accession(a), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Brazil&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>7 Jun 2012</Entry>
+                <Entry />
+                <Entry>9 Nov 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>26 Mar 2012</Entry>
+                <Entry>24 Jan 2013 n</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>6 Jul 2011</Entry>
+                <Entry />
+                <Entry>19 Jan 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>20 Sep 2011</Entry>
+                <Entry />
+                <Entry>16 May 2012 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>4 Nov 2011</Entry>
+                <Entry>4 Nov 2011 n</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Dominican Republic&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>9 Mar 2012</Entry>
+                <Entry>9 Mar 2012 n</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry />
+                <Entry>25 Sep 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>10 Jun 2011</Entry>
+                <Entry>10 Jun 2011 n</Entry>
+                <Entry>15 May 2012 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>18 Jan 2012</Entry>
+                <Entry>18 Jan 2012 n</Entry>
+                <Entry>11 Jun 2013 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>19 Aug 2011</Entry>
+                <Entry />
+                <Entry>18 Dec 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry />
+                <Entry>19 Jun 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>12 Sep 2011</Entry>
+                <Entry />
+                <Entry>13 Nov 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>13 Nov 2012</Entry>
+                <Entry />
+                <Entry>17 Jan 2014 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>29 Dec 2015</Entry>
+                <Entry>29 Dec 2015 n</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>5 Aug 2013</Entry>
+                <Entry />
+                <Entry>30 Aug 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry />
+                <Entry>15 Jul 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>21 Apr 2016</Entry>
+                <Entry />
+                <Entry>20 Sep 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>4 Mar 2014</Entry>
+                <Entry />
+                <Entry>12 May 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>1 Oct 2014</Entry>
+                <Entry />
+                <Entry>29 Jan 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>1 Oct 2012</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Switzerland&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>22 Dec 2010</Entry>
+                <Entry />
+                <Entry>12 May 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>19 Sep 2011</Entry>
+                <Entry />
+                <Entry>22 Jun 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>24 Sep 2012</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry />
+                <Entry>27 Jun 2016 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>As an exporting State</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>As an importing State</text>
+      </Note>
+    </EndNotes>
+    <Footer>XIX 47. Commodities</Footer>
+  </Treaty>
+</Document>

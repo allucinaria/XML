@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IX</Header>
+        <Name>HEALTH</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>e</Subnumsect>
+        <Subtitlesect>Amendments to articles 24 and 25 of the Constitution of the World Health Organization</Subtitlesect>
+        <Conclusion>Geneva, 17 May 1976</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>20 January 1984, in accordance with article 73 of the Constitution, for all Members of the World Health Organization*.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>20 January 1984, No. 221</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <CustomText>Parties*</CustomText>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.1347, 289.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The amendments to articles 24 and 25 of the Constitution of the World Health Organization were adopted by the Twenty-ninth World Health Assembly by resolution WHA 29.38 of 17 May 1976.</Text>
+          <Text>In accordance with article 73 of the Constitution, amendments come into force for all Members when adopted by a two-thirds vote of the Health Assembly and accepted by two-thirds of the Members in accordance with their respective constitutional processes. Following is the list of States which had accepted the amendments prior to the entry into force of the amendments.</Text>
+          <Text>*See chapter IX.1 for the complete list of Participants, Members of the World Health Organization, for which the above amendments are in force, pursuant to article 73 of the Constitution.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>20 Sep 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>23 Nov 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>30 Mar 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry>29 May 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry>25 Apr 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>3 Aug 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry>3 Aug 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>29 Dec 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>4 May 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry>8 Sep 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>16 Jun 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry>24 Feb 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>27 Aug 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>18 Jan 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry>21 Jul 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry>13 Jan 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>17 Aug 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>25 Sep 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>20 Jan 1984 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>5 Aug 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;2,3&lt;/superscript&gt;</Entry>
+                <Entry>20 May 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry>13 Dec 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>16 Dec 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry>2 Mar 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>2 May 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>1 Jul 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry>5 Dec 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>22 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>21 Dec 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>6 Jan 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry>20 May 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>14 Jun 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>22 Jul 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>11 May 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>27 Feb 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>16 Jan 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry>5 Feb 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry>30 Sep 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>4 May 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>22 Jul 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>23 Jan 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>24 May 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>22 Feb 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>25 Sep 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>16 Feb 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>17 May 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry>11 Apr 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>10 Jun 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>1 Mar 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>23 Jan 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>21 Jun 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>25 May 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry>16 Jun 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>22 Jun 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>8 Mar 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry>9 Apr 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>20 Sep 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>20 Jul 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry>28 Apr 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>3 Sep 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>23 Feb 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>13 Jan 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>10 Nov 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry>27 Feb 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry>15 Jun 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>23 Apr 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>18 Oct 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry>26 Mar 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>16 Feb 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>28 Dec 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>29 Dec 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry>8 Aug 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry>1 Jul 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>10 Oct 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>7 Oct 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>26 Jun 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry>7 Dec 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>18 Jul 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>1 Apr 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry>9 May 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry>28 Oct 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry>12 Apr 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry>13 Jan 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>12 Jan 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry>22 Feb 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>9 Jun 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>4 Nov 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>6 Oct 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>13 Jul 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry>4 Oct 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>4 Feb 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>21 Jul 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>7 Jun 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>18 Oct 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry>28 Nov 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>30 Sep 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>29 Dec 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>10 Jan 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry>7 Oct 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>24 Feb 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>11 Nov 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>10 Apr 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>17 Aug 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry>30 Dec 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry>8 Mar 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry>10 Aug 1984 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry>13 Oct 1982 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The former Yugoslavia had accepted the amendments on 2 September 1983. See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>See note 3 under China regarding Macao in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 2 under China regarding Hong Kong in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>The instrument of acceptance contains the following declaration:</text>
+        <text>The acceptance shall in no way imply recognition of Israel or be a cause for the establishment of any relations of any kind therewith.</text>
+        <text>In this respect the Secretary-General received on 11 May 1979 from the Government of Israel the following communication:</text>
+        <text>"The Instrument deposited by the Government of Iraq contains a statement of a political character in respect to Israel. In the view of the Government of Israel, this is not the proper place for making such political pronouncements, which are, moreover, in flagrant contradiction to the principles, objects and purposes of the Organization. That pronouncement by the Government of Iraq cannot in any way affect whatever obligations are binding upon it under general international law or under particular treaties.</text>
+        <text>"The Government of Israel will, insofar as concerns the substance of the matter, adopt towards the Government of Iraq an attitude of complete reciprocity."</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>On behalf of the Kingdom in Europe and the Netherlands Antilles. See also note 1 under Netherlands regarding Aruba/Netherlands Antillies in the Historical Information section in the front matter of this volume</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>See note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>Democratic Yemen had accepted the amendments on 3 May 1982. See also note 1 under Yemen in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>IX 1 e. Health</Footer>
+  </Treaty>
+</Document>

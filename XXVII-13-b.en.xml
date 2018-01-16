@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>13</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Amendment to the Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters</Subtitlesect>
+        <Conclusion>Almaty, 27 May 2005</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>in accordance with article 14(4) which stipulates: "Amendments to [the] Convention other than those to an annex shall enter into force for Parties having ratified, approved or accepted them on the ninetieth day after receipt by the Depositary of notification of their ratification, approval or acceptance by at least three fourths of these Parties. Thereafter they shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, approval or acceptance of the amendments.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>31</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>&lt;a href="/doc/source/docs/Annex-to-the report-E.pdf" target="_blank"&gt;Annex to the Report of the Second Meeting of the Parties (Decision II/1)&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>At the second meeting of the Parties to the above Convention, held in Almaty, Kazakhstan, from 25-27 May 2005, the Parties adopted, in accordance with the procedure laid down in article 14 (4) of the Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters, the Amendment to the said Convention as set out in the Annex to the Report of the Second Meeting of the Parties (Decision II/1).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Approval(AA), Acceptance(A), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>21 May 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>17 Jun 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>30 Apr 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>7 Oct 2009 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>29 Jan 2008 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>18 Oct 2006 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>1 Feb 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>1 Feb 2008 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>10 Jun 2008 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>11 Jul 2016 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry>4 Feb 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>20 Oct 2009 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>16 May 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>20 Jun 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>17 Dec 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>3 Jun 2008 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>30 Aug 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>4 Jan 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>24 Mar 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>23 Feb 2009 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>2 May 2008 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>23 Mar 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>8 Sep 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry>7 Dec 2007 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>29 Aug 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>1 Apr 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>23 Apr 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>21 Feb 2008 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>15 Feb 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>3 Mar 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>1 May 2009</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>With a territorial exclusion with regard to the Faroe Islands and Greenland.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>With a territorial exclusion with regard to New Caledonia, French Polynesia and Wallis and Futuna.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXVII 13 b. Environment</Footer>
+  </Treaty>
+</Document>

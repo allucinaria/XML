@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>26</Numsect>
+        <Titlesect>International Tropical Timber Agreement, 1983*</Titlesect>
+        <Conclusion>Geneva, 18 November 1983</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 1 April 1985, in accordance with article 37(2). The Agreement was extended until 31 March 1992 [by Decsion 3 (VI) confirmed by the International Tropical Timber Council at its session held in Abidjan, Côte d'Ivoire on 24 May 1989] , and further until 31 March 1994 [by Decision 4 (X) taken at its session held in Quito, Ecuador from 29 May to 6 June 1991], respectively, and was terminated in accordance with its provisions on 31 March 1994.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 April 1985, No. 23317</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>35</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>47</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1393, p. 671 and depositary notification C.N.204.1984.TREATIES-10 of 19 September 1984 (procès-verbal of rectification of the original Arabic, Russian and Spanish texts); and vol. 1457, p. 389 (procès-verbal of rectification of the Chinese authentic text).</Text>
+        </TreatyText>
+        <TreatyNote />
+        <Termination>
+          <Label>TERMINATION</Label>
+          <Labeltext>Terminated in accordance with its provisions on 31 March 1994.</Labeltext>
+        </Termination>
+      </ExternalData>
+    </Header>
+    <Footer>XIX 26. Commodities</Footer>
+  </Treaty>
+</Document>

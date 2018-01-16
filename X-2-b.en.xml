@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Agreement establishing the African Development Bank done at Khartoum on 4 August 1963, as amended by resolution 05-79 adopted by the Board of Governors on 17 May 1979</Subtitlesect>
+        <Conclusion>Lusaka, 7 May 1982</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>7 May 1982, in accordance with paragraph 4 of resolution 05-79.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>7 May 1982, No. 21052</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>24</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>77</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1276, p. 3; depositary notifications C.N.1099.2002.TREATIES-1 of 17 October 2002 (Entry into force of Amendment adopted by Resolution No. B/BG/92/06); C.N.1104.2002.TREATIES-1 of 18 October 2002 (Entry into force of Amendments adopted by Resolution No. B/BG/97/05); C.N.1105.2002.TREATIES-1 of 21 October 2002 (Entry into force of Amendments adopted by Resolution No. B/BG/98/04); C.N.1106.2002.TREATIES-1 of 21 October 2002 (Entry into force of Amendments adopted by Resolution No. B/BG/2001/08).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The original of the Agreement was established by the Secretary-General of the United Nations on 2 June 1982.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="4">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Participation in the Agreement as amended under paragraph 4 of resolution 05-79 and paragraph 1 of article 60 of the unamended Agreement</Entry>
+              <Entry colname="3">Signature by non-regional members under Section 3 (c) (i) of resolution 07-79</Entry>
+              <Entry colname="4">Ratification, Accession(a), Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Argentina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jun 1985</Entry>
+                <Entry>6 Jun 1985 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Jul 1982</Entry>
+                <Entry>10 Mar 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>15 Feb 1983</Entry>
+                <Entry>15 Feb 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Brazil&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>8 Dec 1982</Entry>
+                <Entry>14 Jul 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Canada&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Dec 1982</Entry>
+                <Entry>23 Dec 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>9 May 1985</Entry>
+                <Entry>9 May 1985 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>7 Sep 1982</Entry>
+                <Entry>7 Sep 1982</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Equatorial Guinea</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Finland&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>7 Sep 1982</Entry>
+                <Entry>7 Sep 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Jul 1982</Entry>
+                <Entry>1 Jul 1982</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;2,3,4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>16 Feb 1983</Entry>
+                <Entry>16 Feb 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>India&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>25 Oct 1983</Entry>
+                <Entry>6 Dec 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Nov 1982</Entry>
+                <Entry>26 Nov 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>3 Feb 1983</Entry>
+                <Entry>3 Feb 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Kuwait&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>9 Nov 1982</Entry>
+                <Entry>9 Nov 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry />
+                <Entry />
+                <Entry>29 May 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Namibia</Entry>
+                <Entry />
+                <Entry />
+                <Entry>10 Apr 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;2,5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 Jan 1983</Entry>
+                <Entry>28 Jan 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Norway&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>7 Sep 1982</Entry>
+                <Entry>7 Sep 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>8 Dec 1983</Entry>
+                <Entry>15 Dec 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>27 Sep 1982</Entry>
+                <Entry>27 Sep 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>15 Dec 1983</Entry>
+                <Entry>15 Dec 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Somalia</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>South Africa&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry />
+                <Entry>13 Dec 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>South Sudan</Entry>
+                <Entry />
+                <Entry />
+                <Entry>30 Apr 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>13 Feb 1984</Entry>
+                <Entry>13 Feb 1984 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Sweden&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>7 Sep 1982</Entry>
+                <Entry>7 Sep 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>14 Sep 1982</Entry>
+                <Entry>14 Sep 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry />
+                <Entry>9 Sep 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Dec 1982</Entry>
+                <Entry>27 Apr 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>United States of America&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>31 Jan 1983</Entry>
+                <Entry>31 Jan 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry>7 May 1982</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or acceptance.)</Title>
+      <Declaration>
+        <Participant>Canada</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"In so accepting the said Agreement, the Government of Canada, pursuant to paragraph 3 of article 64, hereby retains for itself the right to tax the salaries and emoluments paid by the Bank to Canadian citizens, nationals and residents."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"According to the main rule of article 17, paragraph 1 (d), in the Agreement establishing the African Development Bank, the proceeds of any financing undertaken by the Bank shall be used only for procurement in Member Countries of goods and services produced in Member Countries.</text>
+        <text type="para">"The declared shipping policy of the Danish Government is based on the principle of free circulation of shipping in international trade in free and fair competition. In accordance with this policy, transactions and transfers in connection with maritime transport should not be hampered by provisions giving preferential treatment to one country or group of countries, the aim always being that normal commercial considerations should determine the method and flag of shipment. The Government of Denmark trusts that article 17, paragraph 1 (d), will not be applied contrary to this principle."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;4,7&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations made upon acceptance</text>
+        <text type="para">1. The Federal Republic of Germany retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Bank to German citizens, nationals or residents.</text>
+        <text type="para">2. In the territory of the Federal Republic of Germany the immunities conferred by articles 53 and 56 of the Agreement shall not apply in relation to a civil action arising out of an accident caused by a motor vehicle belonging to the Bank or operated on its behalf, or to a traffic offence committed by the driver of such a vehicle.</text>
+        <text type="para">3. According to the exchange of notes between the African Development Bank and the Federal Republic of Germany executed at Abidjan on 24 January 1983,</text>
+        <text type="para">(a) The Bank shall not claim exemption from direct taxation, customs duties or taxes having equivalent effect on goods imported or exported for other than its official use;</text>
+        <text type="para">(b) The Bank shall not claim exemption from taxes and duties which are no more than charges for services rendered, and</text>
+        <text type="para">(c) The Bank shall sell articles imported under an exemption pursuant to article 57 paragraph 1 of the Agreement in the territory of a member granting the exemption only on the terms agreed with that member.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>India</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"[The] Government of India retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the African Development Bank to the citizens, nationals or residents of India."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of Italy declares, in accordance with article 64 (3) of the Agreement Establishing the African Development Bank (Khartoum, 4 August 1963), amended by Resolution 05-09, that it retains for itself and its constitutional subdivisions the right to tax salaries and emoluments paid to citizens and residents.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Japan</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Government of Japan, in accordance with the provisions of paragraph (3) of article 64 of the Agreement, retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Bank to its nationals or residents."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kuwait&lt;superscript&gt;8&lt;/superscript&gt;</Participant>
+        <text type="title">Understanding:</text>
+        <text type="para">"It is understood that ratification of the Agreement . . . does not mean in any way recognition of Israel by the State of Kuwait. Furthermore, no treaty relations will arise between the State of Kuwait and Israel."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Kingdom of the Netherlands reserves the right to take into account, for the purpose of assessing the amount of income tax due on income from other sources, the salaries and emoluments paid to the professional staff of the African Development Bank and exempt from taxation under article 57 of the Agreement. The exemption shall not be deemed applicable to the pensions paid by the Bank."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Norway&lt;superscript&gt;9&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">According to article 17, paragraph 1 (d) of the Agreement establishing the African Development Bank, the proceeds of any loan, investment or other financing undertaken in the ordinary operations of the Bank shall be used only for procurement in member countries of goods and services produced in member countries, except for special cases.</text>
+        <text type="para">The declared shipping policy of the Norwegian Government is based on the principle of free circulation of shipping in international trade in free and fair competition. In accordance with this policy, transactions and transfers in connection with maritime transport should not be hampered by provisions giving preferential treatment to one country or a group of countries, the aim always being that normal commercial consideration should determine the method and flag of shipment. The Government of Norway trusts that article 17, paragraph 1 (d) will not be applied contrary to this principle.</text>
+        <text type="para">....</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden</Participant>
+        <text type="title">Declaration made upon signature and confirmed upon ratification:</text>
+        <text type="para">With reference to article 64.3 of the Agreement Establishing the African Development Bank, Sweden hereby declares that it retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Bank to citizens, nationals or residents of Sweden.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">According to the main rule of article 17, paragraph 1 (d) in the Agreement establishing the African Development Bank, the proceeds of any loan, investment or other financing undertaken by the Bank shall be used only for procurement in member countries of goods and services produced in member countries.</text>
+        <text type="para">The shipping policy of the Swedish Government is based on the principle of free circulation of shipping in international trade in free and fair competition. The Swedish Government trusts that article 17, paragraph 1 (d) will not be applied contrary to this principle. Similarly, it is part of the assistance policy of the Swedish Government that multilateral development assistance should be based on the principle of free international competitive bidding. The Swedish Government expresses the hope that it will be possible to reach agreement on such modification of article 17, 1 (d) that it does not conflict with this principle.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with article 64 (3) of the Agreement, Switzerland retains for itself the right to tax salaries and emoluments paid by the Bank to its nationals, residents of Switzerland.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <text type="title">Declarations and reservations:</text>
+        <text type="para">"1. As Bank telegrams and telephone calls are not defined as Government telegrams and telephone calls in Annex 2 to the International Telecommunications Conventions signed at Montreux on 12 November 1965 and at Málaga-Torremolinos on 25 October 1973 and are therefore not entitled by the Convention to the privileges thereby conferred on Government telegrams and telephone calls, the Government of the United Kingdom, having regard to their obligations under the International Telecommunications Conventions, declare that the privileges conferred by Article 55 of the Agreement shall be correspondingly restricted in the United Kingdom but, subject thereto, shall be not less favourable than the United Kingdom affords to international financial institutions of which it is a member.</text>
+        <text type="para">"2. In accordance with the provisions of article 64 (3) of the Agreement, the United Kingdom declares that it retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Bank to its citizens, nationals and permanent residents. The United Kingdom will not accord to consultants the privileges and immunities mentioned in article 56 unless they are experts performing missions for the Bank.</text>
+        <text type="para">"3. In accordance with its current practice in regard to international organisations, the United Kingdom will, pursuant to the terms of article 57 (1) of the Agreement, accord to the Bank the following taxation privileges:</text>
+        <text type="para">"a) Within the scope of its official activities, the Bank and its property and income will be exempt from all direct taxes, including income tax, capital gains tax and corporation tax. The Bank will also be exempt from municipal rates levied on its premises with the exception of the proportion which, as in the case of diplomatic missions, represents payments for specific services rendered.</text>
+        <text type="para">"b) The Bank will be accorded a refund of car tax and value added tax paid on the purchase of new motor cars of Unitedngdom manufacture, and value added tax paid on the supply of goods or services of substantial value, necessary for the official activities of the Bank.</text>
+        <text type="para">"c) Goods the import and export of which by the Bank is necessary for the exercise of its official activities shall be exempt from all duties of customs and excise and other such charges except payments for services. The Bank will be accorded a refund of the duty and value added tax paid on the importation of hydrocarbon oils purchased by the Bank and necessary for the exercise of its official activities.</text>
+        <text type="para">"d) Exemption in respect of taxes or duties under the preceding sub-paragraphs will be accorded subject to compliance with conditions agreed with Her Majesty's Government. Goods which have been acquired or imported under the above provisions may not be sold, given away or otherwise disposed of in the United Kingdom except in accordance with conditions agreed with Her Majesty's Government.</text>
+        <text type="para">"4. In the territory of the United Kingdom the immunity conferred by article 52 (1) and article 56 (i) shall not apply in relation to a civil action by a third party for damage arising out of an accident caused by a motor vehicle belonging to or operated on behalf of the Bank or a person covered by article 56, as the case may be, or in relation to a traffic offence committed by the driver of such a vehicle.</text>
+        <text type="para">"5. Her Majesty's Government are not at the moment able to implement Article 57 (3) (ii) of the Agreement as this requires an amendment to existing legislation. Her Majesty's Government hope however that they will be in a position to implement it in the near future."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United States of America</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The United States of America retains for itself and for all political subdivisions of the United States of America the right to tax salaries and emoluments paid by the African Development Bank to United States citizens or nationals."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The former Yugoslavia had signed and ratified the Agreement on 15 September 1982 (subsequently having been admitted to the Bank on 30 December 1982 in accordance with the relevant declaration by the President of the Bank provided for in section 3?c) of resolution 07-79 adopted by the Board of Governors of the Bank on 17 May 1979). See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Date of admission as member of the Bank in accordance with the relevant declaration by the President of the Bank provided for in section 3 (c) of resolution 07-79 adopted by the Board of Governors of the Bank on 17 May 1979:</text>
+        <table>
+          <totalCols>2</totalCols>
+          <row>
+            <col>Participant :</col>
+            <col>Date of Admission :</col>
+          </row>
+          <row>
+            <col>Canada</col>
+            <col>30 Dec 1982</col>
+          </row>
+          <row>
+            <col>Denmark</col>
+            <col>30 Dec 1982</col>
+          </row>
+          <row>
+            <col>Finland</col>
+            <col>30 Dec 1982</col>
+          </row>
+          <row>
+            <col>France</col>
+            <col>30 Dec 1982</col>
+          </row>
+          <row>
+            <col>Kuwait</col>
+            <col>30 Dec 1982</col>
+          </row>
+          <row>
+            <col>Norway</col>
+            <col>30 Dec 1982</col>
+          </row>
+          <row>
+            <col>Republic of Korea</col>
+            <col>30 Dec 1982</col>
+          </row>
+          <row>
+            <col>Sweden</col>
+            <col>30 Dec 1982</col>
+          </row>
+          <row>
+            <col>Switzerland</col>
+            <col>30 Dec 1982</col>
+          </row>
+          <row>
+            <col>Italy</col>
+            <col>31 Dec 1982</col>
+          </row>
+          <row>
+            <col>Netherlands</col>
+            <col>28 Jan 1983</col>
+          </row>
+          <row>
+            <col>Japan</col>
+            <col>3 Feb 1983</col>
+          </row>
+          <row>
+            <col>United States of Ameria</col>
+            <col>8 Feb 1983</col>
+          </row>
+          <row>
+            <col>Germany</col>
+            <col>18 Feb 1983</col>
+          </row>
+          <row>
+            <col>Belgium</col>
+            <col>15 Mar 1983</col>
+          </row>
+          <row>
+            <col>Austria</col>
+            <col>30 Mar 1983</col>
+          </row>
+          <row>
+            <col>United Kingdom</col>
+            <col>29 Apr 1983</col>
+          </row>
+          <row>
+            <col>Brazil</col>
+            <col>14 Jul 1983</col>
+          </row>
+          <row>
+            <col>India</col>
+            <col>6 Dec 1983</col>
+          </row>
+          <row>
+            <col>Saudi Arabia</col>
+            <col>15 Dec 1983</col>
+          </row>
+          <row>
+            <col>Portugal</col>
+            <col>15 Dec 1983</col>
+          </row>
+          <row>
+            <col>Spain</col>
+            <col>20 Mar 1984</col>
+          </row>
+          <row>
+            <col>China</col>
+            <col>10 May 1985</col>
+          </row>
+          <row>
+            <col>Argentina</col>
+            <col>2 Jul 1985</col>
+          </row>
+          <row>
+            <col>Turkey</col>
+            <col>9 Sep 2013 </col>
+          </row>
+        </table>
+        <text />
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>By resolution B/B6/95/11 of 6 December 1995, the Board of Governors of the Bank, in application of article 64 (2) of the Agreement, had established the conditions for accession by South Africa while appointing 13 December 1995 as the date on which South Africa upon deposit of its instrument of accession and making its initial payment would become a member of the Bank. See also chapter X.2.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>The Bank notified the Depositary that those reservations above that are not contemplated in the Agreement, had been accepted by the Bank.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>With this regard, the Secretary-General received from the Government of Israel, on 27 June 1984 the following communication:</text>
+        <text>"The Government of the State of Israel has noted that the instrument by Kuwait contains a declaration of political character in respect of Israel. In the view of the Government of the State of Israel this Convention is not the place for making such political pronouncements. Moreover, the said declaration cannot in any way affect whatever obligations are binding upon the Government of the State of Kuwait under general international law or under specific Convention.</text>
+        <text>"The Government of the State of Israel will, in regard to the substance of the matter, adopt towards the Government of the State of Kuwait an attitude of complete reciprocity."</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>On 13 September 2006, the Government of Norway informed the Secretary-General of the following :</text>
+        <text>"Upon ratification of the Agreement establishing the African Development Bank, Norway made the following declaration, in accordance with article 64, No. 3 in the Agreement:</text>
+        <text>The Government of Norway retains, in accordance with article 64.3 of the said Agreement, the right to tax salaries and emoluments paid by the bank to Norwegian citizens, nationals or residents.'</text>
+        <text>[The Government of Norway has] the honour to inform you that the Government of Norway hereby withdraws its reservation to the exemption for Taxation set out in article 57."</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 2 b. International Trade and Development</Footer>
+  </Treaty>
+</Document>

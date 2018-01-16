@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Titlesect>International Agreement on Olive Oil, 1956, as amended by the Protocol of 3 April 1958*</Titlesect>
+        <Conclusion>Geneva, 3 April 1958</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>26 June 1959, in accordance with article 36(5). The Agreement terminated on 30 September 1963, in accordance with the provisions of its article 37 [see the International Agreement on Olive Oil and Table Olives concluded at Geneva on 1 July 1986 (chapter XIX.30)].</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>26 June 1959, No. 4806</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt; Treaty Series &lt;/i&gt;, vol. 336, p. 177.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XIX 3. Commodities</Footer>
+  </Treaty>
+</Document>

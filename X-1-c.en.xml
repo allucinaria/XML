@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>c</Subnumsect>
+        <Subtitlesect>Agreement on most-favoured-nation treatment for areas of Western Germany under military occupation*</Subtitlesect>
+        <Conclusion>Geneva, 14 September 1948</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>14 October 1948, in accordance with article V.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>14 October 1948, No. 296</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.18, p.267.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement and Memorandum of Understanding (1 (c) and 1 (d)) were concluded within the framework of the General Agreement on Tariffs and Trade. The Contracting Parties to the General Agreement on Tariffs and Trade which were signatories of the Agreement of 14 September 1948 met informally at Geneva on 16 October 1951. At that meeting, it was recommended that all signatories to the latter Agreement who wished to do so should, if possible, notify their withdrawal from it by depositing a notice of intention of withdrawal with the Secretary-General of the UnitedNations on the same date, such notices to cover also the Memorandum of understanding. The date of 14 December 1951 was generally considered as appropriate for such an action, the withdrawal to take effect on 15 June 1952. For the States which were parties to the Agreement and the Memorandum of understanding, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.8, p.267; vol.19, p.328; vol.20, p.308; vol.24, p.320; vol.35, p.370; vol.42, p.356; vol.43, p.339; vol.44, p.339; vol.46, p.350; vol.53, p.419, and vol.70, p.272. For the dates of receipt of the notices of withdrawal, see &lt;i&gt; ibid &lt;/i&gt;., vol.117, p.385; vol.121, p.327, and vol.128, p.293.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>X 1 c. International Trade and Development</Footer>
+  </Treaty>
+</Document>

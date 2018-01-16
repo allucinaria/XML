@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIV</Header>
+        <Name>EDUCATIONAL AND CULTURAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific and Cultural Character</Titlesect>
+        <Conclusion>Lake Success, New York, 15 July 1949</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>12 August 1954, in accordance with article XII.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>12 August 1954, No. 2631</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>16</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>39</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 197, p. 3.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was approved by the General Conference of the United Nations Educational, Scientific and Cultural Organization at its third session, held at Beirut from 17 November to 11 December 1948, in a resolution&lt;superscript&gt;1&lt;/superscript&gt; adopted at the seventeenth plenary meeting on 10 December 1948.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Acceptance(A), Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>29 Dec 1949</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>18 May 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>15 Sep 1949</Entry>
+                <Entry>15 Aug 1962 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>20 Feb 1952 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>17 Dec 1949</Entry>
+                <Entry>4 Oct 1950 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>26 Aug 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>9 Jun 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Jul 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>7 Feb 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>10 Aug 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry />
+                <Entry>22 Aug 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>29 Dec 1949</Entry>
+                <Entry>10 Aug 1955 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>5 Aug 1949</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>29 Dec 1949</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>29 Dec 1949</Entry>
+                <Entry>24 Jun 1953 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry />
+                <Entry>22 Mar 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>31 Dec 1949</Entry>
+                <Entry>9 Jul 1954 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>2 Dec 1949</Entry>
+                <Entry>14 May 1954 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>31 Dec 1949</Entry>
+                <Entry>30 Dec 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry />
+                <Entry>29 Aug 1952 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>7 Jul 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>30 Dec 1949</Entry>
+                <Entry>12 May 1971 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>22 Jan 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>23 May 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>5 Jul 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>29 Jul 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>25 Jul 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>30 Dec 1949</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>22 Apr 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>20 Dec 1949</Entry>
+                <Entry>12 Jan 1950 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>16 Feb 1950 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>31 Dec 1949</Entry>
+                <Entry>13 Nov 1952 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry />
+                <Entry>9 Jun 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>3 Nov 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>16 Sep 1951 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>2 Sep 1997 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>31 Aug 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>13 Sep 1949</Entry>
+                <Entry>14 Oct 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>31 Dec 1949</Entry>
+                <Entry>20 Apr 1999 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon acceptance, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of the Republic of Cuba does not consider itself bound by the provisions of article IX, inasmuch as it believes that any disputes which may arise between States concerning the interpretation or application of the Agreement must be settled by direct negotiation through the diplomatic channel.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of the Republic of Cuba hereby declares that the provisions of paragraphs 1 to 4 of article XIV of the Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific and Cultural Character are contrary to the Declaration on the granting of independence to colonial countries and peoples (resolution 1514 (XV)), adopted by the General Assembly of the UnitedNations on 14 December 1960, which proclaims the necessity of bringing to a speedy and unconditional end colonialism in all its forms and manifestations.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Libya</Participant>
+        <text type="para">The accession of the Libyan Arab Republic to this Agreement does not imply recognition of Israel or the assumption towards Israel of any commitments arising out of this Agreement.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">"As regards article III, paragraph 1, the words and quantitative restrictions and from the necessity of applying for an import licence' will be deleted, and excluded from the application of the Agreement."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Records of the General Conference of UNESCO, Third Session, Beirut 1948, vol.II, Resolutions &lt;/i&gt; (3/3C/110, vol. II), p. 113.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had acceeded to the Agreement on 30 June 1950. See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XIV 1. Educational and Cultural Matters</Footer>
+  </Treaty>
+</Document>

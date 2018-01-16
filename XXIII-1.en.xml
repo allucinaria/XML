@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg3</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXIII</Header>
+        <Name>LAW OF TREATIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Vienna Convention on the Law of Treaties</Titlesect>
+        <Conclusion>Vienna, 23 May 1969</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>27 January 1980, in accordance with article 84(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>27 January 1980, No. 18232</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>45</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>115</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1155, p. 331.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted on 22 May 1969 and opened for signature on 23 May 1969 by the United Nations Conference on the Law of Treaties. The Conference was convened pursuant to General Assembly resolutions &lt;a href="/doc/source/docs/A_RES_21_2166-E.pdf" target="_blank"&gt;2166&lt;/a&gt; (XXI)&lt;superscript&gt;1&lt;/superscript&gt; of 5 December 1966 and &lt;a href="/doc/source/docs/A_RES_22_2287-E.pdf" target="_blank"&gt;2287 (XXII)&lt;/a&gt;&lt;superscript&gt;2&lt;/superscript&gt;of 6 December 1967. The Conference held two sessions, both at the Neue Hofburg in Vienna, the first session from 26 March to 24 May 1968 and the second session from 9 April to 22 May 1969. In addition to the Convention, the Conference adopted the Final Act and certain declarations and resolutions, which are annexed to that Act. By unanimous decision of the Conference, the original of the Final Act was deposited in the archives of the Federal Ministry for Foreign Affairs of Austria. The text of the Final Act is included in document &lt;a href="/doc/source/docs/A_CONF.39_11_Add.2-E.pdf" target="_blank"&gt;A/CONF.39/11/Add.2&lt;/a&gt;.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+  </Treaty>
+</Document>

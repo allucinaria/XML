@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>19</Numsect>
+        <Titlesect>Multilateral Agreement for the Establishment of an International Think Tank for Landlocked Developing Countries</Titlesect>
+        <Conclusion>New York, 24 September 2010</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>6 October 2017, in accordance with article 12(1) which reads as follows: "The present Agreement shall enter into force on the sixtieth day after the date of deposit of the tenth instrument of ratification, acceptance, approval or accession.".</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>6 October 2017, No. 54748</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>7</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>11</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Depositary notification C.N.639.2010.TREATIES-2 of 7 October 2010</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>Following the resolution &lt;a href="/doc/source/docs/A_RES_58_201-E.pdf" target="_blank"&gt;58/201&lt;/a&gt; of the General Assembly of 23 December 2003 adopting the outcome of the International Ministerial Conference and the Almaty Programme of Action, and the resolution &lt;a href="/doc/source/docs/A_RES_64_214-E.pdf" target="_blank"&gt;A/RES/64/214&lt;/a&gt; of the General Assembly of 22 December 2009 welcoming the establishment of the think tank for the landlocked developing countries in Ulaanbaata, the 9th Annual Ministerial Meeting of Landlocked Developping Countries, held at the United Nations Headquarters in New York on 24 September 2010, endorsed the final text of the Multilateral Agreement for the Establishment of an International Think Tank for Landlocked Developing Countries which was deposited with the Secretary-General of the United Nations on 24 September 2010. In accordance with its article X, the Agreement was opened for signature at the United Nations Headquarters in New York on 1 November 2010 and will remain open for signature at United Nations Headquarters in New York until 31 October 2011.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Approval(AA), Acceptance(A), Ratification, Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>19 Oct 2011</Entry>
+                <Entry>20 Feb 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry>28 Oct 2011</Entry>
+                <Entry>19 Nov 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>10 Nov 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>22 Sep 2011</Entry>
+                <Entry>9 Jan 2018</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>3 Feb 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>1 Jun 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>27 Sep 2011</Entry>
+                <Entry>26 Sep 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>25 Apr 2011</Entry>
+                <Entry>8 Nov 2011 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>7 Aug 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>26 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>22 Sep 2011</Entry>
+                <Entry>29 Dec 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>5 Jul 2017 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Declaration>
+        <Participant>Kyrgyzstan</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"The Kyrgyz Republic shall be exempted from the contributions to the Think Tank's budget stipulated in Article VIII of the Agreement, as well as any other contributions that might be established in the future for the States Parties of the Agreement"</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>X 19. International Trade and Development</Footer>
+  </Treaty>
+</Document>

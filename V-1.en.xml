@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER V</Header>
+        <Name>REFUGEES AND STATELESS PERSONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Constitution of the International Refugee Organization*</Titlesect>
+        <Conclusion>New York, 15 December 1946</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>20 August 1948, in accordance with article 18.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>20 August 1948, No. 283</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>17</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>18</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 18, p. 3.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Constitution was approved by the General Assembly of the United Nations in resolution &lt;a href="/doc/source/docs/A_RES_I_62-E.pdf" target="_blank"&gt;62 (I)&lt;/a&gt; of 15 December 1946. Resolution No. 108, adopted by the General Council of the International Refugee Organization at its 101st meeting on 15 February 1952, provided for the liquidation of the Organization.</Text>
+        </TreatyNote>
+        <Expiration>
+          <Label>EXPIRATION</Label>
+          <Labeltext>Treaties which have been terminated are denoted by an asterisk. For those treaties, the participant tables have been removed.</Labeltext>
+        </Expiration>
+      </ExternalData>
+    </Header>
+    <Footer>V 1. Refugees and Stateless Persons</Footer>
+  </Treaty>
+</Document>

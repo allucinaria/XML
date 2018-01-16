@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>j</Subnumsect>
+        <Subtitlesect>Amendments to Annexes I and II to the 1998 Protocol on Persistent Organic Pollutants</Subtitlesect>
+        <Conclusion>Geneva, 18 December 2009</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>in accordance with article 14(3) which reads as follows: "Amendments to the present Protocol and to annexes I to IV, VI and VIII shall be adopted by consensus of the Parties present at a session of the Executive Body, and shall enter into force for the Parties which have accepted them on the ninetieth day after the date on which two thirds of the Parties have deposited with the Depositary their instruments of acceptance thereof. Amendments shall enter into force for any other Party on the ninetieth day after the date on which that Party has deposited its instrument of acceptance thereof.</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>13</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>C.N.556.2010.TREATIES-4 of 14 September 2010 (Amendments to Annexes I and II to the Protocol)</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>11 Sep 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>22 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>15 Nov 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>24 Jun 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>20 Dec 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>22 Sep 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>22 Jun 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>17 Aug 2011 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>15 Mar 2012 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>26 Mar 2012 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>25 May 2012 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>25 May 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>11 Jul 2017 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the European part of the Netherlands</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXVII 1 j. Environment</Footer>
+  </Treaty>
+</Document>

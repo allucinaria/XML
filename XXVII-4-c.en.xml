@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Subnumsect>c</Subnumsect>
+        <Subtitlesect>Amendment to the Convention on Environmental Impact Assessment in a Transboundary Context</Subtitlesect>
+        <Conclusion>Cavtat, 4 June 2004</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>23 October 2017, in accordance with article 14(4) of the Convention which reads as follows: "Amendments to the above Convention adopted in accordance with paragraph 3 of this Article shall be submitted by the Depositary to all Parties for ratification, approval or acceptance. They shall enter into force for Parties having ratified, approved or accepted them on the ninetieth day after the receipt by the Depositary of notification of their ratification, approval or acceptance by at least three fourths of these Parties. Thereafter they shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, approval or acceptance of the amendments".</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>23 October 2017, No. 34028</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>31</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Depositary Notification C.N.1143.2004.TREATIES-1 of 8 November 2004 (Adoption of Amendment). C.N.953.2016.TREATIES-XXVII.4.c of 16 January 2017 (Proposal of corrections to the Amendment) and C.N.245.2017.TREATIES-XXVII.4.c of 21 April 2017 (Corrections).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>At the third meeting of the Parties to the above Convention, held in Cavtat, Croatia, from 1 to 4 June 2004, the Parties adopted, in accordance with the procedure laid down in article 14 (3) of the Convention on Environmental Impact Assessment in a Transboundary Context, the second Amendment to the said Convention as set out in Annex VII to the report of the Third Meeting of the Parties (Decision III/7).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Ratification, Approval(AA), Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>12 May 2006 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>14 Sep 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>25 Jan 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>11 Feb 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>15 Feb 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>18 Apr 2007 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>25 Jul 2017 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>12 Apr 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>18 Jan 2008 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>19 Feb 2014 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>22 Nov 2011 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>22 Feb 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>29 May 2009 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>18 Jul 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>23 Mar 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry>12 May 2015 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>22 Mar 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>4 May 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>28 May 2014 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry>9 Jul 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>14 Apr 2009 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>24 Feb 2010 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>11 Jan 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>9 Mar 2012 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>3 May 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>21 Mar 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>29 May 2008 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>25 Mar 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>6 Apr 2009 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>30 Mar 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>15 Mar 2013 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>With territorial exclusion in respect of the Faroe Islands and Greenland. See C.N.419.2017.TREATIES-XXVII.4.c of 25 July 2017.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXVII 4 c. Environment</Footer>
+  </Treaty>
+</Document>

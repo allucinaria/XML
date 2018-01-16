@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IV</Header>
+        <Name>HUMAN RIGHTS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>8</Numsect>
+        <Subnumsect>a</Subnumsect>
+        <Subtitlesect>Amendment to article 20, paragraph 1 of the Convention on the Elimination of All Forms of Discrimination against Women</Subtitlesect>
+        <Conclusion>New York, 22 December 1995</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see paragraph 3 of the amendment which reads as follows: "The amendment shall enter into force following consideration by the General Assembly and when it has been accepted by a two-thirds majority of States parties which shall have so notified the Secretary-General as depositary of the Convention".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>72</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>&lt;a href="/doc/source/docs/CEDAW_SP_1995_2-Eng.pdf" target="_blank"&gt;Doc.CEDAW/SP/1995/2.&lt;/a&gt;</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The amendment was proposed by the Governments of Denmark, Iceland, Finland, Norway and Sweden and communicated by the Secretary-General by depositary notification C.N.373.1994.TREATIES-8 of 23 January 1995 in accordance with article 26 (1) of the Convention. At their eighth meeting held on 22 May 1995, the States Parties to the above Convention decided to amend article 20 (1) of the Convention and adopted the amendment. By Resolution &lt;a href="/doc/source/docs/A_RES_50_202-E" target="_blank"&gt;50/202&lt;/a&gt; apted at its fiftieth session held on 22 December 1995, the General Assembly noted with approval the amendment.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>20 May 2011 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry>14 Oct 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>9 Jul 2009 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>4 Jun 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>11 Sep 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry>23 May 2008 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry>17 Jan 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>3 May 2007 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>11 Nov 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry>10 May 2012 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>5 Mar 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>15 Sep 2010 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>3 Nov 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>8 May 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>China</Entry>
+                <Entry>10 Jul 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cook Islands</Entry>
+                <Entry>27 Nov 2007 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>27 Apr 2009 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>24 Oct 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>7 Mar 2008 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>30 Jul 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>30 Jun 2011 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>12 Mar 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>22 Dec 2011 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>2 Aug 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>18 Mar 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>8 Aug 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry>30 Sep 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>25 Feb 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>8 Jan 2013 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Grenada</Entry>
+                <Entry>12 Dec 2007 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>3 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>8 May 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>11 Jun 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>31 May 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>12 Jun 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>11 Jan 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry>23 May 2011 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry>12 Nov 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>16 Sep 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry>15 Apr 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>5 Aug 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>1 Jul 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>19 Jul 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>7 Feb 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>20 Jun 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>5 Mar 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>29 Oct 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>16 Sep 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>19 Oct 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>19 Dec 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>31 Mar 2010 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nauru</Entry>
+                <Entry>23 Jun 2011 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>10 Dec 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry>26 Sep 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>1 May 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>29 Mar 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>5 Nov 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>12 Nov 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>23 Dec 2010 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>8 Jan 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>12 Aug 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry>21 Dec 2012 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>18 Jun 2014 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>30 Aug 2010 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>10 Nov 2006 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>26 Jan 2010 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>21 Jul 2015 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>17 Jul 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>2 Dec 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>9 Dec 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;2,3&lt;/superscript&gt;</Entry>
+                <Entry>19 Nov 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>8 Jan 2004 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Argentine Republic recalls that the Malvinas Islands, South Georgia and South Sandwich Islands are an integral part of Argentine national territory and are illegally occupied by the United Kingdom of Great Britain and Northern Ireland, being the object of a dispute over sovereignty between that country and Argentina that is recognized by various international organizations.</text>
+        <text type="para">The illegal occupation by the United Kingdom of Great Britain and Northern Ireland has led to the adoption by the United Nations General Assembly of the following resolutions: 2065 (XX), 3160 (XXVIII), 31/49, 37/9, 38/12, 39/6, 40/21, 41/40, 42/19 and 43/25, concerning the question of the Malvinas Islands, all of which recognize the existence of a dispute over sovereignty and urge the</text>
+        <text type="para">Governments of the Argentine Republic and the United Kingdom of Great Britain and Northern Ireland to resume negotiations in order to find a just, peaceful and definitive solution to that dispute at the earliest possible opportunity.</text>
+        <text type="para">Furthermore, the United Nations Special Committee on Decolonization has repeatedly affirmed this position, most recently in the resolution that was adopted on 12 June 2008.</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the Kingdom in Europe, the Netherlands Antilles an Aruba. See also note 2 under Netherlands regarding Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>For the United Kingdom of Great Britain and Northern Ireland, the Isle of Man, British Virgin Islands, Falkland Islands (Malvinas), and Turks and Caicos Islands.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 16 March 2016, the Government of the United Kingdom of Great Britain and Northern Ireland notified the Secretary-General that its acceptance of the Amendment would extend to the territories of Anguilla and the Cayman Islands.</text>
+        <text></text>
+        <text>On 16 March 2017, the Government of the United Kingdom of Great Britain and Northern Ireland notified the Secretary-General that its acceptance of the Amendment would extend to the territory of Bermuda as follows :</text>
+        <text>& the Government of the United Kingdom of Great Britain and Northern Ireland wishes that& the United Kingdoms acceptance of the Amendment shall be extended to the territory of Bermuda, for whose international relations the United Kingdom is responsible.</text>
+        <text>The Government of the United Kingdom of Great Britain and Northern Ireland& considers the extension of the Amendment to Bermuda to enter into force on the day on which the Amendment enters into force&</text>
+        <text></text>
+        <text>On 16 March 2017, the Government of the United Kingdom of Great Britain and Northern Ireland notified the Secretary-General that its acceptance of the Amendment would extend to the territory of Saint Helena, Ascension and Tristan Da Cunha as follows :</text>
+        <text>& the Government of the United Kingdom of Great Britain and Northern Ireland wishes that& the United Kingdoms acceptance of the Amendment shall be extended to the territory of Saint Helena, Ascension and Tristan Da Cunha, for whose international relations the United Kingdom is responsible.</text>
+        <text>The Government of the United Kingdom of Great Britain and Northern Ireland& considers the extension of the Amendment to Saint Helena, Ascension and Tristan Da Cunha to enter into force on the day on which the Amendment enters into force&</text>
+        <text />
+      </Note>
+    </EndNotes>
+    <Footer>IV 8 a. Human Rights</Footer>
+  </Treaty>
+</Document>

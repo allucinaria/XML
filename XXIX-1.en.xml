@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXIX</Header>
+        <Name>MISCELLANEOUS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Agreement on Succession Issues</Titlesect>
+        <Conclusion>Vienna, 29 June 2001</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>2 June 2004, in accordance with article 12(1)which reads as follows: "(1) This Agreement shall enter into force thirty days after the deposit of the fifth instrument of ratification. The Depositary shall notify the successor States, and the Office of the High Representative, of the date of entry into force. (2) Notwithstanding paragraph (1) of this Article, Article 4 (3) of the Agreement, Article 5 of Annex A, Articles 1 and 5-6 of Annex B, and Article 6 of, and the Appendix to, Annex C, shall be provisionally applied after the date of signature of this Agreement, in accordance with their terms.".</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>2 June 2004, No. 40296</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>5</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>5</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 2262, p. 251; .</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was adopted at the Conference on Succession Issues held at the Hofburg Palace, Heldenplatz, Vienna on 29 June 2001. The text of the Agreement was done in seven originals in the English language, one retained by each successor State, one by the Office of the High Representative and one deposited with the Secretary-General of the United Nations.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry>29 Jun 2001</Entry>
+                <Entry>15 May 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>29 Jun 2001</Entry>
+                <Entry>3 May 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>29 Jun 2001</Entry>
+                <Entry>10 Oct 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>29 Jun 2001</Entry>
+                <Entry>21 Aug 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry>29 Jun 2001</Entry>
+                <Entry>6 Mar 2002</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XXIX 1. Miscellaneous</Footer>
+  </Treaty>
+</Document>

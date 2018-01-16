@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVII</Header>
+        <Name>ENVIRONMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>13</Numsect>
+        <Titlesect>Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters</Titlesect>
+        <Conclusion>Aarhus, Denmark, 25 June 1998</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>30 October 2001, in accordance with article 20(1) and definitively on 30 October 2001, in accordance with article 20(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>30 October 2001, No. 37770</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>39</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>47</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 2161, p. 447.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>Open for signature at Aarhus (Denmark) on 25 June 1998, and thereafter at United Nations Headquarters in New York until 21 December 1998, by States members of the Economic Commission for Europe as well as States having consultative status with the Economic Commission for Europe pursuant to paragraphs 8 and 11 of Economic and Social resolution &lt;a href="/doc/source/docs/E_RES_36_IV-E.pdf" target="_blank"&gt;36?IV)&lt;/a&gt;&lt;superscript&gt;2&lt;/superscript&gt; of 28 March 1947, and by regional economic integration organizations constituted by sovereign States members of the Economic Commission for Europe to which their member States have transferred competence over matters governed by this Convention, including the competence to enter into treaties in respect of these matters.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Approval(AA), Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>27 Jun 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>1 Aug 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>17 Jan 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>23 Mar 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>16 Dec 1998</Entry>
+                <Entry>9 Mar 2000 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>21 Jan 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry />
+                <Entry>1 Oct 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>17 Dec 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>27 Mar 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>19 Sep 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>6 Jul 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>29 Sep 2000 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>2 Aug 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>17 Feb 2005 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>1 Sep 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>8 Jul 2002 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>11 Apr 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>21 Dec 1998</Entry>
+                <Entry>15 Jan 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>27 Jan 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>18 Dec 1998</Entry>
+                <Entry>3 Jul 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>20 Oct 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>20 Jun 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>13 Jun 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>11 Jan 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>1 May 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>14 Jun 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>28 Jan 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>25 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>18 Dec 1998</Entry>
+                <Entry>23 Apr 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry />
+                <Entry>2 Nov 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>29 Dec 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>2 May 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>15 Feb 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>9 Jun 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>9 Aug 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>11 Jul 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry />
+                <Entry>31 Jul 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry />
+                <Entry>5 Dec 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>29 Jul 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>29 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>20 May 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>3 Mar 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>17 Jul 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry />
+                <Entry>22 Jul 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>25 Jun 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>18 Nov 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>25 Jun 1998</Entry>
+                <Entry>23 Feb 2005</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon ratification,</Title>
+      <Title>acceptance, approval or accession.)</Title>
+      <Declaration>
+        <Participant>Austria</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Austria declares in accordance with article?6 (2) of the Convention that it accepts both of the means of dispute settlement mentioned in paragraph 2 as compulsory in relation to any party accepting an obligation concerning one or both of these means of dispute settlement."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">&lt;i&gt;Declaration:&lt;/i&gt;</text>
+        <text type="para">"Both the Faroe Islands and Greenland are self-governing under Home Rule Acts, which implies &lt;i&gt;inter alia &lt;/i&gt; that environmental affairs in general and the areas covered by the Convention are governed by the right of self-determination. In both the Faroe and the Greenland Home Rule Governments there is great political interest in promoting the fundamental ideas and principles embodied in the Convention to the extent possible. However, as the Convention is prepared with a view to European countries with relatively large populations and corresponding administrative and social structures, it is not a matter of course that the Convention is in all respects suitable for the scarcely populated and far less diverse societies of the Faroe Islands and of Greenland. Thus, full implementation of the Convention in these areas may imply needless and inadequate bureaucratization. The authorities of the Faroe Islands and of Greenland will analyse this question thoroughly.</text>
+        <text type="para">Signing by Denmark of the Convention, therefore, not necessarily means that Danish ratification will in due course include the Faroe Islands and Greenland."</text>
+      </Declaration>
+      <Declaration>
+        <Participant>European Union</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">&lt;i&gt;Declaration:&lt;/i&gt;</text>
+        <text type="para">"The European Community wishes to express its great satisfaction with the present Convention as an essential step forward in further encouraging and supporting public awareness in the field of environment and better implementation of environmental legislation in the UN/ECE region, in accordance with the principle of sustainable development.</text>
+        <text type="para">Fully supporting the objectives pursued by the Convention and considering that the European Community itself is being actively involved in the protection of the environment through a comprehensive and evolving set of legislation, it was felt important not only to sign up to the Convention at Community level but also to cover its own institutions, alongside national public authorities.</text>
+        <text type="para">Within the institutional and legal context of the Community and given also the provisions of the Treaty of Amsterdam with respect to future legislation on transparency, the Community also declares that the Community institutions will apply the Convention within the framework of their existing and future rules on access to documents and other relevant rules of Community law in the field covered by the Convention.</text>
+        <text type="para">The Community will consider whether any further declarations will be necessary when ratifying the Convention for the purpose of its application to Community institutions."</text>
+        <text type="title">Upon approval:</text>
+        <text type="para">&lt;i&gt;Declarations:&lt;/i&gt;</text>
+        <text type="para">Declaration by the European Community in accordance with Article 19 of the Convention on Access to Information, Public Participation in Decision Making and Access to Justice in Environmental Matters</text>
+        <text type="para">"The European Community declares that, in accordance with the Treaty establishing the European Community, and in particular Article 175 (1) thereof, it is competent for entering into international agreements, and for implementing the obligations resulting there from, which contribute to the pursuit of the following objectives:</text>
+        <text type="para">preserving, protecting and improng the quality of the environment;</text>
+        <text type="para">protecting human health;</text>
+        <text type="para">prudent and rational utilisation of natural resources;</text>
+        <text type="para">promoting measures at international level to deal with regional or world-wide environmental problems.</text>
+        <text type="para">Moreover, the European Community declares that it has already adopted several legal instruments, binding on its Member States, implementing provisions of this Convention and will submit and update as appropriate a list of those legal instruments to the Depositary in accordance with Article 10 (2) and Article 19 (5) of the Convention. In particular, the European Community also declares that the legal instruments in force do not cover fully the implementation of the obligations resulting from Article 9 (3) of the Convention as they relate to administrative and judicial procedures to challenge acts and omissions by private persons and public authorities other than the institutions of the European Community as covered by Article 2 (2)(d) of the Convention, and that, consequently, its Member States are responsible for the performance of these obligations at the time of approval of the Convention by the European Community and will remain so unless and until the Community, in the exercise of its powers under the EC Treaty, adopts provisions of Community law covering the implementation of those obligations.</text>
+        <text type="para">Finally, the Community reiterates its declaration made upon signing the Convention that the Community institutions will apply the Convention within the framework of their existing and future rules on access to documents and other relevant rules of Community law in thefield covered by the Convention.</text>
+        <text type="para">The European Community is responsible for the performance of those obligations resulting from the Convention which are covered by Community law in force.</text>
+        <text type="para">The exercise of Community competence is, by its nature, subject to continuous development."</text>
+        <text type="para">Declaration by the European Community concerning certain specific provisions under directive 2003/4/EC</text>
+        <text type="para">"In relation to Article 9 of the Aarhus Convention, the European Community invites Parties to the Convention to take note of Article 2 (2) and Article 6 of Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on Public Access to Environmental Information. These provisions give Member States of the European Community the possibility, in exceptional cases and under strictly specified conditions, to exclude certain institutions and bodies from the rules on review procedures in relation to decisions on requests for information.</text>
+        <text type="para">Therefore the ratification by the European Community of the Aarhus Convention encompasses any reservation by a Member State of the European Community to the extent that such a reservation is compatible with Article 2 (2) and Article 6 of Directive 2003/4/EC."</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Finland</Participant>
+        <text type="title">Declarations</text>
+        <text type="para">"1. Finland considers that provisions of Article 9, paragraph 2 on access to a review procedure do not require those provisions to be applied at a stage of the decision-making of an activity in which a decision in principle is made by the Government and which then is endorsed or rejected by the national Parliament, provided that provisions of Article 9, paragraph 2 are applicable at a subsequent decision-making stage of the activity.</text>
+        <text type="para">2. Some activities in Annex I to the Convention may require consecutive decisions by a public authority or public authorities on whether to permit the activity in question. Finland considers that each party shall, within the framework of its national legislation, determine at what stage the substantive and procedural legality of any decision, act or omission subject to the provisions of Article 6 may be challenged pursuant to Article 9, paragraph 2."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Interpretative declaration concerning articles 4, 5 and 6 of the Convention:</text>
+        <text type="para">The French Government will see to the dissemination of relevant information for the protection of the environment while, at the same time, ensuring protection of industrial and commercial secrets, with reference to established legal practice applicable in France.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">&lt;i&gt;Declaration:&lt;/i&gt;</text>
+        <text type="para">The text of the Convention raises a number of difficult questions regarding its practical implementation in the German legal system which it was not possible to finally resolve during the period provided for the signing of the Convention. These questions require careful consideration, including a consideration of the legislative consequences, before the Convention becomes binding under international law.</text>
+        <text type="para">The Federal Republic of Germany assumes that implementing the Convention through German administrative enforcement will not lead to developments which counteract efforts towards deregulation and speeding up procedures.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text>&lt;right&gt;17 February 2010&lt;/right&gt;</text>
+        <text type="title">Declaration:</text>
+        <text type="para">The Kingdom of the Netherlands declares, in accordance with paragraph 2 of Article 16 of the United Nations Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters, that it accepts both means of dispute settlement referred to in that paragraph as compulsory in relation to any Party accepting one or both means of dispute settlement.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Norway</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"In accordance with article 16, paragraph 2 a) of the Convention, Norway hereby declares that it will submit the dispute to the International Court of Justice".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">Sweden lodges a reservation in relation to Article 9.1 with regard to access to a review procedure before a court of law of decisions taken by the Parliament, the Government and Ministers on issues ~ involving the release of official documents.</text>
+        <text type="para">A reservation is also lodged in relation to Article 9.2 with regard to access by environmental organisations to a review procedure before a court of law concerning such decisions on local plans that require environmental impact assessments. This also applies to decisions regarding issuing permits that are taken by the Government as the first instance, under, for example the Natural Gas Act (2000:599) and after appeal under Chapter 18 of the Swedish Environmental Code. It is the Government's ambition that Sweden will shortly comply with Article 9.2 in its entirety.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">Reservation to article 4</text>
+        <text type="para">In the field of nuclear energy and radiation protection, the implementation of article 4 of the Aarhus Convention is subject to article 23 of the Federal Act on the principle of transparency in administration of 17 December 2004, which makes provision for access to official documents produced or received by the authorities after 1 July 2006, the date on which the Federal Act entered into force, when there are requests for access to documents containing information related to nuclear facilities.</text>
+        <text type="para">Reservation to articles 6 (6) and 9 (2)</text>
+        <text type="para">In the field of nuclear energy and radiation protection, the implementation of articles 6 (6) and 9 (2) of the Aarhus Convention is subject to the reservation in article 3 (2) of the Federal Act on the protection of the environment of 7 October 1983, which excludes the right of appeal for environmental protection agencies within the meaning of article 55 of the Federal Act in relation to radioactive substances and ionizing radiation.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="title">Declaration made upon signature and confirmed upon ratification:</text>
+        <text type="para">The United Kingdom understands the references in article? and the seventh preambular paragraph of this Convention to the 'right' of every person 'to live in an environment adequate to his or her health and well-being' to express an aspiration which motivated the negotiation of this Convention and which is shared fully by the United Kingdom. The legal rights which each Party undertakes to guarantee under article 1 are limited to the rights of access to information, public participation in decision-making and access to justice in environmental matters in accordance with the provisions of this Convention."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the purpose of entry into force of the [Convention/Protocol] , any instrument of ratification, acceptance, approval or accession deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of that Organization.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>&lt;i&gt; Official Records of the Economic and Social Council &lt;/i&gt; (E/437), p.?6.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>Excluding the Faroe Islands and Greenland.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Excluding New Caledonia, French Polynesia and Wallis and Futuna.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXVII 13. Environment</Footer>
+  </Treaty>
+</Document>

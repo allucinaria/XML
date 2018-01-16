@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXIII</Header>
+        <Name>LAW OF TREATIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Titlesect>Vienna Convention on the Law of Treaties between States and International Organizations or between International Organizations</Titlesect>
+        <Conclusion>Vienna, 21 March 1986</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 85 which reads as follows : "1. The present Convention shall enter into force on the thirtieth day following the date of deposit of the thirty-fifth instrument of ratification or accession by States or by Namibia, represented by the United Nations Council for Namibia. 2. For each State or for Namibia, represented by the United Nations Council for Namibia, ratifying or acceding to the Convention after the condition specified in paragraph 1 has been fulfilled, the Convention shall enter into force on the thirtieth day after deposit by such State or by Namibia of its instrument of ratification or accession. 3. For each international organization depositing an instrument relating to an act of formal confirmation or an instrument of accession, the Convention shall enter into force on the thirtieth day after such deposit, or at the date the Convention enters into force pursuant to paragraph 1, whichever is later.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>39</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>43</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc.&lt;a href="/doc/source/docs/A_CONF.129_15-E.pdf" target="_blank"&gt;A/CONF.129/15&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was open for signature by all States, Namibia and international organizations invited to the Conference, until 31 December 1986 at the Federal Ministry for Foreign Affairs of the Republic of Austria, and subsequently, until 30 June 1987, at the United Nations Headquarters in New York.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature, Succession to signature(d)</Entry>
+              <Entry colname="3">Ratification, Accession(a), Formal confirmation(c), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>8 May 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>12 Feb 1987</Entry>
+                <Entry>17 Aug 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>16 Jun 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry>26 Aug 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry />
+                <Entry>30 Dec 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>9 Jun 1987</Entry>
+                <Entry>1 Sep 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>24 Jun 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>12 Jan 1994 d</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>10 Mar 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>24 Jul 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Council of Europe</Entry>
+                <Entry>11 May 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry />
+                <Entry>11 Apr 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>29 Jun 1987</Entry>
+                <Entry>5 Nov 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Feb 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>8 Jun 1987</Entry>
+                <Entry>26 Jul 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>21 Oct 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Food and Agriculture Organization of the United Nations</Entry>
+                <Entry>29 Jun 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>5 Nov 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>27 Apr 1987</Entry>
+                <Entry>20 Jun 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>15 Jul 1986</Entry>
+                <Entry>28 Jan 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>17 Aug 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>International Atomic Energy Agency</Entry>
+                <Entry />
+                <Entry>26 Apr 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>International Civil Aviation Organization</Entry>
+                <Entry>29 Jun 1987</Entry>
+                <Entry>24 Dec 2001 c</Entry>
+              </Row>
+              <Row>
+                <Entry>International Criminal Police Organization</Entry>
+                <Entry />
+                <Entry>3 Jan 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>International Labour Organisation</Entry>
+                <Entry>31 Mar 1987</Entry>
+                <Entry>31 Jul 2000 c</Entry>
+              </Row>
+              <Row>
+                <Entry>International Maritime Organization</Entry>
+                <Entry>30 Jun 1987</Entry>
+                <Entry>14 Feb 2000 c</Entry>
+              </Row>
+              <Row>
+                <Entry>International Telecommunication Union</Entry>
+                <Entry>29 Jun 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>17 Dec 1986</Entry>
+                <Entry>20 Jun 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>24 Apr 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry />
+                <Entry>8 Feb 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry>30 Jun 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>26 Sep 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry>10 Mar 1988</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>23 Oct 2006 d</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry>12 Jun 1987</Entry>
+                <Entry>18 Sep 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Organisation for the Prohibition of Chemical Weapons</Entry>
+                <Entry />
+                <Entry>2 Jun 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization</Entry>
+                <Entry />
+                <Entry>11 Jun 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>29 Jun 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>26 Jan 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>9 Jul 1986</Entry>
+                <Entry>6 Aug 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>12 Mar 2001 d</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>24 Jul 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>18 Jun 1987</Entry>
+                <Entry>10 Feb 1988</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>7 May 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>24 Feb 1987</Entry>
+                <Entry>20 Jun 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>United Nations</Entry>
+                <Entry>30 Jan 1987</Entry>
+                <Entry>21 Dec 1998 c</Entry>
+              </Row>
+              <Row>
+                <Entry>United Nations Educational, Scientific and Cultural Organization</Entry>
+                <Entry>23 Jun 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>United Nations Industrial Development Organization</Entry>
+                <Entry />
+                <Entry>4 Mar 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>26 Jun 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Universal Postal Union</Entry>
+                <Entry />
+                <Entry>19 Oct 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>10 Mar 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>World Health Organization</Entry>
+                <Entry>30 Apr 1987</Entry>
+                <Entry>22 Jun 2000 c</Entry>
+              </Row>
+              <Row>
+                <Entry>World Intellectual Property Organization</Entry>
+                <Entry />
+                <Entry>24 Oct 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>World Meteorological Organization</Entry>
+                <Entry>30 Jun 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry>21 Mar 1986</Entry>
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon ratification,</Title>
+      <Title>accession or formal confirmation.)</Title>
+      <Declaration>
+        <Participant>Belgium&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;21 June 1993&lt;/right&gt;</text>
+        <text type="title">Reservation:</text>
+        <text type="para">The Belgian State will not be bound by articles 53 and 64 of the Convention with regard to any party which, in formulating a reservation concerning article 66 (2), objects to the settlement procedure established by this article.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria&lt;superscript&gt;8&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration on article 2, paragraph 1, sub-paragraph j:</text>
+        <text type="para">The People's Republic of Bulgaria considers that the practice of an individual International Organization may be considered as established according to article 2, paragraph 1, sub-paragraph j, only when it has been adopted as such by all Member States of this Organization.</text>
+        <text type="title">Declaration on article 62, paragraph 2:</text>
+        <text type="para">The People's Republic of Bulgaria considers that the term "Boundary" as it is used in the text of article 62, paragraph 2, means State Boundary and it may be established only by States.</text>
+        <text type="title">Declaration on article 74, paragraph 3:</text>
+        <text type="para">The People's Republic of Bulgaria considers that a treaty which an International Organization is a party to, may establish obligations for Members States of this Organization only if the Member States have expressed their consent in advance in each individual case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Colombia</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">(a) With respect to articles 11 to 17, and in accordance with article 46, Colombia specifies that Colombias plenipotentiary representative can express the consent of the Colombian State only after the treaty has been approved by the Congress and reviewed by the Constitutional Court.</text>
+        <text type="para">(b) With respect to article 25, Colombia specifies that only treaties relating to economic or commercial matters that have been agreed upon within the framework of international organizations which so provide may be applied provisionally by Colombia without prior approval of the Congress and review by the Constitutional Court.</text>
+        <text type="para" />
+        <text type="title">Interpretative declaration:</text>
+        <text type="para">(c) With respect to article 27, paragraph 1, Colombia specifies that it accepts that a State may not invoke the provisions of its internal law as justification for its failure to perform the treaty, on the understanding that this rule does not exclude judicial control of the constitutionality of laws adopting treaties.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">... Where parties formulate reservations or partial reserva- tions with respect to the provisions of article 66 of the Convention concerning the obligatory settlement of certain disputes, Denmark does not consider itself bound by the provisions of Part V of the Convention whereby the procedures for settlement set forth in article 66 shall not be applied if reservations have been formulated by other parties.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">1. The Federal Republic of Germany presumes that the juris- diction of the International Court of Justice brought about by consent of States outside the [said] Convention cannot be excluded by invoking the provisions of article 66, paragraph 4 of the Convention.</text>
+        <text type="para">2. The Federal Republic of Germany interprets "measures taken in conformity with the Charter of the United Nations" as referred to in article 76 of the [said] Convention to mean decisions taken in future by the United Nations Security Council in conformity with Chapter VII of the Charter on the maintenance of international peace and security.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary&lt;superscript&gt;9&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Kingdom of the Netherlands does not regard the provisions of article 66 (b), (c) and (d) of the Convention as providing `some other method of peaceful settlement' within the meaning of the declaration of the Kingdom of the Netherlands accepting as compulsory the jurisdiction of the International Court of Justice which was deposited with the Secretary-General of the United Nations on 1 August 1956;</text>
+        <text type="para">The Kingdom of the Netherlands is of the opinion that the provisions regarding the settlement of disputes, as laid down in article 66 of the Convention, are an important part of the Convention and that they cannot be separated from the substantive rules with which they are connected."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Senegal</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">In signing this Convention, [the Government of Senegal de- clares] that the completion of this formality shall not be inter- preted in so far as Senegal is concerned as a recognition of the right of international organizations to appear as parties before the International Court of Justice.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made upon</Title>
+      <Title>ratification, accession or formal confirmation.)</Title>
+      <Objection>
+        <Participant>Germany</Participant>
+        <text type="para">The Federal Republic of Germany rejects the reservation made by the Republic of Bulgaria with regard to article 66, paragraph 2 of the Vienna Convention on the Law of Treaties between States and International Organizations or between International Organizations as incompatible with the object and purpose of the said Convention. In this connection it wishes to point out that the Federal Republic of Germany considers articles 53 and 64 of the Convention, on the one hand, and article 66, paragraph 2, on the other, to be inextricably linked.</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>International organizations, which are party to the Convention, are not counted for entry into force purposes, pursuant to article?5 of the Convention.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had signed the Convention on 21 March 1986. See also notes 1 under Bosnia and Herzegovina, Croatia, Slovenia, former Yugoslavia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>Czechoslovakia had acceded to the Convention on 19 October 1990 (See, &lt;a href="https://../doc/Publication/CN/1990/CN.293.1990-Eng.pdf target="_blank"&gt;C.N.293.1990.TREATIES-4 (Depositary Notification)&lt;/a&gt;. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>For the Kingdom in Europe, the Netherlands Antilles and Aruba.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>On 18 February 1993, the Government of Belgium notified the Secretary-General that its instrument of ratification should have speci- fied that the said ratification was made subject to the said reservation. None of the Contracting Parties to the Agreement having notified the Secretary-General of an objection either to the deposit itself or to the procedure envisaged, within a period of 90 days from the date of its circulation (23 March 1993), the reservation is deemed to have been accepted.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>In a notification received on 6 May 1994, the Government of Bulgaria notified the Secretary-General that it had decided to withdraw the reservation made upon accession with regard to article 66, which reads as follows:</text>
+        <text>The People's Republic of Bulgaria does not consider itself bound by the provisions of article 66, paragraph 2 of the Vienna Convention on the Law of Treaties between States and International Organizations or between International Organizations under the terms of which each party to a dispute concerning the interpretation and application of article 53 and 64 may submit it to the International Court of Justice for a decision. The Government of the People's Republic of Bulgaria declares that submission of such dispute to the International Court of Justice requires the preliminary consent of all parties to it in each individual case.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>In a communication received by the Secretary-General on 8 December 1989, the Government of Hungary notified the Secretary-General that it had decided to withdraw its reservation to the Convention with regard to article 66 which reads as follows:</text>
+        <text>The Hungarian People's Republic does not consider itself bound by the provisions of paragraph 2 (a) of article 66 of the Vienna Convention on the Law of Treaties between States and International Organizations or between International Organizations and declares that submission of a dispute concerning the application or the interpretation of articles 53 or 64 to the International Court of Justice for a decision or submission of a dispute concerning the application or the interpretation of any articles in Part V of the Convention to a conciliation commission for consideration shall be subject to the consent of all the parties to the dispute and the conciliators constituting the conciliation commission shall have been nominated exclusively with the common consent of the parties to the dispute.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXIII 3. Law of Treaties</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXII</Header>
+        <Name>COMMERCIAL ARBITRATION</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Convention on the Recognition and Enforcement of Foreign Arbitral Awards</Titlesect>
+        <Conclusion>New York, 10 June 1958</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>7 June 1959, in accordance with article XII.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>7 June 1959, No. 4739</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>24</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>157</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 330, p. 3.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was prepared and opened for signature on 10 June 1958 by the United Nations Conference on International Commercial Arbitration, convened in accordance with resolution &lt;a href="/doc/source/docs/E_RES_604_XXI-E.pdf" target="_blank"&gt;604 (XXI)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of the Economic and Social Council of the United Nations adopted on 3 May 1956. The Conference met at the Headquarters of the United Nations in New York from 20 May to 10 June 1958. For the text of the Final Act of this Conference, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 330, p. 3.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry />
+                <Entry>30 Nov 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>27 Jun 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>7 Feb 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry />
+                <Entry>19 Jun 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry />
+                <Entry>6 Mar 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>2 Feb 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>26 Aug 1958</Entry>
+                <Entry>14 Mar 1989</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>29 Dec 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>26 Mar 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>2 May 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>29 Feb 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry />
+                <Entry>20 Dec 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>6 Apr 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>6 May 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>16 Mar 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>29 Dec 1958</Entry>
+                <Entry>15 Nov 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>18 Aug 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>16 May 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry />
+                <Entry>25 Sep 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>28 Apr 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry />
+                <Entry>20 Dec 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry />
+                <Entry>7 Jun 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry />
+                <Entry>25 Jul 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>17 Dec 1958</Entry>
+                <Entry>10 Oct 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>23 Mar 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry />
+                <Entry>23 Jun 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>5 Jan 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>19 Feb 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>12 May 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>15 Oct 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry />
+                <Entry>4 Sep 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Jan 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>25 Sep 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry />
+                <Entry>28 Apr 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cook Islands</Entry>
+                <Entry />
+                <Entry>12 Jan 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>26 Oct 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>1 Feb 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Jul 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>30 Dec 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>29 Dec 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>30 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry />
+                <Entry>5 Nov 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry />
+                <Entry>22 Dec 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry />
+                <Entry>14 Jun 1983 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>28 Oct 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>11 Apr 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>17 Dec 1958</Entry>
+                <Entry>3 Jan 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>9 Mar 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>26 Feb 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>30 Aug 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>27 Sep 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>29 Dec 1958</Entry>
+                <Entry>19 Jan 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>25 Nov 1958</Entry>
+                <Entry>26 Jun 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>15 Dec 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>2 Jun 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;5,6&lt;/superscript&gt;</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>30 Jun 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry />
+                <Entry>9 Apr 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry />
+                <Entry>16 Jul 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>21 Mar 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>23 Jan 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>25 Sep 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry />
+                <Entry>5 Dec 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry />
+                <Entry>14 May 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>3 Oct 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>5 Mar 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>24 Jan 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>13 Jul 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry />
+                <Entry>7 Oct 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry />
+                <Entry>15 Oct 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>12 May 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>5 Jan 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry />
+                <Entry>31 Jan 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>10 Jul 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry />
+                <Entry>20 Jun 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>15 Nov 1979</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>20 Nov 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>10 Feb 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry />
+                <Entry>28 Apr 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>18 Dec 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>17 Jun 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>14 Apr 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry />
+                <Entry>11 Aug 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>13 Jun 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry />
+                <Entry>7 Jul 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>14 Mar 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>11 Nov 1958</Entry>
+                <Entry>9 Sep 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>16 Jul 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>5 Nov 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>8 Sep 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>22 Jun 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry />
+                <Entry>21 Dec 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>30 Jan 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>19 Jun 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>14 Apr 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>31 Dec 1958</Entry>
+                <Entry>2 Jun 1982</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>24 Oct 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>12 Feb 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>11 Jun 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry />
+                <Entry>16 Apr 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>4 Mar 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>24 Apr 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry />
+                <Entry>6 Jan 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>24 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>14 Oct 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>17 Mar 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>14 Mar 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>25 Feb 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>30 Dec 1958</Entry>
+                <Entry>14 Jul 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>10 Oct 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>8 Oct 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>7 Jul 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>6 Jul 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>10 Jun 1958</Entry>
+                <Entry>3 Oct 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Oct 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry />
+                <Entry>30 Dec 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>8 Feb 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>18 Sep 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>13 Sep 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>29 Dec 1958</Entry>
+                <Entry>24 Aug 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>31 Oct 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry />
+                <Entry>17 May 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry />
+                <Entry>20 Nov 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>19 Apr 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>17 Oct 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>21 Aug 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>3 May 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>12 May 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>30 Dec 1958</Entry>
+                <Entry>9 Apr 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>12 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>State of Palestine</Entry>
+                <Entry />
+                <Entry>2 Jan 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>23 Dec 1958</Entry>
+                <Entry>28 Jan 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>29 Dec 1958</Entry>
+                <Entry>1 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>9 Mar 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>14 Aug 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry />
+                <Entry>21 Dec 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;2,10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>10 Mar 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>14 Feb 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>17 Jul 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>2 Jul 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>12 Feb 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry>29 Dec 1958</Entry>
+                <Entry>10 Oct 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry />
+                <Entry>21 Aug 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;12&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>24 Sep 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry />
+                <Entry>13 Oct 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry />
+                <Entry>30 Sep 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>30 Mar 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>7 Feb 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>8 Feb 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>12 Sep 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>14 Mar 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>29 Sep 1994 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Afghanistan</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"Afghanistan will apply the Convention only to : (i) recognition and enforcement of awards made in the territory of another Contracting State; and (ii) differences arising out of legal relationships whether contractual or not which are considered as commercial under the national law of Afghanistan."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Algeria</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Referring to the possibility offered by article I, paragraph 3, of the Convention, the People's Democratic Republic of Algeria declares that it will apply the Convention, on the basis of re- ciprocity, to the recognition and enforcement of arbitral awards made only in the territory of another Contracting State and only where such awards have been made with respect to differences arising out of legal relationships whether contractual or not, which are considered as commercial under Algerian law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Antigua and Barbuda</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"In accordance with article I, the Government of Antigua and Barbuda declares that it will apply the Convention on the basis of reciprocity only to the recognition and enforcement of awards made in the territory of another contracting state.</text>
+        <text type="para">The Government of Antigua and Barbuda also declares that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are con- sidered as commercial under the laws of Antigua and Barbuda."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Argentina&lt;superscript&gt;13&lt;/superscript&gt;</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">Subject to the declaration contained in the Final Act.</text>
+        <text type="title">Upon ratification:</text>
+        <text type="para">On the basis of reciprocity, the Republic of Argentina will apply the Convention only to the recognition and enforcement of foreign arbitral awards made in the territory of another Contracting State. It will also apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under its national law.</text>
+        <text type="para">The Convention will be interpreted in accordance with the principles and clauses of the National Constitution in force or those resulting from modification made by virtue of the Constitution.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Armenia</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"1. The Republic of Armenia will apply the Convention only to recognition and enforcement of awards made in the territory of another Contracting State.</text>
+        <text type="para">2. The Republic of Armenia will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the laws of the Republic of Armenia."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Austria&lt;superscript&gt;14&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Bahrain&lt;superscript&gt;15&lt;/superscript&gt;</Participant>
+        <text type="para">"1. The accession by the State of Bahrain to the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, 1958 shall in no way constitute recognition of Israel or be a cause for the establishment of any relations of any kind therewith.</text>
+        <text type="para">"2. In accordance with article 1 (3) of the Convention, the State of Bahrain will apply the Convention, on the basis of reci- procity, to the recognition and enforcement of only those awards made in the territory of another Contracting State party to the Convention.</text>
+        <text type="para">"3. In accordance with article 1 (3) of the Convention, the State of Bahrain will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the State of Bahrain."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Barbados</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">" (i) In accordance with article 1 (3) of the Convention, the Government of Barbados declares that it will apply the Conven- tion on the basis of reciprocity to the recognition and enforcement of awards made only in the territory of another Contracting State.</text>
+        <text type="para">(ii) The Government of Barbados will also apply the Con- vention only to differences arising out of legal relationships, whether contractual or not which are considered as commercial under the laws of Barbados."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="para">The Byelorussian Soviet Socialist Republic will apply the provisions of this Convention in respect to arbitral awards made in the territories of non-contracting States only to the extent to which they grant reciprocal treatment.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="para">In accordance with article I, paragraph 3, the Government of the Kingdom of Belgium declares that it will apply the Conven- tion to the recognition and enforcement of arbitral awards made only in the territory of a Contracting State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bhutan</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">(a) Based on reciprocity, the Kingdom of Bhutan shall apply the Convention only to recognition and enforcement of awards made in the territory of another contracting State.</text>
+        <text type="para">(b) The Kingdom of Bhutan will apply the Convention only to differences arising out of legal relationships, whether contractual or not, that are considered commercial under the national laws.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Convention will be applied to the Republic of Bosnia and Herzegovina only relating [to] those arbitral awards that have been brought after entering into force of the Convention.</text>
+        <text type="para">The Republic of Bosnia and Herzegovina will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of only those awards made in the territory of another Contracting State.</text>
+        <text type="para">The Republic of Bosnia and Herzegovina will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the Republic of Bosnia and Herzegovina."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Botswana</Participant>
+        <text type="para">"The Republic of Botswana will apply the Convention only to differences arising out of legal relationship, whether contrac- tual or not, which are considered commercial under Botswana law.</text>
+        <text type="para">"The Republic of Botswana will apply the Convention to the Recognition and Enforcement of Awards made in the territory of another Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Brunei Darussalam</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"... Brunei Darussalam will on the basis of reciprocity apply the said Convention to the recognition and enforcement of only those awards which are made in the territory of another Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria</Participant>
+        <text type="para">"Bulgaria will apply the Convention to recognition and en- forcement of awards made in the territory of another contracting State. With regard to awards made in the territory of non-con- tracting States it will apply the Convention only to the extent to which these States grant reciprocal treatment."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Burundi</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Burundi will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of Burundi.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Canada&lt;superscript&gt;16&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;20 October 1987&lt;/right&gt;</text>
+        <text type="para">"The Government of Canada declares that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the laws of Canada, except in the case of the Province of Quebec where the law does not provide for such limitation."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Central African Republic</Participant>
+        <text type="para">Referring to the possibility offered by paragraph 3 of article I of the Convention, the Central African Republic declares that it will apply the Convention on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another contracting State; it further declares that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under its national law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>China</Participant>
+        <text type="para">1. The People's Republic of China will apply the Conven- tion, only on the basis of reciprocity, to the recognition and en- forcement of arbitral awards made in the territory of another Contracting State;</text>
+        <text type="para">2. The People's Republic of China will apply the Conven- tion only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the People's Republic of China.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="para">Cuba will apply the Convention to the recognition and en- forcement of arbitral awards made in the territory of another Contracting State. With respect to arbitral awards made by other non-contracting States it will apply the Convention only in so far as those States grant reciprocal treatment as established by mutual agreement between the parties. Moreover, it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under Cuban legislation.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cyprus</Participant>
+        <text type="para">"The Republic of Cyprus will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another Contracting State; furthermore it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under its national law."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="para">In accordance with the terms of article I, paragraph 3, [the Convention] shall have effect only as regards the recognition and enforcement of arbitral awards made by another Contracting State and [it] shall be valid only with respect to commercial relationships.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ecuador</Participant>
+        <text type="para">Ecuador, on a basis of reciprocity, will apply the Convention to the recognition and enforcement of arbitral awards made in the territory of another Contracting State only if such awards have been made with respect to differences arising out of legal relationships which are regarded as commercial under Ecuadorian law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>France&lt;superscript&gt;17&lt;/superscript&gt;</Participant>
+        <text type="para">Referring to the possibility offered by paragraph 3 of arti- cle I of the Convention, France declares that it will apply the Convention on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another contracting State.</text>
+        <text type="para">Referring to paragraphs 1 and 2 of article X of the Conven- tion, France declares that this Convention will extend to all the territories of the French Republic.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;6,18&lt;/superscript&gt;</Participant>
+        <text type="para">"With respect to paragraph 1 of article I, and in accordance with paragraph 3 of article I of the Convention, the Federal Re- public of Germany will apply the Convention only to the recognition and enforcement of awards made in the territory of another Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Greece&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;18 April 1980&lt;/right&gt;</text>
+        <text type="para">The present Convention is approved on condition of the two limitations set forth in article I (3) of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Guatemala</Participant>
+        <text type="para">On the basis of reciprocity, the Republic of Guatemala will apply the above Convention to the recognition and enforcement of arbitral awards made only in the territory of another contract- ing State; and will apply it only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under its national law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Holy See</Participant>
+        <text type="para">The State of Vatican City will apply the said Convention on the basis of reciprocity, on the one hand, to the recognition and enforcement of awards made only in the territory of another Contracting State, and on the other hand, only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under Vatican law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Honduras&lt;superscript&gt;20&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;21 August 2012&lt;/right&gt;</text>
+        <text type="para">The State of Honduras will apply the Convention to the recognition and execution of arbitral [awards] issued in the territory of another Contracting State. Also, it will only apply the Convention to the differences arising out of legal relationships, whether contractual or not, considered as as commercial by national legislation.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary</Participant>
+        <text type="para">"The Hungarian People's Republic shall apply the Conven- tion to the recognition and enforcement of such awards only as have been made in the territory of one of the other Contracting States and are dealing with differences arising in respect of a legal relationship considered by the Hungarian law as a commercial relationship."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>India</Participant>
+        <text type="para">"In accordance with Article I of the Convention, the Gov-ernment of India declare that they will apply the Convention to the recognition and enforcement of awards made only in the territory of a State, party to this Convention. They further declare that they will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the law of India."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Indonesia</Participant>
+        <text type="para">"Pursuant to the provision of article I (3) of the Convention, the Government of the Republic of Indonesia declares that it will apply the Convention on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another Contracting State, and that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the Indonesian Law".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iran (Islamic Republic of)</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"(a) In accordance with article 1 (3) of the Convention, the Islamic Republic of Iran will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the Islamic Republic of Iran;</text>
+        <text type="para">(b) In accordance with article 1 (3) of the Convention, the Islamic Republic of Iran will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of only those awards made in the territory of another Contracting State Party to the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ireland</Participant>
+        <text type="para">"In accordance with article I (3) of the said Convention the Government of Ireland declares that it will apply the Convention to the recognition and enforcement of arbitral awards made only in the territory of another Contracting State".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Jamaica&lt;superscript&gt;21&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;17 October 2003&lt;/right&gt;</text>
+        <text type="title">Reservation:</text>
+        <text type="para">"The Government of Jamaica, on the basis of Reciprocity, will apply the Convention to the recognition and enforcement of awards made only in the territory of another Contracting State, in accordance with article 1 (3).</text>
+        <text type="para">The Government of Jamaica further declares that the Convention will only be applied to differences arising out of legal relationships, whether contractual or not, which are considered to be commercial under the national laws of Jamaica in accordance with article 1 (3) of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Japan</Participant>
+        <text type="para">"It will apply the Convention to the recognition and enforcement of awards made only in the territory of another Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Jordan&lt;superscript&gt;15&lt;/superscript&gt;</Participant>
+        <text type="para">The Government of Jordan shall not be bound by any awards which are made by Israel or to which an Israeli is a party.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kenya</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"In accordance with article I (3) of the said Convention the Government of Kenya declares that it will apply the Convention to the recognition and enforcement of arbitral awards made only in the territory of another contracting state."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kuwait</Participant>
+        <text type="para">The State of Kuwait will apply the Convention to the recognition and enforcement of awards made only in the territory of another Contracting State.</text>
+        <text type="para">It is understood that the accession of the State of Kuwait to the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, done at New York, on the 10th of June 1958, does not mean in any way recognition of Israel or entering with it into relations governed by the Convention thereto acceded by the State of Kuwait.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lebanon</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of Lebanon declares that it will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another Contracting State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Liechtenstein</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">In accordance with article 1 (3) the Principality of Liechtenstein will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another Contracting State.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Lithuania</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">[The Republic of Lithuania] will apply the provisions of the said Convention to the recognition of arbitral awards made in the territories of the Non-Contracting States, only on the basis of reciprocity."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Luxembourg</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Convention is applied on the basis of reciprocity to the recognition and enforcement of only those arbitral awards made in the territory of another Contracting State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Madagascar</Participant>
+        <text type="para">The Malagasy Republic declares that it will apply the Con- vention on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another contracting State; it further declares that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under its national law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Malaysia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of Malaysia will apply the Convention on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another Contracting State. Malaysia further declares that it will apply the Convention only to differences arising out of legal relationships, whether con-tractual or not, which are considered as commercial under Malaysian law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Malta</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"1. In accordance with the relevant provisions of the Convention, Malta will apply the Convention only to the recognition and enforcement of awards made in the territory of another Contracting State.</text>
+        <text type="para">2. The Convention only applies in regard to Malta with respect to arbitration agreements concluded after the date of Malta's accession to the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mauritius&lt;superscript&gt;22&lt;/superscript&gt;</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"Referring to paragraphs 1 and 2 of article X of the Convention, the Republic of Mauritius declares that this Convention will extend to all the territories forming part of the Republic of Mauritius."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Monaco</Participant>
+        <text type="para">Referring to the possibility offered by article I (3) of the Convention, the Principality of Monaco will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another contracting State; furthermore, it will apply the Convention only to differences arising out of legal relationship, whether contractual or not, which are considered as commercial under its national law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mongolia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"1. Mongolia will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of arbitral awards made only in the territory of another Contracting State.</text>
+        <text type="para">2. Mongolia will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of Mongolia."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Montenegro&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <text type="title">Confirmation upon succession:</text>
+        <text type="title">Reservations:</text>
+        <text type="para">"1. The Convention is applied in regard to the Socialist Federal Republic of Yugoslavia only to those arbitral awards which were adopted after the coming of the Convention into effect.</text>
+        <text type="para">"2. The Socialist Federal Republic of Yugoslavia will apply the Convention on a reciprocal basis only to those arbitral awards which were adopted on the territory of the other State Party to the Convention.</text>
+        <text type="para">"3. The Socialist Federal Republic of Yugoslavia will apply the Convention [only] with respect to the disputes arising from the legal relations, contractual and non-contractual, which, according to its national legislation are considered as economic."</text>
+        <text type="title">Declaration:</text>
+        <text type="para">The first reservation only constituted an affirmation of the legal principle of retroactivity and that the third reservation being essentially in accordance with article I (3) of the Convention, the word "only" was therefore to be added to the original text and note taken that the word "economic" had been used therein as a synonym for "commercial".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Morocco</Participant>
+        <text type="para">The Government of His Majesty the King of Morocco will apply the Convention to the recognition and enforcement of awards made only in the territory of another Contracting State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mozambique</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Republic of Mozambique reserves itself the right to enforce the provisions of the said Conventions on the base of reciprocity, where the artibral awards have been pronounced in the territory of another Contracting State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Nepal</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Kingdom of Nepal will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another contracting state. [The Government of Nepal] further declares that the Kingdom of Nepal will apply the Convention only to the differences arising out of legal relationship, whether contractual or not, which are considered as commercial under the law of the Kingdom of Nepal."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="para">Referring to paragraph 3 of article I of the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, the Government of the Kingdom declares that it will apply the Con- vention to the recognition and enforcement of awards made only in the territory of another Contracting State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>New Zealand</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"In accordance with paragraph 3 of article 1 of the Con- vention, the Government of New Zealand declares that it will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another Contracting State.</text>
+        <text type="para">"Accession to the Convention by the Government of New Zealand shall not extend for the time being, pursuant to article X of the Convention, to the Cook Islands and Niue."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Nigeria</Participant>
+        <text type="para">"In accordance with paragraph 3 of article I of the Conven- tion, the Federal Military Government of the Federal Republic of Nigeria declares that it will apply the Convention on the basis of reciprocity to the recognition and enforcement of awards made only in the territory of a State party to this Convention and to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the laws of the Federal Republic of Nigeria."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Norway</Participant>
+        <text type="para">"1. [The Government of Norway] will apply the Convention only to the recognition and enforcement of awards made in the territory of one of the Contracting States."</text>
+        <text type="para">"2. [The Government of Norway] will not apply the Con- vention to differences where the subject matter of the proceedings is immovable property situated in Norway, or a right in or to such property."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Pakistan</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Islamic Republic of Pakistan will apply the Convention to the recognition and enforcement of awards made only in the territory of [a] Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Philippines</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="title">Reservation</text>
+        <text type="para">"The Philippine delegation signs &lt;i&gt;ad referendum &lt;/i&gt; this Con-vention with the reservation that it does so on the basis of reciprocity."</text>
+        <text type="title">Declaration</text>
+        <text type="para">"The Philippines will apply the Convention to the recognition and enforcement of awards made only in the territory of another contracting State pursuant to Article I, paragraph 3 of the Convention."</text>
+        <text type="para">&lt;i&gt;Declaration made upon ratification: &lt;/i&gt; "The Philippines, on the basis of reciprocity, will apply the Convention to the recognition and enforcement of awards made only in the territory of another Contracting State and only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the State making such declaration."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Poland</Participant>
+        <text type="title">Upon signature</text>
+        <text type="para">&lt;i&gt;Reservation:&lt;/i&gt;</text>
+        <text type="para">"With reservation as mentioned in article I, para. 3."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Republic of Korea</Participant>
+        <text type="para">"By virtue of paragraph 3 of article I of the present Convention, the Government of the Republic of Korea declares that it will apply the Convention to the recognition and enforcement of arbitral awards made only in the territory of another Contracting State. It further declares that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under its national law."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Republic of Moldova</Participant>
+        <text type="para">"The Convention will be applied to the Republic of Moldova only relating those arbitral awards that have been brought after entering into force of the Convention.</text>
+        <text type="para">The Convention will be applied tot he Republic of Moldova, on the basis of reciprocity, only relating those awards made in the territory of another Contracting State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Romania</Participant>
+        <text type="para">The Romanian People's Republic will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under its legislation.</text>
+        <text type="para">The Romanian People's Republic will apply the Convention to the recognition and enforcement of awards made in the terri- tory of another Contracting State. As regards awards made in the territory of certain non-contracting States, the Romanian People's Republic will apply the Convention only on the basis of reciprocity established by joint agreement between the parties.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="para">The Union of Soviet Socialist Republics will apply the pro-visions of this Convention in respect of arbitral awards made in the territories of non-contracting States only to the extent to which they grant reciprocal treatment.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Saudi Arabia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">On the Basis of reciprocity, the Kingdom declares that it shall restrict the application of the Convention to the recognition and enforcement of arbitral awards made in the territory of a Contracting State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Participant>
+        <text type="title">Confirmation upon succession:</text>
+        <text type="title">Reservation:</text>
+        <text type="para">"1. The Convention is applied in regard to the Federal Republic of Yugoslavia only to those arbitral awards which were adopted after the coming of the Convention into effect.</text>
+        <text type="para">"2. The Federal Republic of Yugoslavia will apply the Convention on a reciprocal basis only to those arbitral awards which were adopted on the territory of the other State Party to the Convention.</text>
+        <text type="para">"3. Federal Republic of Yugoslavia will apply the Convention [only] with respect to the disputes arising from the legal relations, contractual and non-contractual, which, according to its national legislation are considered as economic."</text>
+        <text type="para">&lt;i&gt;In a latter declaration dated 28 June 1982, the Government of Yugoslavia had specified that : &lt;/i&gt;</text>
+        <text type="para">the first reservation only constituted an affirmation of the legal principle of retroactivity and that the third reservation being essentially in accordance with article I (3) of the Convention, the word "only" was therefore to be added to the original text and note taken that the word "economic" had been used therein as a synonym for "commercial".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Singapore</Participant>
+        <text type="para">"The Republic of Singapore will on the basis of reciprocity apply the said Convention to the recognition and enforcement of only those awards which are made in the territory of another Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Slovenia&lt;superscript&gt;2,23&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>St. Vincent and the Grenadines</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with article 1 of [the] Convention, the Government of Saint Vincent and the Grenadines declares that they will apply the Convention to the recognition and enforcement awards made only in the territory of another Contracting State. They further declare that they will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the laws of Saint Vincent and the Grenadines.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland&lt;superscript&gt;24&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Tajikistan</Participant>
+        <text type="title">Reservation</text>
+        <text type="para">The Republic of Tajikistan will apply this Convention to differences and arbitral [a]wards arised out after entering into force of this Convention with respect to the Republic of Tajikistan and made in the territory of another Contracting State;</text>
+        <text type="para">The Republic of Tajikistan will not apply this Convention with regard to differences related to immovable property.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>The former Yugoslav Republic of Macedonia&lt;superscript&gt;2,10&lt;/superscript&gt;</Participant>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Trinidad and Tobago</Participant>
+        <text type="para">"In accordance with article I of the Convention, the Govern- ment of Trinidad and Tobago declares that it will apply the Con- vention to the recognition and enforcement of awards made only in the territory of another Contracting State. The Government of Trinidad and Tobago further declares that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the Law of Trinidad and Tobago."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Tunisia</Participant>
+        <text type="para">With the reservations provided for in article I, paragraph 3, of the Convention, that is to say, the Tunisian State will apply the Convention to the recognition and enforcement of awards made only in the territory of another Contracting State and only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the Tunisian law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Turkey</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with the Article I, paragraph 3 of the Conven- tion, the Republic of Turkey declares that it will apply the Con- vention on the basis of reciprocity, to the recognition and enforcement of awards made only in the territory of another contracting State. It further declares that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under its national law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Uganda</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Republic of Uganda will only apply the Convention to recognition and enforcement of awards made in the territory of another Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="para">The Ukrainian Soviet Socialist Republic will apply the pro-visions of this Convention in respect of arbitral awards made in the territories of non-contracting States only to the extent to which they grant reciprocal treatment.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;5 May 1980&lt;/right&gt;</text>
+        <text type="para">"The United Kingdom will apply the Convention only to the recognition and enforcement of awards made in the territory of another Contracting State. This declaration is also made on behalf of Gibraltar, Hong Kong and the Isle of Man to which the Convention has been extended."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Republic of Tanzania</Participant>
+        <text type="para">"The Government of the United Republic of Tanganyika and Zanzibar will apply the Convention, in accordance with the first sentence of article I (3) thereof, only to the recognition and enforcement of awards made in the territory of another Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United States of America</Participant>
+        <text type="para">"The United States of America will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of only those awards made in the territory of another Contracting State.</text>
+        <text type="para">"The United States of America will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the United States."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">(a) The Republic of Venezuela will apply the Convention only to the recognition and enforcement of foreign arbitral awards made in the territory of another Contracting State.</text>
+        <text type="para">(b) The Republic of Venezuela will apply the present Con- vention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under its national law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Viet Nam</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">1. [The Socialist Republic of Viet Nam] considers the Convention to be applicable to the recognition and enforcement of arbitral awards made only in the territory of another Contracting State. With respect to arbitral awards made in the territories of non-contracting States, it will apply the Convention on the basis of reciprocity.</text>
+        <text type="para">2. The Convention will be applied only to differences arising out of legal relationships which are considered as commercial under the laws of Viet Nam.</text>
+        <text type="para">3. Interpretation of the Convention before the Vietnamese Courts or competent authorities should be made in accordance with the Constitution and the law of Viet Nam.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were received upon</Title>
+      <Title>ratification, accession or succession.)</Title>
+      <Objection>
+        <Participant>Germany&lt;superscript&gt;6&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;29 December 1989&lt;/right&gt;</text>
+        <text type="para">The Federal Republic of Germany is of the opinion that the second paragraph of the declaration of the Argentine Republic represents a reservation and as such is not only contradictory to article I (3) of the Convention but is also vague and hence inad- missible; it therefore raises an objection to that reservation.</text>
+        <text type="para">In all other respects this objection is not intended to prevent the entry into force of the Convention between the Argentine Republic and the Federal Republic of Germany.</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle>
+      <Title>Declarations and Reservations made upon </Title>
+      <Title>notification of territorial application</Title>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="para">&lt;i&gt;Belize, Bermuda, Cayman Islands, Guernsey, Jersey&lt;/i&gt;</text>
+        <text type="para">[The Convention will apply] . . . "in accordance with article I, paragraph 3 thereof, only to the recognition and enforcement of awards made in the territory of another Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+    </DeclarationsUnderArticle>
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Australia</Participant>
+        <DateNotification>26 Mar 1975</DateNotification>
+        <Territories>All the external territories for the international relations of which Australia is responsible other than Papua New Guinea</Territories>
+      </Application>
+      <Application>
+        <Participant>Denmark&lt;superscript&gt;25&lt;/superscript&gt;</Participant>
+        <DateNotification>10 Feb 1976</DateNotification>
+        <Territories>Faroe Islands and Greenland</Territories>
+      </Application>
+      <Application>
+        <Participant>France</Participant>
+        <DateNotification>26 Jun 1959</DateNotification>
+        <Territories>All the territories of the French Republic</Territories>
+      </Application>
+      <Application>
+        <Participant>Netherlands&lt;superscript&gt;26&lt;/superscript&gt;</Participant>
+        <DateNotification>24 Apr 1964</DateNotification>
+        <Territories>Netherlands Antilles and Suriname</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3,27&lt;/superscript&gt;</Participant>
+        <DateNotification>24 Sep 1975</DateNotification>
+        <Territories>Gibraltar</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>21 Jan 1977</DateNotification>
+        <Territories>Hong Kong</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>22 Feb 1979</DateNotification>
+        <Territories>Isle of Man</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>14 Nov 1979</DateNotification>
+        <Territories>Bermuda</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>26 Nov 1980</DateNotification>
+        <Territories>Belize and Cayman Islands</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>19 Apr 1985</DateNotification>
+        <Territories>Guernsey</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>28 May 2002</DateNotification>
+        <Territories>Bailiwick of Jersey</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>24 Feb 2014</DateNotification>
+        <Territories>British Virgin Islands</Territories>
+      </Application>
+      <Application>
+        <Participant>United States of America</Participant>
+        <DateNotification>3 Nov 1970</DateNotification>
+        <Territories>All the territories for the international relations of which the United States of America is responsible</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the Economic and Social Council, Twenty-first Session, Supplement No. 1 &lt;/i&gt; (E/2889), p. 5.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had acceded to the Convention on 26 February 1982 with the following reservation:</text>
+        <text>"1. The Convention is applied in regard to the Socialist Federal Republic of Yugoslavia only to those arbitral awards which were adopted after the coming of the Convention into effect.</text>
+        <text>2. The Socialist Federal Republic of Yugoslavia will apply the Convention on a reciprocal basis only to those arbitral awards which were adopted on the territory of the other State Party to the Convention.</text>
+        <text>"3. The Socialist Federal Republic of Yugoslavia will apply the Convention [only] with respect to the disputes arising from the legal relations, contractual and non-contractual, which, according to its national legislation are considered as economic."</text>
+        <text>In a latter declaration dated 28 June 1982, the Government of Yugoslavia had specified that the first reservation only constituted an affirmation of the legal principle of retroactivity and that the third reservation being essentially in accordance with article I (3) of the Convention, the word "only" was therefore to be added to the original text and note taken that the word "economic" had been used therein as a synonym for "commercial".</text>
+        <text>See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia , Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 6 and 10 June 1997, the Secretary-General received communications concerning the status of Hong Kong from the Governments of the United Kingdom and China (see also note 2 under China and note 2 under United Kingdom of Great Britain and Northern Ireland regarding Hong Kong in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Hong Kong, China notified the Secretary-General that the Convention with the reservation made by China will also apply to the Hong Kong Special Administrative Region.</text>
+        <text>On 19 July 2005, the Secretary-General received the following declaration from the Government of China:</text>
+        <text>In accordance with the provisions of Article 138 of the Basic Law of the Macao Special Administrative Region of the People's Republic of China, the Government of the People's Republic of China decides that the Convention on the Recognition and Enforcement of Arbitral Awards shall apply to the Macao Special Administrative Region of the People's Republic of China. The statement made by the Government of the People's Republic of China when acceding to the Convention on January 22, 1987, also applies to the Macao Special Administrative Region of the People's Republic of China.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 3 October 1958 and 10 July 1959, with a declaration. For the text of the declaration, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 330, p. 69. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 1 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The German Democratic Republic had acceded to the Convention with declarations, on 20 February 1975. For the text of the declarations, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 959, p. 841. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>On 12 November 1999, the Government of Portugal informed the Secretary-General that the Convention will apply to Macau.</text>
+        <text>Subsequently, the Secretary-General received, on 9 December 1999, from the Government of Portugal, the following communication:</text>
+        <text>In accordance with the Joint Declaration of the Government of the Portuguese Republic and the Government of the People's Republic of China on the Question of Macau signed on 13 April 1987, the Portuguese Republic will continue to have international responsibility for Macau until 19 December 1999 and from that date onwards the People's Republic of China will resume the exercise of sovereignty over Macau with effect from 20 December 1999.</text>
+        <text>From 20 December 1999 onwards the Portuguese Republic will cease to be responsible for the international rights and obligations arising from the application of the Convention to Macau."</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>Accession by the United Arab Republic. See also note 1 under United Arab Republic in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>On 16 September 2009, the Government of the Former Yugoslav Republic of Macedonia notified the Secretary-General of its decision to withdraw the reservation made upon succession to the Convention. The text of the reservation withdrawn reads as follows:</text>
+        <text>2. The Socialist Federal Republic of Yugoslavia will apply the Convention on a reciprocal basis only to those arbitral awards which were adopted on the territory of the other State Party to the Convention.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>On 20 October 2015, the Government of Ukraine made a communication. The text can be found here: C.N.597.2015.TREATIES-XXII.1 of 20 October 2015.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>On 24 February 2014, the Government the United Kingdom of Great Britain and Northern Ireland informed the Secretary-General of the Territorial Application in respect of the British Virgin Island.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>The declaration made upon signature and contained in the Final Act read as follows:</text>
+        <text>"If another Contracting Party extends the application of the Convention to territories which fall within the sovereignty of the Argentine Republic, the rights of the Argentine Republic shall in no way be affected by that extension."</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>In a communication received on 25 February 1988, the Government of Austria notified the Secretary-General of its decision to withdraw as from that date, the reservation made upon accession to the Convention. For the text of the reservation, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 395, p. 274.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>In a communication received by the Secretary-General on 23 June 1980, the Government of Israel declared the following:</text>
+        <text>"The Government of Israel has noted the political character of the statement made by the Government of Jordan. In the view of the Government of Israel, this Convention is not the proper place for making such political pronouncements. Moreover, the said declaration cannot in any way affect whatever obligations are binding upon Jordan under general international law or under particular conventions.</text>
+        <text>"Insofar as concerns the substance of the matter, the Government of Israel will adopt towards the Government of Jordan an attitude of complete reciprocity."</text>
+        <text>A communication identical in essence, &lt;i&gt;mutatis mutandis &lt;/i&gt;, was received by the Secretary-General, on 22 September 1988, from the Government of Israel in respect of the declaration made by Bahrain upon accession.</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>The declaration by Canada received on 20 May 1987, and which originally comprised two parts, was made after accession. It was com- municated by the Secretary-General to all States. None of the Con-tracting Parties having expressed an objection within a period of 90 days from the date of the above-mentioned communication [22 July 1987], the declaration was deemed to have been accepted and replaces the declaration made upon accession which read as follows:</text>
+        <text>"The Government of Canada declares, with respect to the Province of Alberta, that it will apply the Convention only to the recognition and enforcement of awards made in the territory of another Contracting State.</text>
+        <text>"The Government of Canada declares that it will apply the Con- vention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of Canada."</text>
+        <text>Subsequently, on 25 November 1988, the Government of Canada notified the Secretary-General of its decision to withdraw, with effect from that date, the second part of its revised declaration received on 20 May 1987 which read as follows:</text>
+        <text>"The Government of Canada declares, with respect to the Province of Saskatchewan, that it will apply the Convention only to the recognition and enforcement of awards made in the territory of another Contracting State."</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>In a communication received on 27 November 1989, the Government of France notified the Secretary-General of its decision to withdraw, with effect from that date, the declaration relating to the second sentence of its declaration relating to paragraph 3 of article I made upon ratification. For the text of the declaration so withdrawn, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 336, p. 426.</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>In a communication received on 31 August 1998, the Government of Germany notified the Secretary-General of its decision to withdraw the reservation made upon ratification of the Convention. For the text of the reservation, see United Nations, &lt;i&gt; Treaty Series &lt;/i&gt;, vol. 399, p.286.</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>Since the declaration [by Greece and by the United Kingdom] had been made after accession, it was communicated by the Secretary-General to all States concerned on 10 June 1980. None of the Contracting Parties having expressed an objection within a period of 90 days from the date of the above-mentioned communication, the declaration was deemed to have been accepted.</text>
+      </Note>
+      <Note>
+        <index>20</index>
+        <text>In keeping with the depositary practice followed in similar cases, the Secretary-General received the declaration in deposit in the absence of any objection on the part of any of the Contracting States, either to the deposit itself or to the procedure envisaged, within a period of 12 months from the date of the corresponding depositary notification lodged with the Secretary-General on 27 August 2012. As such, the above declaration was accepted in deposit upon the expiration of the abovestipulated 12-month period, that is on 27 August 2013.</text>
+      </Note>
+      <Note>
+        <index>21</index>
+        <text>In keeping with the depositary practice followed in similar cases, the Secretary-General proposed to receive the reservation in question for deposit in the absence of any objection on the part of any of the Contracting States, either to the depositary itself or to the procedure envisaged, within a period of one year from the date of the notification (i.e. 17 October 2002). Within a period of one year from the date of the above depositary notification, none of the Contracting Parties to the above Convention notified the Secretary-General of an objection. Consequently, the reservation is deemed to have been accepted for deposit upon the expiration of the one year period, i.e., on 17 October 2003.</text>
+      </Note>
+      <Note>
+        <index>22</index>
+        <text>On 24 May 2013, the Government of Mauritius notified the Secretary-General of its decision to withdraw partially the declaration made upon accession to the Convention with respect to Article 1 (3):</text>
+        <text>"In accordance with paragraph 3 of article 1 of the Convention, the Republic of Mauritius declares that it will, on the basis of reciprocity, apply the Convention only to the recognition and enforcement of awards made in the territory of another Contracting State."</text>
+      </Note>
+      <Note>
+        <index>23</index>
+        <text>On 4 June 2008, the Government of the Republic of Slovenia notified the Secretary-General of its decision to withdraw the declaration made upon succession to the Convention. The text of the declaration reads as follows:</text>
+        <text>In accordance with paragraph 3 of Article 1, the Republic of Slovenia will apply the Convention, on the basis of reciprocity, to the recognition and enforcement of only those awards made in the territory of another Contracting State. The Republic of Slovenia will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the Republic of Slovenia.</text>
+      </Note>
+      <Note>
+        <index>24</index>
+        <text>On 23 April 1993, the Government of Switzerland notified the Secretary-General of its decision to withdraw the declaration made upon ratification. For the text of the declaration, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 536, p. 477.</text>
+      </Note>
+      <Note>
+        <index>25</index>
+        <text>At the time of acceding to the Convention the Government of Denmark declared, in accordance with article X (1), that it would not apply for the time being to the Faeroe Islands and Greenland.</text>
+        <text>In a communication received on 12 November 1975, the Government of Denmark declared that it had withdrawn the above-mentioned declaration, this decision to take effect on 1 January 1976.</text>
+        <text>In a further communication received on 5 January 1978, the Government of Denmark confirmed that the communication received by the Secretary-General on 12 November 1975 should be considered as having taken effect from 10 February 1976, in accordance with article X (2), it being understood that the Convention was applied &lt;i&gt;de facto &lt;/i&gt; to the Faeroe Islands and Greenland from 1 January to 9 February 1976.</text>
+      </Note>
+      <Note>
+        <index>26</index>
+        <text>See note 1 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>27</index>
+        <text>See also under &lt;i&gt;"Declarations and Reservations" &lt;/i&gt; for the reservation made by the United Kingdom, which was also made on behalf of Gibraltar, Hong Kong &lt;i&gt;(see also note 3 ) &lt;/i&gt; and the Isle of Man.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXII 1. Commercial Arbitration</Footer>
+  </Treaty>
+</Document>

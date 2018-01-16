@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER III</Header>
+        <Name>PRIVILEGES AND IMMUNITIES, DIPLOMATIC AND CONSULAR RELATIONS, ETC</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Titlesect>Convention on the Privileges and Immunities of the Specialized Agencies</Titlesect>
+        <Conclusion>New York, 21 November 1947&lt;superscript&gt;1&lt;/superscript&gt;</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>2 December 1948, in accordance with section 44. The Convention first entered into force as regards the Netherlands by the deposit of the instrument of accession undertaking to apply the provisions of the Convention to various specialized agencies.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>16 August 1949, No. 521</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>128</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 33, p. 261.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>States that are parties to the Convention are listed in the &lt;i&gt;Participant &lt;/i&gt; table below. For the lists of States applying the provisions of the Convention to the respective specialised agencies, see chapters III.2.1 to III.2.17.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2,3&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>15 Dec 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>25 Mar 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry>9 May 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry>14 Dec 1988 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>10 Oct 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>9 May 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>21 Jul 1950 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry>17 Mar 1977 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry>17 Sep 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry>19 Nov 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>18 Mar 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>14 Mar 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry>5 Apr 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>22 Mar 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry>1 Feb 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>13 Jun 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>6 Apr 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>15 Oct 1953 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>30 Apr 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>15 Oct 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>21 Sep 1951 a</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>11 Sep 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry>16 Apr 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>8 Sep 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>12 Oct 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>13 Sep 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>6 May 1964 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>22 Feb 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>8 Dec 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>25 Jan 1950 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry>24 Jun 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>8 Jun 1951 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>28 Sep 1954 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>24 Sep 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>8 Oct 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry>21 Jun 1971 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>31 Jul 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>2 Aug 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>29 Jun 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry>1 Aug 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry>18 Jul 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;6,7,8&lt;/superscript&gt;</Entry>
+                <Entry>10 Oct 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>9 Sep 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>21 Jun 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>30 Jun 1951 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>1 Jul 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry>13 Sep 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>16 Apr 1952 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>16 Aug 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>2 Aug 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>17 Jan 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>10 Feb 1949 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>8 Mar 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>16 May 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>9 Jul 1954 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>10 May 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>30 Aug 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry>4 Nov 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>18 Apr 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>12 Dec 1950 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>1 Jul 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry>13 Nov 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>9 Aug 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>19 Dec 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry>26 Nov 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry>30 Apr 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>10 Feb 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>20 Sep 1950 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>3 Jan 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry>2 Aug 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>29 Mar 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>26 May 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>24 Jun 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>27 Jun 1968 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>18 Jul 1969 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>3 Mar 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>28 Apr 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry>6 Oct 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry>23 Feb 1954 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>2 Dec 1948 a</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry>25 Nov 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>6 Apr 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>15 May 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>26 Jun 1961 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>25 Jan 1950 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>23 Jul 1951 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>13 Jan 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>20 Mar 1950 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>19 Jun 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>8 Nov 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry>10 Jan 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>13 May 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry>2 Sep 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>15 Sep 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>10 Jan 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry>15 Apr 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry>17 Dec 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry>21 Feb 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>2 Mar 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry>24 Jul 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>13 Mar 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>18 Mar 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry>30 Aug 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>26 Sep 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry>2 Sep 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>12 Sep 1951 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>25 Sep 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>30 Mar 1956 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>11 Mar 1996 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>15 Jul 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry>17 Mar 1976 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>19 Oct 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>3 Dec 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>11 Aug 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>13 Apr 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry>11 Dec 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>16 Aug 1949 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>29 Oct 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>29 Dec 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry>18 Feb 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Vanuatu</Entry>
+                <Entry>2 Jan 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry>16 Jun 1975 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry>5 Mar 1991 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon accession. For objections thereto, see hereinafter.)</Title>
+      <Declaration>
+        <Participant>Bahrain</Participant>
+        <text type="para">"The accession by the State of Bahrain to the said Convention shall in no way constitute recognition of Israel or be a cause for the establishment of any relations of any kind herewith."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <text type="para">The Byelorussian Soviet Socialist Republic does not consider itself bound by the provisions of sections 24 and 32 of the Convention, concerning the compulsory jurisdiction of the International Court of Justice. Concerning the jurisdiction of the International Court of Justice in disputes arising out of the interpretation or application of the Convention, the Byelorussian Soviet Socialist Republic will maintain the same position as hitherto, namely, that for any dispute to be referred to the International Court of Justice for settlement, the agreement of all Parties involved in the dispute must be obtained in each individual case. This reservation similarly applies to the provision contained in section 32, stipulating that the advisory opinion of the International Court of Justice shall be accepted as decisive.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria&lt;superscript&gt;12,13&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>China&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <text type="para">The Government of the People's Republic of China has reservations on the provisions of section 32, article IX, of the said Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Côte d'Ivoire</Participant>
+        <text>&lt;right&gt;28 December 1961&lt;/right&gt;</text>
+        <text type="para">It is not possible for any Government fully to comply with the requirements of section 11 of that Convention in so far as it requires the specialized agency to enjoy in the territory of a State party to the Convention treatment not less favourable than that accorded by the Government of that State to any other Government in the matter of priorities and rates on telecommunications, unless and until all other Governments collaborate in according this treatment to the agency in question. It is understood that this matter is being discussed in the International Telecommunication Union.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <text type="para">The Revolutionary Government of Cuba does not consider itself bound by the provisions of sections 24 and 32 of the Convention, under which the International Court of Justice has compulsory jurisdiction in disputes arising out of the interpretation or application of the Convention. Concerning the competence of the International Court of Justice in such disputes, Cuba takes the position that for any dispute to be referred to the International Court of Justice for settlement, the agreement of all parties involved in the dispute must be obtained in each individual case. This reservation also applies to the provision of section 32 requiring the parties concerned to accept the advisory opinion of the International Court of Justice as decisive.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;5,12&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>El Salvador</Participant>
+        <text type="title">Reservation</text>
+        <text type="para">The Government of the Republic of El Salvador does not consider itself bound by the provisions of Article VII, Section 24 and Article IX, Section 32, since it does not recognize the compulsory jurisdiction of the International Court of Justice.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">Only property, funds and assets belonging to agencies, administered by them and earmarked for the functions assigned to them under the agreements by which they were established, and to which France has acceded, shall enjoy the privileges and immunities provided for in the Convention.</text>
+        <text type="para">When an official of the agencies who does not have the same status as a member of the diplomatic staff under the Convention commits a traffic violation or causes a road accident, the privileges and immunities shall not apply.</text>
+        <text type="para">The provisions of section 11 concerning facilities in respect of communications shall not apply to the specialized agencies.</text>
+        <text type="para">Officials employed abroad and resident in France shall be subject to the provisions of the law applicable in France with respect to entry and stay in the national territory.</text>
+        <text type="para">The privileges and immunities, exemptions and facilities accorded to the executive head of each agency in reference to diplomatic envoys shall not be extended to any other official, except one acting on the former's behalf during his absence from duty.</text>
+        <text type="para">The privileges and immunities of experts sent on mission to the specialized agencies shall not exceed those accorded to officials of the specialized agencies.</text>
+        <text type="para">France shall not be bound by the provisions of section 32 concerning the International Court of Justice, except where a prior attempt to settle the difference amicably has failed.</text>
+        <text type="title">Interpretative declaration:</text>
+        <text type="para">In the event of a conflict between the provisions of the Convention and the provisions of the individual agreements concluded between the specialized agencies and France, the provisions of these agreements shall have precedence.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Gabon</Participant>
+        <text type="para">It is not possible for any Government fully to comply with the requirements of section 11 of that Convention in so far as it requires the specialized agency to enjoy in the territory of a State party to the Convention treatment not less favourable than that accorded by the Government of that State to any other Government in the matter of priorities and rates on telecommunications, unless and until all other Governments collaborate in according this treatment to the agency in question. It is understood that this matter is being discussed in the International Telecommunication Union.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;6,8,14&lt;/superscript&gt;</Participant>
+        <text type="para">"The Government of the Federal Republic of Germany takes the liberty of calling attention to the fact that the provisions of section 11 of article IV of the Convention, to the effect that the specialized agencies shall enjoy, in the territory of each State party to this Convention, for their official communications, treatment not less favourable than that accorded by the Government of such State to any other Government in the matter of priorities, rates and other taxes, cannot be fully complied with by any Government. Reference is made to the provisions of article?7 and of annex 3 of the International Telecommunication Convention concluded at Buenos Aires in 1952, as well as to the resolutions Nos. 27 and 28 appended to that Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary&lt;superscript&gt;12,14&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Indonesia&lt;superscript&gt;12,15&lt;/superscript&gt;</Participant>
+        <text type="para">"(1) Article II (b) section 3: The capacity of the specialized agencies to acquire and dispose of immovable property shall be exercised with due regard to national laws and regulations.</text>
+        <text type="para">"(2) Article IX section 32: With regard to the competence of the International Court of Justice in disputes concerning the interpretation or application of the Convention, the Government of Indonesia reserves the right to maintain that in every individual case the agreement of the parties to the dispute is required before the Court for a ruling."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In the event that some of the specialized agencies which are mentioned in the instrument of accession and to which Italy undertakes to apply the Convention should decide to establish their headquarters or their regional offices in Italian territory, the Italian Government will be able to avail itself of the option of concluding with such agencies, in accordance with Section?9 of the Convention supplemental agreements specifying, in particular, the limits within which immunity from jurisdiction may be granted to a given agency or immunity from jurisdiction and exemption from taxation granted to officials of that agency.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lithuania&lt;superscript&gt;16&lt;/superscript&gt;</Participant>
+        <text type="para">"... The Government of the Republic of Lithuania has made the reservation in respect of article 2 (3) (b), that the specialized agencies shall not be entitled to acquire land in the territory of the Republic of Lithuania, in view of the land regulations laid down by the Article 47 of the Constitution of the Republic of Lithuania."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Madagascar</Participant>
+        <text type="para">The Malagasy Government will not be able to comply fully with the provisions of article IV, section 11, of the Convention, which states that the specialized agencies shall enjoy, in the territory of each State party to the Convention, for their official communications, treatment not less favourable than that accorded by the Government of such State to any other Government, in the matter of priorities, rates and taxes on telecommunications, until such time as all Governments decide to co-operate by according such treatment to the agencies in question.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mongolia&lt;superscript&gt;12,17&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>New Zealand</Participant>
+        <text type="para">"The Government of New Zealand, in common with other Governments, cannot give full effect to article IV, section 11, of the Convention, which requires that the specialized agencies shall enjoy, in the territory of each State party to the Convention, for their official communications, treatment not less favourable than the treatment accorded by the Government of such a State to any other Government in the matter of priorities, rates and taxes on telecommunications, as long as all Governments have not decided to co-operate in granting this treatment to the agencies in question.</text>
+        <text type="para">"It is noted that this matter has been receiving the consideration of the United Nations and of the International Telecommunication Union. It is also noted that the final text of the annex of the Convention approved by the International Telecommunication Union, and transmitted by the Union to the Secretary- General of the United Nations in accordance with section 36 of the Convention, contains a statement that the Union would not claim for itself the enjoyment of privileged treatment with regard to the facilities in respect of communications provided in section 11 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Norway</Participant>
+        <text>&lt;right&gt;20 September 1951&lt;/right&gt;</text>
+        <text type="para">"The Norwegian Government is of the opinion that it is impossible for any government to comply fully with Section 11 of the said Convention, which requires that the Specialized Agencies shall enjoy, in the territory of each state party to the Convention, for their official communications, treatment no less favourable than that accorded by the Government of such State to any other Government in the matter of priorities, rates and taxes on telecommunications as long as all governments have not agreed to grant to the agency in question, the treatment specified in this Section."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Pakistan</Participant>
+        <text type="title">Declaration contained in the notification received on 15September 1961 and also, with the second paragraph omitted, in the notifications received on 13 March 1962 and 17July 1962:</text>
+        <text type="para">"The enjoyment by Specialized Agencies of the communication privileges provided for in Article IV, Section 11 of the Convention cannot, in practice, be determined by unilateral action of individual Governments and has in fact been determined by the International Telecommunication Convention, Atlantic City, 1947 and Telegraph and Telephone Regulations annexed thereto, Pakistan would, therefore, not be able to comply with the provisions of Article IV, Section 11 of the Convention in view of Resolution No. 28 (annexure I) passed at the Plenipotentiary Conference of the International Telecommunication Union, held in Buenos Aires in 1952.</text>
+        <text type="para">"The International Telecommunication Union shall not claim for itself the communication privileges provided in Article IV, Section 11 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Poland&lt;superscript&gt;12,18&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Qatar</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The State of Qatar does not consider itself bound by article VII, section 24 or by article IX, section 32 of the Convention, which provide for the compulsory jurisdiction of the International Court of Justice in the event of differences arising from the interpretation of the Convention. The State of Qatar considers that, in order for any given dispute to be referred to the International Court of Justice for resolution, all parties to the dispute must give their agreement. Moreover, the State of Qatar does not consider the advisory opinion of the International Court of Justice to be final and decisive as stated in article VII, section 24 and in article IX, section 32.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Romania&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <text type="para">The Socialist Republic of Romania states that it does not consider itself bound by the provisions of sections 24 and 32, whereby the question whether an abuse of a privilege or immunity has occurred, and differences arising out of the interpretation or application of the Convention and disputes between specialized agencies and Member States, shall be referred to the International Court of Justice. The position of the Socialist Republic of Romania is that such questions, differences or disputes may be referred to the International Court of Justice only with the agreement of the parties in each individual case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration made upon accession and also contained in the notification received on 16 November 1972:</text>
+        <text type="para">The Union of Soviet Socialist Republics does not consider it self bound by the provisions of sections 24 and 32 of the Convention, concerning the compulsory jurisdiction of the International Court of Justice. Concerning the jurisdiction of the International Court of Justice in disputes arising out of the interpretation or application of the Convention, the USSR will maintain the same position as hitherto, namely, that for any dispute to be referred to the International Court of Justice for settlement, the agreement of all Parties involved in the dispute must be obtained in each individual case. This reservation similarly applies to the provision contained in section 32, stipulating that the advisory opinion of the International Court of Justice shall be accepted as decisive.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;5,12&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>South Africa</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">"1. The Government of the Republic of South Africa does not consider itself bound by the provisions of Article III, Section 7 in so far as it relates to the buying, selling and holding of gold as certain limitations exist in the Republic regarding the buying, selling and holding of gold.</text>
+        <text type="para">Explanatory note: the buying, selling and holding of gold in the Republic is regulated. In terms of Exchange Control Regulation 2 no person other than an Authorized Dealer may buy or borrow any gold from, or sell, to any person not being an Authorized Dealer, unless exemption from Exchange Control Regulation 5 has been authorized (Mining Houses and Mining Producers may elect to sell their total gold holdings to the approved counter parties, including foreign counter parties, provided that the Exchange Control Department of the South African Reserve Bank has given the necessary exemption from the aforementioned regulation).</text>
+        <text type="para">2. Pending a decision by the Government of the Republic of South Africa on the compulsory jurisdiction of the International Court of Justice, the Government of the Republic does not consider itself bound by the terms of Article IX, Section 32 of the Convention which provides for the compulsory jurisdiction of the International Court of Justice in differences arising out of the interpretation or application of the Convention. The Republic will adhere to the position that, for the submission of a particular dispute for settlement by the International Court, the consent of all the parties to the dispute is required in every individual case. This reservation is equally applicable to the provisions contained in the said section, which stipulate that the advisory opinion of the International Court is to be accepted as decisive."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <text type="para">The Ukrainian Soviet Socialist Republic does not consider itself bound by the provisions of sections 24 and 32 of the Convention, concerning the compulsory jurisdiction of the International Court of Justice. Concerning the jurisdiction of the International Court of Justice in disputes arising out of the interpretation or application of the Convention, the Ukrainian Soviet Socialist Republic will maintain the same position as hitherto, namely, that for any dispute to be referred to the International Court of Justice for settlement, the agreement of all Parties involved in the dispute must be obtained in each individual case. This reservation similarly applies to the provision contained in section 32, stipulating that the advisory opinion of the International Court of Justice shall be accepted as decisive.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="para">"It is not possible for any Government fully to comply with the requirements of Section 11 of that Convention in so far as it requires the Specialized Agency to enjoy in the territory of a state party to the Convention treatment not less favourable than that accorded by the Government of that state to any other Government in the matter of priorities and rates on telecommunications, unless and until all other Governments collaborate in according this treatment to the Agency in question. It is understood that this matter is being discussed in the International Telecommunication Union."</text>
+        <text>&lt;right&gt;17 December 1954&lt;/right&gt;</text>
+        <text type="para">"With regard to the Universal Postal Union and the World Meteorological Organization, ... no Government can fully comply with Section 11 of this Convention which requires that the specialized agencies shall enjoy, in the territory of each State party to the Convention, for their official communications, treatment not less favourable than that accorded by the Government of such a State to any other Government in the matter of priorities, rates and taxes on telecommunications so long as all the other Governments have not decided to co-operate in granting this treatment to the agencies in question. This matter is under consideration by the United Nations and the International Telecommunication Union.</text>
+        <text type="para">"The final text of the annex to the Convention approved by the International Telecommunication Union and transmitted by the Union to the Secretary-General of the United Nations in accordance with Section 36 of the Convention contains a statement that the Union would not claim for itself the enjoyment of privileged treatment with regard to the facilities in respect of communications provided in Section 11 of the Convention."</text>
+        <text>&lt;right&gt;4 November 1959&lt;/right&gt;</text>
+        <text type="para">"Her Majesty's Government observe [in connection with its notification of application to the International Maritime Organisation] that it would be impracticable for any Government fully to comply with Section 11 of the Convention which requires that the Specialized Agencies shall enjoy, in the territory of each State party to the Convention, for their official communications, treatment not less favourable than that accorded by the Government of such State to any other Government in the matter of priorities, rates and taxes on telecommunications, until such time as all the other Governments have decided to co-operate in granting this treatment to the agencies in question. This matter is under consideration by the United Nations and the International Telecommunication Union."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made upon accession or succession.)</Title>
+      <Objection>
+        <Participant>Netherlands&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;11 January 1980&lt;/right&gt;</text>
+        <text type="para">"The Government of the Kingdom of the Netherlands has noted the reservation made on the accession of China to the Convention on the privileges and immunities of the specialized agencies, and is of the opinion that the reservation mentioned, and similar reservations other States have made in the past or may make in the future, are incompatible with the objectives and purposes of the Convention.</text>
+        <text type="para">The Government of the Kingdom of the Netherlands does, however, not wish to raise a formal objection to these reservations made by States parties to the Convention."</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Germany</Participant>
+        <DateNotification>10 Oct 1957</DateNotification>
+        <Territories>Land Berlin</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>10 Oct 1957</DateNotification>
+        <Territories>Saar</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>Resolution 179 (II); &lt;i&gt;Official Records of the Second Session of the General Assembly, Resolutions &lt;/i&gt; (A/519), p. 112.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had acceeded to the Convention on 23 November 1951. See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>&lt;b&gt;Final texts or revised texts of annexes transmitted to the Secretary-General by the specialized agencies concerned and dates of their receipt by the Secretary-General&lt;/b&gt;</text>
+        <text>1. Annex I--International Labour Organisation (ILO) 14 Sep 1948</text>
+        <text>2. Annex II--Food and Agriculture Organization of the United Nations (FAO) 13 Dec 1948</text>
+        <text>a) Revised text of annex II 26 May 1960</text>
+        <text>b) Second revised text of annex II 28 Dec 1965</text>
+        <text>3. Annex III--International Civil Aviation Organization (ICAO) 11 Aug 1948</text>
+        <text>4. Annex IV--United Nations Educational, Scientific and Cultural Organization (UNESCO) 7 Feb 1949</text>
+        <text>5. Annex V--International Monetary Fund (IMF) 9 May 1949</text>
+        <text>6. Annex VI--International Bank for Reconstruction and Development (IBRD) 29 Apr 1949</text>
+        <text>7. Annex VII--World Health Organization (WHO) 2 Aug 1948</text>
+        <text>a) Revised text of annex VII 5 Jun 1950</text>
+        <text>b) Second revised text of annex VII 1 Jul 1957</text>
+        <text>c) Third revised text of annex VII 25 Jul 1958</text>
+        <text>8. Annex VIII--Universal Postal Union (UPU) 11 Jul 1949</text>
+        <text>9. Annex IX--International Telecommunication Union (ITU) 16 Jan 1951</text>
+        <text>10. Annex X--International Refugee Organization (IRO)2 4 Apr 1949</text>
+        <text>11. Annex XI--World Meteorological Organization (WMO) 29 Dec 1951</text>
+        <text>12. Annex XII--International Maritime Organization (IMO) 12 Feb 1959</text>
+        <text>a) Revised text of annex XII 9 Jul 1968</text>
+        <text>b) Second revised text of annex XII 21 Nov 2001</text>
+        <text>13. Annex XIII--International Finance Corporation (IFC) 22 Apr 1959</text>
+        <text>14. Annex XIV--International Development Association (IDA) 15 Feb 1962</text>
+        <text>15. Annex XV--World Intellectual Property Organization (WIPO) 19 Oct 1977</text>
+        <text>16. Annex XVI--International Fund for Agricultural Development (IFAD) 16 Dec 1977</text>
+        <text>17. Annex XVII--United Nations Industrial Development Organization (UNIDO) 15 Sep 1987</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 2 under China and note 2 under United Kingdom of Great Britain and Northern Ireland regarding Hong Kong in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>Czechoslovakia had acceded to the Convention on 29 December 1966 in respect of the following agencies: ILO, ICAO, UNESCO, WHO, UPU, ITU, WMO and IMO. Subsequently, on 6 September 1988 and 26 April 1991, the Government of Czechoslovakia notified the Secretary-General that it applied the Convention in respect of FAO (second revised text of annex II), WIPO, and UNIDO, and IMF, IBRD, IFC and IDA, respectively. The instrument of accession also contained a reservation, subsequently withdrawn on 26 April 1991. For the text of the reservation, see United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 586, p. 247. See also note 12 in this chapter and note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The German Democratic Republic had acceded to the Convention, with a reservation, on 4 October 1974 in respect of the following specialized agencies: ILO, UNESCO, WHO (third revised text of annex VII), UPU, ITU, WMO, IMO (revised text of annex XII). For the text of the reservation see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 950, p.357. See also note 12 in this chapter and note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>In a communication received by the Secretary-General on 10 October 1957, the Government of the Federal Republic of Germany declared that the Convention will also apply to the Saar Territory except that Section 7 (b) of the Convention shall not take effect with regard to the Saar Territory until the expiration of the interim period defined in article 3 of the Treaty of 27 October 1956 between France and the Federal Republic of Germany.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under Germany regarding Berlin?West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>See note 1 under Montenegro in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>The instrument of accession by the Government of Nepal was deposited with the Director-General of the World Health Organization, in accordance with section 42 of the Convention.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>See note 1 under "New Zealand" " regarding Tokelau in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>The Government of the United Kingdom of Great Britain and Northern Ireland notified the Secretary-General, on the dates indicated, that it is unable to accept certain reservations made by the States listed below because in its view they are not of the kind which intending parties to the Convention have the right to make:</text>
+        <table>
+          <totalCols>2</totalCols>
+          <row>
+            <col>Date of receipt of the objection:</col>
+            <col>With respect to reservation by:</col>
+          </row>
+          <row>
+            <col>20 Jun 1967</col>
+            <col>Belarus</col>
+          </row>
+          <row>
+            <col>20 Jun 1967</col>
+            <col>Czecholsvakia</col>
+          </row>
+          <row>
+            <col>20 Jun 1967</col>
+            <col>Ukraine</col>
+          </row>
+          <row>
+            <col>20 Jun 1967</col>
+            <col>Russian Federation</col>
+          </row>
+          <row>
+            <col>11 Jan 1968</col>
+            <col>Hungary</col>
+          </row>
+          <row>
+            <col>12 Aug 1968</col>
+            <col>Bulgaria</col>
+          </row>
+          <row>
+            <col>2 Dec 1969</col>
+            <col>Poland</col>
+          </row>
+          <row>
+            <col>17 Aug 1970</col>
+            <col>Mongolia</col>
+          </row>
+          <row>
+            <col>30 Nov 1970</col>
+            <col>Romania</col>
+          </row>
+          <row>
+            <col>21 Sep 1972</col>
+            <col>Indonesia</col>
+          </row>
+          <row>
+            <col>1 Nov 1972</col>
+            <col>Cuba</col>
+          </row>
+          <row>
+            <col>20 Nov 1974</col>
+            <col>Germany</col>
+          </row>
+          <row>
+            <col>6 Nov 1979</col>
+            <col>China</col>
+          </row>
+          <row>
+            <col>21 Apr 1983</col>
+            <col>Hungary</col>
+          </row>
+        </table>
+        <text />
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>On 24 June 1992, the Government of Bulgaria notified the Secretary-General its decision to withdraw the reservation made upon accession. For the text of the reservation, see United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 638, p. 266.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>In a communication received on 8 December 1989, the Government of Hungary notified the Secretary-General that it had decided to withdraw the reservations in respect of sections 24 and 32 of the Convention made upon accession. For the text of the reservations, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 602, p. 300.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>In a communication received on 10 January 1973, the Government of Indonesia informed the Secretary-General, in reference to the reservation [concerning the capacity to acquire and dispose of immovable property] that it would grant to the Specialized Agencies the same privileges and immunities which it had granted to the International Monetary Fund and the International Bank for Reconstruction and Development.</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>By 4 December 1998, the date on which the period specified for the notification of objections by the Specialized Agencies concerned to the reservation made by Lithuania upon accession expired, no objection had been notified to the Secretary-General. Consequently, the instrument of accession by the Government of Lithuania, including the reservation, was deposited with the Secretary General on 10 February 1997.</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>Subsequently, in a communication received on 19 July 1990, the Government of Mongolia notified the Secretary-General of its decision to withdraw the reservation made upon accession. For the text of the reservation, see United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 719, p. 274.</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>On 16 October 1997, the Government of Poland notified the Secretary-General that it had decided to withdraw its reservation with regard to sections 24 and 32 of the Convention made upon accession. For the text of the reservation see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 677, p. 430.</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>In a communication received by the Secretary-General on 28January 1980, the Government of the Netherlands indicated that the statement concerning their wish not to raise a formal objection to these reservations</text>
+        <text>"... is intended to mean that the Government of the Kingdom of the Netherlands does not oppose the entry into force of the Convention between itself and the reserving states."</text>
+      </Note>
+    </EndNotes>
+    <Footer>III 2. Privileges and Immunities, Diplomatic and Consular Relations, etc</Footer>
+  </Treaty>
+</Document>

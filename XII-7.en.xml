@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XII</Header>
+        <Name>NAVIGATION</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>7</Numsect>
+        <Titlesect>United Nations Convention on Conditions for Registration of Ships</Titlesect>
+        <Conclusion>Geneva, 7 February 1986</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 19 which reads as follows: "1. This Convention shall enter into force 12 months after the date on which not less than 40 States, the combined tonnage of which amounts to at least 25 per cent of the world tonnage, have become Contracting Parties to it in accordance with article 18. For the purpose of this article the tonnage shall be deemed to be that contained in annex III to this Convention. 2. For each State which becomes a Contracting Party to this Convention after the conditions for entry into force under paragraph 1 of this article have been met, the Convention shall enter into force for that State 12 months after that State has become a Contracting Party.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>14</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>15</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc. &lt;a href="/doc/source/docs/TD_RS_CONF_19_Add.1_E.pdf" target="_blank"&gt;TD/RS/CONF/19/Add.1&lt;/a&gt; and &lt;a href="/doc/source/docs/TD_RS_CONF_19_Add.1_Corr.1_E.pdf" target="_blank"&gt;TD/RS/CONF/19/Add.1/Corr.1&lt;/a&gt;; depositary notifications C.N.131.1986.TREATIES-3 of 30 July?986 (procès-verbal of rectification of original Russian text) and C.N.246.1987.TREATIES-6 of 12 November 1987 (procès-verbal of rectification of original French text).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by a Conference of plenipotentiaries which met at Geneva from 20 January to 7 February 1986 under the auspices of the UnitedNations Conference on Trade and Development, in accordance with resolution &lt;a href="/doc/source/docs/E_RES_37_209-E.pdf" target="_blank"&gt;37/209&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of the General Assembly of the United Nations dated 20 December 1982. The Conference on Conditions for Registration of Ships had held its first part from 16 July to 3 August 1984, and had resumed its work, first at its second part from 28 January to 15 February 1985 and then, at its third part from 8 to 19 July 1985, before adopting the Convention at its fourth and last part. Open for signature from 1 May 1986 to 30 April 1987 in New York.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature, Succession to signature(d)</Entry>
+              <Entry colname="3">Ratification, Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>4 Oct 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>24 Feb 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>18 Aug 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>27 Dec 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>29 Dec 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>2 Apr 1987</Entry>
+                <Entry>28 Oct 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>2 Jun 1993 d</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>3 Mar 1987</Entry>
+                <Entry>9 Jan 1992</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>7 Aug 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry />
+                <Entry>29 Aug 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry />
+                <Entry>17 May 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>23 Jan 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>26 Jan 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry />
+                <Entry>1 Feb 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry>21 Apr 1987</Entry>
+                <Entry>28 Feb 1989</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>7 Aug 1986</Entry>
+                <Entry>21 Jan 1988</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>31 Jul 1986</Entry>
+                <Entry>19 Sep 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>18 Oct 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>1 Apr 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>12 Feb 1987</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>16 Jul 1986</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>28 May 1993 d</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>29 Sep 2004 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification or accession.)</Title>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="title">Upon signature :</text>
+        <text type="para">The USSR regards the reference to "Democratic Kampuchea" in the list of countries compiled for the purposes of the present Convention as unlawful, inasmuch as all matters relating to Kampuchean participation in international treaties and agreements lie exclusively within the competence of the Government of the People's Republic of Kampuchea.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Syrian Arab Republic</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">[The Government of the Syrian Arab Republic] wishes to affirm that the accession of the Syrian Arab Republic to this Convention does not in any way imply its recognition of Israel, nor will it lead to any dealings with Israel under the articles of this Convention.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the General Assembly, Thirty-seventh session, Supplement No. 51 &lt;/i&gt; (A/37/51), p. 139.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Czechoslovakia had signed the Convention on 9 April 1987. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XII 7. Navigation</Footer>
+  </Treaty>
+</Document>

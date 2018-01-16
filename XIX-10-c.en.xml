@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>10</Numsect>
+        <Subnumsect>c</Subnumsect>
+        <Subtitlesect>Second extension of the International Sugar Agreement, 1973, as extended*</Subtitlesect>
+        <Conclusion>Geneva, 18 June 1976</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 January 1977, in accordance with pargraph 2 of Resolution No. 2 adopted by the International Sugar Council on 18 June 1976. The Agreement expired on 31 December 1977 in accordance with its provisions.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 January 1977, No. 12951</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1031, p. 402.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>XIX 10 c. Commodities</Footer>
+  </Treaty>
+</Document>

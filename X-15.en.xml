@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>15</Numsect>
+        <Titlesect>United Nations Convention on Independent Guarantees and Stand-by Letters of Credit</Titlesect>
+        <Conclusion>New York, 11 December 1995</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 January 2000, in accordance with article 28(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 January 2002, No. 38030</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>4</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>8</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 2169, p. 163; depositary notification C.N.317.1997.TREATIES-3 of 18 August 1997 (procès-verbal of rectification of the authentic Arabic, Chinese, English, French, Russian and Spanish texts).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The draft Convention was prepared by the Working Group on International Contract Practices and submitted to the United Nations Commission on International Trade Law. The Commission decided at its twenty-eighth session (2-28 May 1995) to submit the draft Convention to the General Assembly for its consideration. Subsequently, the Convention was adopted by the General Assembly at its fiftieth session by resolution No. 48&lt;superscript&gt;1&lt;/superscript&gt;. The Convention is open for signature at the United Nations Headquarters in New York until 11 December 1997.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Approval(AA), Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>3 Dec 1996</Entry>
+                <Entry>23 Jan 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>18 Jun 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>5 Sep 1997</Entry>
+                <Entry>31 Jul 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>15 Dec 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry />
+                <Entry>28 Oct 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>9 Jul 1997</Entry>
+                <Entry>21 May 1998</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>8 Dec 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>11 Dec 1997</Entry>
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>Document A/RES/50/48.</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 15. International Trade and Development</Footer>
+  </Treaty>
+</Document>

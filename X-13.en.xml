@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>13</Numsect>
+        <Titlesect>United Nations Convention on the Liability of Operators of Transport Terminals in International Trade</Titlesect>
+        <Conclusion>Vienna, 19 April 1991</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 22 which reads as follows: "1. This Convention enters into force on the first day of the month following the expiration of one year from the date of deposit of the fifth instrument of ratification, acceptance, approval or accession. 2. For each State which becomes a Contracting State to this Convention after the date of the deposit of the fifth instrument of ratification, acceptance, approval or accession, this Convention enters into force on the first day of the month following the expiration of one year after the date of the deposit of the appropriate instrument on behalf of that State. 3. Each State Party shall apply the provisions of this Convention to transport-related services with respect to goods taken in charge by the orperator on or after the date of the entry into force of this Conventio in respect of that State.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>5</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>4</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc.&lt;a href="/doc/source/docs/A_CONF_152_13-E.pdf" target="_blank"&gt; A/CONF/152/13&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the UnitedNations Conference on the Liability of Operators of Transport Terminals in International Trade on 19 April 1991 at Vienna. In accordance with article 18(1), it was open for signature at the concluding meeting of the Conference and will remain open for signature by all States at the Headquarters of the United Nations, New York, until 30 April 1992.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Approval(AA), Acceptance(A), Accession(a), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>6 Apr 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>15 Oct 1991</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>15 Dec 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>21 Mar 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>19 Apr 1991</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>19 Jul 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>19 Apr 1991</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>19 Apr 1991</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>30 Apr 1992</Entry>
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>X 13. International Trade and Development</Footer>
+  </Treaty>
+</Document>

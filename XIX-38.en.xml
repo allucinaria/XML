@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>38</Numsect>
+        <Titlesect>International Cocoa Agreement, 1993*</Titlesect>
+        <Conclusion>Geneva, 16 July 1993</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 22 February 1994, in accordance with article 56. This Agreement was extended, in whole, until 30 September 2001 and 30 September 2003, respectively, by International Cocoa Council decisions taken at its fifty-eighth regular, and twenty-third special sessions held in London from 3 to 9 September 1998, and 9 to 10 July 2001. The Agreement was terminated and replaced on 1 October 2003 in accordance with its provisions.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>22 February 1994, No. 30692</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>40</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>32</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1766, p.?.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was adopted by the United Nations Conference on Cocoa on 16 July 1993, and is the successor Agree- ment to the International Cocoa Agreement, 1986. The International Cocoa Agreement, 1993, was open for signature at the United Nations Headquarters from 16 August 1993 until 30 September 1993, by Parties to the International Cocoa Agreement, 1986, and Governments invited to the United Nations Cocoa Conference, 1992, in accordance with its article 52.</Text>
+        </TreatyNote>
+        <Termination>
+          <Label>TERMINATION</Label>
+          <Labeltext>Terminated and replaced on 1 October 2003 in accordance with its provisions.</Labeltext>
+        </Termination>
+      </ExternalData>
+    </Header>
+    <Footer>XIX 38. Commodities</Footer>
+  </Treaty>
+</Document>

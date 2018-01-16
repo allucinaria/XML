@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVI</Header>
+        <Name>STATUS OF WOMEN</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Convention on the Political Rights of Women</Titlesect>
+        <Conclusion>New York, 31 March 1953</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>7 July 1954, in accordance with article VI.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>7 July 1954, No. 2613</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>47</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>123</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 193, p. 135.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was opened for signature pursuant to resolution &lt;a href="/doc/source/docs/A_RES_640_VII-E.pdf" target="_blank"&gt;640 (VII)&lt;/a&gt;,&lt;superscript&gt;1&lt;/superscript&gt; adopted by the General Assembly of the United Nations on 20 December 1952.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2,3&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry />
+                <Entry>16 Nov 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>12 May 1955 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>5 Aug 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry />
+                <Entry>17 Sep 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>25 Oct 1988 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>27 Feb 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>24 Jan 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>10 Dec 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>19 Oct 1959</Entry>
+                <Entry>18 Apr 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry />
+                <Entry>16 Aug 1977 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>5 Oct 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>12 Jan 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>11 Aug 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>20 May 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>9 Apr 1953</Entry>
+                <Entry>22 Sep 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>20 May 1953</Entry>
+                <Entry>13 Aug 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>17 Mar 1954 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>9 Dec 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry />
+                <Entry>18 Feb 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>11 Nov 2001</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>30 Jan 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>4 Sep 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>18 Oct 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>5 Aug 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>15 Oct 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>25 Jul 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>18 Dec 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Oct 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>8 Apr 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>10 Sep 1968</Entry>
+                <Entry>12 Nov 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Feb 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry />
+                <Entry>12 Oct 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>29 Oct 1953</Entry>
+                <Entry>7 Jul 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>11 Dec 1953</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>23 Apr 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>8 Sep 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>24 Jun 1953</Entry>
+                <Entry>26 Mar 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>21 Jan 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>12 Jun 1972 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>6 Oct 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>22 Apr 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>19 Apr 1967</Entry>
+                <Entry>19 Apr 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>6 Jul 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;7,8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>4 Nov 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry />
+                <Entry>28 Dec 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>1 Apr 1953</Entry>
+                <Entry>29 Dec 1953</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>7 Oct 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>19 Mar 1975</Entry>
+                <Entry>24 Jan 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>23 Jul 1957</Entry>
+                <Entry>12 Feb 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>2 Sep 1954</Entry>
+                <Entry>20 Jan 1955</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>25 Nov 1953</Entry>
+                <Entry>30 Jun 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>29 Apr 1953</Entry>
+                <Entry>1 Nov 1961</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>16 Dec 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>14 Nov 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>14 Apr 1953</Entry>
+                <Entry>6 Jul 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry />
+                <Entry>6 Mar 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>14 Aug 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>1 Apr 1955</Entry>
+                <Entry>13 Jul 1955</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>1 Jul 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>28 Mar 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>10 Feb 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>28 Jan 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>14 Apr 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>24 Feb 1954</Entry>
+                <Entry>5 Jun 1956</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>4 Nov 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>9 Dec 1953</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>16 May 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>4 Jun 1969</Entry>
+                <Entry>1 Nov 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>12 Feb 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>29 Jun 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>16 Jul 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>9 Jul 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>4 May 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>18 Jul 1969 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>23 Mar 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>18 Aug 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>22 Nov 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry>14 Sep 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>26 Apr 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>8 Aug 1968</Entry>
+                <Entry>30 Jul 1971</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry />
+                <Entry>22 May 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>17 Jan 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>7 Dec 1964 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>11 Jul 1980</Entry>
+                <Entry>17 Nov 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>18 Sep 1953</Entry>
+                <Entry>24 Aug 1956</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>18 May 1954</Entry>
+                <Entry>7 Dec 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry />
+                <Entry>27 Jan 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>16 Nov 1953</Entry>
+                <Entry>22 Feb 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>1 Jul 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>23 Sep 1953</Entry>
+                <Entry>12 Sep 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>11 Aug 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>23 Jun 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>26 Jan 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>27 Apr 1954</Entry>
+                <Entry>6 Aug 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>3 May 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>26 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>2 May 1963 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>25 Jul 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>3 Sep 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry>29 Jan 1993</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>14 Jan 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>27 Apr 1999 d</Entry>
+              </Row>
+              <Row>
+                <Entry>State of Palestine</Entry>
+                <Entry />
+                <Entry>2 Jan 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry />
+                <Entry>20 Jul 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>6 Oct 1953</Entry>
+                <Entry>31 Mar 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>7 Jun 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>5 Mar 1954</Entry>
+                <Entry>30 Nov 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>24 Jun 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>24 Jan 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>12 Jan 1954</Entry>
+                <Entry>26 Jan 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>11 Oct 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>21 Jun 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>31 Mar 1953</Entry>
+                <Entry>15 Nov 1954</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry />
+                <Entry>24 Feb 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry />
+                <Entry>19 Jun 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry />
+                <Entry>8 Apr 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>26 May 1953</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>29 Sep 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>31 May 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>9 Feb 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>4 Feb 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>5 Jun 1995 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon ratification,</Title>
+      <Title>accession or succession. For objections thereto and territorial applications, see hereinafter.)</Title>
+      <Declaration>
+        <Participant>Albania</Participant>
+        <text type="para">1. &lt;i&gt;As regards Article VII &lt;/i&gt;: The People's Republic of Albania declares its disagreement with the last sentence of article VII and considers that the juridical effect of a reservation is to make the Convention operative as between the State making the reservation and all other States parties to the Convention, with the exception only of that part thereof to which the reservation relates.</text>
+        <text type="para">2. &lt;i&gt;As regards Article IX: &lt;/i&gt; The People's Republic of Albania does not consider itself bound by the provisions of article IX which provides that disputes between Contracting Parties con- cerning the interpretation or application of this Convention shall at the request of any one of the parties to the dispute be referred to the International Court of Justice for decision, and declares that for any dispute to be referred to the International Court of Justice for decision the agreement of all the parties to the dispute shall be necessary in each individual case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Antigua and Barbuda</Participant>
+        <text type="para">"The Government of Antigua and Barbuda reserves from the application of this Convention all matters relating to the recruit- ment to, and conditions of service in, the armed forces of Antigua and Barbuda."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="para">The Argentine Government reserves the right not to submit to the procedure set out in this article [article IX] any dispute which is directly connected with territories which fall within Argentine sovereignty.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Australia</Participant>
+        <text type="para">"The Government of Australia hereby declares that the accession by Australia shall be subject to the reservation that article III of the Convention shall have no application as regards recruitment to and conditions of service in the Defence Forces.</text>
+        <text type="para">"The Government of Australia furthermore declares that the Convention shall not extend to Papua New Guinea."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Austria&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Bangladesh&lt;superscript&gt;13&lt;/superscript&gt;</Participant>
+        <text type="title">Declarations:</text>
+        <text type="title">Article III:</text>
+        <text type="para">"The Government of the People's Republic of Bangladesh will apply article III of the Convention in consonance with the relevant provisions of the Constitution of Bangladesh and in particular, article 28 (4) allowing special provision in favour of women; article 29.3 (c) allowing reservation of any class of employment or office for one sex on the ground that it is considered by its nature to be unsuited to members of the opposite sex; and article 65 (3) providing for reservation of 30 seats in the National Assembly for women in addition to the provision allowing women to be elected to any and all of the 300 seats.</text>
+        <text type="title">Article IX:</text>
+        <text type="para">For the submission of any dispute in terms of this article to the jurisdiction of the International Court of Justice, the consent of all the parties to the dispute will be required in each case."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus&lt;superscript&gt;14&lt;/superscript&gt;</Participant>
+        <text type="para">&lt;i&gt;As regards article VII: &lt;/i&gt;</text>
+        <text type="para">[ &lt;i&gt;Same declaration as the one reproduced &lt;/i&gt;</text>
+        <text type="para">&lt;i&gt;under "Albania". &lt;/i&gt;]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belgium&lt;superscript&gt;15&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria&lt;superscript&gt;16&lt;/superscript&gt;</Participant>
+        <text type="para">&lt;i&gt;As regards article VII: &lt;/i&gt;</text>
+        <text type="para">[ &lt;i&gt;Same declaration and reservation as the one &lt;/i&gt;s</text>
+        <text type="para">&lt;i&gt;reproduced under "Albania". &lt;/i&gt;]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Canada</Participant>
+        <text type="para">"Inasmuch as under the Canadian constitutional system legislative jurisdiction in respect of political rights is divided between the provinces and the Federal Government, the Government of Canada is obliged, in acceding to this Convention, to make a reservation in respect of rights within the legislative jurisdiction of the provinces."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="para">Subject to a reservation with respect to article III of the Con- vention, in so far as it relates to the right of women to hold military appointments or to act as heads of recruitment services or to serve on recruitment boards.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Fiji</Participant>
+        <text type="para">"The reservations of the United Kingdom 1 (a), (b), (d) and (f) are affirmed and are redrafted as more suitable to the situation of Fiji in the following terms:</text>
+        <text type="para">"Article III is accepted subject to reservations, pending noti- fication of withdrawal of any case, insofar as it relates to:</text>
+        <text type="para">"(a) succession to the Crown;</text>
+        <text type="para">"(b) certain offices primarily of a ceremonial nature;</text>
+        <text type="para">"(d) recruitment to and conditions of service in the armed forces;</text>
+        <text type="para">"(f) the employment of married women in the civil service</text>
+        <text type="para">"All other reservations made by the United Kingdom are withdrawn."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Finland</Participant>
+        <text type="para">&lt;i&gt;As regards Article III: &lt;/i&gt; "A decree may be issued to the effect that only men or women can be appointed to certain functions, which because of their nature, can be properly discharged either only by men or by women."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>France&lt;superscript&gt;17&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <text type="para">"The Federal Republic of Germany accedes to the Conven- tion with the reservation that article III of the Convention does not apply to service in the armed forces."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Guatemala&lt;superscript&gt;18&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text type="para">&lt;i&gt;As regards article VII:&lt;/i&gt;</text>
+        <text type="para">&lt;i&gt;[Same declaration as the one reproduced&lt;/i&gt;</text>
+        <text type="para">&lt;i&gt;under "Albania".]&lt;/i&gt;</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>India</Participant>
+        <text type="para">"Article III of the Convention shall have no application as regards recruitment to, and conditions of service in any of the Armed Forces of India or the Forces charged with the mainten- ance of public order in India."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Indonesia</Participant>
+        <text type="para">"The last sentence of article VII and the whole article IX do not apply to Indonesia."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ireland</Participant>
+        <text type="para">"Article III is accepted subject to reservation in so far as it relates to</text>
+        <text type="para">"(a) the employment of married women in the public service;</text>
+        <text type="para">"(b) the unequal remuneration of women in certain positions in the public service,</text>
+        <text type="para">"and subject to the following declarations:</text>
+        <text type="para">"(1) that the exclusion of women from positions of employ- ment for which by objective standards or for physical reasons they are not suitable is not regarded as discriminatory;</text>
+        <text type="para">"(2) that the fact that jury service is not at present obligatory for women is not regarded as discriminatory."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="para">"In acceding to the Convention on the Political Rights of Women, done at New York on 31 March 1953, the Italian Government declares that it reserves its rights to apply the provisions of Art. III as far as service in the armed forces and in special armed corps is concerned within the limits established by national legislation."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lesotho</Participant>
+        <text type="para">"Article III is accepted subject to reservation, pending noti- fication of withdrawal in any case, so far as it relates to: Matters regulated by Basotho Law and Custom."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Malta</Participant>
+        <text type="para">"In acceding to this Convention, the Government of Malta hereby declares that it does not consider itself bound by article III in so far as that article applies to conditions of service in the Public Service and to Jury Service."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mauritius</Participant>
+        <text type="para">"The Government of Mauritius hereby declares that it does not consider itself bound by article III of the Convention in so far as that Article applies to recruitment to and conditions of service in the armed forces or to jury service."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mexico</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"It is expressly understood that the Government of Mexico will not deposit its instrument of ratification pending the entry into force of the amendment to the Political Constitution of the United Mexican States which is now under consideration, providing that citizenship rights shall be granted to Mexican women."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mongolia&lt;superscript&gt;20&lt;/superscript&gt;</Participant>
+        <text type="title">"To articles IV and V:</text>
+        <text type="para">"The Government of the Mongolian People's Republic declares its disagreement with paragraph 1 of article IV and paragraph 1 of article V and considers that the present Convention should be open to all States for signature or accession.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Morocco</Participant>
+        <text type="para">The consent of all the parties concerned is required for the referral of any dispute to the International Court of Justice.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Nepal</Participant>
+        <text type="para">&lt;i&gt;As regards article IX of the Convention: &lt;/i&gt; "A dispute shall be referred for decision to the International Court of Justice only at the request of all the parties to the dispute."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands&lt;superscript&gt;21&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>New Zealand</Participant>
+        <text type="para">"Subject to a reservation with respect to Article III of the Convention, in so far as it relates to recruitment and conditions of service in the armed forces of New Zealand."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Pakistan</Participant>
+        <text type="para">"Article III of the Convention shall have no application as regards recruitment to and conditions of services charged with the maintenance of public order or unsuited to women because of the hazards involved."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Poland&lt;superscript&gt;22&lt;/superscript&gt;</Participant>
+        <text type="para">&lt;i&gt;As regards article VII: &lt;/i&gt;</text>
+        <text type="para">[&lt;i&gt; Same declaration and reservation as the ones reproduced under "Albania". &lt;/i&gt;]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Romania&lt;superscript&gt;23&lt;/superscript&gt;</Participant>
+        <text type="para">&lt;i&gt;As regards article VII: &lt;/i&gt;</text>
+        <text type="para">[ &lt;i&gt;Same declaration and reservation as the ones reproduced under "Albania". &lt;/i&gt;]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation&lt;superscript&gt;14&lt;/superscript&gt;</Participant>
+        <text type="para">&lt;i&gt;As regards article VII: &lt;/i&gt;</text>
+        <text type="para">[ &lt;i&gt;Same declaration as the one reproduced under "Albania". &lt;/i&gt;]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sierra Leone</Participant>
+        <text type="para">"In acceding to this Convention, the Government of Sierra Leone hereby declares that it does not consider itself bound by article III in so far as that article applies to recruitment to and conditions of service in the Armed Forces or to jury service."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Solomon Islands</Participant>
+        <text>&lt;right&gt;10 May 1982&lt;/right&gt;</text>
+        <text type="title">In relation to the succession:</text>
+        <text type="para">The Government of Solomon Islands declared that Solomon Islands maintains the reservations entered by the United Kingdom save in so far as the same cannot apply to Solomon Islands.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="para">Articles I and III of the Convention shall be interpreted with out prejudice to the provisions which in current Spanish legisla- tion define the status of head of family.</text>
+        <text type="para">Articles II and III shall be interpreted without prejudice to the norms relating to the office of Head of State contained in the Spanish Fundamental Laws.</text>
+        <text type="para">Article III shall be interpreted without prejudice to the fact that certain functions, which by their nature can be exercised satisfactorily only by men or only by women, shall be exercised exclusively by men or by women, as appropriate, in accordance with Spanish legislation.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>St. Vincent and the Grenadines</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of St. Vincent and the Grenadines reserves from the application of article III of this Convention all matters relating to the recruitment to, and conditions of service in, the armed forces of St. Vincent and the Grenadines.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Swaziland</Participant>
+        <text type="para">"(a) Article III of the Convention shall have no application as regards remuneration for women in certain posts in the Civil Service of the Kingdom of Swaziland;</text>
+        <text type="para">"(b) The Convention shall have no application to matters which are regulated by Swaziland Law and Custom in accordance with Section 62 (2) of the Constitution of the Kingdom of Swaziland. [(a) The office of Nggwenyama; (b) the office of Ndlovukazi (the Queen Mother); (c) the authorization of a person to perform the functions of Regent for the purposes of section 30 of this Constitution; (d) the appointment, revocation of appointment and suspension of Chiefs; (e) the composition of the Swazi National Council, the appointment and revocation of appointment of members of the Council, and the procedure of the Council; (f) the Ncwala Ceremony; (g) the Libutfo (regimental) system.]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Tunisia</Participant>
+        <text type="para">[Article IX] For any dispute to be referred to the International Court of Justice, the agreement of all the parties to the dispute shall be necessary in every case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine&lt;superscript&gt;14&lt;/superscript&gt;</Participant>
+        <text type="para">&lt;i&gt;As regards article VII: &lt;/i&gt;</text>
+        <text type="para">[ &lt;i&gt;Same declaration as the one reproduced under "Albania" &lt;/i&gt;.]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;24&lt;/superscript&gt;</Participant>
+        <text type="para">The United Kingdom of Great Britain and Northern Ireland accedes to the Convention with the following reservations submitted in accordance with article VII:</text>
+        <text type="para">"(1) Article III is accepted subject to reservations, pending notification of withdrawal in any case, in so far as it relates to:</text>
+        <text type="para">"(a) succession to the Crown;</text>
+        <text type="para">"(b) certain offices primarily of a ceremonial nature;</text>
+        <text type="para">"(c) the function of sitting and voting in the House of Lords pertaining to holders of hereditary peerages and holders of certain offices in the Church of England;</text>
+        <text type="para">"(d) recruitment to and conditions of service in the armed forces;</text>
+        <text type="para">"(e) jury service in Grenada, [...] as well as in the Kingdom of Tonga;</text>
+        <text type="para">"(f) . . .</text>
+        <text type="para">"(g) remuneration for women in the Civil Service of [...] Hong Kong, as well as of the Protectorate of Swaziland;</text>
+        <text type="para">"(h) . . .</text>
+        <text type="para">"(i) in the State of Brunei, the exercise of the royal powers, jury service or its equivalent and the holding of certain offices governed by Islamic Law.</text>
+        <text type="para">"(2) The United Kingdom reserves the right to postpone the application of this Convention in respect of women living in the Colony of Aden, having regard to the local customs and tradi- tions. Further, the United Kingdom reserves the right not to apply this Convention to Rhodesia unless and until the United Kingdom informs the Secretary-General of the UnitedNations that it is in a position to ensure that the obligations imposed by the Convention in respect of that territory can be fully implemented."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="para">&lt;i&gt;Reservation with regard to article IX: &lt;/i&gt;</text>
+        <text type="para">[Venezuela] does not accept the jurisdiction of the International Court of Justice for the settlement of disputes concerning the interpretation or application of this Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Yemen&lt;superscript&gt;11&lt;/superscript&gt;</Participant>
+        <text type="para">(a) The People's Democratic Republic of Yemen declares that it does not accept the last sentence of article VII and considers that the juridical effect of a reservation is to make the Convention operative as between the State making the reservation and all other States parties to the Convention with the exception only of that part thereof to which the reservation relates.</text>
+        <text type="para">(b) The People's Democratic Republic of Yemen does not consider itself bound by the text of article IX, which provides that disputes between Contracting Parties concerning the interpretation or application of this Convention may, at the request of any one of the parties to the dispute, be referred to the International Court of Justice. It declares that the competence of the International Court of Justice with respect to disputes concerning the interpretation or application of the Convention shall in each case be subject to the express consent of all parties to the dispute.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were received upon ratification, accession or succession.)</Title>
+      <Title>(Note: In accordance with article VII of the Convention, a State which objects to a reservation, may .. within a period of ninety days from the date of the [notification of the reservation by the Secretary-General] , notify the Secretary-General that it does not accept it. In such case, the Convention shall not enter into force as between such State and the State making the reservation.)</Title>
+      <Objection>
+        <Participant>Canada</Participant>
+        <text type="para">Objection to the reservations made in respect of articles VII and IX by the Governments of Albania, Bulgaria, the Byelorussian Soviet Socialist Republic, Czechoslovakia, Hungary, Poland, Romania, Ukrainian Soviet Socialist Republic and Union of Soviet Socialist Republics.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Participant>
+      </Objection>
+      <Objection>
+        <Participant>Denmark</Participant>
+        <text type="para">Objection to the reservations in respect of articles VII and IX:</text>
+        <text type="para">[ &lt;i&gt;Same States as the ones listed under "Canada". &lt;/i&gt;]</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Dominican Republic</Participant>
+        <text type="para">Objection to the reservations made by the Government of the Union of Soviet Socialist Republics in respect of articles VII and IX.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Ethiopia</Participant>
+        <text type="para">Objection to the reservations in respect of articles VII and IX:</text>
+        <text type="para">[ &lt;i&gt;Same States as the ones listed under "Canada". &lt;/i&gt;]</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Israel</Participant>
+        <text type="para">Objection to the reservations in respect of articles VII and IX:</text>
+        <text type="para">[ &lt;i&gt;Same States as the ones listed under "Canada". &lt;/i&gt;]</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Montenegro&lt;superscript&gt;9&lt;/superscript&gt;</Participant>
+        <text type="title">Confirmed upon succession:</text>
+        <text type="para">Objection to the reservations made by the Government of Guatemala, in respect of articles I, II and III, as these reservations "are not in accordance with the principles contained in Article I of the Charter of the UnitedNations and with the aims of the Convention".</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Norway</Participant>
+        <text type="para">Objection to the reservations made by the Government of Argentina in respect of article VII.</text>
+        <text type="para">Objection to the reservations made by the Government of Guatemala in respect of articles I, II and III.</text>
+        <text type="para">Objection to the reservations in respect of articles VII and IX:</text>
+        <text type="para">[ &lt;i&gt;Same States as the ones listed under "Canada". &lt;/i&gt;]</text>
+        <text>&lt;right&gt;15 March 1999&lt;/right&gt;</text>
+        <text type="title">With regard to the reservation with reagard to article III made by the Government of Bangladesh upon accession:</text>
+        <text type="para">"A reservation by which a State Party limits its responsibilities under the Convention by invoking general principles of internal law may create doubts about the commitment of the reserving State to the object and purpose of the Convention and, moreover contribute to undermining the basis of international treaty law. Under well-established international treaty law, a state is not permitted to invoke internal law as justification for its failure to perform its treaty obligations. For this reason, the Government of Norway objects to the said reservation made by the Government of Bangladesh.</text>
+        <text type="para">The Government of Norway does not consider this objection to preclude the entry into force in its entirety of the Convention between the Kingdom of Norway and the People's Republic of Bangladesh, the Convention thus becomes operative between the Kingdom of Norway and the People's Republic of Bangladesh without the Republic of Bangladesh benefiting from these reservations."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Pakistan</Participant>
+        <text type="para">Objection to the reservations made by the Government of Argentina in respect of article VII.</text>
+        <text type="para">Objection to the reservation made by France and recorded in the procès-verbal of signature of the Convention.</text>
+        <text type="para">Objection to the reservations made by the Government of Guatemala in respect of articles I, II and III.</text>
+        <text type="para">Objection to the reservations in respect of articles VII and IX:</text>
+        <text type="para">[ &lt;i&gt;Same States as the ones listed under "Canada". &lt;/i&gt;]</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Philippines</Participant>
+        <text type="para">Objection to the reservations made by the Government of Albania in respect of articles VII and IX.</text>
+        <text type="para">Objection to the reservations made by the Government of Romania in respect of articles VII and IX.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Republic of Korea</Participant>
+        <text type="para">Objection to the reservations made by the Government of Mongolia in respect of articles IV, paragraph 1, and V, paragraph 1.</text>
+        <text type="para" />
+        <text type="para">Objection to the reservations made by the Government of Mongolia in respect of articles IV, paragraph 1, and V, paragraph 1.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Serbia&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+        <text type="title">Confirmed upon succession:</text>
+        <text type="para">Objection to the reservations made by the Government of Guatemala, in respect of articles I, II and III, as these reservations "are not in accordance with the principles contained in Article I of the Charter of the UnitedNations and with the aims of the Convention".</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Participant>
+      </Objection>
+      <Objection>
+        <Participant>Sweden</Participant>
+        <text type="para">Objection to reservations:</text>
+        <text type="para">[ &lt;i&gt;Same objections as the ones listed under "Norway". &lt;/i&gt;]</text>
+        <text>&lt;right&gt;14 December 1999&lt;/right&gt;</text>
+        <text type="title">With regard to the declarations made by Bangladesh upon accession:</text>
+        <text type="para">In this context the Government of Sweden would like to recall, that under well-established international treaty law, the name assigned to a statement whereby the legal effect of certain provisions of a treaty is excluded or modified, does not determine its status as a reservation to the treaty. Thus, the Government of Sweden considers that the declarations made by the Government of Bangladesh, in the absence of further clarification, in substance constitute reservations to the Convention.</text>
+        <text type="para">The Government of Sweden notes that the declaration relating to article III is of a general kind, stating that Bangladesh will apply the said article in consonance with the relevant provisions of its Constitution. The Government of Sweden is of the view that this declaration raises doubts as to the commitment of Bangladesh to the object and purpose of the Convention and would recall that, according to well-established international law, a reservation incompatible with the object and purpose of a treaty shall not be permitted.</text>
+        <text type="para">It is in the common interest of States that treaties to which they have chosen to become parties are respected, as to their object and purpose, by all parties and that States are prepared to undertake any legislative changes necessary to comply with their obligations under those treaties.</text>
+        <text type="para">For the reasons set out above the Government of Sweden objects to the aforesaid declaration made by the Government of Bangladesh to the Convention on the Political Rights of Women.</text>
+        <text type="para">This objection does not preclude the entry into force of the Convention between Bangladesh and Sweden. The Convention will thus become operative between the two States without Bangladesh benefitting from the declaration".</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Netherlands&lt;superscript&gt;25&lt;/superscript&gt;</Participant>
+        <DateNotification>30 Jul 1971</DateNotification>
+        <Territories>Suriname</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3,26&lt;/superscript&gt;</Participant>
+        <DateNotification>24 Feb 1967</DateNotification>
+        <Territories>Territories under the territorial sovereignty of the United Kingdom, British Solomon Islands Protectorate, State of Brunei, Protectorate of Swaziland, Kingdom of Tonga</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the General Assembly, Seventh Session, Supplement No. 20 &lt;/i&gt; (A/2361), p. 27.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Signed and ratified on behalf of the Republic of China on 9 June 1953 and 21 December 1953, respectively. See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information secton in the front matter of this volume).</text>
+        <text>In communications addressed to the Secretary-General with reference to the above-mentioned signature and/or ratification, the Permanent Missions to the United Nations of Czechoslovakia, Denmark, India, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland and Yugoslavia stated that, since their Governments did not recognize the Nationalist Chinese authorities as the Government of China, they could not regard the said signature or ratification as valid. The Permanent Missions of Czechoslovakia and the Union of Soviet Socialist Republics further stated that the sole authorities entitled to act for China and the Chinese people in the United Nations and in international relations, and to sign, ratify, accede or denounce treaties, conventions and agreements on behalf of China, were the Government of the People's Republic of China and its duly appointed representatives.</text>
+        <text>In a note addressed to the Secretary-General, the Permanent Mission of China to the United Nations stated that the Government of the Republic of China was the only legal Government which represented China and the Chinese people in international relations and that, therefore, the allegations made in the above-mentioned communica tions as to the lack of validity of the signature or ratification in question had no legal foundation whatever.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 10 June 1997, the Governments of China and the United Kingdom of Great Britain and Northern Ireland notified the Secretary-General of the following:</text>
+        <text>China:</text>
+        <text>[ &lt;i&gt;Same notification as the one made under note 6 in chapter V.3. &lt;/i&gt;]</text>
+        <text>United Kingdom of Great Britain and Northern Ireland:</text>
+        <text>[ &lt;i&gt;Same notification as the one made under note 5 in chapter IV.1. &lt;/i&gt;]</text>
+        <text>In addition, the notification made by the Government of China contained the following declaration:</text>
+        <text>The signature and ratification by the Taiwan authorities in the name of China respectively on 9 June 1953 and 21 December 1953 of the [said Convention] are all illegal and therefore null and void.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 31 March 1953 and 23 June 1954, respectively. The former Yugoslavia had also made the following objection:</text>
+        <text>Objection to the reservations made by the Government of Guatemala, in respect of articles I, II and III, as these reservations "are not in accordance with the principles contained in Article I of the Charter of the UnitedNations and with the aims of the Convention".</text>
+        <text>See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 31 March 1953 and 6 April 1995, respectively, with reservations, one of which regarding article IX of the Convention, had been withdrawn on 26 April 1991. For the text of the said reservations, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.193, p.157. Subsequently, on 10 June 1974, the Government of Czechoslovakia formulated an objection to the reservation made by Spain. For the text of the objection, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.940, p.340. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>On 14 September 2015, the Government of Ecuador notified the Secretary-General that it had decided to withdraw its reservation made upon signature and confirmed upon ratification, that read as follows: </text>
+        <text>"The Government of Ecuador signs this Convention subject to a reservation with respect to the last phrase in article I, `without any discrimination', since article 22 of the Political Constitution of the Republic specifies that "a vote in popular elections is obligatory for a man and optional for a woman".</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>The German Democratic Republic had acceded to the Convention with reservations and a declaration on 27 March 1973. For the text of the reservations and declaration, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.861, p.203. See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>In a communication received on 10 May 1982, the Government of Solomon Islands declared that Solomon Islands maintains the reservations entered by the United Kingdom save in so far as the same cannot apply to Solomon Islands.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>The formality was effected by Democratic Yemen. See also note 1 under Yemen in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>On 11 September 2000, the Government of Austria notified the Secretary-General that it had decided to withdraw its reservation to article III made upon ratification. For the text of the reservation, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 669, p. 312.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>In this regard, the Secretary-General received the following communications on the dates indicated hereinafter:</text>
+        <text>&lt;i&gt;Germany (17 December 1999): &lt;/i&gt;</text>
+        <text>The Government of the Federal Republic of Germany notes that the declaration with regard to article III of the Convention, application of that article in consonance with the relevant provisions of the Constitution of Bangladesh, constitutes a reservation of a general nature in respect of a provision of the Convention which may be contrary to the Constitution of Bangladesh.</text>
+        <text>The Government of the Federal Republic of Germany is of the view that this general reservation raises doubts as to the full commitment of Bangladesh to the object and purpose of the Convention. It is in the common interest of States that treaties to which they have chosen to become Parties are respected, as to their object and purpose, by all Parties and that States are prepared to undertake any legislative changes necessary to comply with their obligations under these treaties.</text>
+        <text>The Government of the Federal Republic of Germany therefore objects to the reservation made by the Government of the People's Republic of Bangladesh to the Convention on the Political Rights of Women. This objection does not preclude the entry into force of the Convention between the Federal Republic of Germany and the People's Republic of Bangladesh".</text>
+        <text>&lt;i&gt;Netherlands (20 December 1999): &lt;/i&gt;</text>
+        <text>"The Government of the Kingdom of the Netherlands has examined the declarations made by the Government of Bangladesh at the time of its accession to the Convention on the political rights of women and considers the declaration concerning Article III as a reservation.</text>
+        <text>The Government of the Kingdom of the Netherlands considers that such a reservation, which seeks to limit the responsibilities of the reserving State under the Convention by invoking national law, may raise doubts as to the commitment of this State to the object and purpose of the Convention and, moreover, contributedermining the basis of international treaty law.</text>
+        <text>It is in the common interest of States that treaties to which they have chosen to become parties should be respected, as to object and purpose, by all parties.</text>
+        <text>The Government of the Kingdom of the Netherlands therefore objects to the aforementioned reservation made by the Government of Bangladesh.</text>
+        <text>This objection shall not preclude the entry into force of the Convention between the Kingdom of the Netherlands and Bangladesh".</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>In communications received on 8 March 1989, 19 and 20 April 1989, respectively, the Governments of the Union of Soviet Socialist Republics, the Byelorussian Soviet Socialist Republic and the Ukrainian Soviet Socialist Republic notified the Secretary-General that they had decided to withdraw the reservation relating to article IX. For the text of the reservations, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.193, pp.170, 154 and 169, respectively.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>By notifications received by the Secretary-General on 19 June?978 and on 14 September?998, respectively, the Government of Belgium withdrew reservations No. 2 and No. 1 relating to article III of the Convention. For the text of the reservations, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.496, p.353.</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>On 24 June 1992, the Government of Bulgaria notified the Secretary-General its decision to withdraw the reservation to article IX made upon accession. For the text of the reservation, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 193, p.136.</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>In a communication received on 26 November 1960, the Government of France gave notice of the withdrawal of the reservation made in the procès-verbal of signature of the Convention. For the text of the reservation, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 193, p.159.</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>In a communication received on 12 July 2007, the Government of Guatemala notified the Secretary-General that it had deceided to withdraw the reservations made upon ratification. The text of the reservations reads as follows: 1. To articles I, II and III shall apply only to female citizens of Guatemala in accordance with the provisions of article 16, paragraph 2 of the Constitution of the Republic. 2. In order to satisfy constitutional requirements, article IX shall be interpreted subject to the provisions of article 149, paragraph 3 (b) of the Constitution of the Republic.</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>In a communication received on 8 December 1989, the Government of Hungary notified the Secretary-General that it had decided to withdraw its reservation with respect to article IX made upon ratifica- tion. For the text of the reservation see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.202, p.382.</text>
+      </Note>
+      <Note>
+        <index>20</index>
+        <text>In a communication received on 19 July 1990, the Government of Mongolia notified the Secretary-General of its decision to withdraw the reservations to articles VI and IX made upon accession. For the text of the reservations, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.543, p.362.</text>
+      </Note>
+      <Note>
+        <index>21</index>
+        <text>On 17 December 1985, the Secretary-General received from the Government of the Kingdom of the Netherlands a notification of withdrawal of its reservation (the reservation concerned the succession to the Crown) relating to article III of the Convention made upon ratification. For the text of the said reservation, see UnitedNations, &lt;i&gt;TreatySeries &lt;/i&gt;, vol.790, p.130.</text>
+      </Note>
+      <Note>
+        <index>22</index>
+        <text>On 16 October 1997, the Government of Poland notified the Secretary-General that it had decided to withdraw its reservation with regard to article 9 of the Convention made upon ratification. For the text of the reservation see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.196, p.365.</text>
+      </Note>
+      <Note>
+        <index>23</index>
+        <text>On 2 April 1997, the Government of Romania informed the Secretary-General that it had decided to withdraw its reservation with regard to article IX. For the text of the reservation, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.196, p.363.</text>
+      </Note>
+      <Note>
+        <index>24</index>
+        <text>The Secretary-General received the following communications from the Government of the United Kingdom of Great Britain and Northern Ireland on the dates indicated hereinafter:</text>
+        <text>( &lt;i&gt;12 February 1968 &lt;/i&gt;):</text>
+        <text>Withdrawal of the reservation contained in sub-paragraph (e), in respect of the Bahamas, as formulated upon accession.</text>
+        <text>( &lt;i&gt;15 October 1974 &lt;/i&gt;):</text>
+        <text>Withdrawal of the reservation contained in sub-paragraph (f) (employment of married women in Her Majesty's Diplomatic Service and in the Civil Service) in respect of the territories where the reservation was still applicable, that is to say: Northern Ireland, Antigua, Hong Kong and St. Lucia. The same reservation had been withdrawn in respect of St. Vincent by a notification received on 24 November 1967.</text>
+        <text>On that same date, withdrawal of the reservation contained in sub-paragraph (e) in respect of the Seychelles, to which the said reservation applied originally.</text>
+        <text>( &lt;i&gt;4 January 1995 &lt;/i&gt;):</text>
+        <text>Withdrawal of the reservations contained in sub-paragraph (e) in respect of the Isle of Man and Montserrat; in sub-paragraph (g) in respect of Gibraltar; and sub-paragraph (h) in respect of Bailiff in Guernsey.</text>
+      </Note>
+      <Note>
+        <index>25</index>
+        <text>See note 1 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>26</index>
+        <text>For the reservations to article III of the Convention in its application to certain territories, and for the reservations regarding the application of the Convention to the Colony of Aden and to Rhodesia, see "United Kingdom" under " &lt;i&gt;Declarations and Reservations &lt;/i&gt;".</text>
+      </Note>
+    </EndNotes>
+    <Footer>XVI 1. Status of Women</Footer>
+  </Treaty>
+</Document>

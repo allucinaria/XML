@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IV</Header>
+        <Name>HUMAN RIGHTS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>15</Numsect>
+        <Titlesect>Convention on the Rights of Persons with Disabilities</Titlesect>
+        <Conclusion>New York, 13 December 2006</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>3 May 2008, in accordance with article 45(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>3 May 2008, No. 44910</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>160</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>175</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 2515, p. 3;</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Convention was adopted on 13 December 2006 during the sixty-first session of the General Assembly by resolution &lt;a href="/doc/source/docs/A_RES_61_106-E.pdf" target="_blank"&gt;A/RES/61/106&lt;/a&gt;. In accordance with its article 42, the Convention shall be open for signature by all States and by regional integration organizations at United Nations Headquarters in New York as of 30 March 2007.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+  </Treaty>
+</Document>

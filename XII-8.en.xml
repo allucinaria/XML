@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XII</Header>
+        <Name>NAVIGATION</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>8</Numsect>
+        <Titlesect>International Convention on Arrest of Ships, 1999</Titlesect>
+        <Conclusion>Geneva, 12 March 1999</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>14 September 2011, in accordance with article 14(1)which reads as follows: "1. This Convention shall enter into force six months following the date on which 10 States have expressed their consent to be bound by it.".</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 December 2011, No. 49196</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>6</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>11</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations,&lt;i&gt;Treaty Series&lt;/i&gt;, vol. 2797, p. 3; &lt;a href="/doc/source/docs/A_CONF_188_6-E.pdf" target="_blank"&gt;Doc. A/CONF.188.6&lt;/a&gt;; C.N.112.2011.TREATIES-2 of 14 March 2011 (Entry into force).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted on 12 March 1999 at the United Nations/International Maritime Organization Diplomatic Conference on Arrest of Ships held in Geneva from 1 to 12 March 1999. In accordance with its article 12?1), the Convention will be open for signature by any State at United Nations Headquarters in New York from 1 September 1999 to 31 August 2000.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Approval(AA), Acceptance(A), Accession(a), Ratification, Definitive signature(s)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>14 Mar 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>7 May 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>3 Mar 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>27 Jul 2000</Entry>
+                <Entry>21 Feb 2001</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>11 Jun 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>10 Aug 2000</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>13 Jul 2000</Entry>
+                <Entry>15 Oct 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>11 May 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>31 Aug 2000</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>7 Dec 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>25 Aug 2000</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>11 Jul 2000</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>7 Jun 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>16 Oct 2002 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon definitive signature, ratification, acceptance, approval or accession.)</Title>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">At the time of its accession, the Kingdom of Spain, in accordance with article 10, paragraph 1?b), reserves the right to exclude the application of this Convention in the case of ships not flying the flag of a State party.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Syrian Arab Republic</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The accession of the Syrian Arab Republic to this Convention shall not in any way be construed to mean recognition of Israel and shall not lead to entry with it into any of the transactions regulated by the provisions of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>XII 8. Navigation</Footer>
+  </Treaty>
+</Document>

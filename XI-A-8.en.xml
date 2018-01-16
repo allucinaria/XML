@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XI</Header>
+        <Name>TRANSPORT AND COMMUNICATIONS</Name>
+      </Chapter>
+      <SubChapter>
+        <Header>A</Header>
+        <Name>Custom Matters</Name>
+      </SubChapter>
+      <ExternalData>
+        <Numsect>8</Numsect>
+        <Titlesect>Customs Convention on the Temporary Importation of Private Road Vehicles</Titlesect>
+        <Conclusion>New York, 4 June 1954</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>15 December 1957 by the exchange of the said letters, in accordance with article 35.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>15 December 1957, No. 4101</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>32</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>81</Parties>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 282, p. 249 and depositary notifications C.N.162.1984.TREATIES-1 of 23 July 1984 (amendments to chapter VII); C.N.315.1991.TREATIES-1 of 30 January 1992 and C.N.288.1992.TREATIES-2 of 20 November 1992 (amendments to English, French and Spanish authentic texts); C.N.801.1998.TREATIES-1 5 February 1999 (proposal of amendment) and C.N.913.1999.TREATIES-1 of 8 October 1999 (acceptance of amendment); C.N.315.2014.TREATIES-XI-A.8 of 1 July 2014 (Proposal of amendment by the UAE to Annex 1) and C.N.26.2015.TREATIES-XI.A.8 of 13 january 2015 (Entry into force).&lt;superscript&gt;2&lt;/superscript&gt;</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the United Nations Conference on Customs Formalities for the Temporary Importation of Private Road Motor Vehicles and for Tourism, held at the Headquarters of the United Nations, New York, from 11 May to 4 June 1954. It also adopted the Additional Protocol to the said Convention, relating to the Importation of Tourist Publicity Documents and Material, and the Customs Convention on the Temporary Importation of Private Road Vehicles. The Conference was convened by the Secretary-General of the United Nations in accordance with resolution &lt;a href="/doc/source/docs/E_RES_468_XV-E.pdf" target="_blank"&gt;468 F (XV)&lt;/a&gt;&lt;superscript&gt;3&lt;/superscript&gt; adopted by the Economic and Social Council of the United Nations on 15 April 1953. For the text of the Final Act of the Conference, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 276, p. 191.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;4,5&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>5 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>31 Oct 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>6 Jan 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>30 Mar 1956</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>5 Mar 1971 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>21 Feb 1955</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>7 Oct 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>1 Jun 1955 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>15 Oct 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry />
+                <Entry>15 Aug 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>20 Jul 1954</Entry>
+                <Entry>4 Sep 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>31 Aug 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>20 Nov 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>16 May 1963 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry />
+                <Entry>13 Oct 1955 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>30 Aug 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>4 Apr 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry />
+                <Entry>18 Jun 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Feb 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>31 Oct 1972 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>21 Jun 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>24 Apr 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;8,9&lt;/superscript&gt;</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>16 Sep 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry />
+                <Entry>16 Jun 1958 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>12 Feb 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>15 Jun 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>4 May 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>5 May 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry />
+                <Entry>3 Apr 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>14 Aug 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry />
+                <Entry>1 Aug 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>12 Feb 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>11 Nov 1963 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>2 Dec 1954</Entry>
+                <Entry>8 Jun 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>18 Dec 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>3 Jan 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>6 Dec 1954</Entry>
+                <Entry>21 Nov 1956</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>7 May 1958 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>12 Jun 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>3 Jan 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>18 Jul 1969 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>13 Jun 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>25 Sep 1957 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>21 Sep 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>7 Mar 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;12&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>17 Aug 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>26 Jun 1961 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>10 Oct 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>16 Jan 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>9 Feb 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry />
+                <Entry>16 Mar 1960 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>18 Sep 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>26 Jan 1961 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>17 Aug 1959 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>1 Dec 1964 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>23 Jan 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>19 Apr 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>13 Mar 1962 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>15 Aug 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry />
+                <Entry>3 Sep 1981 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>18 Aug 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>28 Nov 1955</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry />
+                <Entry>16 Oct 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>11 Jun 1957</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>23 May 1956</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic&lt;superscript&gt;13&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Mar 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>20 Dec 1999 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>11 Nov 1977 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>11 Apr 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>20 Jun 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>26 Apr 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>15 Apr 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry />
+                <Entry>10 Jan 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>27 Feb 1956</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry />
+                <Entry>28 Nov 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry>25 Jul 1956</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>4 Jun 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>31 Jan 1956 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Algeria</Participant>
+        <text type="para">The Democratic and Popular Republic of Algeria does not consider itself bound by article 40 of the said Convention and declares that a dispute may be submitted to arbitration only with the agreement of all the parties.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria&lt;superscript&gt;14,15&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="para">The Revolutionary Government of the Republic of Cuba does not consider itself bound by the provisions of paragraphs 2 and 3 of article 40 of the Convention. At the same time it states that, if this reservation is rejected by more than two-thirds of the Parties to the Convention, it will consider that the Convention has not been ratified by the Revolutionary Government of Cuba, in accordance with the provisions of paragraph 3 of article 39.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>El Salvador</Participant>
+        <text type="para">In connexion with article 4, El Salvador reserves its rights with respect to the temporary importation of component parts for the repair of motor vehicles in view of the fact that such component parts may be difficult to identify when taken out of the country; it therefore considers that payment of the taxes prescribed by the law should be made in such cases. The same reservation is made in connexion with other articles of the Convention which refer to component parts for repairs.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Guatemala</Participant>
+        <text type="para">"The Guatemalan Government reserves its right:</text>
+        <text type="para">"(1) To consider that the provisions of the Convention shall apply solely to natural persons and not to legal persons and bodies corporate as provided in chapter I, article 1;</text>
+        <text type="para">"(2) To consider that article 4 shall not be applicable to Guatemala;</text>
+        <text type="para">"(3) Not to accept the provisions of article 38 in respect of territories in dispute which are under the &lt;i&gt;de fact &lt;/i&gt;o administration of another State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary&lt;superscript&gt;16&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Article 38 of the Convention is at variance with the UnitedNations General Assembly resolution 1514 (XV) of 16December 1960 on the Granting of Independence to Colonial Countries and Peoples.</text>
+        <text type="title">Reservation:</text>
+        <text type="para">The Hungarian People's Republic does not consider itself bound by the provisions contained in paragraph 2 of article 40 of the Convention. &lt;i&gt; &lt;/i&gt;</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>India</Participant>
+        <text type="para">&lt;title&gt;With reference to article 1 (e) &lt;/title&gt;:</text>
+        <text type="para">"The Government of India reserves the right to exclude 'legal' persons from the categories of persons to whom conces- sions envisaged in this Convention are applicable."</text>
+        <text type="para">&lt;title&gt;With reference to article 2 &lt;/title&gt;:</text>
+        <text type="para">"Notwithstanding the provisions of article 2 of this Convention, the Government of India reserves the right to exclude from the benefits of this article persons normally resident outside India who, on the occasion of a temporary visit to India, take up paid employment or any other form of gainful occupation."</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Israel</Participant>
+        <text type="title">"Article 4, paragraph 1</text>
+        <text type="para">"The Government of Israel shall not be bound to admit without payment of import duties and import taxes the importation of component parts of the repair of vehicles temporarily imported; likewise, import prohibitions and restrictions in force at the time being in Israel may be applied to the importation of such component parts."</text>
+        <text type="title">"Article 24, paragraphs 1 and 2</text>
+        <text type="para">"In view of the fact that land frontiers with neighbouring States are closed at the present time and that, consequently, private road vehicles may not be re-exported except through an Israel port, the Government of Israel shall not be bound to accept as evidence of re-exportation of vehicles or component parts thereof, any of the documents referred to in paragraphs 1 and 2 of article 24."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mexico</Participant>
+        <text type="title">Reservation made upon signature and confirmed upon ratification:</text>
+        <text type="para">"The Delegation of Mexico, in accordance with the declaration duly made when the matter was under discussion in Working Party I, reserves its rights with regard to article 4, which authorizes the temporary importation of component parts for the repair of motor vehicles. The Delegation cannot agree to this article because the procedure in question is contrary to the legislation of its country, and because such spare parts do not usually have the specifications which would permit of their identification on exit. In the Delegation's opinion, this procedure would be prejudicial to the country's fiscal interests, because in this way it would be possible to import new spare parts without payment of duty by re-exporting old parts belonging to a vehicle not the tourist's own. It has therefore been considered more appropriate that in such cases the proper duty should be paid.</text>
+        <text type="para">"The same reservation is made with regard to other articles of this Convention which refer to component parts for making repairs."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Poland&lt;superscript&gt;17,18&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Romania&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text type="para">The Romanian People's Republic does not consider itself bound by the provisions of article 40, paragraphs 2 and 3, of the Convention. The position of the Romanian People's Republic is that a dispute concerning the interpretation or application of the Convention may be submitted to arbitration only with the agreement of all the parties in dispute and that only persons nominated by unanimous agreement of the parties in dispute may act as arbitrators.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation&lt;superscript&gt;14&lt;/superscript&gt;</Participant>
+        <text type="para">The Government of the Union of Soviet Socialist Republics, considering that disputes concerning the interpretation or application of the Customs Convention on the Temporary Importation of Private Road Vehicles can be decided by arbitration, declares that a dispute may be submitted to arbitration only with the agreement of all the parties in dispute and that only persons nominated by unanimous agreement of the parties in dispute may act as arbitrators.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Senegal</Participant>
+        <text type="para">1. Notwithstanding the provisions of article 2 of the said Convention, the Government of the Republic of Senegal reserves to itself the right to exclude from the benefits of the said article persons normally resident outside Senegal who, on the occasion of a temporary visit to Senegal, take up paid employment or any form of gainful occupation;</text>
+        <text type="para">2. The Government of the Republic of Senegal reserves the right:</text>
+        <text type="para">a) To consider that the provisions of the Convention shall apply solely to natural persons and not to legal persons and bodies corporate as provided in chapter 1, article 1;</text>
+        <text type="para">b) To consider that article 4 shall not be applicable to its territory;</text>
+        <text type="para">c) Not to accept the provisions of article 38 in respect of territories in dispute which are under the &lt;i&gt;de facto &lt;/i&gt; administration of another State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sri Lanka</Participant>
+        <text type="para">"Notwithstanding the provisions of article 2 of this Convention, the Government of Ceylon reserves to itself the right to exclude from the benefits of this article persons normally resident outside Ceylon who, on the occasion of a temporary visit to Ceylon, take up paid employment or any other form of gainful occupation."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Tunisia</Participant>
+        <text type="para">A dispute may be submitted to arbitration only with the agreement of all the parties in dispute.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Belgium&lt;superscript&gt;20&lt;/superscript&gt;</Participant>
+        <DateNotification>21 Feb 1955</DateNotification>
+        <Territories>Belgian Congo and the Trust Territory of Ruanda-Urundi, with reservations</Territories>
+      </Application>
+      <Application>
+        <Participant>Netherlands&lt;superscript&gt;11&lt;/superscript&gt;</Participant>
+        <DateNotification>7 Mar 1958</DateNotification>
+        <Territories>Netherlands Antilles, Netherlands New Guinea and Suriname</Territories>
+      </Application>
+      <Application>
+        <Participant>New Zealand</Participant>
+        <DateNotification>21 May 1963</DateNotification>
+        <Territories>Cook Islands (including Niue)</Territories>
+      </Application>
+      <Application>
+        <Participant>Portugal</Participant>
+        <DateNotification>18 Sep 1958</DateNotification>
+        <Territories>Overseas Provinces</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;4,21&lt;/superscript&gt;</Participant>
+        <DateNotification>7 Aug 1957</DateNotification>
+        <Territories>North Borneo, Cyprus, Fiji, Jamaica, Federation of Malaya, Seychelles, Sierra Leone, Singapore, Somaliland Protectorate, Tonga and Zanzibar; and Malta (with reservation)</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>14 Jan 1958</DateNotification>
+        <Territories>Brunei, Antigua, Mauritius, Sarawak, Kenya, Dominica, Gambia, Montserrat, Federation of Nigeria, British Solomon Islands Protectorate, St. Helena, Uganda, Gibraltar, Virgin Islands, Grenada, St. Vincent, Tanganyika</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>16 Jun 1959</DateNotification>
+        <Territories>Barbados</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>12 Sep 1960</DateNotification>
+        <Territories>British Honduras</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>11 Nov 1960</DateNotification>
+        <Territories>Hong Kong</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>9 Jan 1961</DateNotification>
+        <Territories>St. Christopher-Nevis-Anguilla</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>15 Sep 1961</DateNotification>
+        <Territories>Trinidad and Tobago</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>5 Feb 1962</DateNotification>
+        <Territories>British Guiana</Territories>
+      </Application>
+      <Application>
+        <Participant>United States of America</Participant>
+        <DateNotification>25 Jul 1956</DateNotification>
+        <Territories>Alaska, Hawaii, Puerto Rico and United States Virgin Islands</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>On 16 June 1975, the Government of Switzerland declared that the provisions of the Convention apply to the Principality of Liechtenstein so long as it is linked to Switzerland by a customs union treaty.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The Secretary-General circulated on 6 April 1979 the text of an amendment proposed by Switzerland aiming at the addition of a new article 25 &lt;superscript&gt;bis&lt;/superscript&gt; to chapter VII of the Convention. The said amendment was not accepted owing to objections notified to the Secretary-General on 2 October 1979 (India) and on 4 October 1979 (Belgium, Denmark, France, Federal Republic of Germany, Ireland, Italy, Luxembourg and the Netherlands).</text>
+        <text>Subsequently, the text of a new amendment by Switzerland (new article 25 &lt;superscript&gt;bis&lt;/superscript&gt; ) was circulated by the Secretary-General on 23 July 1984. No objections having been notified within a period of six months from the date of its circulation, the amendment entered into force on 23 April 1985 in accordance with article 42 (3) of the Convention.</text>
+        <text>However, the Secretary-General received in this regard, on 22 January 1985, from the Government of Austria the following declaration:</text>
+        <text>"Austria does not object to the substance of the amendment proposed by Switzerland which has been approved by the Austrian Federal Government on December 12, 1984. But as the Austrian constitutional procedures in the present case also require the ratification by the Federal President after approval by parliament, Austria is not yet in a position to apply the new regulations. Austria does, however, not wish to prevent the entry into force of the present amendment for the other contracting states.</text>
+        <text>Subsequently, on 7 June 1985, the Secretary-General was informed by the Government of Austria that "the said amendment had been approved by the Austrian Parliament and that it would therefore now be applied by Austria."</text>
+        <text>On 30 January 1992, the Secretary-General circulated the text of the amendments to the English, French and Spanish authentic texts proposed by the Government of Italy. In this connexion, it is to be noted that the said amendments, as circulated by depositary notification C.N.315.1991.TREATIES-1 dated 30 January 1992, indeedentered into force on 30 October 1992, with the exception, however, of the proposed amendment to article 13, consisting in the addition of a fourth paragraph: an objection was formulated by Japan to the said proposed amendment on 30 July 1992, i.e., within the period of six months from the date of the relevant depositary notification as follows:</text>
+        <text>". . . The Government of Japan considers that the proposed provisions of article 13, paragraph 4, setting forth the exemption from taxation in case of loss or theft of an object in the case of a seizure, do not appear precise enough to ensure the prevention of its abuse. For this reason, the Government of Japan considers that the proposed amendments should not be adopted and therefore expresses its objection to them in accordance with article 42 (2) of the Convention."</text>
+        <text>Consequently, in accordance with article 42 (3), all amendments proposed by Italy entered into force for all Contracting Parties three months after the expiration of the period of six months following the date of circulation of the proposed amendment by the Secretary-General, i.e., on 30 October 1992, with the exception of the proposed fourth paragraph to article 13.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>&lt;i&gt; Official Records of the Economic and Social Council, Fifteenth Session, &lt;/i&gt; Supplement No. 1 (E/2419), p. 9.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>The Secretary-General received on 6 and 10 June 1997 communications regarding the status of Hong Kong from China and the United Kingdom of Great Brtiain and Northern Ireland (see also note 2 under China and note 2 under United Kingdom of Great Britain and Northern Ireland in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Hong Kong, China notified the Secretary-General that the Convention will continue to apply to the Hong Kong Special Administrative Region.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>The Republic of Viet-Nam had acceded to the Convention on 31 January 1956. See also note 1 under Viet Nam in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The former Yugoslavia had acceeded to the Convention on 10 July 1958. See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>The instrument contained a notification by which the European Community accepts the resolution of the UnitedNations of 2 July 1993 on the applicability of &lt;i&gt;carnets de passage en douane &lt;/i&gt;and CPD carnets to private road vehicles.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>See note 1 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>See note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>Notification by the United Arab Republic. See also note 1 under United Arab Republic in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>The Governments of Italy and Switzerland notified the Secretary-General that they object to these reservations. The Government of the United States of America has notified the Secretary-General that it has no objection to [these] reservation[s], but "considers that it may, and hereby states that it will, apply the aforesaid reservation[s] reciprocally with respect to Bulgaria [on the one hand and] to the Soviet Union [on the other]".</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>Subsequently, in a notification received on 6 May 1994, the Govern ment of Bulgaria notified the Secretary-General that it had decided to withdraw the reservation made upon accession with regard to article?0?2) and (3). For the text of the reservation, see UnitedNations, &lt;i&gt;TreatySeries &lt;/i&gt;, vol.348, p.360. See also note 14 .</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>By 24 August 1983, the day following the expiry of the period of ninety days from the date of the said depositary notification, none of the States concerned had notified the Secretary-General as envisaged in article 39 (3) of the Convention, of an objection to the reservation. Consequently, in accordance with article 35 (2), the Convention entered into force for Hungary with effect from 2 August 1983.</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>On 16 October 1997, the Government of Poland notified the Secretary-General that it had decided to withdraw its reservation with regard to article 40 of the Convention made upon accession. For the text of the reservation see UnitedNations, &lt;i&gt;TreatySeries &lt;/i&gt;, vol.367, p.346.</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>The Government of Switzerland has notified the Secretary-General that it objects to this reservation.</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>The Government of Switzerland has notified the Secretary-General that it objects to this reservation. The Government of the United States of America has notified the Secretary-General that it has no objection to this reservation, but "considers that it may and hereby states that it will apply this reservation reciprocally with respect to Romania".</text>
+      </Note>
+      <Note>
+        <index>20</index>
+        <text>With regard to the application to the Territory of the Belgian Congo and to the Trust Territory of Ruanda-Urundi of the Customs Convention on the Temporary Importation of Private Road Vehicles, concluded at New York on 4 June 1954, the Belgian Government considers that in present circumstances the system of free international circulation of motor vehicles should not be extended to legal persons. Temporary admittance without payment should not be granted in respect of component parts imported for the repair of a vehicle covered by free circulation papers.</text>
+        <text>The latter restriction does not, of course, apply to component parts accompanying vehicles when they are listed in the counterfoil of the international circulation document.</text>
+        <text>By a communication received on 10 February 1965, the Government of Rwanda, in relation to the succession, informed the Secretary-General that it did not intend to maintain any of the above-mentioned reservations.</text>
+      </Note>
+      <Note>
+        <index>21</index>
+        <text>The reservation with respect to Malta reads as follows:</text>
+        <text>"Article 4 of the Convention shall not apply to Malta." On 3 January 1966, the Government of Malta notified the Secretary-General of its succession to the Convention. In a communication received on 28 February 1966, the Government of Malta notified the Secretary-General that it did not intend to maintain the said reservation, which had been made on its behalf by the Government of the United Kingdom at the time of the notification of the extension of the Convention to Malta.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XI A 8. Transport and Communications - Custom Matters</Footer>
+  </Treaty>
+</Document>

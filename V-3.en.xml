@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg2</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER V</Header>
+        <Name>REFUGEES AND STATELESS PERSONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Titlesect>Convention relating to the Status of Stateless Persons</Titlesect>
+        <Conclusion>New York, 28 September 1954</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>6 June 1960, in accordance with article 39.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>6 June 1960, No. 5158</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>23</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>89</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 360, p.117.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the United Nations Conference on the Status of Stateless Persons, held at the Headquarters of the United Nations in New York from 13 to 23 September 1954. The Conference was convened pursuant to resolution &lt;a href="/doc/source/docs/E_RES_E_RES_526A_XVII-E.pdf" target="_blank"&gt;526A (XVII)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of 26 April 1954 of the Economic and Social Council of the United Nations. For the Final Act, recommendation and resolution adopted by the Conference, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 360, p. 117.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Succession(d), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>23 Jun 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>15 Jul 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>25 Oct 1988 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry />
+                <Entry>1 Jun 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>18 May 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>13 Dec 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>8 Feb 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>16 Aug 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>6 Mar 1972 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>27 May 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry />
+                <Entry>14 Sep 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>8 Dec 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>6 Oct 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry />
+                <Entry>25 Feb 1969 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>13 Aug 1996</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>22 Mar 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>1 May 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry />
+                <Entry>12 Aug 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>30 Dec 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>2 Nov 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>3 Oct 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Oct 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry />
+                <Entry>19 Jul 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>17 Jan 1956</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>2 Oct 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>9 Feb 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>12 Jun 1972 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>10 Oct 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>12 Jan 1955</Entry>
+                <Entry>8 Mar 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry />
+                <Entry>1 Jul 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>23 Dec 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;4,5&lt;/superscript&gt;</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>26 Oct 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry />
+                <Entry>4 Nov 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>28 Nov 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>21 Mar 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry />
+                <Entry>19 Sep 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>1 Oct 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>21 Nov 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>17 Dec 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>1 Oct 1954</Entry>
+                <Entry>23 Dec 1958</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>20 Oct 1954</Entry>
+                <Entry>3 Dec 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Kiribati</Entry>
+                <Entry />
+                <Entry>29 Nov 1983 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>5 Nov 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>4 Nov 1974 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>11 Sep 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>16 May 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>25 Sep 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>7 Feb 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>28 Oct 1955</Entry>
+                <Entry>27 Jun 1960</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>[20 Feb 1962 a]</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>7 Oct 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>27 May 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>7 Jun 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>1 Oct 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>12 Apr 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>15 Jul 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>7 Nov 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>20 Sep 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>19 Nov 1956</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>2 Jun 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>1 Jul 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>23 Jan 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>22 Jun 1955</Entry>
+                <Entry>22 Sep 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry />
+                <Entry>1 Oct 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>22 Aug 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>19 Apr 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>27 Jan 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>4 Oct 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>21 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>9 May 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry />
+                <Entry>3 Apr 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>12 May 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>27 Apr 1999 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry />
+                <Entry>16 Nov 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>2 Apr 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>3 Jul 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>11 Apr 1966 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>29 Jul 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>26 Mar 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>7 Dec 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>15 Apr 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry />
+                <Entry>25 Mar 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>28 Sep 1954</Entry>
+                <Entry>16 Apr 1959</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>2 Apr 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>1 Nov 1974 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>1 Dec 1998 d</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Antigua and Barbuda</Participant>
+        <text type="para">"The Government of Antigua and Barbuda can only undertake that the provisions of articles 23, 24, 25 and 31 will be applied in Antigua and Barbuda so far as the law allows."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="para">The application of this Convention in territories whose sovereignty is the subject of discussion between two or more States, irrespective of whether they are parties to the Convention, cannot be construed as an alteration, renunciation or relinquishment of the position previously maintained by each of them.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Austria</Participant>
+        <text type="para">Reservation:</text>
+        <text type="para">The Republic of Austria shall only be bound by Article 27 insofar as it applies to stateless persons lawfully in the territory of the Republic of Austria.</text>
+        <text type="para">Declaration:</text>
+        <text type="para">The Republic of Austria will fulfil its obligation under Article 28 by issuing alien passports to stateless persons lawfully staying in its territory.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Barbados</Participant>
+        <text type="para">"The Government of Barbados . . . declares with regard to the reservations made by the United Kingdom on notification of the territorial application of the Convention to the West Indies (including Barbados) on the 19th March, 1962 that it can only undertake that the provisions of Articles 23, 24, 25 and 31 will be applied in Barbados so far as the law allows.</text>
+        <text type="para">"The application of the Convention to Barbados was also made subject to reservations to Articles 8, 9 and 26 which are hereby withdrawn."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Botswana&lt;superscript&gt;8&lt;/superscript&gt;</Participant>
+        <text type="para">"(a) Article 31 of the said Convention shall not oblige Botswana to grant to a stateless person a status more favourable than that accorded to aliens in general;</text>
+        <text type="para">"(b) Articles 12 1) and 7 2) of the Convention shall be recognized as recommendations only."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria</Participant>
+        <text type="para">1. Reservation to Article 7, paragraph 2:</text>
+        <text type="para">In accordance with Article 38, paragraph 1 of the Convention, the Republic of Bulgaria reserves the right not to apply the provision of Article 7, paragraph 2.</text>
+        <text type="para" />
+        <text type="para">2. Reservation to Article 21:</text>
+        <text type="para">The Republic of Bulgaria shall apply Article 21 according to the conditions and the order provided for by the national legislation of the Republic of Bulgaria.</text>
+        <text type="para" />
+        <text type="para">3. Reservation to Article 23:</text>
+        <text type="para">The Republic of Bulgaria shall apply Article 23 according to the conditions and the order provided for by the national legislation of the Republic of Bulgaria.</text>
+        <text type="para" />
+        <text type="para">4. Reservation to Article 24, paragraph 1, subparagraph (b) and Article 24, paragraph 2:</text>
+        <text type="para">The Republic of Bulgaria shall apply Article 24, paragraph 1, subparagraph (b) and Article 24, paragraph 2 according to the conditions and the order provided for by the national legislation of the Republic of Bulgaria.</text>
+        <text type="para" />
+        <text type="para">5. Reservation to Article 24, paragraph 3:</text>
+        <text type="para">The Republic of Bulgaria shall apply Article 24, paragraph 3 only concerning agreements which will be concluded in the future.</text>
+        <text type="para" />
+        <text type="para">6. Reservation to Article 27:</text>
+        <text type="para">Pursuant to Article 27 of the Convention, the identity document (Stateless person foreign-travel certificate) shall be issued to stateless persons, who have been granted this status on the territory of the Republic of Bulgaria and having permanent or long-term residence permit in accordance with the national legislation of the Republic of Bulgaria. In accordance with the national legislation, the person who has been granted the status of stateless person will be granted right to residence and a document Residence permit, which is not an identity document, will be issued.</text>
+        <text type="para" />
+        <text type="para">7. Reservation to Article 28:</text>
+        <text type="para">Pursuant to Article 28 of the Convention, the document Stateless person foreign-travel certificate, which is both an identity document and a travel document, will be issued to persons to whom the Republic of Bulgaria has granted status of stateless person and having permanent or long-term residence permit on the territory of the Republic of Bulgaria. The above-mentioned document will not be issued to persons who have been granted status of stateless person in another country, unless they have permanent or long-term residence in the Republic of Bulgaria and because of insurmountable reasons, duly proven by respective documents, can not renew their travel document from the state which initially issued it.</text>
+        <text type="para" />
+        <text type="para">8. Reservation to Article 31:</text>
+        <text type="para">Article 31 shall not oblige the Republic of Bulgaria to grant to stateless persons a status more favourable than that accorded to aliens in general. </text>
+      </Declaration>
+      <Declaration>
+        <Participant>Costa Rica&lt;superscript&gt;9&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">" ...Acceding to the Convention we declare the following:</text>
+        <text type="para">1. Pursuant to Article 27 of the Convention, identity papers shall be issued only to stateless persons having permanent residence permits in the territory of the Czech Republic in accordance with the country's national legislation.</text>
+        <text type="para">2. Article 23 of the Convention shall be applied to the extent provided by the national legislation of the Czech Republic.</text>
+        <text type="para">3. Article 24, paragraph 1(b) shall be applied to the extent provided by the national legislation of the Czech Republic.</text>
+        <text type="para">4. Pursuant to Article 28 of the Convention, travel documents shall be issued to stateless persons having permanent residence permits in the territory of the Czech Republic in accordance with the country's national legislation. Such persons shall be issued "aliens' passports" stating that their holders are stateless persons under the Convention of 28th September 1954."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark&lt;superscript&gt;10&lt;/superscript&gt;</Participant>
+        <text type="para">Denmark is not bound by article 24, paragraph 3.</text>
+        <text type="para">The provisions of article 24, paragraph 1, under which stateless persons are in certain cases placed on the same footing as nationals, shall not oblige Denmark to grant stateless persons in every case exactly the same remuneration as that provided by law for nationals, but only to grant them what is required for their support.</text>
+        <text type="para">Article 31 shall not oblige Denmark to grant to stateless persons a status more favourable than that accorded to aliens in general.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>El Salvador</Participant>
+        <text type="title">Upon signature :</text>
+        <text type="para">El Salvador signs the present Convention with the reservation that the expression "treatment as favourable as possible", referred to in those of its provisions to which reservations may be made, must not be understood to include the special treatment which has been or may be granted to the nationals of Spain, the Latin American countries in general, and in particular to the countries which constituted the United Provinces of Central America and now form the Organization of Central American States.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Fiji</Participant>
+        <text type="para">The Government of Fiji stated that the first and third reservations made by the United Kingdom are affirmed but have been redrafted as more suitable to the application of Fiji in the following terms:</text>
+        <text type="para">"1. The Government of Fiji understands articles 8 and 9 as not preventing them from taking in time of war or other grave and exceptional circumstances measures in the interests of national security in the case of a stateless person on the ground of his former nationality. The provisions of article 8 shall not prevent the Government of Fiji from exercising any rights over property or interests which they may acquire or have acquired as an Allied or Associated Power under a Treaty of Peace or other agreement or arrangement for the restoration of peace which has been or may be completed as a result of the Second World War. Furthermore the provisions of article 8 shall not affect the treatment to be accorded to any property or interests which at the date of entry into force of this Convention in respect of Fiji were under the control of the Government of the United Kingdom of Great Britain and Northern Ireland or of the Government of Fiji respectively by reason of a state of war which existed between them and any other State.</text>
+        <text type="para">"2. The Government of Fiji cannot undertake to give effect to the obligations contained in paragraphs 1 and 2 of article 25 and can only undertake to apply the provisions of paragraph 3 so far as the law allows.</text>
+        <text type="para">"Commentary: No arrangements exist in Fiji for the administrative assistance for which provision is made in article 25 nor have any such arrangements been found necessary in the case of stateless persons. Any need for the documents or certificates mentioned in paragraph 2 of that article would be met by affidavit.</text>
+        <text type="para">"All other reservation made by the United Kingdom to the above-mentioned Convention is withdrawn."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Finland&lt;superscript&gt;11&lt;/superscript&gt;</Participant>
+        <text type="para">"(1) A general reservation to the effect that the application of those provisions of the Convention which grant to stateless persons the most favourable treatment accorded to nationals of a foreign country shall not be affected by the fact that special rights and privileges are now or may in future be accorded by Finland to the nationals of Denmark, Iceland, Norway and Sweden or to the nationals of any one of those Countries;</text>
+        <text type="para">"(2) A reservation to article 7, paragraph 2, to the effect that Finland is not prepared, as a general measure, to grant stateless persons who fulfil the conditions of three years residence in Finland an exemption from any legislative reciprocity which Finnish law may have stipulated as a condition governing an alien's eligibility for same right or privilege;</text>
+        <text type="para">"(3) A reservation to article 8 to the effect that that article shall not be binding on Finland;</text>
+        <text type="para">"(4) . . .</text>
+        <text type="para">"(5) A reservation to article 24, paragraph 1 (b) and paragraph 3 to the effect that they shall not be binding on Finland;</text>
+        <text type="para">"(6) A reservation to article 25, to the effect that Finland does not consider itself bound to cause a certificate to be delivered by a Finnish authority, in the place of the authorities of a foreign country, if the documentary records necessary for the delivery of such certificate do not exist in Finland;</text>
+        <text type="para">"(7) A reservation with respect to the provisions contained in article 28. Finland does not accept the obligations stipulated in the said article, but is prepared to recognize travel documents issued by other Contracting States pursuant to this article."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="para">The provisions of article 10, paragraph 2, are regarded by the French Government as applying only to stateless persons who were forcibly displaced from French territory, and who have, prior to the date of entry into force of this Convention, returned there direct from the country to which they were forced to proceed, without in the meantime having received authorization to reside in the territory of any other State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;4,5&lt;/superscript&gt;</Participant>
+        <text type="para">1. Article 23 will be applied without restriction only to stateless persons who are also refugees within the meaning of the Convention of 28 July 1951 relating to the Status of Refugees and the Protocol of 31 January 1967 relating to the Status of Refugees, but otherwise only to the extent provided for under national legislation;</text>
+        <text type="para">2. Article 27 will not be applied.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Guatemala</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="title">Reservation:</text>
+        <text type="para">Guatemala signs the present Convention with the reservation that the expression "treatment as favourable as possible", referred to in those of its provisions to which reservations may be made, must not be understood to include the special treatment which has been or may be granted to the nationals of, Spain, the Latin American countries in general, and in particular to the countries which constituted the United Provinces of Central America and now form the Organization of Central American States.</text>
+        <text type="title">Upon ratification:</text>
+        <text type="title">Confirmation of the reservation made upon signature, as modified:</text>
+        <text type="title">Reservation:</text>
+        <text type="para">Guatemala ratifies the present Convention with the reservation that the expression "treatment as favourable as possible", referred to in those of its provisions to which reservations may be made, shall not be understood to include the special treatment which Guatemala has granted or may grant to nationals of Spain, the Latin American countries in general, and in particular the countries which constitute the Central American Integration System (SICA), which are those countries which constituted the United Provinces of Central America, plus the Republic of Panama.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Holy See</Participant>
+        <text type="para">"The Convention will be applied in the form compatible with the special nature of the State of the Vatican City and without prejudice to the norms that grant access thereunto and sojourn therein."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Honduras</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">Honduras signs the present Convention with the reservation that the expression "treatment as favourable as possible", referred to in those of its provisions to which reservations may be made, must not be understood to include the special treatment which has been or may be granted to the nationals of Spain, the Latin American countries in general, and in particular to the countries which constituted the United Provinces of Central America and now form the Organization of Central American States.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">Reservation to Article 28 of the Convention:</text>
+        <text type="para">The Republic of Hungary shall apply the provisions contained in Article 28 by issuing a travel document in both Hungarian and English languages, entitled Utazási Igazolvány hontalan személy részére / Travel Document for Stateless Person' and supplied with the indication set out in Paragraph 1, Subparagraph 1 of the Schedule to the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ireland</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Government of Ireland understand the words `public order' and `in accordance with due process of law', as they appear in article 31 of the Convention, to mean respectively, `public policy' and `in accordance with the procedure provided by law'."</text>
+        <text type="title">Reservation:</text>
+        <text type="para">"With regard to article 29 (1), the Government of Ireland do not undertake to accord to stateless persons treatment more favourable than that accorded to aliens generally with respect to</text>
+        <text type="para">(a) The stamp duty chargeable in Ireland in connection with conveyances, transfers and leases of lands, tenements and hereditaments, and</text>
+        <text type="para">(b) Income tax (including sur-tax)."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy&lt;superscript&gt;13&lt;/superscript&gt;</Participant>
+        <text type="para">The provisions of articles 17 and 18 are recognized as recommendations only.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kiribati</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">&lt;i&gt;[The following reservations originally made by the United Kingdom were reformulated as follows in terms suited to their direct application to Kiribati] &lt;/i&gt;:</text>
+        <text type="para">"1. The Government of Kiribati understands articles 8 and 9 as not preventing them from taking in time of war or other grave and exceptional circumstances measures in the interests of national security in the case of a stateless person on the ground of his former nationality. The provisions of article 8 shall not prevent the Government of Kiribati from exercising any rights over property or interests which they may acquire or have acquired as an Allied or Associated Power under a Treaty of Peace or other agreement or arrangement for the restoration of peace which has been or may be completed as a result of the Second World War. Furthermore, the provisions of article 8 shall not affect the treatment to be accorded to any property or interest which at the date of entry into force of this Convention in respect of the Gilbert Islands were under the control of the Government of the United Kingdom of Great Britain and Northern Ireland by reason of a state of war which exists or existed between them and any other State.</text>
+        <text type="para">"2. The Government of Kiribati can only undertake to apply the provisions of sub-paragraph (b) of paragraph 1 of article 24 so far as the law allows.</text>
+        <text type="para">"3. The Government of Kiribati cannot undertake to give effect to the obligations contained in paragraphs 1 and 2 of article?5 and can only undertake to apply the provisions of paragraph 3 so far as the law allows."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Latvia</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">In accordance with article 38 of the [Convention] the Republic of Latvia reserves the right to apply the provisions of paragraph 1 (b) of Article 24 subject to limitations provided for by the national legislation.</text>
+        <text type="para">In accordance with article 38 of the [Convention] the Republic of Latvia reserves the right to apply the provisions of Article 27 subject to limitations provided for by the national legislation.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lesotho&lt;superscript&gt;14&lt;/superscript&gt;</Participant>
+        <text type="para">"1. In accordance with article 38 of the Convention, the Government of the Kingdom of Lesotho declares that it understands articles 8 and 9 as not preventing it from taking in time of war or other grave and exceptional circumstances measures in the interest of national security in the case of a stateless person on the ground of his former nationality. The provisions of article 8 shall not prevent the Government of the Kingdom of Lesotho from exercising any rights over property or interests which they may acquire or have acquired as an Allied or Associated Power under a Treaty of Peace or other agreement or arrangement for the restoration of peace which has been or may be completed as a result of the Second World War. Furthermore the provisions of article 8 shall not affect the treatment to be accorded to any property or interests which at the date of entry into force of this Convention in respect of Lesotho were under the control of the Government of the United Kingdom of Great Britain and Northern Ireland or of the Government of Lesotho by reason of a state of war which existed between them and any other State.</text>
+        <text type="para">"2. The Government of the Kingdom of Lesotho cannot undertake to give effect to the obligations contained in paragraphs? and 2 of article 25 and can only undertake to apply the provisions of paragraph 3 so far as the laws of Lesotho allow.</text>
+        <text type="para">"3. The Government of the Kingdom of Lesotho shall not be bound under article 31 to grant to a stateless person a status more favourable than that accorded to aliens generally."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mexico&lt;superscript&gt;15&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">The Government of Mexico is convinced of the importance of ensuring that all stateless persons can obtain wage-earning employment as a means of subsistence and affirms that stateless persons will be treated, in accordance with the law, under the same conditions as aliens in general, without prejudice to the application of article 7 of the Federal Labour Act, which establishes the proportion of alien workers that employers are authorized to employ in Mexico, as well as other legal principles relating to work by aliens in the country, for which reason the Government of Mexico lodges an express reservation to article?7 of this Convention.</text>
+        <text type="para">The Government of Mexico does not consider itself obliged to guarantee stateless persons greater facilities for their naturalization than those accorded to aliens in general, for which reason it lodges an express reservation to the contents of article 32 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="para">The Government of the Kingdom reserves the right not to apply the provisions of article 8 of the Convention to stateless persons who previously possessed enemy nationality or the equivalent thereof with respect to the Kingdom of Netherlands;</text>
+        <text type="para">With reference to article 26 of the Convention, the Government of the Kingdom reserves the right to designate a place of principal residence for certain stateless persons or groups of stateless persons in the public interest.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Nicaragua</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Nicaragua declares that the expression "treatment as favourable as possible", referred to in those of its provisions to which reservations may be made, shall not be understood to include the special treatment which Nicaragua has granted or may grant to nationals of Spain, the Latin American countries in general, and in particular the countries which constitute the Central American Integration System (SICA), which are those countries which constituted the United Provinces of Central America, plus the Republic of Panama.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Philippines</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">"(a) As regards Article 17, paragraph 1, granting stateless persons the right to engage in wage-earning employment, [the Government of the Philippines] finds that this provision conflicts with the Philippine Immigration Act of 1940, as amended, which classifies as excludable aliens under Section 29 those coming to the Philippines to perform unskilled labour, and permits the admission of pre-arranged employees under Section 9 (g) only when there are no persons in the Philippines willing and competent to perform the labour or service for which the admission of aliens is desired.</text>
+        <text type="para">"(b) As regards Article 31, paragraph 1, to the effect that `the Contracting States shall not expel a stateless person lawfully in their territory, save on grounds of national security or public order', this provision would unduly restrict the power of the Philippine Government to deport undesirable aliens under Section 37 of the same Immigration Act which states the various grounds upon which aliens may be deported.</text>
+        <text type="para">"Upon signing the Convention [the Philippine Government], therefore hereby [registers] its non-conformity to the provisions of Article 17, paragraph 1, and Article 31, paragraph?, thereof, for the reasons stated in (a) and (b) above."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Portugal</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">Under paragraph 1 of Article 38 of the Convention, the Portuguese Republic declares that in all cases where the stateless persons are accorded the most favourable treatment accorded to nationals of a foreign country, this clause shall not be interpreted as covering the regime applicable to nationals of Brazil, nationals from the European Union countries or nationals from other countries with which Portugal has established or may establish community relations, namely the Portuguese speaking States.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Republic of Moldova</Participant>
+        <text type="para">According to article 38 part 1 from the Convention, [the] Republic of Moldova reserves the right to apply [the] provisions of articles 23, 24, 25 and 31 from the Convention according to the national legislation.</text>
+        <text type="para" />
+        <text type="para">According to article 38 part 1 from the Convention, [the] Republic of Moldova reserves the right to apply the provisions of article 27 from the Convention only in regards with stateless which statute has being recognized by the Republic of Moldova, and for that who have permission to stay on the territory of [the] Republic of Moldova.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Romania</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"1. With reference to the application of Article 23 of the Convention, Romania reserves its right to accord public relief only to stateless persons which are also refugees, under the provisions of the Convention of 28 July 1951 relating to the Status of Refugees and of the Protocol of 31 January 1967 relating to the Status of Refugees or, as the case may be, subject to the provisions of the domestic law;</text>
+        <text type="para">2. With reference to the application of Article 27 of the Convention, Romania reserves its right to issue identity papers only to stateless persons to whom the competent authorities accorded the right to stay on the territory of Romania permanently or, as the case may be, for a determinated period, subject to the provisions of the domestic law;</text>
+        <text type="para">3. With reference to the application of Article 31 of the Convention, Romania reserves its right to expel a stateless person staying lawfully on its territory whenever the stateless person committed an offence, subject to the provisions of the legislation in force."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Slovak Republic shall not be bound by article 27 to that effect it shall issue identity papers to any stateless person that is not in possession of a valid travel document. The Slovak Republic shall issue identity papers only to the stateless person present on the territory of the Slovak Republic who have been granted long-term or permanent residence permit.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">[The Government of the Kingdom of Spain] makes a reservation to article 29, paragraph 1, and considers itself bound by the provisions of that paragraph only in the case of stateless persons residing in the territory of any of the Contracting States."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>St. Vincent and the Grenadines</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of St. Vincent and the Grenadines can only undertake that the provisions of articles 23, 24, 25 and 31 will be applied in St. Vincent and the Grenadines so far as the law allows.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden&lt;superscript&gt;16&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">(1) . . .</text>
+        <text type="para">(2) To article 8. This article will not be binding on Sweden.</text>
+        <text type="para">(3) To article 12, paragraph 1. This paragraph will not be binding on Sweden.</text>
+        <text type="para">(4) To article 24, paragraph 1 (b). Notwithstanding the rule concerning the treatment of stateless persons as nationals, Sweden will not be bound to accord to stateless persons the same treatment as is accorded to nationals in respect of the possibility of entitlement to a national pension under the provisions of the National Insurance Act; and likewise to the effect that, in so far as the right to a supplementary pension under the said Act and the computation of such pension in certain respects are concerned, the rules applicable to Swedish nationals shall be more favour able than those applied to other insured persons.</text>
+        <text type="para">(5) To article 24, paragraph 3. The provisions of this paragraph will not be binding on Sweden.</text>
+        <text type="para">(6) To article 25, paragraph 2. Sweden does not consider itself obliged to cause a Swedish authority, in lieu of a foreign authority, to deliver certificates for the issuance of which there is insufficient documentation in Sweden.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"I have the honour further to state that the Government of the United Kingdom deposit the present instrument of ratification on the understanding that the combined effects of articles 36 and 38 permit them to include in any declaration or notification made under paragraph 1 of article 36 or paragraph 2 of article 36 respectively any reservation consistent with article 38 which the Government of the territory concerned might desire to make."</text>
+        <text type="title">Reservations:</text>
+        <text type="para">"When ratifying the Convention relating to the Status of Stateless Persons which was opened for signature at New York on September 28, 1954, the Government of the United Kingdom have deemed it necessary to make certain reservations in accordance with paragraph 1 of Article 38 thereof the text of which is reproduced below:</text>
+        <text type="para">(1) The Government of the United Kingdom of Great Britain and Northern Ireland understand Articles 8 and 9 as not preventing them from taking in time of war or other grave and exceptional circumstances measures in the interests of national security in the case of a stateless person on the ground of his former nationality. The provisions of Article 8 shall not prevent the Government of the United Kingdom of Great Britain and Northern Ireland from exercising any rights over property or interests which they may acquire or have acquired as an Allied or Associated Power under a Treaty of Peace or other agreement or arrangement for the restoration of peace which has been or may be completed as a result of the Second World War. Furthermore, the provisions of Article 8 shall not affect the treatment to be accorded to any property or interests which at the date of entry into force of this Convention for the United Kingdom of Great Britain and Northern Ireland are under the control of the Government of the United Kingdom of Great Britain and Northern Ireland by reason of a state of war which exists or existed between them and any other State.</text>
+        <text type="para">(2) The Government of the United Kingdom of Great Britain and Northern Ireland, in respect of such of the matters referred to in sub-paragraph (b) of paragraph 1 of Article 24 as fall within the scope of the National Health Service, can only undertake to apply the provisions of that paragraph so far as the law allows.</text>
+        <text type="para">(3) The Government of the United Kingdom of Great Britain and Northern Ireland cannot undertake to give effect to the obligations contained in paragraphs 1 and 2 of Article 25 and can only undertake to apply the provisions of paragraph 3 so far as the law allows."</text>
+        <text type="para">&lt;i&gt;Commentary &lt;/i&gt;: "In connexion with sub-paragraph (b) of paragraph 1 of Article 24 which relates to certain matters within the scope of the National Health Service, the National Health Service (Amendment) Act 1949 contains powers for charges to be made to persons not ordinarily resident in Great Britain (which category would include some stateless persons) who receive treatment under the Service. These powers have not yet been exercised but it may be necessary to exercise them at some future date. In Northern Ireland the Health Services are restricted to persons ordinarily resident in the country except where regulations are made to extend the Services to others. For these reasons, the Government of the United Kingdom, while prepared in the future, as in the past, to give the most sympathetic consideration to the situation of stateless persons, find it necessary to make reservation to sub-paragraph (b) of Article 24.</text>
+        <text type="para">"No arrangements exist in the United Kingdom for the administrative assistance for which provision is made in Article 25 nor have any such arrangements been found necessary in the case of stateless persons. Any need for the documents or certifications mentioned in paragraph 2 of that Article would be met by affidavit."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Zambia&lt;superscript&gt;17&lt;/superscript&gt;</Participant>
+        <text type="title">"Article 22 (1):</text>
+        <text type="para">The Government of the Republic of Zambia considers paragraph 1 of article 22 to be a recommendation only, and not a binding obligation to accord to stateless persons national treatment with respect to elementary education;</text>
+        <text type="title">"Article 26:</text>
+        <text type="para">The Government of the Republic of Zambia reserves the right under article 26 to designate a place or places of residence for stateless persons;</text>
+        <text type="title">"Article 28:</text>
+        <text type="para">The Government of the Republic of Zambia does not consider itself bound under article 28 to issue a travel document with a return clause in cases where a country of second asylum has accepted or indicated its willingness to accept a stateless person from Zambia;</text>
+        <text type="title">"Article 31:</text>
+        <text type="para">"The Government of the Republic of Zambia shall not undertake under article 31 to grant treatment more favourable than that accorded to aliens generally with respect to expulsion."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>France</Participant>
+        <DateNotification>8 Mar 1960</DateNotification>
+        <Territories>Departments of Algeria, of the Oases and of Saoura, Guadeloupe, Martinique and Guiana and the five Overseas Territories (New Caledonia and Dependencies, French Polynesia, French Somaliland, the Comoro Archipelago and the Islands of St. Pierre and Miquelon)</Territories>
+      </Application>
+      <Application>
+        <Participant>Netherlands&lt;superscript&gt;18&lt;/superscript&gt;</Participant>
+        <DateNotification>12 Apr 1962</DateNotification>
+        <Territories>Netherlands New Guinea and Suriname</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3,14,19,20,21,22,23&lt;/superscript&gt;</Participant>
+        <DateNotification>14 Apr 1959</DateNotification>
+        <Territories>Channel Islands and Isle of Man</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>7 Dec 1959</DateNotification>
+        <Territories>High Commission Territories of Basutoland, Bechuanaland Protectorate and Swaziland</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>9 Dec 1959</DateNotification>
+        <Territories>Federation of Rhodesia and Nyasaland</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>19 Mar 1962</DateNotification>
+        <Territories>Bermuda, British Guiana, British Honduras, British Solomon Islands Protectorate, British Virgin Islands, Colony of Aden, Falkland Islands (Malvinas), Fiji, Gambia, Gilbert and Ellice Islands, Hong Kong, Kenya, Malta, Mauritius, North Borneo, Sarawak, Seychelles, St. Helena, State of Singapore, Uganda, West Indies and Zanzibar</Territories>
+      </Application>
+    </TerritorialApplications>
+    <DeclarationsUnderArticle>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated the declarations and reservations were made upon notification of territorial application.)</Title>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3,14,19,20,21,22,23&lt;/superscript&gt;</Participant>
+        <text type="para">&lt;center&gt;&lt;b&gt;Channel Islands and Isle of Man&lt;/b&gt;&lt;/center&gt;</text>
+        <text type="para">"(i) The Government of the United Kingdom of Great Britain and Northern Ireland understand Articles 8 and 9 as not preventing the taking in the Isle of Man and in the Channel Islands, in time of war or other grave and exceptional circumstances, of measures in the interests of national security in the case of a stateless person on the ground of his former nationality. The provisions of Article 8 shall not prevent the Government of the United Kingdom of Great Britain and Northern Ireland from exercising any rights over property or interests which they may acquire or have acquired as an Allied or Associated Power under a Treaty of Peace or other agreement or arrangement for the restoration of peace which has been or may be completed as a result of the Second World War. Furthermore, the provisions of Article 8 shall not affect the treatment to be accorded to any property or interests which, at the date of entry into force of this Convention for the Isle of Man and the Channel Islands, are under the control of the Government of the United Kingdom of Great Britain and Northern Ireland by reason of a state of war which exists or existed between them and any other State.</text>
+        <text type="para" />
+        <text type="para">"(ii) The Government of the United Kingdom of Great Britain and Northern Ireland can only undertake that the provisions of sub-paragraph (b) of paragraph 1 of Article 24 and of paragraph 2 of that Article will be applied in the Channel Islands so far as the law allows, and that the provisions of that sub-paragraph, in respect of such matters referred to therein as fall within the scope of the Isle of Man Health Service, will be applied in the Isle of Man so far as the law allows.</text>
+        <text type="para" />
+        <text type="para">"(iii) The Government of the United Kingdom of Great Britain and Northern Ireland cannot undertake that effect will be given in the Isle of Man and the Channel Islands to paragraphs 1 and 2 of Article 25 and can only undertake that the provisions of paragraph 3 will be applied in the Isle of Man and the Channel Islands so far as the law allows."</text>
+        <text type="para" />
+        <text type="para">&lt;center&gt;&lt;b&gt;High Commission Territories of Basutoland, Bechuanaland Protectorate and Souaziland&lt;/b&gt;&lt;/center&gt;</text>
+        <text type="para">[Same reservations, in essence, as those made for the Channel Islands and the Isle of Man, under Nos. (i) and (iii).]</text>
+        <text type="para" />
+        <text type="para">&lt;center&gt;&lt;b&gt;Federation of Rhodesia and Nyasaland&lt;/b&gt;&lt;/center&gt;</text>
+        <text type="para">[Same reservations, in essence, as those made for the Channel Islands and the Isle of Man, under No. (iii).]</text>
+        <text type="para" />
+        <text type="para">&lt;center&gt;&lt;b&gt;British Guiana, British Solomon Islands Protectorate, Falkland Islands, Gambia, Gilbert and Ellice Islands, Kenya, Mauritius&lt;/b&gt;&lt;/center&gt;</text>
+        <text type="para">[Same reservations, in essence, as those made for the Channel Islands and the Isle of Man, under Nos. (i) and (iii)].</text>
+        <text type="para" />
+        <text type="para">&lt;center&gt;&lt;b&gt;British Honduras, Hong Kong&lt;/b&gt;&lt;/center&gt;</text>
+        <text type="para">[Same reservations, in essence, as those made for the Channel Islands and the Isle of Man, under Nos. (i) and (iii).]</text>
+        <text type="para" />
+        <text type="para">&lt;center&gt;&lt;b&gt;North Borneo&lt;/b&gt;&lt;/center&gt;</text>
+        <text type="para">[Same reservations, in essence, as those made for the Channel Islands and the Isle of Man.]</text>
+        <text type="para" />
+        <text type="para">&lt;center&gt;&lt;b&gt;Fiji&lt;/b&gt;&lt;/center&gt;</text>
+        <text type="para">(i) The Government of the United Kingdom of Great Britain and Northern Ireland understand articles 8 and 9 as not preventing the taking in Fiji, in time of war or other grave and exceptional circumstances, of measures in the interests of national security in the case of a stateless person on the ground of his former nationality.</text>
+        <text type="para" />
+        <text type="para">(ii) The Government of the United Kingdom of Great Britain and Northern Ireland, in respect of the provisions of sub-paragraph (b) of paragraph 1 of article 24, can only undertake that effect will be given in Fiji to the provisions of that paragraph so far as the law allows.</text>
+        <text type="para" />
+        <text type="para">(iii) The Government of the United Kingdom of Great Britain and Northern Ireland cannot undertake that effect will be given in Fiji to paragraphs 1 and 2 of article 25 and can only undertake that the provisions of paragraph 3 will be applied in Fiji so far as the law allows.</text>
+        <text type="para" />
+        <text type="para">&lt;center&gt;&lt;b&gt;The State of Singapore&lt;/b&gt;&lt;/center&gt;</text>
+        <text type="para">(i) The Government of the United Kingdom of Great Britain and Northern Ireland cannot undertake that effect will be given in the State of Singapore to article 23.</text>
+        <text type="para" />
+        <text type="para">&lt;center&gt;&lt;b&gt;The West Indies&lt;/b&gt;&lt;/center&gt;</text>
+        <text type="para">(i) The Government of the United Kingdom of Great Britain and Northern Ireland cannot undertake that effect will be given in the West Indies to articles 8, 9, 23, 24, 25, 26 and 31.</text>
+      </Declaration>
+    </DeclarationsUnderArticle>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the Economic and Social Council, Seventeenth Session, Supplement, No. 1 &lt;/i&gt; (E/2596), p. 12.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had acceeded to the Convention on 9 April 1959. See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 10 June 1997, the Secretary-General received communications concerning the status of Hong Kong from the Governments of the the United Kingdom and China (see also note 2 under China and note? under United Kingdom of Great Britain and Northern Ireland regarding Hong Kong in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Hong Kong, China notified the Secretary-General that the Convention will also apply to the Hong Kong Special Administrative Region.</text>
+        <text>In addition, the notification made by the Government of China contained the following declaration:</text>
+        <text>The Government of the People's Republic of China cannot undertake that effect will be given in the Hong Kong Special Administrative Region to article 25, paragraphs 1 and 2 of the Convention, and can only undertake that the provisions of paragraph 3 of the said article will be applied in the Hong Kong Special Administrative Region so far as the law there allows.</text>
+        <text>Within the above ambit, responsibility for the international rights and obligations of a Party to the [said Convention] will be assumed by the Government of the People's Republic of China.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Instrument of ratification received by the Secretary-General on 2 August 1976 and supplemented by notification of reservation received on 26 October 1976, the date on which the instrument is deemed to have been deposited. See also note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>By a notification received by the Secretary-General on 2 April 1965, the Government of Madagascar denounced the Convention; the denunciation took effect on 2 April 1966.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>In the notification of succession, the Government of Botswana also maintained the reservations made by the Government of the United Kingdom of Great Britain and Northern Ireland on extension of the Convention to the Bechuanaland Protectorate. For the text of the reservations, see &lt;i&gt;"Declarations and reservations made upon notification of territorial application" &lt;/i&gt;, under United Kingdom.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>The reservation made upon signature was not maintained upon ratification. For the text of the reservation, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 360, p. 196.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>In a communication received on 23 August 1962, the Government of Denmark informed the Secretary-General of its decision to withdraw as from 1 October 1961 the reservation to article 14 of the Convention.</text>
+        <text>In a communication received on 25 March 1968, the Government of Denmark informed the Secretary-General of its decision to withdraw as from that date, the reservation to article 24, paragraph 2, of the Con vention. For the text of the reservations withdrawn by the above communications, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;,vol. 360, p. 132.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>In a communication received on 30 September 1970, the Government of Finland notified the Secretary-General of its decision to withdraw the reservation formulated in its instrument of accession to article 12, paragraph 1, of the Convention. For the text of the said reservation, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 648, p. 368.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>On 3 July 2012, the Government of Hungary notified the Secretary-General of a partial withdrawal of its reservation to articles 23 and 24 made upon accession. The reservation made upon accession read as follows:</text>
+        <text>The Republic of Hungary shall apply the provisions contained in Articles 23 and 24 in such a way that it ensures to stateless persons having permanent domestic residence equal treatment with its own citizens.</text>
+        <text></text>
+        <text />
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>In a communication received on 25 January 1968, the Government of Italy notified the Secretary-General of the withdrawal of the reservations made at the time of signature to articles 6, 7 (2), 8, 19, 22 (2), 23, 25 and 32 (see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 189, p. 192).</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>Reservations 1 and 2 had been formulated by the Government of the United Kingdom in respect of the territory of Basutoland. Reservation 3 constitutes a new reservation, which was made subject to the provisions of article 39 (2) of the Convention.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>On 11 July 2014, the Government of Mexico notified the Secretary-General of the partial withdrawal of the reservation made upon accession. The portion of the reservation which has been withdrawn read as follows:</text>
+        <text>The Government of Mexico lodges an express reservation to article 31 of the Convention, and, therefore, refers to the application of article 33 of the Political Constitution of the United Mexican States.</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>In a communication received on 25 November1966, the Government of Sweden has notified the Secretary-General that it has decided, in accordance with paragraph 2 of article 38 of the Convention, to withdraw some of its reservations to article 24, paragraph 1 (b), and the reservation to article 24, paragraph 2 of the Convention. In a communication received on 5 March 1970, the Government of Sweden notified the Secretary-General of the withdrawal of its reservation to article 7, paragraph 2, of the Convention. For the text of the reservations to article 24, paragraph 1 (b), as originally formulated by the Government of Sweden in its instrument of ratification, and of the reservation to article 7, paragraph 2, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 529, p. 362.</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>In its notification of succession, the Government of Zambia declared that it withdrew the reservations made by the Government of the United Kingdom upon extension of the Convention by the latter to the former Federation of Rhodesia and Nyasaland. The reservations reproduced herein are new reservations, which were made subject to the provisions of article 39 (2) of the Convention.</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>In the note accompanying the instrument of ratification, the Government of the Netherlands stated, with reference to article 36, paragraph 3 of the Convention, that "if at any time the Government of the Netherlands Antilles agrees to the extension of the Convention to its territory, the Secretary-General shall be notified thereof without delay. Such notification will contain the reservations, if any, which the Government of the Netherlands Antilles might wish to make with respect to local requirements in accordance with article 38 of the Convention." See also note 1 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>See note 1 under United Kingdom of Great Britain and Northern Ireland in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>20</index>
+        <text>See accession by Uganda.</text>
+      </Note>
+      <Note>
+        <index>21</index>
+        <text>See succession by Lesotho.</text>
+      </Note>
+      <Note>
+        <index>22</index>
+        <text>See succession by Fiji.</text>
+      </Note>
+      <Note>
+        <index>23</index>
+        <text>In a letter addressed to the Secretary-General on 22 March 1968, the President of the Republic of Malawi, referring to the Convention relating to the Status of Stateless Persons, done at New York on 28September 1954, stated the following:</text>
+        <text>"In my letter to you of the 24th November 1964, concerning the disposition of Malawi's inherited treaty obligations, my Government declared that with respect to multilateral treaties which had been applied or extended to the former Nyasaland Protectorate, any Party to such a treaty could on the basis of reciprocity rely as against Malawi on the terms of that treaty until Malawi notified its depositary of what action it wished to take by way of confirmation of termination, confirmation of succession, or accession.</text>
+        <text>"I am to inform you as depositary of this Convention that the Government of Malawi now wishes to terminate any connection with this Convention which it might have inherited. The Government of Malawi considers that any legal relationship with the afore-mentioned Convention relating to the Status of Stateless Persons, New York, 1954 which might have devolved upon it by way of succession from the ratification of the United Kingdom, is terminated as of this date."</text>
+      </Note>
+    </EndNotes>
+    <Footer>V 3. Refugees and Stateless Persons</Footer>
+  </Treaty>
+</Document>

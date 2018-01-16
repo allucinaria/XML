@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXIV</Header>
+        <Name>OUTER SPACE</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Titlesect>Agreement governing the Activities of States on the Moon and Other Celestial Bodies</Titlesect>
+        <Conclusion>New York, 5 December 1979</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>11 July 1984, in accordance with article 19(3).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>11 July 1984, No. 23002</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>11</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>17</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1363, p. 3; and depositary notification C.N.107.1981.TREATIES-2 of 27 May 1981 [procès-verbal of rectification of the English authentic text of article 5 (1)].</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was adopted by resolution &lt;a href="/doc/source/docs/A_RES_34_68-E.pdf" target="_blank"&gt;34/68&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt;of the General Assembly of the United Nations dated 5 December 1979. It was opened for signature on 18 December 1979.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>7 Jul 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>21 May 1980</Entry>
+                <Entry>11 Jun 1984</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>29 Jun 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>3 Jan 1980</Entry>
+                <Entry>12 Nov 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>29 Jan 1980</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>20 Nov 1980</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>18 Jan 1982</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>11 Jan 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry />
+                <Entry>28 Apr 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry />
+                <Entry>12 Apr 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>11 Oct 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>25 Jul 1980</Entry>
+                <Entry>21 Jan 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>27 Jan 1981</Entry>
+                <Entry>17 Feb 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>27 Feb 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>23 Jun 1981</Entry>
+                <Entry>23 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>23 Apr 1980</Entry>
+                <Entry>26 May 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>17 Apr 1980</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>18 Jul 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>29 Feb 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>1 Jun 1981</Entry>
+                <Entry>9 Nov 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>3 Nov 2016 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification or accession.)</Title>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="title">Upon signature: Interpretative statement:</text>
+        <text type="para">France is of the view that the provisions of article 3, paragraph 2, of the Agreement relating to the use or threat of force cannot be construed as anything other than a reaffirmation, for the purposes of the field of endeavour covered by the Agreement, of the principle of the prohibition of the threat or use of force, which States are obliged to observe in their international relations, as set forth in the United Nations Charter.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the General Assembly, Thirty-fourth Session, Supplement No. 46 &lt;/i&gt; (A/34/46), p. 77.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>For the Kingdom in Europe and the Netherlands Antilles. See also note 1 under Netherlands regarding Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXIV 2. Outer Space</Footer>
+  </Treaty>
+</Document>

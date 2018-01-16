@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVIII</Header>
+        <Name>PENAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>10</Numsect>
+        <Subnumsect>a</Subnumsect>
+        <Subtitlesect>Amendment to article 8 of the Rome Statute of the International Criminal Court</Subtitlesect>
+        <Conclusion>Kampala, 10 June 2010</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>26 September 2012, in accordance with article 121(5) of the Rome Statute. The Amendment first entered into force in regard to San Marino one year after the deposit of its instrument of ratification.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>26 September 2012, No. 38544</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>36</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 2868, p. 195. Resolution &lt;a href="/doc/source/docs/RC-Res.5-ENG.pdf" target="_blank"&gt;RC/Res.5&lt;/a&gt; of the Review Conference of the Rome Statute.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Review Conference of the Rome Statute, held in Kampala, Uganda, from 31 May to 11 June 2010 adopted the amendment on 10 June 2010 by Resolution RC/Res.5. The amendment was circulated by the Secretary-General under cover of depositary notification C.N.533.2010.TREATIES-6 of 29 November 2010.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry>26 Sep 2013 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>28 Apr 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>17 Jul 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>26 Nov 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry>4 Jun 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>23 Sep 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>5 Feb 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>20 Dec 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>25 Sep 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>12 Mar 2015 A</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>3 Mar 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>27 Mar 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>30 Dec 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry>3 Nov 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>3 Jun 2013 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>25 Sep 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry>8 May 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>7 Dec 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>15 Jan 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>30 Jan 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>5 Sep 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>23 Sep 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>10 Jun 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>6 Dec 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>25 Sep 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>11 Apr 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry>25 Sep 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry>26 Sep 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>28 Apr 2014 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>25 Sep 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>25 Sep 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>State of Palestine</Entry>
+                <Entry>29 Dec 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>10 Sep 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry>1 Mar 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>13 Nov 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>26 Sep 2013</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Declaration>
+        <Participant>Czech Republic</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Czech Republic interprets the Amendment to article 8 of the Rome Statute of the International Criminal Court (Kampala, 10 June 2010) as having the following meaning:</text>
+        <text type="para">(i) The prohibition to employ gases, and all analogous liquids, materials or devices, set out in article 8, paragraph 2 (e) (xiv), is interpreted in line with the obligations arising from the Convention on the Prohibition of the Development, Production, stockpiling and Use of Chemical Weapons and on Their Destruction of 1993.</text>
+        <text type="para">(ii) The prohibition to employ bullets which expand or flatten easily in the human body, such as bullets with a hard envelope which does not entirely cover the core or is pierced with incisions, does not apply to the use of such bullets during activities of police nature in the context of law enforcement and maintenance of public order, which do not constitute direct participation an armed conflict, such as rescuing hostages and neutralizing civil aircraft hijackers.</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the European part and the Caribbean part (the Islands of Bonaire, Sint Eustatius and Saba) of the Netherlands.</text>
+        <text>Subsequently, on 21 December 2017, the Government of the Netherlands notified the Secretary-General that the Amendment will apply to Aruba. (See C.N.784.2017.TREATIES-XVIII.10.a of 21 December 2017.)</text>
+      </Note>
+    </EndNotes>
+    <Footer>XVIII 10 a. Penal Matters</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IV</Header>
+        <Name>HUMAN RIGHTS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>15</Numsect>
+        <Subnumsect>a</Subnumsect>
+        <Subtitlesect>Optional Protocol to the Convention on the Rights of Persons with Disabilities</Subtitlesect>
+        <Conclusion>New York, 13 December 2006</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>3 May 2008, in accordance with article 13(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>3 May 2008, No. 44910</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>92</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>92</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 2518, p. 283. Doc.&lt;a href="/doc/source/docs/A_61_611_E.pdf" target="_blank"&gt;A/61/611&lt;/a&gt;</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Optional Protocol was adopted on 13 December 2006 during the sixty-first session of the General Assembly by resolution &lt;a href="/doc/source/docs/A_Res_61_106-E.pdf" target="_blank"&gt;A/RES/61/106&lt;/a&gt;. In accordance with its article 10, the Optional Protocol shall be open for signature by all signatory States and regional integration organizations of the Convention on the Rights of Persons with Disabilities at United Nations Headquarters in New York as of 30 March 2007.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Formal confirmation(c), Accession(a), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry />
+                <Entry>18 Sep 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry>27 Apr 2007</Entry>
+                <Entry>11 Mar 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry />
+                <Entry>19 May 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>2 Sep 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>21 Aug 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>26 Sep 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry>9 Jan 2008</Entry>
+                <Entry>28 Jan 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>12 May 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>2 Jul 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>8 Feb 2008</Entry>
+                <Entry>5 Jul 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>13 Aug 2007</Entry>
+                <Entry>16 Nov 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry>29 Jul 2009</Entry>
+                <Entry>12 Mar 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>1 Aug 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>18 Dec 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>23 May 2007</Entry>
+                <Entry>23 Jul 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry>26 Apr 2007</Entry>
+                <Entry>22 May 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>1 Oct 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>1 Oct 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>9 May 2007</Entry>
+                <Entry>11 Oct 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>26 Sep 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>29 Jul 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>2 Sep 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Cook Islands</Entry>
+                <Entry />
+                <Entry>8 May 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>1 Oct 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>7 Jun 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>15 Aug 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>27 Jun 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry />
+                <Entry>30 Sep 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Sep 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry />
+                <Entry>18 Jun 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>1 Oct 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>18 Aug 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>3 Apr 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>14 Dec 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>30 May 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry>2 Jun 2010</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>11 May 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>23 Sep 2008</Entry>
+                <Entry>18 Feb 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>25 Sep 2007</Entry>
+                <Entry>26 Jun 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry />
+                <Entry>6 Jul 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry>10 Jul 2009</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>24 Feb 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>31 Jul 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>27 Sep 2010</Entry>
+                <Entry>31 May 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>7 Apr 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>31 Aug 2007</Entry>
+                <Entry>8 Feb 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry>24 Sep 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry />
+                <Entry>23 Jul 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>23 Aug 2007</Entry>
+                <Entry>16 Aug 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>20 Jul 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>15 May 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry>11 Dec 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>22 Jan 2010</Entry>
+                <Entry>31 Aug 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>14 Jun 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>18 Aug 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>26 Sep 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>25 Sep 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>15 May 2007</Entry>
+                <Entry>7 Apr 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>10 Oct 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>3 Apr 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>25 Sep 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>17 Dec 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>13 May 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry>27 Sep 2007</Entry>
+                <Entry>2 Nov 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>8 Apr 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>30 Jan 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Namibia</Entry>
+                <Entry>25 Apr 2007</Entry>
+                <Entry>4 Dec 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>3 Jan 2008</Entry>
+                <Entry>7 May 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>4 Oct 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>21 Oct 2008</Entry>
+                <Entry>2 Feb 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>2 Aug 2007</Entry>
+                <Entry>24 Jun 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>24 Sep 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry />
+                <Entry>11 Jun 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>7 Aug 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>3 Sep 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>30 Jan 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>23 Sep 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry>9 Jul 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>25 Sep 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>15 Dec 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>22 Feb 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>24 Jun 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>25 Apr 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>17 Dec 2007</Entry>
+                <Entry>31 Jul 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>26 Sep 2007</Entry>
+                <Entry>26 May 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>24 Apr 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry>24 Sep 2009</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>30 Nov 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>3 Dec 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>29 Oct 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry />
+                <Entry>24 Apr 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry>25 Sep 2007</Entry>
+                <Entry>24 Sep 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>15 Dec 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>10 Jul 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry />
+                <Entry>2 Sep 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry>29 Jul 2009</Entry>
+                <Entry>29 Dec 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>23 Sep 2008</Entry>
+                <Entry>1 Mar 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>2 Apr 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>28 Sep 2009</Entry>
+                <Entry>26 Mar 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>10 Nov 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>30 Mar 2007</Entry>
+                <Entry>25 Sep 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>24 Sep 2008</Entry>
+                <Entry>4 Feb 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry>12 Feb 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>26 Feb 2009</Entry>
+                <Entry>7 Aug 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>29 Sep 2008</Entry>
+                <Entry>10 Nov 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>28 Oct 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>24 Sep 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen</Entry>
+                <Entry>11 Apr 2007</Entry>
+                <Entry>26 Mar 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry>29 Sep 2008</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>23 Sep 2013 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, acceptance, approval or accession.)</Title>
+      <Declaration>
+        <Participant>Azerbaijan</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Azerbaijan declares that it is unable to guarantee the application of the provisions of the Protocol in the territories occupied by the Republic of Armenia until these territories are liberated from occupation.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>El Salvador&lt;superscript&gt;1,4,5&lt;/superscript&gt;</Participant>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Syrian Arab Republic</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of the Syrian Arab Republic declares that it does not recognize the competence of the Committee on the Rights of Persons with Disabilities (the Committee) provided for in articles 6 and 7 of the Optional Protocol, in accordance with Article 8 of that Protocol, which provides that each State Party may, at the time of signature or ratification of the present Protocol or accession thereto, declare that it does not recognize the competence of the Committee provided for in articles 6 and 7.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Turkey&lt;superscript&gt;6&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Turkey declares that [its] ratification of the Optional Protocol to the Convention on the Rights of Persons with Disabilities neither amounts to any form of recognition of the Greek Cypriot Administrations pretention to represent the defunct Republic of Cyprus as party to that Protocol, nor should it imply any obligation on the part of Turkey to enter into any dealing with the so-called Republic of Cyprus within the framework of the said Protocol.</text>
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made</Title>
+      <Title>upon ratification, acceptance, approval or accession.)</Title>
+      <Objection>
+        <Participant>Austria</Participant>
+        <text>&lt;right&gt;26 September 2008&lt;/right&gt;</text>
+        <text type="title">With regard to the reservation made by El Salvador upon signature and confirmed upon ratification:</text>
+        <text type="para">The Government of Austria has examined the reservation to the Convention on the Rights of Persons with Disabilities and Optional Protocol thereto made by the Government of El Salvador.</text>
+        <text type="para">According to its reservation, El Salvador envisages becoming Party to the Convention only to the extent that its provisions do not prejudice or violate the provisions of any of the precepts, principles and norms enshrined in the Constitution of the Republic of El Salvador, particularly in its enumeration of principles. In the absence of further clarification, this reservation does not clearly specify the extent of El Salvadors derogation from the provisions of the Convention. This general and vague wording of the reservation raises doubts as to the degree of commitment assumed by El Salvador in becoming a party to the Convention and is therefore incompatible with international law.</text>
+        <text type="para">The Government of Austria objects to the reservation made by the Government of the Republic of El Salvador to the Convention on the Rights of Persons with Disabilities and Optional Protocol thereto.</text>
+        <text type="para">This objection, however, does not preclude the entry into force, in its entirety, of the Convention between Austria and El Salvador.</text>
+        <text>&lt;right&gt;16 March 2016&lt;/right&gt;</text>
+        <text type="title">With regard to the declaration made by Turkey upon ratification:</text>
+        <text type="para">The Government of Austria has examined the declaration made by the Republic of Turkey upon ratification of the Optional Protocol to the Convention on the Rights of Persons with Disabilities adopted on 13 December 2006. It welcomes the ratification of the Optional Protocol by Turkey as a significant step for the promotion of the rights of persons with disabilities. However, as a member state of the European Union, Austria opposes the declaration made by the Republic of Turkey which describes another member state, the Republic of Cyprus, as a defunct entity.</text>
+      </Objection>
+      <Objection>
+        <Participant>Cyprus</Participant>
+        <text>&lt;right&gt;11 February 2016&lt;/right&gt;</text>
+        <text type="title">With regard to the declaration made by Turkey upon ratification:</text>
+        <text type="para">The Republic of Cyprus has examined the declaration deposited by the Republic of Turkey upon ratification of the Optional Protocol to the Convention on the Rights of Persons with Disabilities (New York, 13 December 2006) on 26 March 2015, limiting the implementation of the provisions of the Convention and the Protocol, by excluding the Republic of Cyprus from the application of the Protocol at reference by the Republic of Turkey. The content of the declaration makes it tantamount in its essence to a reservation. Such a reservation is contrary to the object and purpose of the Convention and its Protocol, as it prevents the realization of the cooperation between States Parties foreseen by the Convention and its Protocol. In addition, such a declaration / reservation also relies on the principle of reciprocity, which is incompatible with human rights obligations assumed through this Convention. The legal reasoning, cited above, renders Turkeys declaration unacceptable, as the declaration under reference contravenes the letter and the spirit of the Convention and its Protocol. The Republic of Cyprus, therefore, objects to the aforesaid declaration made by the Republic of Turkey and considers the declaration null and void. This objection shall not preclude the entry into force of the Convention, in its entirety, between the Republic of Cyprus and the Republic of Turkey, without the Republic of Turkey benefiting from its declaration / reservation.</text>
+      </Objection>
+      <Objection>
+        <Participant>Greece</Participant>
+        <text>&lt;right&gt;16 March 2016&lt;/right&gt;</text>
+        <text type="title">With regard to the declaration made by Turkey upon ratification:</text>
+        <text type="para">& The Government of the Hellenic Republic has examined the declaration made by the Republic of Turkey upon ratification, on 26 March 2015, of the Optional Protocol to the Convention on the Rights of Persons with Disabilities.</text>
+        <text type="para">The Republic of Turkey declares that its ratification of the Optional Protocol to the Convention on the Rights of Persons with Disabilities should not imply any obligation on the part of Turkey to enter into any dealing with the Republic of Cyprus within the framework of the said Protocol.</text>
+        <text type="para">In [the] view of the Government of the Hellenic Republic, the above declaration in fact amounts to a reservation, as it purports to exclude the application of the Protocol in Turkey's relations with the Republic of Cyprus. Such a reservation is incompatible with the principle that inter-State reciprocity has no place in the context of human rights treaties, which concern the endowment of individuals with rights. It is, therefore, contrary to the object and purpose of the Convention on the Rights of Persons with Disabilities and its Optional Protocol.</text>
+        <text type="para">The Government of the Hellenic Republic recalls that, according to Article 14 paragraph 1 of the Optional Protocol to the Convention on the Rights of Persons with Disabilities, reservations incompatible with the object and purpose of this Protocol shall not be permitted.</text>
+        <text type="para">For the above reasons, the Government of the Hellenic Republic objects to the declaration made by the Republic of Turkey upon ratification of the said Protocol.</text>
+        <text type="para">This objection shall not preclude the entry into force of the Protocol between the Hellenic Republic and the Republic of Turkey&</text>
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>See Note 1 under "Bolivia (Plurinational State of)" in the Historical Information section.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Upon its accession of the Optional Protocol the Government of Denmark notified the Secretary-General that the Optional Protocol shall not apply to Greenland.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>With a territorial exclusion. See C.N.721.2016.TREATIES-IV.15.a of 4 October 2016.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>On 28 January 2010, the Secretary-General received from the Government of Germany the following communication relating to the declaration made by the Republic of El Salvador upon signature and confirmed upon ratification:</text>
+        <text>The Federal Republic of Germany has carefully examined the aforementioned reservation.</text>
+        <text>The Federal Republic of Germany is of the opinion that reservations which consist in a general reference to a system of norms (like the constitution or the legal order of the reserving State) without specifying the contents thereof leave it uncertain to which extent that State accepts to be bound by the obligations under the treaty. Moreover, those norms may be subject to changes.</text>
+        <text>The reservation made by the Republic of El Salvador is therefore not sufficiently precise to make it possible to determine the restrictions that are introduced into the agreement.</text>
+        <text>The Federal Republic of Germany is therefore of the opinion that the reservation is incompatible with object and purpose of the Convention and the Protocol and would like to recall that, according to Article 46, paragraph 1 of the Convention, and Article 14, paragraph 1 of the Protocol, a reservation incompatible with the object and purpose of the Convention shall not be permitted.</text>
+        <text>The Federal Republic of Germany therefore objects to the above-mentioned reservation. This objection shall not preclude the entry into force of the Convention and the Protocol between the Federal Republic of Germany and the Republic of El Salvador.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>On 18 March 2015, the Government of El Salvador informed the Secretary-General that it had decided to withdraw the following Reservation made upon signature and confirmed upon ratification:</text>
+        <text>The Government of the Republic of El Salvador signs the present Convention on the Rights of Persons with Disabilities and the Optional Protocol thereto, adopted by the United Nations General Assembly on 13 December 2006, to the extent that its provisions do not prejudice or violate the provisions of any of the precepts, principles and norms enshrined in the Constitution of the Republic of El Salvador, particularly in its enumeration of principles.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>On 6 December 2016, the Secretary-General received from the Government of Portugal the following communication relating to the declaration made by the Republic of Turkey upon ratification:</text>
+        <text>The Government of the Portuguese Republic has examined the declaration made by the Republic of Turkey upon ratification of the Optional Protocol to the Convention on the Rights of Persons with Disabilities adopted on 13 December 2006.</text>
+        <text>It welcomes the ratification of the Optional Protocol by the Republic of Turkey since this is a significant step for the promotion of human rights, particularly the rights of those persons with disabilities.</text>
+        <text>Nevertheless, the Portuguese Republic, as a European Union Member State, opposes the declaration made by the Republic of Turkey since it describes another Member State, the Republic of Cyprus, as a defunct entity.</text>
+      </Note>
+    </EndNotes>
+    <Footer>IV 15 a. Human Rights</Footer>
+  </Treaty>
+</Document>

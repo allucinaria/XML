@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>7</Numsect>
+        <Titlesect>Agreement establishing the Asian Coconut Community</Titlesect>
+        <Conclusion>Bangkok, 12 December 1968</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>30 July 1969, in accordance with article 12.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>30 July 1969, No. 9733</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>6</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>12</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, Treaty Series, vol. 684, p. 163; vol. 803, p. 514 [amendment to article 11 (2)]and depositary notification C.N.302.1980.TREATIES-1 of 29 October 1980 [amendment to article 5 (3)]. &lt;superscript&gt;1&lt;/superscript&gt;</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was drawn up at the meeting of the Inter-Governmental Consultations on the Asian Coconut Community, held at the headquarters of the Economic Commission for Asia and the Far East in Bangkok from 26 to 28 November 1968, which was attended by the representatives of the Governments of Sri Lanka, India, Indonesia, the Philippines, Singapore and Thailand and of the United Nations Development Programme and the Food and Agriculture Organization of the United Nations.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>12 Dec 1968</Entry>
+                <Entry>18 Jun 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>12 Dec 1968</Entry>
+                <Entry>30 Jul 1969 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>30 Nov 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kiribati</Entry>
+                <Entry />
+                <Entry>8 Nov 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>30 Jun 1969</Entry>
+                <Entry>22 Feb 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry />
+                <Entry>30 Aug 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry />
+                <Entry>24 May 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry />
+                <Entry>11 Nov 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>12 Dec 1968</Entry>
+                <Entry>26 Aug 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry />
+                <Entry>28 Dec 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>11 Mar 1969</Entry>
+                <Entry>25 Apr 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>26 Jun 1969</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>13 Apr 2004 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>Amendments were adopted in accordance with article 15 of the Agreement as follows, to enter into force upon adoption:</text>
+        <text> On 21 December 1971, at the fifth regular session of the Asian Coconut Community, held in Jakarta (amendment to article 11 (2));</text>
+        <text> On 30 August 1980, at the eighteenth regular session of the Asian Coconut Community, held at Port Moresby (amendment to article 5 (3)).</text>
+      </Note>
+    </EndNotes>
+    <Footer>XIX 7. Commodities</Footer>
+  </Treaty>
+</Document>

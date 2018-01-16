@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XII</Header>
+        <Name>NAVIGATION</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Titlesect>Convention on the International Maritime Organization</Titlesect>
+        <Conclusion>Geneva, 6 March 1948</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>17 March 1958, in accordance with article 60.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>17 March 1958, No. 4214</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>24</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>172</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 289, p. 3, and vol. 1520, p. 297 (procès-verbal of rectification of Spanish authentic text).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was prepared and opened for signature and acceptance by the United Nations Maritime Conference convened by the Secretary-General of the United Nations pursuant to Economic and Social Council resolution &lt;a href="/doc/source/docs/E_RES_35_IV-E.pdf" target="_blank"&gt;35 (IV)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt;. The Conference met at Geneva from 19 February to 6 March 1948. For the text of the Final Act of the Conference, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 289, p. 3. </Text>
+          <Text>As a result of the entry into force of the amendments adopted by the IMCO Assembly by its resolutions &lt;a href="/doc/source/docs/A_358_IX-E.pdf" target="_blank"&gt;A.358 (IX)&lt;/a&gt; of 14 November 1975 and &lt;a href="/doc/source/docs/A_371_X-E.pdf" target="_blank"&gt;A.371 (X)&lt;/a&gt; of 9 November 1977 [rectification of resolution A.358 (IX) (see chapter XII.1(d)]], the name of the Intergovernmental Maritime Consultative Organization (IMCO) has been changed to "International Maritime Organization (IMO)" and the title of the Convention modified accordingly.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Definitive signature(s), Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>24 May 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>31 Oct 1963 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry />
+                <Entry>6 Jun 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>13 Jan 1986 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>18 Jun 1953 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>13 Feb 1952 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>2 Apr 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>15 May 1995 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry />
+                <Entry>22 Jul 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>22 Sep 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>27 May 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>7 Jan 1970 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry />
+                <Entry>29 Nov 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>9 Aug 1951 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry />
+                <Entry>13 Sep 1990 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>19 Mar 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>6 Jul 1987 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry />
+                <Entry>16 Jul 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry />
+                <Entry>4 Mar 1963 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry />
+                <Entry>31 Dec 1984 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>5 Apr 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry />
+                <Entry>24 Aug 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>3 Jan 1961 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>1 May 1961 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>15 Oct 1948 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>17 Feb 1972 A</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Mar 1973 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>19 Nov 1974 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry />
+                <Entry>3 Aug 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>5 Sep 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cook Islands</Entry>
+                <Entry />
+                <Entry>18 Jul 2008 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>4 Mar 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>4 Nov 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry />
+                <Entry>8 Jul 1992 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>6 May 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>21 Nov 1973 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Jun 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry />
+                <Entry>16 Apr 1986 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry />
+                <Entry>16 Aug 1973 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>3 Jun 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry />
+                <Entry>20 Feb 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>18 Dec 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>25 Aug 1953 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>12 Jul 1956 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>17 Mar 1958 A</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry />
+                <Entry>12 Feb 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Equatorial Guinea</Entry>
+                <Entry />
+                <Entry>6 Sep 1972 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Eritrea</Entry>
+                <Entry />
+                <Entry>31 Aug 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>31 Jan 1992 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry />
+                <Entry>3 Jul 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>14 Mar 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>21 Apr 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>9 Apr 1952 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>1 Apr 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry />
+                <Entry>11 Jan 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>22 Jun 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;6,7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>7 Jan 1959 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry />
+                <Entry>6 Jul 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>31 Dec 1958 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Grenada</Entry>
+                <Entry />
+                <Entry>3 Dec 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>16 Mar 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>3 Dec 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry />
+                <Entry>6 Dec 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>13 May 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry />
+                <Entry>23 Jun 1953 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>13 Apr 1954</Entry>
+                <Entry>23 Aug 1954 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>10 Jun 1970 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>8 Nov 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>6 Jan 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Jan 1961 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>10 Jun 1954</Entry>
+                <Entry>2 Jan 1958 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry />
+                <Entry>28 Aug 1973 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>26 Feb 1951 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry />
+                <Entry>24 Apr 1952 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>28 Jan 1957 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>11 May 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry />
+                <Entry>17 Mar 1958 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>9 Nov 1973 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>11 Mar 1994 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>22 Aug 1973 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kiribati</Entry>
+                <Entry />
+                <Entry>28 Oct 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>5 Jul 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>1 Mar 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>3 May 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>9 Mar 1954</Entry>
+                <Entry>6 Jan 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>16 Feb 1970 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>7 Dec 1995 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry />
+                <Entry>14 Feb 1991 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>8 Mar 1961 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>19 Jan 1989 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>17 Jun 1971 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry />
+                <Entry>31 May 1967 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>8 Sep 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry />
+                <Entry>26 Mar 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>8 May 1961 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>18 May 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>21 Sep 1954 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry />
+                <Entry>22 Dec 1989 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>11 Dec 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>10 Oct 2006 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>30 Jul 1962 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>17 Jan 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry />
+                <Entry>6 Jul 1951 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Namibia</Entry>
+                <Entry />
+                <Entry>27 Oct 1994 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>31 Jan 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>31 Mar 1949 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry />
+                <Entry>9 Nov 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>17 Mar 1982 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>15 Mar 1962 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>29 Dec 1958 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>30 Jan 1974 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>21 Nov 1958 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry />
+                <Entry>8 Sep 2011 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>31 Dec 1958 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry />
+                <Entry>6 May 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>15 Mar 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>15 Apr 1968 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry />
+                <Entry>9 Nov 1964 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>16 Mar 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>17 Mar 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry />
+                <Entry>19 May 1977 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>10 Apr 1962 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>12 Dec 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>28 Apr 1965 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>24 Dec 1958 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry />
+                <Entry>25 Oct 1996 A</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry />
+                <Entry>12 Mar 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry />
+                <Entry>9 Jul 1990 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>25 Feb 1969 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>7 Nov 1960 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry />
+                <Entry>11 Dec 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>13 Jun 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>14 Mar 1973 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>17 Jan 1966 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>24 Mar 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry />
+                <Entry>10 Feb 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry />
+                <Entry>27 Jun 1988 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Somalia</Entry>
+                <Entry />
+                <Entry>4 Apr 1978 A</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>28 Feb 1995 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>23 Jan 1962 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>6 Apr 1972 A</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Kitts and Nevis</Entry>
+                <Entry />
+                <Entry>8 Oct 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry />
+                <Entry>10 Apr 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>29 Apr 1981 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry />
+                <Entry>5 Jul 1974 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry />
+                <Entry>14 Oct 1976 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry />
+                <Entry>27 Apr 1959 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>20 Jul 1955 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>28 Jan 1963 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry />
+                <Entry>20 Sep 1973 A</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry />
+                <Entry>13 Oct 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Timor-Leste</Entry>
+                <Entry />
+                <Entry>10 May 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry />
+                <Entry>20 Jun 1983 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>23 Feb 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>27 Apr 1965 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>23 May 1963 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>25 Mar 1958 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>26 Aug 1993 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tuvalu</Entry>
+                <Entry />
+                <Entry>19 May 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>30 Jun 2009 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry />
+                <Entry>28 Mar 1994 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry />
+                <Entry>4 Mar 1980 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>14 Feb 1949 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry />
+                <Entry>8 Jan 1974 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>6 Mar 1948</Entry>
+                <Entry>17 Aug 1950 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>10 May 1968 s</Entry>
+              </Row>
+              <Row>
+                <Entry>Vanuatu</Entry>
+                <Entry>15 Oct 1986</Entry>
+                <Entry>21 Oct 1986 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>27 Oct 1975 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>12 Jun 1984 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen&lt;superscript&gt;12&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>14 Mar 1979 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>2 Oct 2014 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>16 Aug 2005 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables>
+      <Table>
+        <TableNo>4</TableNo>
+        <Columns>3</Columns>
+        <Title>Notifications made under article 8 (Associate Membership in the Organisation)</Title>
+        <TableHeader>
+          <Title>Participant</Title>
+          <Title>Date of receipt of the notification:</Title>
+          <Title>Associate Members:</Title>
+        </TableHeader>
+        <Rows>
+          <Row>
+            <Column>Denmark&lt;superscript&gt;5&lt;/superscript&gt;</Column>
+            <Column>3 Dec 2002</Column>
+            <Column>Faroe Islands, See &lt;a href="/doc/Publication/CN/2002/CN.1323.2002-Eng.pdf" target="_blank"&gt;C.N.1323.2002.TREATIES-2 (Depositary Notification)&lt;/a&gt;</Column>
+          </Row>
+          <Row>
+            <Column>Portugal&lt;superscript&gt;13&lt;/superscript&gt;</Column>
+            <Column>2 Feb 1990</Column>
+            <Column>Macau, See &lt;a href="/doc/Publication/CN/1990/CN.21.1990-Eng.pdf" target="_blank"&gt;C.N.21.1990.TREATIES-1 (Depositary Notification)&lt;/a&gt;</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;14,15,16&lt;/superscript&gt;</Column>
+            <Column>19 Jan 1960</Column>
+            <Column>Federation of Nigeria, See &lt;a href="/doc/Publication/CN/1960/CN.4.1960-Eng.pdf" target="_blank"&gt;C.N.4.I960.TREATIES-1 (Depositary Notification)&lt;/a&gt;</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;14,15,16&lt;/superscript&gt;</Column>
+            <Column>2 Oct 1961</Column>
+            <Column>Joint associate membership of Sarawak and North Borneo, See &lt;a href="/doc/Publication/CN/1961/CN.144.1961-Eng.pdf" target="_blank"&gt;C.N.144.196l.TREATIES-6 (Depositary Notification)&lt;/a&gt;</Column>
+          </Row>
+          <Row>
+            <Column>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;14,15,16&lt;/superscript&gt;</Column>
+            <Column>7 Jun 1967</Column>
+            <Column>Hong Kong, See &lt;a href="/doc/Publication/CN/1967/CN.81.1967-Eng.pdf" target="_blank"&gt;C.N.81.1967.TREATIES-2 (Depositary Notification)&lt;/a&gt;</Column>
+          </Row>
+        </Rows>
+      </Table>
+    </SpecialTables>
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon</Title>
+      <Title>definitive signature, acceptance or succession.)</Title>
+      <Declaration>
+        <Participant>Bahrain&lt;superscript&gt;17&lt;/superscript&gt;</Participant>
+        <text type="para">"The acceptance of the Convention on the Inter-Govern mental Maritime Consultative Organization by the State of Bahrain shall, however, in no way signify recognition of, or entry into any relations with Israel".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cambodia&lt;superscript&gt;18&lt;/superscript&gt;</Participant>
+        <text type="para">In accepting the Convention on the Inter-Governmental Maritime Consultative Organization, the Royal Government of Cambodia declares that the measures it has adopted or may adopt for giving encouragement or assistance to its national shipping and shipping industries (such, for instance, as loan-financing of national shipping companies at reasonable or even concessional rates of interest, or the allocation to Cambodian ships of cargoes owned or controlled by the Royal Government, or the reservation of coastal trade for national shipping) and such other matters as it may adopt with the object of promoting the development of its own national shipping, are consistent with the purposes of the Inter-Governmental Maritime Consultative Organization as defined in article 1 (b) of the Convention.</text>
+        <text type="para">Accordingly, the Royal Government will proceed to a re-examination, before they are put into effect, of any recommendations relating to this subject that may be adopted by the Organization.</text>
+        <text type="para">The Royal Government further declares that its acceptance of the above-mentioned Convention neither has nor shall have the effect of altering or modifying in any way the law in force in the territory of the Kingdom of Cambodia.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="para">In accepting the Convention on the Inter-Governmental Maritime Consultative Organization, the Revolutionary Government of the Republic of Cuba declares that its current legislation, which is duly adapted to the encouragement and development of its Merchant Marine, is consistent with the General purposes of the Inter-Governmental Maritime Consultative Organization as defined in article 1 (b) of the Convention. Accordingly, any recommendations relating to this subject that may be adopted by the Organization will be re-examined by the Government of Cuba in the light of the national policy in this regard.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="para">"The Government of Denmark supports the work programme adopted during the first Assembly of the Organization in January 1959 and holds the view that it is in the field of technical and nautical matters that the Organization can make its contribution towards the development of shipping and seaborne trade throughout the world.</text>
+        <text type="para">"If the Organization were to extend its activities to matters of purely commercial or economic nature, a situation might arise where the Government of Denmark would have to consider resorting to the provisions regarding withdrawal contained in article 59 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ecuador</Participant>
+        <text type="para">The Government of Ecuador declares that the protectionist measures adopted in the interests of its National Merchant Marine and the Merchant Fleet of Greater Colombia (Flota Mercante Grancolomibiana), the vessels belonging to which are regarded as ecuadorian by reason of the participation of the Government of Ecuador in the said Fleet, are measures the sole object of which is to promote the development of the National Merchant Marine and of the Merchant Fleet of Greater Colombia and are consistent with the purposes of the Inter-Governmental Maritime Organization, as defined in article 1 (b) of the Convention. Accordingly, any recommendations relating to this subject that may be adopted by the Organization will be re-examined by the Government of Ecuador.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Finland</Participant>
+        <text type="para">"The Government of Finland support the work programme proposed by the Preparatory Committee of the Organization in document IMCO/A.I/11. The Government of Finland hold the view that it is in the field of technical and nautical matters that the Organization can make its contribution towards the development of shipping and seaborne trade throughout the world.</text>
+        <text type="para">"If the Organization were to extend its activities to matters of a purely commercial or economic nature, a situation might arise where the Government of Finland would have to consider resorting to the provisions regarding withdrawal contained in article 59 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Greece</Participant>
+        <text type="para">"Greece, in re-confirming its acceptance, considers that the aforesaid Organization can play a useful and important role in the field of technical and nautical matters, thus contributing to the development of shipping and seaborne trade throughout the world. In case the Organization extends its activities to matters of commercial and economic nature, the Greek Government may find itself bound to reconsider its acceptance of the Convention and avail itself of its provisions concerning withdrawal as laid down in article 59."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iceland</Participant>
+        <text type="para">"Iceland will reconsider its ratification, if it subsequently were decided to extend IMCO's competence so as also to deal with questions of an entirely financial or commercial nature.</text>
+        <text type="para">"Great stress is laid by Iceland on the real validity of article 59 of the Convention, regarding withdrawal."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>India&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text type="para">"In accepting the Convention on the Inter-Governmental Maritime Consultative Organization, the Government of India declare that any measures which it adopts or may have adopted for giving encouragement and assistance to its national shipping and shipping industries (such, for instance, as loan-financing of national shipping companies at reasonable or even concessional rates of interest, or the allocation of Government-owned or Government-controlled cargoes to national ships or the reserva- tion of the coastal trade for national shipping) and such other matters as the Government of India may adopt, the sole object of which is to promote the development of its own national shipping, are consistent with the purposes of the Inter-Governmental Maritime Consultative Organization as defined in article 1 (b) of the Convention. Accordingly, any recommendations relating to this subject that may be adopted by the Organization will be subject to re-examination by the Government of India. The Government of India further expressly state that its acceptance of the above-mentioned Convention neither has nor shall have the effect of altering or modifying in any way the law on the subject in force in the territories of the Republic of India."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Indonesia&lt;superscript&gt;20&lt;/superscript&gt;</Participant>
+        <text type="para">"In accepting the Convention, the Government of the Republic of Indonesia declares that it is in the field of technical and nautical matters that the Organization can make its contribution towards the development of shipping and seaborne trade throughout the world.</text>
+        <text type="para">"On matters of a purely commercial or economic nature, the Government holds the view that assistance and encouragement to its national shipping industries for the development of its domestic and foreign trade and for purposes of security, are consistent with the purposes of the Organization as defined in article 1 (b) of the Convention.</text>
+        <text type="para">"Accordingly, the acceptance shall never have the effect of altering or modifying in any recommendation relating to this subject adopted by the Organization will be subject to re-examination by the Government of the Republic of Indonesia."</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Iraq&lt;superscript&gt;21&lt;/superscript&gt;</Participant>
+        <text type="para">The participation of the Republic of Iraq in this Convention shall, however, in no way signify recognition of, or entry into any relations with Israel.</text>
+        <text type="para">The Republic of Iraq hereby declares that article 1 (b) of the Convention is not in conflict with the measures taken by it to encourage and assist national shipping companies, such as the granting of financial loans, the assignment of cargo vessels flying its flag to carry specific goods and the assignment of commercial vessels, or any other measures aimed at the development and growth of the national fleet or national shipping.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Malaysia&lt;superscript&gt;22&lt;/superscript&gt;</Participant>
+        <text type="para">"In accepting the Convention of the Inter-Governmental Maritime Consultative Organization, the Government of Malaysia declares that any measures which she may adopt for giving encouragement or assistance to her national shipping industries (for instance, such as loan financing of national shipping companies at reasonable or even concessional rates of interest or the allocation to Malaysian cargo ships owned or controlled by the Malaysian Government, or the reservation of coastal trade for national shipping) and such other matter as she may adopt with the object of promoting the development of her own national shipping, are consistent with the purposes of the Inter-Governmental Maritime Consultative Organization as defined in article 1 (b) of the Convention. Accordingly any recommendations relating to this subject that may be adopted by the Organization will be re-examined by the Government of Malaysia. The Government of Malaysia further expressly states that her acceptance of the above-mentioned Convention neither has nor shall have the effect of altering or modifying in any way the law on the subject in force in Malaysia."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mexico</Participant>
+        <text type="para">The Government of the United States of Mexico, in accepting the Convention on the Inter-Governmental Maritime Consultative Organization, on the understanding that nothing in the said Convention is intended to change national legislation relating to restrictive business practices, expressly states that its acceptance of the above-mentioned international instrument neither has nor shall have the effect of altering or modifying in any way the application of the laws against monopolies in the territory of the Republic of Mexico.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Morocco</Participant>
+        <text type="para">In joining the Inter-Governmental Maritime Consultative Organization, the Government of the Kingdom of Morocco wishes to declare that it is not in agreement with a possible broadening of the scope of the activities of this Organization from the purely technical and nautical activities into the field of matters of an economic and commercial nature as stated in article 1 (b) and (c) of the Convention for the Establishment of the Inter-Governmental Maritime Consultative Organization. If such a broadening of the field of activities of the Organization were to take place, the Government of the Kingdom of Morocco reserves the right to reconsider its position concerning the ensuing situation, and might be led to invoke the provisions of article 59 of the Convention, regarding the withdrawal of members from the Organization.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Norway</Participant>
+        <text type="para">"The Norwegian Government supports the work programme proposed by the Preparatory Committee of the Organization in document IMCO/A.I/11.The Norwegian Government holds the view that it is in the field of technical and nautical matters that the Organization can make its contribution towards the development of shipping and seaborne trade throughout the world.</text>
+        <text type="para">"If the Organization were to extend its activities to matters of a purely commercial or economic nature, a situation might arise where the Norwegian Government would have to consider resorting to the provisions regarding withdrawal contained in article 59 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Poland</Participant>
+        <text type="para">"In accepting the Convention on the Inter-Governmental Maritime Consultative Organization, signed at Geneva on 6 March 1948, the Government of the Polish People's Republic declares that it supports the work programme of the Organization, approved by the Assembly at its First Session held in January 1959.</text>
+        <text type="para">"The Government of the Polish People's Republic holds the view that it is in the field of technical and nautical matters that the Organization shall make its contribution towards the development of shipping and seaborne trade throughout the world."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="para">The Inter-Governmental Maritime Consultative Organiz- ation may not extend its activities to economic or commercial questions but must limit itself to questions of a technical char- acter.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sri Lanka&lt;superscript&gt;23&lt;/superscript&gt;</Participant>
+        <text type="para">In accepting the Convention on the Inter-Governmental Maritime Consultative Organization, as amended, the Govern- ment of Ceylon declares that any measures which it adopts or may have adopted for giving encouragement and assistance to its national shipping and shipping industries (such, for instance, as loan-financing of national shipping companies at reasonable or even concessional rates of interest, or the allocation of Government-owned or Government-controlled cargoes to national ships or the reservation of the coastal trade for national shipping) and such other matters as the Government of Ceylon may adopt, the sole object of which is to promote the development of its own national shipping, are consistent with the purposes of the Inter-Governmental Maritime Consultative Organization as defined in article 1 (b) of the Convention. Accordingly, any recommendations relating to this subject that may be adopted by the Organization will be subject to re-examination by the Government of Ceylon. The Government of Ceylon further expressly states that its acceptance of the above-mentioned Convention neither has nor shall have the effect of altering or modifying in any way the law on the subject in force in Ceylon.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden</Participant>
+        <text type="para">"In accepting the Convention on the Inter-Governmental Maritime Consultative Organization, the Government of Sweden declares that it supports the work programme of the Organization as per document A.I/11 and its corrigendum 1, decided upon by the first meeting of the Assembly of the Organization in January 1959.</text>
+        <text type="para">"The Government of Sweden holds the view that it is in the field of technical and nautical matters that the Organization can make its contribution towards the development of shipping and seaborne trade throughout the world.</text>
+        <text type="para">"If the Organization were to extend its activities to matters of a purely commercial or economic nature, a situation might arise in which the Government of Sweden would have to consider resorting to the provisions regarding withdrawal contained in article 59 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="para">In depositing its instrument of ratification of the Convention on the Inter-Governmental Maritime Consultative Organization (IMCO), Switzerland makes the general reservation that its participation in the work of IMCO, more particularly as regards that organizations relations with the UnitedNations, cannot exceed the bounds implicit in Switzerland's status as a perpetual- ly neutral State. In conformity with this general reservation, Switzerland wishes to make a particular reservation both in respect of the text of article VI as incorporated in the Agreement, at present in draft form, between IMCO and the UnitedNations, and in respect of any similar clause which may replace or supplement that provision in the said agreement or in any other arrangement.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Turkey</Participant>
+        <text type="para">"[Participation by Turkey] will in no way have any effect on the provisions of the Turkish laws concerning cabotage and monopoly."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Arab Emirates&lt;superscript&gt;17&lt;/superscript&gt;</Participant>
+        <text type="para">"The Government of the United Arab Emirates takes the view that its acceptance of the said Convention and amendments does not in any way imply its recognition of Israel, nor does it oblige to apply the provisions of the Convention and amendments in respect of the said Country.</text>
+        <text type="para">"The Government of the United Arab Emirates wishes further to indicate that its understanding described above is in conformity with General practice existing in United Arab Emirates regarding signature, ratification, or acceptance to a Convention which a country not recognized by United Arab Emirates is a party."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United States of America&lt;superscript&gt;24&lt;/superscript&gt;</Participant>
+        <text type="para">"It being understood that nothing in the Convention on the Inter-Governmental Maritime Consultative Organization is intended to alter domestic legislation with respect to restrictive business practices, it is hereby declared that ratification of that Convention by the Government of the United States of America does not and will not have the effect of altering or modifying in any way the application of the anti-trust statutes of the United States of America."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Viet Nam</Participant>
+        <text type="para">In accepting the Convention on the International Maritime Organization, the Socialist Republic of Vietnam states to support the purposes of the said Organization as defined in article 1 of the Convention. On the basis of state sovereignty and proceeding from its foreign Policy of peace, friendship, co-operation, the Socialist Republic of Vietnam will take into consideration the recommendations relating to the subject as provided in article 1 (b) of the Convention and relating amendments which may arise.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Yugoslavia (former)&lt;superscript&gt;2&lt;/superscript&gt;</Participant>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>Denmark&lt;superscript&gt;5&lt;/superscript&gt;</Participant>
+        <DateNotification>3 Dec 2002</DateNotification>
+        <Territories>Faroe Islands</Territories>
+      </Application>
+      <Application>
+        <Participant>Netherlands&lt;superscript&gt;25,26&lt;/superscript&gt;</Participant>
+        <DateNotification>3 Oct 1949</DateNotification>
+        <Territories>Indonesia, Netherlands Antilles and Suriname</Territories>
+      </Application>
+      <Application>
+        <Participant>Portugal&lt;superscript&gt;13&lt;/superscript&gt;</Participant>
+        <DateNotification>2 Feb 1990</DateNotification>
+        <Territories>Macau</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;14,15,16&lt;/superscript&gt;</Participant>
+        <DateNotification>19 Jan 1960</DateNotification>
+        <Territories>Federation of Nigeria</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>2 Oct 1961</DateNotification>
+        <Territories>North Borneo and Sarawak</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>7 Jun 1967</DateNotification>
+        <Territories>Hong Kong</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the Economic and Social Council, of 28 March 1947 &lt;/i&gt;.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had accepted the Convention on 12 February 1960, with the following declaration:</text>
+        <text>"In joining the Inter-Governmental Maritime Consultative Organization, the Government of the Federal People's Republic of Yugoslavia wishes to declare that it is not in agreement with a possible broadening of the scope of the activities of this Organization from the purely technical and nautical activities into the field of matters of an economic and commercial nature as stated in Article 1, sections under (b) and (c) of the Convention for the establishment of the Inter-Governmental Maritime Consultative Organization. If such a broadening of the field of activities of the Organization were to take place the Government of the Federal People's Republic of Yugoslavia reserves the right to reconsider its position concerning the ensuing situation. "At the same time, the Government of the Federal People's Republic of Yugoslavia declares its readiness to fulfil all its obligations toward the Organization, as stated in the instrument of ratification."</text>
+        <text>See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugsoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The Convention was accepted on behalf of the Republic of China on 1 July 1958 (See, &lt;a href='http://treaties.un.org/doc/Publication/CN/1958/CN.106.1958-Eng.pdf' target='_blank'&gt;C.N.106.1958&lt;/a&gt;.TREATIES-5 of 15 July 1958). See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information section in the front matter of this volume.).</text>
+        <text>With reference to the above-mentioned acceptance, communications have been addressed to the Secretary-General by the Permanent Missions to the UnitedNations of the Union of Soviet Socialist Republics, on the one hand, and of China on the other hand.</text>
+        <text>In communications addressed to the Secretary-General with reference to the above-mentioned signature and/or ratification, the Permanent Missions to the United Nations of Czechoslovakia, Denmark, India, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland and Yugoslavia stated that, since their Governments did not recognize the Nationalist Chinese authorities as the Government of China, they could not regard the said signature or ratification as valid. The Permanent Missions of Czechoslovakia and the Union of Soviet Socialist Republics further stated that the sole authorities entitled to act for China and the Chinese people in the United Nations and in international relations, and to sign, ratify, accede or denounce treaties, conventions and agreements on behalf of China, were the Government of the People's Republic of China and its duly appointed representatives.</text>
+        <text>In its instrument of acceptance, the Government of the People's Republic of China declared that the acceptance of and signature of the Convention on the Inter-Governmental Maritime Consultative Organization and relatedConventions and regulations by the Chiang Kai-shek clique usurping the name of China are illegal and null and void.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Czechoslovakia had accepted the Convention on 1 October 1963. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>On 3 December 2002, the Government of Denmark informed the Secretary-General of the following:</text>
+        <text>.".....Under the Danish Constitution and the Home Rule Act (Faroe Islands) the Faroe Islands is a part of the Danish Realm with a wide measure of home rule in legislative and administrative affairs. In accordance with these instruments the legal status of the Faroese Home Government has been changed with effect from January 1st 2002 by transferring legislative and administrative powers from the authorities of the Realm to the Faroese Home Government in a number of additional fields including matters related to safety at sea. This transfer does not affect the powers of the authorities of the Realm to act on behalf of the Realm in international affairs.</text>
+        <text>Article 72 of the IMO Convention provides that: "Members may make a declaration at any time that their participation in the Convention includes all or a group of or a single one of the Territories for whose international relations they are responsible,"</text>
+        <text>In conformity with this Article the Kingdom of Denmark has the honour to declare that application of the IMO Convention with respect to the Faroe Islands from the date of this notification is based on article 72 of the IMO Convention.</text>
+        <text>Article 8 of the IMO Convention provides that: "Any Territory or group of Territories to which the Convention has been made applicable under Article 72, by the Member having responsibility for its international relations or by the United Nations, may become an associate Member of the Organization by notification in writing given by such Member or by the United Nations as the case may be, to the Secretary-General of the United Nations."</text>
+        <text>The Faroe Islands Home Government has expressed its strong desire to become an associate Member of the IMO in the light of the new legislative and administrative powers transferred to the Home Government with respect to matters related to safety at sea and considering the importance to the Faroese economy of thefleet registered in the Faroese registry of ships and flying the Faroese flag. On this background the Kingdom of Denmark considers it appropriate that the Faroe Islands is associated with the IMO in the form of associate membership under article 8 of the IMO Convention.</text>
+        <text>In conformity with Article 8 of the IMO Convention the Kingdom of Denmark has the honour to notify that the Faroe Islands has become an associate Member of the IMO with effect from the date of this notification."</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The application of the Federal Republic of Germany for membership in the Organization was approved on 5 January 1959, in accordance with article 8 of the Convention. See also note 5 in this chapter, and notes 1 and 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>The German Democratic Republic had accepted the Convention on 25 September 1973. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>By a depositary notification &lt;a href='http://treaties.un.org/doc/Publication/CN/1950/CN.201.1950-Eng.pdf' target='_blank'&gt;C.N.201.1950.TREATIES &lt;/a&gt; the Secretary-General has communicated that on 6 December 1950 the Government of Greece, in accordance with Article 57(b), has deposited the instrument of acceptance to the Convention on the Intergovernmental Maritime Consultative Organization. Subsequently, on 6 April 1956, the Secretary-General has issued a depositary notification &lt;a href='http://treaties.un.org/doc/Publication/CN/1956/CN.35.1956-Eng.pdf' target='_blank'&gt;C.N.35.1956.TREATIES &lt;/a&gt; notifying the withdrawal by the Government of Greece of its instrument of acceptance of the Convention on the Intergovernmental Maritime Consultative Organization.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>In a communication received on 9 October 1965, the First Deputy Prime Minister and Minister for Foreign Affairs of Indonesia notified the Secretary-General of the withdrawal of the Republic of Indonesia from the Inter-Governmental Maritime Consultative Organization. The notification of withdrawal contains the following statement:</text>
+        <text>"With reference to the provision of Article 59 which stipulates that the withdrawal from IMCO's membership will take effect twelve months from the date on which the notification of withdrawal is received by the Secretary-General of the UnitedNations, Indonesia will observe her obligations and responsibilities accordingly. Nevertheless, the Indonesian Government has decided to discontinue its participation in the activities of the IMCO as of this date.</text>
+        <text>"In conclusion, I wish to add that, notwithstanding the withdrawal from IMCO, Indonesia will continue to work for the attainment of mutually beneficial principles of International maritime cooperation."</text>
+        <text>In a communication received on 29 September 1966, the Presidium Minister and Minister for Foreign Affairs of Indonesia informed the Secretary-General that his government had decided to resume active participation in the Organization and requested that this communication be considered as superseding the above-mentioned notification of with drawal.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>The applications of Kuwait, Mauritania and the Republic of Korea for membership in the Organization were approved on 5 July 1960, 13 April 1961 and 21 December 1961, respectively, in accordance with article 8 of the Convention.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>Democratic Yemen had accepted the Convention on 2 June 1980 with the following declaration:</text>
+        <text>"The acceptance of the People's Democratic Republic of Yemen of the said Convention does not mean in any way recognition of Israel, or entering with it into relations governed by the Convention thereto acceded."</text>
+        <text>See also note 1 under Yemen in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>On 2 February 1990, the Secretary-General received from the Government of Portugal a declaration, in accordance with article 72 (a) of the Convention, to the effect that the said Convention is made applicable to Macau with effect from 2 February 1990 and that, in accordance with article 8 of the said Convention, Macau becomes and Associate Member of the International Maritime Organization as from the same date. The declaration also specifies the following:</text>
+        <text>"The present declaration is made in conformity with the agreement established by the Joint Liaison Group of the Republic of Portugal and the People's Republic of China in accordance with the Joint Declaration of the Governments of the Republic of Portugal and the People's Republic of China on the question of Macau, signed in Beijing on 13 April 1987, whereby the People's Republic of China will resume the exercise of sovereignty over Macau with effect from the 20th of December 1999 and that Portugal will continue to have international responsibility for Macau until the 19th of December 1999.".</text>
+        <text>In this regard to the said declaration, the Secretary-General received on that same date, a communication from the Government of China identical in essence, mutatis mutandis, as the one made in respect of Hong Kong.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>On 15 March 1962, the Federation of Nigeria became a member of the Organization by depositing on that date the instrument of acceptance of the Convention.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>In a communication received on 6 August 1964, the Government of the United Kingdom requested the Secretary-General, in his capacity as depositary of the Convention on the Inter-Governmental Maritime Consultative Organization, "to take note that, as a result of the Agreement relating to Malaysia signed at London on July 9, 1963, and legislation enacted in accordance with that Agreement, Sarawak and North Borneo, together with the State of Singapore, federated with the existing States of the Federation of Malaya and the Federation is now called Malaysia. Her Majesty's Government in the United Kingdom are therefore no longer responsible for the international relations of Sarawak and North Borneo.".</text>
+        <text>In a subsequent communication received on 4 March 1965, the Government of the United Kingdom, in amplification of the information contained in the above-mentioned communication, drew the attention of the Secretary-General to the fact "that the Agreement relating to Malaysia which was signed in London on the 9th of July 1963the date on which Sarawak and North Borneo, together with the State of Singapore, federated with the States of the Federation of MalayaHer Majesty's Government in the United Kingdom ceased to be responsible for the international relations of Sarawak and North Borneo." It also requested the Secretary-General "to take note that Her Majesty's Government accordingly consider that the joint associate membership in the Inter-Governmental Maritime Consultative Organization of Sarawak and North Borneo under article 9 of the Convention on the Inter-Governmental Maritime Consultative Organization automatically lapsed on the 16th of September 1963."</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>On 25 August 1987, the Secretary-General received from the Permanent Representative of the People's Republic of China and from the Acting Permanent Representative of the United Kingdom of Great Britain and Northern Ireland and Charg?d'Affaires, respectively, the following communications both dated 25 August 1987:</text>
+        <text>&lt;center&gt; &lt;b&gt;United Kingdom of Great Britain and Northern Ireland &lt;/b&gt; &lt;/center&gt;</text>
+        <text>"I am instructed by her Majesty's Principal Secretary of State for Foreign and Commonwealth Affairs to refer to the Declaration made by the United Kingdom on 6 June 1967 concerning the application to Hong Kong of the Convention on the International Maritime Organisation, signed at Geneva on 6 March 1948. By virtue of that Declaration and in accordance with articles 72 (a) and 8 of the Convention, Hong Kong became an associate member of the Organisation with effect from 7 June1967.</text>
+        <text>I am also instructed to state that having regard to the Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People's Republic of China on the question of Hong Kong, signed in Beijing on 19 December 1984, the United Kingdom will restore Hong Kong to the People's Republic of China with effect from 1 July 1997 and that the United Kingdom will continue to have international responsibility for Hong Kong until that date."</text>
+        <text>(Signed) John Birch</text>
+        <text>Acting Permanent Representative</text>
+        <text>United Kingdom of Great Britain and Northern Ireland, and Charge d'Affaires</text>
+        <text>&lt;center&gt; &lt;b&gt;China &lt;/b&gt; &lt;/center&gt;</text>
+        <text>I am instructed by the Minister of Foreign Affairs of the People's Republic of China, with reference to the communication which the United Kingdom Mission to the UnitedNations addressed to Your Excellency today, to notify Your Excellency of the declaration of the People's Republic of China as follows:</text>
+        <text>In accordance with the Joint Declaration of the Government of the People's Republic of China and the Government of the United Kingdom of Great Britaid Norn Ireland on the Question of Hong Kong signed in Beijing on 19 December 1984, the People's Republic of China will resume the exercise of sovereignty over Hong Kong with effect from 1 July 1997. Hong Kong, as an inseparable part of the territory of the People's Republic of China, will become a special administrative region with effect from that date. The People's Republic of China will have international responsibility for the Hong Kong Special Administrative Region.</text>
+        <text>I am also instructed to declare that since China is a contracting State to the Convention on the Maritime Organization, signed in Geneva on 6 March 1948, and the Government of the People's Republic of China accepted the Convention on 1 March 1973, the said Convention will apply to the Hong Kong Special Administrative Region with effect from 1 July 1997. Accordingly, the Government of the People's Republic of China notifies you that, with effect from 1 July 1997, the Hong Kong Special Administrative Region will continue to meet the essential requirements of the Convention for being an associate member of the Organization, and therefore may, using the name of "Hong Kong, China", continue to be an associate member of the Organisation.</text>
+        <text>I avail myself of this opportunity to renew to Your Excellency the assurances of my highest consideration.</text>
+        <text>(Signed) Li Luye</text>
+        <text>Permanent Representative of</text>
+        <text>the People's Republic of China</text>
+        <text>to the UnitedNations</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>In a communication received by the Secretary-General on 8 November 1976, the Government of Bahrain confirmed that the general reservation "is intended to constitute a general declaration of policy of the Government of the State of Bahrain and should not be interpreted as expanding or diminishing the scope of the Convention or its application to States parties to the Convention."</text>
+        <text>With regard to the said reservation, the Governrment of Israel, in communication received by the Secretary-General on 23 December 1976, stated the following:</text>
+        <text>"The instrument deposited by the Government of Bahrain contains a statement of political pronouncements, which are moreover, in flagrant contradiction to the principles, objects and purposes of the Organization. That pronouncement by the Government of Bahrain cannot in any way affect whatever obligations are binding upon Bahrain, under general international law or under particular treaties."</text>
+        <text>The Government of Israel will, insofar as concerns the substance of the matter, adopt towards the Government of Bahrain an attitude of complete reciprocity."</text>
+        <text>Identical communications, &lt;i&gt;mutatis mutandis &lt;/i&gt;, were received from the Government of Israel on 25 July 1980, in respect of the declarations made by Democratic Yemen (see note 9 ) and the United Arab Emirates upon acceptance of the Convention.</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>In communications addressed to the Secretary-General on 14 September 1961, 30 November 1961 and 14 March 1962, respectively, the Governments of the United Kingdom of Great Britain and Northern Ireland, Norway and Greece, referring to the declaration made by Cambodia, stated that they assumed that it was a declaration of policy and did not constitute a reservation; and that it had no legal effect with regard to the interpretation of the Convention. They further stated that they would welcome assurances from the Government of Cambodia that the declaration was to be understood in this sense.</text>
+        <text>In a communication addressed to the Secretary-General on 31 January 1962, the Government of Cambodia stated that ". . . the Royal Government agrees that the first part of the declaration which it made at the time of the acceptance of the Convention is of a political nature. It therefore has no legal effect regarding the interpretation of the Convention. The statements contained in the third paragraph of the declaration, on the other hand, constitute a reservation to the Convention by the Royal Government of Cambodia."</text>
+        <text>In a communication addressed to the Secretary-General on 3 July 1962, the Government of the United Kingdom of Great Britain and Northern Ireland stated that ".. Her Majesty's Government do not share the view of the Cambodian Government that the third paragraph of the declaration constitutes a reservation, but they do not wish on that account, to raise formal objection to the terms of Cambodia's acceptance of the Convention."</text>
+        <text>In a communication addressed to the Secretary-General on 23 July 1962, the Government of France stated that ". . . it considers that, for reasons of principle as well as of fact, it cannot accept the terms of the declaration in question, the third paragraph of which is, moreover, described by the Permanent Representative of Cambodia as constituting a reservation."</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>In resolution 1452 (XIV) adopted on 7 December 1959, the General Assembly of the UnitedNations, noting the statement made on behalf of India at the 614th meeting of its Sixth Committee (Legal) explaining that the Indian declaration was a declaration of policy and that it did not constitute a reservation, expressed the hope "that, in the light of the above-mentioned statement of India an appropriate solution may be reached in the Inter-Governmental Maritime Consultative Organization at an early date to regularize the position of India".</text>
+        <text>By a resolution adopted on 1 March 1960, the Council of the Inter-Governmental Maritime Consultative Organization, taking note of the statement made on behalf of India referred to in the foregoing resolution and noting, therefore, that the declaration of India has no legal effect with regard to the interpretation of the Convention "considers India to be a member of the Organization".</text>
+      </Note>
+      <Note>
+        <index>20</index>
+        <text>In communications addressed to the Secretary-General on 14 September 1961, 30 November 1961 and 14 March 1962, respectively, the Governments of the United Kingdom of Great Britain and Northern Ireland, Norway and Greece, referring to the declaration made by Indonesia, stated that they assumed that it was a declaration of policy and did not constitute a reservation; and that it had no legal effect with regard to the interpretation of the Convention. They further stated that they would welcome assurances from the Government of Indonesia that the declaration was to be understood in this sense.</text>
+        <text>In communications addressed to the Secretary-General on 30 October 1961, 12 January 1962 and 28 March 1962, the Government of Indonesia stated that the declaration in question :</text>
+        <text>". . . does not constitute a reservation but is an interpretation of article? (b) of the said Convention and should be understood as such.</text>
+        <text>"In view of the above fact, the Government of Indonesia cannot accept the assumption made by [the above-mentioned Governments] that this declaration has no legal effect with regard to the interpretation of the Convention."</text>
+        <text>In a communication addressed to the Secretary-General on 18 April 1962, the Government of the United Kingdom of Great Britain and Northern Ireland stated that ". . . Her Majesty's Government do not wish to raise formal objection to the terms of Indonesia's acceptance, but they desire to place on record that they do not thereby concede that they will necessarily regard any measures of assistance and encouragement which the Government of Indonesia may give to its national shipping as consistent with the Convention."</text>
+        <text>In a communication addressed to the Secretary-General on 23 July 1962, the Government of France stated that ". . . it considers that, for reasons of principle as well as of fact, it cannot accept the terms of the declaration in question."</text>
+        <text>In a communication addressed to the Secretary-General on 5September 1962, the Government of thed States of America stated the following:</text>
+        <text>"The Government of the United States will not raise objection to the terms of Indonesia's acceptance of the Convention on the Inter-Governmental Maritime Consultative Organization. However, It does not thereby concede that it will necessarily regard every measure of assistance and encouragement which the Government of Indonesia may give to its national shipping as consistent with the Convention."</text>
+      </Note>
+      <Note>
+        <index>21</index>
+        <text>In a communication received by the Secretary-General on 28 November 1973, the Permanent Representative of Israel to the UnitedNations stated the following:</text>
+        <text>"The instrument of acceptance by the Government of Iraq of the above-mentioned Convention contains a statement of a political character in respect to Israel. In the view of the Government of Israel, this is not the proper place for making such political pronouncements, which are moreover, in flagrant contradiction to the principles, objects and purposes of the Organization. That statement, therefore, possesses no legal validity whatsoever.</text>
+        <text>"The Government of Israel utterly rejects that statement and will proceed on the assumption that it has no validity as to the rights and duties of any Member State to the said Organization.</text>
+        <text>"The declaration of the Government of Iraq cannot in any way affect Iraq's obligations under the Constitution of the Inter-Governmental Maritime Consultative Organization or whatever other obligations are binding upon that State by virtue of general international law.</text>
+        <text>"The Government of Israel will, in so far as concerns the substance of the matter, adopt toward the Government of Iraq an attitude of complete reciprocity."</text>
+      </Note>
+      <Note>
+        <index>22</index>
+        <text>In a letter of 3 June 1971, the Prime Minister and Minister of Foreign Affairs of Malaysia notified the Secretary-General as follows:</text>
+        <text>"The declaration by the Malaysian Government with regard to the above-mentioned Convention is a declaration of policy of the Government of Malaysia, and does not constitute a reservation by the Government of Malaysia to the Convention as stated in the instrument of acceptance."</text>
+      </Note>
+      <Note>
+        <index>23</index>
+        <text>Upon deposit of the instrument of acceptance, the Government of Sri Lanka declared that ". . . the declaration set forth in the instrument of acceptance does not constitute a reservation, but is an interpretation of article 1 (b) of the Convention and should be understood as such."</text>
+      </Note>
+      <Note>
+        <index>24</index>
+        <text>In a note verbale accompanying the instrument of acceptance, the Permanent Representative of the United States of America drew the attention of the Secretary-General to the fact that ... "Article 2 of the Convention provides that the functions of the Organization `shall be consultative and advisory'. Article 3 of the Convention indicates that the functions of the Organization are to make recommendations and to facilitate consultation and exchange of information. The history of the Convention and the records of the conference at which it was formulated indicate no intention to nullify or alter the domestic legislation of any contracting party relating to restrictive business practices or to alter or modify in any way the application of domestic statutes governing the prevention or regulation of business monopolies. It is considered therefore, that the statement as quoted above is merely a clarification of the intended meaning of the Convention and a safeguard against any possible misinterpretation, particularly as to the application of article?."</text>
+      </Note>
+      <Note>
+        <index>25</index>
+        <text>See note 1 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>26</index>
+        <text>By a further notification received on 12 July 1951, notice was given that the participation Netherlands in this Convention, from 27 December 1949, no longer includes the territories under the jurisdiction of the Republic of Indonesia but includes Surinam, the Netherlands Antilles (formerly the Netherlands West Indies) and Netherlands New Guinea</text>
+      </Note>
+    </EndNotes>
+    <Footer>XII 1. Navigation</Footer>
+  </Treaty>
+</Document>

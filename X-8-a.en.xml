@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>8</Numsect>
+        <Subnumsect>a</Subnumsect>
+        <Subtitlesect>Amendments effected by Resolution 86/XVIII adopted on 26 January 1995 by the Governing Council to articles 3.3, 3.4, 4.2, 4.5, 5.1, 6.2, 6.3, 6.5, 6.6, 12(a) and 13.3 and Scedules I, II and III of the Agreement establishing the International Fund for Agricultural Development</Subtitlesect>
+        <Conclusion>Rome, 26 January 1995</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>20 February 1997, in accordance with article 12.</Labeltext>
+        </EIF>
+        <Registration />
+        <TreatyText />
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes />
+    <Footer>X 8 a. International Trade and Development</Footer>
+  </Treaty>
+</Document>

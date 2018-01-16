@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IV</Header>
+        <Name>HUMAN RIGHTS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Titlesect>International Covenant on Economic, Social and Cultural Rights</Titlesect>
+        <Conclusion>New York, 16 December 1966</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>3 January 1976, in accordance with article 27.</Labeltext>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>3 January 1976, No. 14531</Labeltext>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>71</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>166</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 993, p. 3; depositary notification C.N.781.2001.TREATIES-6 of 5 October 2001 [Proposal of correction to the original of the Covenant (Chinese authentic text) and C.N.7.2002.TREATIES-1 of 3 January 2002 [Rectification of the original of the Covenant (Chinese authentic text)].</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Covenant was opened for signature at New York on 19 December 1966.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+  </Treaty>
+</Document>

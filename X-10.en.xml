@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>10</Numsect>
+        <Titlesect>United Nations Convention on Contracts for the International Sale of Goods</Titlesect>
+        <Conclusion>Vienna, 11 April 1980</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 January 1988, in accordance with article 99(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 January 1988, No. 25567</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>18</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>89</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1489, p. 3&lt;superscript&gt;1&lt;/superscript&gt; depositary notification C.N.862.1998.TREATIES-5 of 19 February 1999 (procès-verbal of rectification of the authentic Arabic text); C.N.233.2000.TREATIES-2 of 27 April 2000 (rectification of the Russian authentic text); and C.N.1075.2000.TREATIES-5 of 1 December 2000 [rectification of the original of the Convention (Arabic authentic text)].&lt;superscript&gt;1&lt;/superscript&gt;</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by the United Nations Conference on Contracts for the International Sale of Goods, held at Vienna from 10 March to 11 April 1980. The Conference was convened by the General Assembly of the United Nations, in accordance with its resolution &lt;a href="/doc/source/docs/A_RES_33_93-E.pdf" target="_blank"&gt;33/93&lt;/a&gt;&lt;superscript&gt;2&lt;/superscript&gt; of 16 December 1978, adopted on the basis of chapter II of the report of the UnitedNations Commission on International Trade Law on the work of its eleventh session (1978). </Text>
+          <Text>The Convention was opened for signature at the concluding meeting of the Conference on 11 April 1980 and remained open for signature at the United Nations Headquarters in New York until 30 September 1981.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Approval(AA), Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>13 May 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry />
+                <Entry>19 Jul 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>2 Dec 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>17 Mar 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>11 Apr 1980</Entry>
+                <Entry>29 Dec 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>3 May 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>25 Sep 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry />
+                <Entry>9 Oct 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>31 Oct 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>29 Jul 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry />
+                <Entry>4 Mar 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>9 Jul 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry />
+                <Entry>4 Sep 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>11 Oct 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>23 Apr 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>11 Apr 1980</Entry>
+                <Entry>7 Feb 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>China</Entry>
+                <Entry>30 Sep 1981</Entry>
+                <Entry>11 Dec 1986 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>10 Jul 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>11 Jun 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>12 Jul 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>8 Jun 1998 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>2 Nov 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>7 Mar 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>30 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>26 May 1981</Entry>
+                <Entry>14 Feb 1989</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>7 Jun 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>27 Jan 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>6 Dec 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry />
+                <Entry>27 Nov 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>20 Sep 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>7 Jun 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>26 May 1981</Entry>
+                <Entry>15 Dec 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>27 Aug 1981</Entry>
+                <Entry>6 Aug 1982 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>15 Dec 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>16 Aug 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;5,6,7&lt;/superscript&gt;</Entry>
+                <Entry>26 May 1981</Entry>
+                <Entry>21 Dec 1989</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>11 Apr 1980</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry />
+                <Entry>12 Jan 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>23 Jan 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>25 Sep 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>10 Oct 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>11 Apr 1980</Entry>
+                <Entry>16 Jun 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>10 May 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry />
+                <Entry>5 Mar 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry />
+                <Entry>22 Jan 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>30 Sep 1981</Entry>
+                <Entry>11 Dec 1986</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry />
+                <Entry>1 Jul 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>11 May 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>31 Jul 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry />
+                <Entry>21 Nov 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry>18 Jun 1981</Entry>
+                <Entry>18 Jun 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>18 Jan 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry />
+                <Entry>30 Jan 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>24 Sep 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>20 Aug 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>29 Dec 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>31 Dec 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;6,9&lt;/superscript&gt;</Entry>
+                <Entry>29 May 1981</Entry>
+                <Entry>13 Dec 1990 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Sep 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>26 May 1981</Entry>
+                <Entry>20 Jul 1988</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>13 Jan 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>25 Mar 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>28 Sep 1981</Entry>
+                <Entry>19 May 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>17 Feb 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>13 Oct 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>22 May 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>16 Aug 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry />
+                <Entry>22 Feb 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>11 Apr 1980</Entry>
+                <Entry>16 Feb 1995</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>7 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>24 Jul 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>12 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>State of Palestine</Entry>
+                <Entry />
+                <Entry>29 Dec 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>26 May 1981</Entry>
+                <Entry>15 Dec 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>21 Feb 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>19 Oct 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Nov 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>7 Jul 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>12 Feb 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry />
+                <Entry>3 Jan 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>31 Aug 1981</Entry>
+                <Entry>11 Dec 1986</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>25 Jan 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>27 Nov 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>28 Sep 1981</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>18 Dec 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>6 Jun 1986 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, acceptance, approval, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with articles 96 and 12 of the UnitedNations Convention on Contracts for the International Sale of Goods, any provisions of article 11, article 29 or Part II of the Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance or other indication of intention to be made in any form other than in writing does not apply where any party has his place of business in the Argentine Republic.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Armenia</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">1. Pursuant to Article 95 of the Convention, the Republic of Armenia declares that it will not apply the Article 1, subparagraph (1) (b) of the Convention to the parties that declare not to be bound by the Article 1, subparagraph (1) (b) of the Convention.</text>
+        <text type="para">2. Pursuant to Articles 12 and 96 of the Convention, the Republic of Armenia declares that any provision of Article 11, Article 29 or Part II of this Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance or other indication of intention to be made in any form other than in writing does not apply where any party has his place of business in the Republic of Armenia.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Azerbaijan</Participant>
+        <text type="title">Declaration</text>
+        <text>&lt;right&gt;3 May 2016&lt;/right&gt;</text>
+        <text type="para">The Republic of Azerbaijan declares that it is unable to guarantee the implementation of the provisions of the Convention in its territories occupied by the Republic of Armenia (the Nagorno-Karabakh region of the Republic of Azerbaijan and its seven districts surrounding that region), until the liberation of those territories from the occupation and complete elimination of the consequences of that occupation ...</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Byelorussian Soviet Socialist Republic, in accordance with articles 12 and 96 of the Convention declares that any provision of article 11, article 29 or Part II of this Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance or other indication of inten- tion to be made in any form other than in writing does not apply where any party has his place of business in the Byelorussian SSR.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Canada&lt;superscript&gt;11&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Chile</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The State of Chile declares, in accordance with articles 12 and 96 of the Convention, that any provision of article 11, article 29 or Part II of the Convention that allows a contract of sale or its modification or termination by mutual agreement or any offer, acceptance or other indication of intention to be made in any other form than in writing, does not apply where any party has its place of business in Chile.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>China&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The People's Republic of China does not consider itself to be bound by subparagraph (b) of paragraph 1 of article 1.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark&lt;superscript&gt;13&lt;/superscript&gt;</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"...</text>
+        <text type="para">"2) under paragraph 1 of article 93 that the Convention shall not apply to the Faroe Islands and Greenland,</text>
+        <text type="para">"3) under paragraph 1 cf. paragraph 3 of article 94 that the Convention shall not apply to contracts of sale where one of the parties has his place of business in Denmark, Finland, Norway or Sweden and the other party has his place of business in another of the said states,</text>
+        <text type="para">"4) under paragraph 2 of article 94 that the Convention is not to apply to contracts of sale where one of the parties has his place of business in Denmark, Finland, Norway or Sweden and the other party has his place of business in Iceland."</text>
+        <text type="para" />
+        <text>&lt;right&gt;2 July 2012&lt;/right&gt;</text>
+        <text type="para">"[...] In addition to the previous declaration made under Article 94 Denmark declares, in respect of Iceland in accordance with paragraph 1, in respect of Finland and Sweden in accordance with paragraph 1 cf. paragraph 3 and in repect of Norway in accordance with paragraph 2 that the Convention will not apply to the formation of contracts of sale where the parties have their places of business in Denmark, Iceland, Finland, Sweden or Norway."</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Estonia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"In accordance with articles 12 and 96 of [the said Conven- tion] any provision of article 11, article 29 or Part II of the Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance or other indication of intention to be made in any form other that in writing does not apply where any party has his place of business in the Republic of Estonia."</text>
+        <text>&lt;right&gt;9 March 2004&lt;/right&gt;</text>
+        <text type="para">&lt;i&gt;"In accordance with Article 97, paragraph 4 of the said Convention, the Republic of Estonia declares that the Republic of Estonia withdraws the declaration made in the said instrument of ratification, which prescribed that: "in accordance with Articles 12 and 96 of the United Nations Convention on Contracts for the International Sale of Goods any provision of Article 11, Article 29 or Part II of the Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance or other indication of intention to be made in any form other than in writing does not apply where any party has his place of business in the Republic of Estonia." &lt;/i&gt;</text>
+        <text type="para">In consequence any provision of Article 11, Article 29 or Part II of the Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance or other indication of intention to be made in any form other than in writing does apply where any party has his place of business in the Republic of Estonia."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Finland&lt;superscript&gt;14&lt;/superscript&gt;</Participant>
+        <text type="title">Upon ratification:</text>
+        <text type="para">"With reference to Article 94, in respect of Sweden in accordance with paragraph (1) and otherwise in accordance with paragraph (2) the Convention will not apply to contracts of sale where the parties have their places of business in Finland, Sweden, Denmark, Iceland or Norway."</text>
+        <text>&lt;right&gt;28 November 2011&lt;/right&gt;</text>
+        <text type="para">In addition to the previous declaration made under Article 94 the Republic of Finland declares, in respect of Iceland in accordance with paragraph (1) and otherwise in accordance with paragraph (2), that the Convention will not apply to the formation of contracts of sale where the parties have their places of business in Finland, Iceland, Denmark, Norway or Sweden.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <text type="para">The Government of the Federal Republic of Germany holds the view that Parties to the Convention that have made a declaration under article 95 of the Convention are not considered Contracting States within the meaning of subparagraph (a) (b) of article 1 of the Convention. Accordingly, there is no obligation to apply - and the Federal Republic of Germany assumes no obligation to apply - this provision when the rules of private international law lead to the application of the law of a Party that has made a declaration to the effect that it will not be bound by subparagraph (1) (b) of article 1 of the Convention. Subject to this observation the Government of the Federal Republic of Germany makes no declaration under article 95 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary&lt;superscript&gt;15&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Iceland</Participant>
+        <text>&lt;right&gt;12 March 2003&lt;/right&gt;</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"Pursuant to article 94, paragraph 1, the Convention will not apply to contracts of sale or to their formation where the parties have their places of business in Denmark, Finland, Iceland, Norway or Sweden."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Latvia&lt;superscript&gt;16&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Lithuania&lt;superscript&gt;17&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Norway&lt;superscript&gt;18&lt;/superscript&gt;</Participant>
+        <text type="title">Reservation made upon signature and confirmed upon ratifica tion:</text>
+        <text type="para">[ &lt;i&gt;Same reservation, mutatis mutandis, as the one made by Finland. &lt;/i&gt;]</text>
+        <text type="title">Upon ratification:</text>
+        <text type="para">[ &lt;i&gt;Same reservation, mutatis mutandis, as theone made by Finland. &lt;/i&gt;]</text>
+        <text type="para" />
+        <text>&lt;right&gt;14 April 2014&lt;/right&gt;</text>
+        <text type="para">[&] in addition to the previous declaration made [on] 20 July 1988 under Article 94, Norway declares, in respect of Iceland in accordance with paragraph 1 and otherwise in accordance with paragraph 1 cf. paragraph 3, that the Convention will not apply to the formation of contracts of sale where the parties have their places of business in Norway, Denmark, Finland, Iceland or Sweden.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Paraguay</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Paraguay declares, in accordance with articles 12 and 96 of the Convention, that any provision of article?1, article 29 or Part II of the Convention that allows a contract of sale or its modification or termination by agreement, [or] any offer, acceptance or other indication of intention to be made in any form other than in writing shall not apply where any party has his place of business in Paraguay.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">[Same declaration, &lt;i&gt;mutatis mutandis &lt;/i&gt;, as theone made by Belarus.]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Singapore</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"In accordance with article 95 of the said Convention, the Government of the Republic of Singapore will not be bound by sub-paragraph (1) (b) of article 1 of the Convention and will apply the Convention to the Contracts of Sale of Goods only between those parties whose places of business are in different States when the States are Contracting States."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>St. Vincent and the Grenadines</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of Saint Vincent and the Grenadines declares that Saint Vincent and the Grenadines will not be bound by subparagraph?1 ?b) of Article 1 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text type="title">Déclarations:</text>
+        <text type="para">[ &lt;i&gt;Same reservation, mutatis mutandis, as the one made by Finland. &lt;/i&gt;]</text>
+        <text>&lt;right&gt;25 May 2012&lt;/right&gt;</text>
+        <text type="para">In addition to the previous declaration made under Article 94 Sweden declares, in respect of Iceland in accordance with paragraph 1, in respect of Finland in accordance with paragraph 1 cf. paragraph 3 and otherwise in accordance with paragraph 2, that the Convention will not apply to the formation of contracts of sale where the parties have their places of business in Sweden, Finland, Denmark, Iceland or Norway.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">[ &lt;i&gt;Same declaration, mutatis mutandis, as the one made by Belarus. &lt;/i&gt;]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United States of America</Participant>
+        <text type="para">"Pursuant to article 95 the United States will not be bound by subparagraph (1) (b) of Article 1".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Viet Nam</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with Article 12 and Article 96 of the United Nations Convention on Contracts for the International Sale of Goods, done at Vienna on 11 April 1980, the Socialist Republic of Viet Nam makes the following declaration:</text>
+        <text type="para">Any provision of Article 11, Article 29, or Part II of the Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance, or other indication of intention to be made in any form other than in writing, does not apply where any party has his place of business in Viet Nam.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle>
+      <Title>Declarations under article 93 of the Convention</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, acceptance, approval, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Australia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Convention shall apply to all Australian States and mainland territories and to all external territories except the territories of Christmas Island, the Cocos (Keeling) Islands and the Ashmore and Cartier Islands."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Canada</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"The Government of Canada declares, in accordance with article 93 of the Convention, that the Convention will extend to Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland, Nova Scotia, Ontario, Prince Edward Island and the Northwest Territories."</text>
+        <text>&lt;right&gt;9 April 1992&lt;/right&gt;</text>
+        <text type="para">"The Convention shall also extend to Quebec and Saskatchewan."</text>
+        <text type="para">&lt;right&gt;29 June 1992&lt;/right&gt; "The Convention applies also to the Territory of the Yukon." &lt;right&gt;18 June 2003&lt;/right&gt; "The Government of Canada declares, in accordance with Article 93 of the Convention, that in addition to the provinces of Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec and Saskatchewan, as well as the Northwest Territories and the Yukon Territory, the Convention shall extend to the Territory of Nunavut. The Government of Canada also declares that the declaration made at the time of its accession to the Convention on April 23, 1991, the declaration deposited on April 9, 1992, the declaration deposited on June 29, 1992 and the declaration deposited on July 31, 1992, remain in effect."</text>
+      </Declaration>
+    </DeclarationsUnderArticle>
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The English text of the Convention has been published by the Government of the United States of America in the publication "Federal Register" of Monday 2 March 1987, volume 52, No. 40, pages 6262 to 6280 together with various comments and information by the Department of State.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>&lt;i&gt;Official Records of the General Assembly, Thirty-third Session, Supplement No. 45 &lt;/i&gt; (A/33/45), p.217.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 11 April 1980 and 27 March 1985, respectively. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 1 September 1981 and 5 March 1990, respectively, with the following reservation:</text>
+        <text>Pursuant to article 95, the Czechoslovak Socialist Republic declares that it shall not consider itself bound by the provision of article 1, paragraph 1, item b), of the Convention.</text>
+        <text>On 22 November 2017, the Government of the Czech Republic notified the Secretary-General that it had decided to withdraw the reservation with respect to article 95 made by Czechoslovakia upon ratification.</text>
+        <text>See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>On 1 January 1990 and on 1 January 1991, the Federal Republic of Germany and the Netherlands, respectively, denounced the Convention relating to a Uniform Law on the International Sale of Goods and the Convention relating to a Uniform Law on the Formation of Contracts for the International Sale of Goods, both done at The Hague on 1 July 1964. These denunciations took effect 12 months later, and the present Convention therefore entered into force for the Federal Republic of Germany and the Netherlands on 1 January 1991 and on 1 January 1992, respectively, in accordance with paragraphs 2 and 6 of article 99.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>The German Democratic Republic had signed and ratified the Convention on 13 August 1981 and 23 February 1989, respectively. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>For the Kingdom in Europe and Aruba.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>With a declaration of non-application to the Cook Islands, Niue and Tokelau.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>On 31 July 1992, the Government of Canada, by virtue of article  97 (4) of the Convention, notified the Secretary-General of its decision to withdraw the following declaration made upon accession by virtue of article 95, which read as follows:</text>
+        <text>"The Government of Canada also declares, in accordance with article?5 of the Convention, that, with respect to British Columbia, it will not be bound by article 1.1 b) of the Convention."</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>The Government of the Peoples Republic of China notified the Secretary-General on 16 January 2013 of its decision to withdraw the following declaration made upon approval with respect to Article 11 as well as the provisions in the Convention relating to the content of Article 11:</text>
+        <text>The People's Republic of China does not consider itself to be bound by subparagraph (b) of paragraph 1 of article 1 and article 11 as well as the provisions in the Convention relating to the content of article 11.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>On 2 July 2012, Denmark notified the Secretary-General that it withdrew the following declaration made upon signature and confirmed upon ratification:</text>
+        <text>"1) under paragraph 1 of Article 92 [...] Denmark will not be bound by Part II of the Convention."</text>
+        <text></text>
+        <text>According the four Nordic countries directly concerned (Finland, Denmark, Norway and Sweden), this withdrawal should be considered as a unilateral declaration which took effect in accordance with the second sentence of article 97 (3), on the first day of the month following the expiration of six months after the date of its receipt by the depositary, i.e. on 1 February 2013.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>On 28 November 2011, Finland notified the Secretary-General that it withdrew the following declaration under article 92 made upon signature and confirmed upon ratification:</text>
+        <text>Finland will not be bound by Part II of the Convention.</text>
+        <text>According to the four Nordic countries directly concerned (Finland, Denmark, Norway and Sweden), this withdrawal should be considered as a unilateral declaration which took effect in accordance with the second sentence of article 97 (3), on the first day of the month following the expiration of six months after the date of its receipt by the depositary, i.e. on 1 June 2012.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>On 6 July 2015, the Government of Hungary notified the Secretary-General of the withdrawal of the following declaration made upon ratification:</text>
+        <text>"[The Hungarian People's Republic] considers the General Conditions of Delivery of Goods between Organizations of the Member Countries of the Council for Mutual Economic Assistance/GCD CMEA, 1968/1975, version of 1979/ to be subject to the provisions of article 90 of the Convention;</text>
+        <text>"[The Hungarian People's Republic] states, in accordance with articles 12 and 96 of the Convention, that any provision of article 11, article 29 or Part II of the Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance or other indication of intention to be made in any form other than in writing, does not apply where any party has his place of business in the Hungarian People's Republic."</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>On 13 November 2012, the Government of Latvia notified the Secretary-General of the withdrawal of the following declaration made upon accession:</text>
+        <text>"In accordance with article 96 of the [said Convention], the Republic of Latvia delcares that any provision of article 11, article 29, or Part II of this Convention, that allows a contract of sale or its modification or termination by agreement or any offer, acceptance, or other indication of intention to be made in any form other than in writing, does not apply where any party has his place of business in the Republic of Latvia."</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>On 1 November 2013, the Government of Lithuania notified the Secretary-General of the withdrawal of the following declaration made upon accession with respect to articles 11, 29 and to Part II of the Convention:</text>
+        <text>"In accordance with articles 96 and 12 of the said Convention, the Republic of Lithuania declares that any provisions of article 11, article 29 or Part II of the Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance or other indication of intention to be made in any form other than in written does not apply where any party has his place of business in the Republic of Lithuania."</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>On 14 April 2014, Norway notified the Secretary-General that it withdrew the following declaration under article 92 made upon ratification:</text>
+        <text>According to the four Nordic countries directly concerned (Finland, Denmark, Norway and Sweden), this withdrawal should be considered as a unilateral declaration which shall take effect in accordance with the second sentence of article 97 (3), on the first day of the month following the expiration of six months after the date of its receipt by the depositary, i.e. on 1 November 2014.</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>On 25 May 2012, Sweden notified the Secretary-General that it withdrew the following declaration under article 92 made upon signature and confirmed upon ratification:</text>
+        <text>Sweden will not be bound by Part II of the Convention.</text>
+        <text>According the four Nordic countries directly concerned (Finland, Denmark, Norway and Sweden), this withdrawal should be considered as a unilateral declaration which took effect in accordance with the second sentence of article 97 (3), on the first day of the month following the expiration of six months after the date of its receipt by the depositary, i.e. on 1 December 2012.</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 10. International Trade and Development</Footer>
+  </Treaty>
+</Document>

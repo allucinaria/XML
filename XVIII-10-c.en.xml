@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVIII</Header>
+        <Name>PENAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>10</Numsect>
+        <Subnumsect>c</Subnumsect>
+        <Subtitlesect>Amendment to article 124 of the Rome Statute of the International Criminal Court</Subtitlesect>
+        <Conclusion>The Hague, 26 November 2015</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>in accordance with article 121(4) of the Rome Statute.</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>6</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>&lt;a href="/doc/source/docs/ICC-ASP-14-Res2-ENG.pdf" target="_blank"&gt;Resolution ICC-ASP/14/Res.2&lt;/a&gt;, adopted by the Assembly of States Parties to the Rome Statute.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>On 26 November 2015, at the 11th plenary meeting of the Assembly of States Parties to the Rome Statute, which was held from 18 to 26 November 2015 in The Hague, Netherlands, the Parties adopted by Resolution ICC-ASP/14/Res.2, in accordance with article 121, paragraph 3, of the Rome Statute, the Amendment to Article 124 of the Rome Statute. The amendment was circulated by the Secretary-General under cover of depositary notification C.N.439.2015.TREATIES-XVIII.10 of 30 July 2015 .</Text>
+          <Text></Text>
+          <Text>The Amendment will enter into force in accordance with article 121, paragraph 4 of the Rome Statute which reads as follows:</Text>
+          <Text>Except as provided in paragraph 5, an amendment shall enter into force for all States Parties one year after instruments of ratification or acceptance have been deposited with the Secretary-General of the United Nations by seven-eighths of them.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>22 Sep 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>23 Sep 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>20 Mar 2017 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>1 Jul 2016 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>11 Apr 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>28 Oct 2016 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the European part and the Caribbean part (the Islands of Bonaire, Sint Eustatius and Saba) of the Netherlands and for Curaçao.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XVIII 10 c. Penal Matters</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVI</Header>
+        <Name>STATUS OF WOMEN</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Titlesect>Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages</Titlesect>
+        <Conclusion>New York, 10 December 1962</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>9 December 1964 by the exchange of the said letters, in accordance with article 6.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>23 December 1964, No. 7525</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>16</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>55</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 521, p. 231.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was opened for signature pursuant to resolution &lt;a href="/doc/source/docs/A_RES_17_1763-E.pdf" target="_blank"&gt;1763 (XVII)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt;, adopted by the General Assembly of the United Nations on 7 November 1962.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2,3&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>25 Oct 1988 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry />
+                <Entry>26 Feb 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>1 Oct 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>16 Aug 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>5 Oct 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>1 Oct 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>19 Oct 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry />
+                <Entry>11 Feb 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>8 Dec 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>10 Dec 1962</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>18 Dec 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Oct 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>17 Oct 1963</Entry>
+                <Entry>20 Aug 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>30 Jul 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Feb 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>31 Oct 1963</Entry>
+                <Entry>8 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>8 Oct 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>19 Jul 1971 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>18 Aug 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>10 Dec 1962</Entry>
+                <Entry>14 Oct 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;6,7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>9 Jul 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>3 Jan 1963</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>18 Jan 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>10 Dec 1962</Entry>
+                <Entry>24 Jan 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>5 Nov 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>18 Oct 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>10 Dec 1962</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>20 Dec 1963</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>1 Jul 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>10 Feb 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>6 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>19 Aug 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>22 Feb 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>6 Jun 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>10 Dec 1962</Entry>
+                <Entry>2 Jul 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand</Entry>
+                <Entry>23 Dec 1963</Entry>
+                <Entry>12 Jun 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>1 Dec 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>10 Sep 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>5 Feb 1963</Entry>
+                <Entry>21 Jan 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>17 Dec 1962</Entry>
+                <Entry>8 Jan 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>27 Dec 1963</Entry>
+                <Entry>21 Jan 1993</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>26 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry />
+                <Entry>24 Aug 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>29 Jan 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>15 Apr 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>12 Dec 1962</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>27 Apr 1999 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>10 Dec 1962</Entry>
+                <Entry>16 Jun 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>2 Oct 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>24 Jan 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry />
+                <Entry>9 Jul 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>10 Dec 1962</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>31 May 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>9 Feb 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>23 Nov 1994 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Bangladesh&lt;superscript&gt;10&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations:</text>
+        <text type="title">Articles 1 and 2:</text>
+        <text type="para">"The Government of the People's Republic of Bangladesh reserves the right to apply the provisions of articles 1 and 2 in so far as they relate to the question of legal validity of child marriage, in accordance with the Personal Laws of different religious communities of the country.</text>
+        <text type="title">Article 2:</text>
+        <text type="para">The Government of the People's Republic of Bangladesh, in acceding to the Convention will not be bound by the exception clause of article 2 &lt;i&gt;viz &lt;/i&gt;. except where a competent authority has granted a dispensation as to age, for serious reasons, in the interest of the intending spouses".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="para">"With the reservation that article 1, paragraph 2, shall not apply to the Kingdom of Denmark."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Dominican Republic</Participant>
+        <text type="para">The Dominican Republic wishes the laws of the Dominican Republic to continue to have precedence in respect of the possibility, provided for in article 1, paragraph 2, of entering into a civil marriage by means of a proxy or procuration. Consequently, it can accept the said provisions only with reservations.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Fiji</Participant>
+        <text type="para">"The Government of Fiji withdraws the reservation, and declarations in respect of the law of Scotland and in respect of Southern Rhodesia, made on 9th July, 1970 by Her Majesty's Government in the United Kingdom, and affirms that the Government of Fiji declares it to be their understanding that:</text>
+        <text type="para">"(a) paragraph 1 of Article 1, and the second sentence of Article 2, of the Convention are concerned with the entry into marriage under the laws of a State Party and not with the recognition under the laws of one State or territory of the validity of marriages contracted under the laws of another State or territory; and</text>
+        <text type="para">(b) paragraph 2 of Article 1 does not require legislative provision to be made where no such legislation already exists, for marriages to be contracted in the absence of one of the parties."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Finland</Participant>
+        <text type="para">"With the reservation that article 1, paragraph 2, shall not apply to the Republic of Finland."</text>
+        <text type="para" />
+        <text type="para">"With the reservation that article 1, paragraph 2, shall not apply to the Republic of Finland."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="para">France declares that it will apply article 1 (2) of the Convention in accordance with its domestic laws reserving marriage celebrations in the absence of one of the parties only to exceptions expressly provided for in its legislation.</text>
+        <text type="para">France declares that it will apply article 1 (1) of the Convention in accordance with its domestic legislation on the conditions for exemption from the formality of publication.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Greece</Participant>
+        <text type="para">With reservation to article 1, paragraph 2, of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Guatemala</Participant>
+        <text type="title">&lt;i&gt;Reservation: &lt;/i&gt;</text>
+        <text type="para">With regard to article 1, paragraph 1, of the Convention, Guatemala declares that since its legislation, in respect of its nationals, does not call for the requirements relating to publicity of the marriage and the presence of witnesses for it to be solem- nized, it does not consider itself obliged to comply with those requirements where the parties are Guatemalans.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary</Participant>
+        <text type="para">In acceding to the Convention, the Presidential Council of the Hungarian People's Republic declares that it does not consider paragraph 2 of article 1 of the Convention as binding the Hungarian People's Republic to grant, under the terms thereof, permit of marriage when one of the intending spouses is not present.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iceland</Participant>
+        <text type="para">"Article 1, paragraph 2, shall not apply to the Republic of Iceland."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="para">In signing the Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages, [the Government of the Netherlands] hereby declare that, in view of the equality which exists, from the standpoint of public law, between the Netherlands, Surinam and the Netherlands Antilles, the Government of the Kingdom reserves the right to ratify the Convention in respect of only one or two parts of the Kingdom and to declare at a later date, by written notification to the Secretary-General, that the Convention is to apply also to the other part or parts of the Kingdom.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Norway</Participant>
+        <text type="para">"With the reservation that article 1, paragraph 2, shall not apply to the Kingdom of Norway."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Philippines</Participant>
+        <text type="para">"The Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages was adopted for the purpose, among other things, of insuring to all persons complete freedom in the choice of a spouse. The first paragraph of Article 1 of the Convention requires that the full and free consent of both parties shall be expressed in the presence of the competent authority and of witnesses.</text>
+        <text type="para">"Considering the provisions of its Civil Code, the Philippines, in ratifying this Convention interprets the second paragraph of Article 1 (which authorizes, in exceptional cases, the solemnization of marriage by proxy) as not imposing upon the Philippines the obligation to allow within its territory the celebration of proxy marriages or marriages of the kind contemplated in that paragraph, where such manner of marriage is not authorized by the laws of the Philippines. Rather, the solemnization within Philippine territory of a marriage in the absence of one of the parties under the conditions stated in said paragraph will be permitted only if so allowed by Philippine law."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Romania</Participant>
+        <text type="title">&lt;i&gt;Reservation: &lt;/i&gt;</text>
+        <text type="para">Romania will not apply the provisions of article 1, paragraph 2, of the Convention, regarding the celebration of marriage in the absence of one of the future spouses.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden</Participant>
+        <text type="para">With reservation to article 1, paragraph 2, of the Convention.</text>
+        <text type="para" />
+        <text type="para">With reservation to article 1, paragraph 2, of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;11&lt;/superscript&gt;</Participant>
+        <text type="para">"(a) . . .</text>
+        <text type="para">"(b) It is the understanding of the Government of the United Kingdom that paragraph (1) of article 1 and the second sentence of article 2, of the Convention are concerned with entry into marriage under the laws of a State Party and not with the recognition under the laws of one State or territory of the validity of marriages contracted under the laws of another State or territory; nor is paragraph (1) of article 1 applicable to marriages by cohabitation with habit and repute under the law of Scotland;</text>
+        <text type="para">"(c) Paragraph (2) of article 1 does not require legislative provision to be made, where no such legislation already exists, for marriages to be contracted in the absence of one of the parties;</text>
+        <text type="para">"(d) The provisions of the Convention shall not apply to Southern Rhodesia unless and until the Government of the United Kingdom inform the Secretary-General that they are in a position to ensure that the obligations imposed by the Convention in respect of that territory can be fully implemented."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United States of America</Participant>
+        <text type="para">"With the understanding that legislation in force in the various States of the United States of America is in conformity with this Convention and that action by the United States of America with respect to this Convention does not constitute acceptance of the provisions of article 8 as a precedent for any subsequent instruments."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="para">&lt;center&gt;[ &lt;i&gt;See chapter XVI.1 &lt;/i&gt;.] &lt;/center&gt;</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Objection>
+        <Participant>Finland</Participant>
+        <text>&lt;right&gt;13  December 1999&lt;/right&gt;</text>
+        <text type="title">With regard to the reservations made by Bangladesh upon accession:</text>
+        <text type="para">" The Government of Finland notes that the reservation of Bangladesh, being of such a general nature, raises doubts as to the full commitment of Bangladesh to the object and purpose of the Convention and would like to recall that, according to the Vienna Convention on the Law of the Treaties, a reservation incompatible with the object and purpose of the Convention shall not be permitted.</text>
+        <text type="para">Furthermore, reservations are subject to the general principle of treaty interpretation according to which a party may not invoke the provisions of its domestic law as justification for a failure to perform its treaty obligations.</text>
+        <text type="para">Therefore the Government of Finland objects to the aforesaid reservations made by the Government of Bangladesh. This objection does not preclude the entry into force of the Convention between Bangladesh and Finland. The Convention will thus become operative between the two States without Bangladesh benefitting from this reservation".</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Sweden</Participant>
+        <text>&lt;right&gt;14 December 1999&lt;/right&gt;</text>
+        <text type="title">With regard to the reservations made by Bangladesh upon accession:</text>
+        <text type="para">The Government of Sweden notes that the reservations include a reservation of a general kind, in respect of articles 1 and 2, which reads as follows:</text>
+        <text type="para">&lt;i&gt;[See reservation to Articles 1 and 2 made by Bangladesh under &lt;b&gt;Reservations and Declarations " &lt;/b&gt;.] &lt;/i&gt;</text>
+        <text type="para">The Government of Sweden is of the view that this general reservation, referring to the Personal Laws of different religious communities of the country, raises doubts as to the commitment of Bangladesh to the object and purpose of the Convention and would recall that, according to well-established international law, a reservation incompatible with the object and purpose of a treaty shall not be permitted.</text>
+        <text type="para">It is in the common interest of States that treaties to which they have chosen to become parties are respected, as to their object and purpose, by all parties and that States are prepared to undertake any legislative changes necessary to comply with their obligations under these treaties.</text>
+        <text type="para">The Government of Sweden therefore objects to the aforesaid general reservation made by the Government of Bangladesh to the Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages.</text>
+        <text type="para">This objection does not preclude the entry into force of the Convention between Bangladesh and Sweden. The Convention will thus become operative between the two States without Bangladesh benefitting from the reservation".</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3,11&lt;/superscript&gt;</Participant>
+        <DateNotification>9 Jul 1970</DateNotification>
+        <Territories>Associated States (Antigua, Dominica, Grenada, Saint Kitts-Nevis-Anguilla, Saint Lucia and Saint Vincent), State of Brunei, Territories under the territorial sovereignty of the United Kingdom</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>15 Oct 1974</DateNotification>
+        <Territories>Montserrat</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the General Assembly, Seventeenth Session, Supplement No. 17 &lt;/i&gt;(A/5217), p. 28.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Signed on behalf of the Republic of China on 4 April 1963. See note concerning signatures, ratifications, accessions, etc., on behalf of China (note 1 under China in the Historical Information section in the front matter of this volume).</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 10 June 1997, the Governments of China and the United Kingdom of Great Britain and Northern Ireland notified the Secretary-General of the following:</text>
+        <text>China:</text>
+        <text>[ &lt;i&gt;Same notification as the one made under note 6 in chapter V.3. &lt;/i&gt;]</text>
+        <text>United Kingdom of Great Britain and Northern Ireland:</text>
+        <text>[ &lt;i&gt;Same notification as the one made under note 5 in chapter IV.1. &lt;/i&gt;]</text>
+        <text>In addition, the notification made by the Government of China contained the following declaration:</text>
+        <text>1. It is the understanding of the Government of the People's Republic of China that article 1 (2) of the [said Convention] does not require legislative provision to be made, where no such legislation already exists in the Hong Kong Special Administrative Region, for marriage to be contracted in the absence of one of the parties.</text>
+        <text>2. The signature by the Taiwan authorities of China on 4 April 1963 of the [said Convention] is illegal and null and void.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 10 December 1962 and 19 June 1964, respectively. See also note? under Bosnia and Herzegovina, Croatia, former Yugoslavia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 8 October 1963 and 5 March 1965, respectively. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>The German Democratic Republic had acceded to the Convention on 16 July 1974. See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>The formality was effected by Democratic Yemen. See also note? under Yemen in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>In this regard, the Secretary-General received the following communications on the dates indicated hereinafter:</text>
+        <text>&lt;i&gt;Germany (17 December 1999): &lt;/i&gt;</text>
+        <text>The Government of the Federal Republic of Germany notes that this constitutes a reservation of a general nature in respect of provisions of the Convention which may be contrary to the domestic law of Bangladesh. The Government of the Federal Republic of Germany is of the view that this general reservation raises doubts as to the full commitment of Bangladesh to the object and purpose of the Convention. In view of the fact that the Convention contains only ten short articles the reservation to one of its core principles seems particularly problematic. It is in the common interest of States that treaties to which they have chosen to become Parties are respected, as to their object and purpose, by all Parties and that States are prepared to undertake any legislative changes necessary to comply with their obligations under these treaties.</text>
+        <text>The Government of the Federal Republic of Germany therefore objects to this reservation made by the Government of the People's Republic of Bangladesh. This objection does not preclude the entry into force of the Convention between the Federal Republic of Germany and the People's Republic of Bangladesh".</text>
+        <text>&lt;i&gt;Netherlands (20 December 1999): &lt;/i&gt;</text>
+        <text>The Government of the Kingdom of the Netherlands considers that such a reservation, which seeks to limit the responsibilities of the reserving State under the Convention by invoking national law, may raise doubts as to the commitment of this State to the object and purpose of the Convention and, moreover, contribute to undermining the basis of international treaty law.</text>
+        <text>It is in the common interest of States that treaties to which they have chosen to become parties should be respected, as to object and purpose, by all parties.</text>
+        <text>The Government of the Kingdom of the Netherlands therefore objects to the aforesaid reservation made by the GovernmentBangladesh.</text>
+        <text>This objection shall not preclude the entry into force of the Convention between the Kingdom of the Netherlands and Bangladesh.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>In a notification received on 15 October 1974, the Government of the United Kingdom informed the Secretary-General of the withdrawal of the reservation corresponding to sub-paragraph a, according to which it reserved the right to postpone the application of article 2 of the Convention to Montserrat pending notification to the Secretary-General that the said article would be applied there.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XVI 3. Status of Women</Footer>
+  </Treaty>
+</Document>

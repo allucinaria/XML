@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVIII</Header>
+        <Name>PENAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>12</Numsect>
+        <Titlesect>United Nations Convention against Transnational Organized Crime</Titlesect>
+        <Conclusion>New York, 15 November 2000</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>29 September 2003, in accordance with article 38.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>29 September 2003, No. 39574</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>147</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>189</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc. &lt;a href="/doc/source/docs/A_55_383-E.pdf" target="_blank"&gt;A/55/383&lt;/a&gt;; depositary notifications C.N.488.2004.TREATIES-10 of 18 May 2004 [Russian Federation: proposed correction to the original of the Convention (authentic Russian text)] and C.N.619.2004.TREATIES-23 of 21 June 2004 [Russian Federation: Rectification of the original of the Convention (Russian authentic text) and transmission of the relevant procès-verbal]. United Nations, Treaty Series , vol. 2225, p. 209.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by resolution &lt;a href="/doc/source/docs/A_RES_55_25-E.pdf" target="_blank"&gt;A/RES/55/25&lt;/a&gt; of 15 November 2000 at the fifty-fifth session of the General Assembly of the United Nations. In accordance with its article 36, the Convention will be open for signature by all States and by regional economic integration organizations, provided that at least one Member State of such organization has signed the Convention, from 12 to 15 December 2000 at the Palazzi di Giustizia in Palermo, Italy, and thereafter at United Nations Headquarters in New York until 12 December 2002.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+  </Treaty>
+</Document>

@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER V</Header>
+        <Name>REFUGEES AND STATELESS PERSONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Titlesect>Convention on the Reduction of Statelessness</Titlesect>
+        <Conclusion>New York, 30 August 1961</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>13 December 1975, in accordance with article 18.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>13 December 1975, No. 14458</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>5</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>70</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 989, p. 175.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted and opened for signature by the United Nations Conference on the Elimination or Reduction of Future Statelessness, convened by the Secretary-General of the United Nations pursuant to General Assembly resolution?lt;a href="/doc/source/docs/A_RES_9_895-E.pdf" target="_blank"&gt;896 (IX)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of 4 December 1954. The Conference met at the European Office of the United Nations at Geneva from 24 March to 18 April 1959 and reconvened at the Headquarters of the United Nations at New York from 15 to 28 August 1961; C.N.472.2011.TREATIES-2 of 19 July 2011 (proposal of corrections to the original text of the Convention (Spanish version) and to the certified true copies).</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Succession(d), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>9 Jul 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry />
+                <Entry>13 Nov 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>18 May 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>13 Dec 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>22 Sep 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>16 Aug 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>1 Jul 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry />
+                <Entry>14 Aug 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>8 Dec 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>6 Oct 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry />
+                <Entry>13 Dec 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry />
+                <Entry>25 Oct 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>22 Mar 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>3 Aug 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>17 Jul 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry />
+                <Entry>12 Aug 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>15 Aug 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>2 Nov 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>3 Oct 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry />
+                <Entry>22 Sep 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry />
+                <Entry>19 Dec 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry />
+                <Entry>11 Jul 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>5 Dec 1961</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>24 Sep 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry />
+                <Entry>7 Aug 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>31 May 1962</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry />
+                <Entry>1 Jul 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>1 Jul 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;2,3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>31 Aug 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>19 Jul 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>17 Jul 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry />
+                <Entry>19 Sep 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>18 Dec 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>12 May 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>18 Jan 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>30 Aug 1961</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry />
+                <Entry>1 Dec 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>9 Jan 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kiribati</Entry>
+                <Entry />
+                <Entry>29 Nov 1983 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>14 Apr 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>24 Sep 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>22 Sep 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>16 May 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry />
+                <Entry>25 Sep 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>22 Jul 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry />
+                <Entry>21 Sep 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>27 May 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry />
+                <Entry>5 Dec 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>1 Oct 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>30 Aug 1961</Entry>
+                <Entry>13 May 1985</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>20 Sep 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>29 Jul 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>17 Jun 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>20 Sep 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>11 Aug 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>2 Jun 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>6 Jun 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>18 Dec 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry />
+                <Entry>1 Oct 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>19 Apr 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>27 Jan 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>4 Oct 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>21 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry />
+                <Entry>7 Dec 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>9 May 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry />
+                <Entry>3 Apr 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry />
+                <Entry>16 Nov 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry />
+                <Entry>19 Feb 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>12 May 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>29 Aug 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry />
+                <Entry>25 Mar 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry>30 Aug 1961</Entry>
+                <Entry>29 Mar 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>21 Sep 2001 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">On the occasion of its accession to the Convention on the Reduction of Statelessness, adopted in New York on 30 August 1961, the Republic of Argentina objects and rejects the attempt to extend the territorial application of this instrument to the Malvinas Islands made by the United Kingdom of Great Britain and Northern Ireland upon ratification.</text>
+        <text type="para">The Argentine Government recalls that the Malvinas Islands, South Georgia Islands and South Sandwich Islands and the surrounding maritime areas are an integral part of the Argentine national territory and, being illegally occupied by the United Kingdom of Great Britain and Northern Ireland, are the subject of a sovereignty dispute between the two countries which is recognized by several international organizations.</text>
+        <text type="para">In this connection, the General Assembly of the United Nations has adopted resolutions 2065 (XX), 3160 (XXVIII), 31/49, 37/9, 38/12, 39/6, 40/21, 41/40, 42/19 and 43/25, in which the sovereignty dispute referred to as the Question of the Malvinas Islands is recognized and the Governments of the Argentine Republic and the United Kingdom of Great Britain and Northern Ireland are urged to resume negotiations in order to find as soon as possible a peaceful and lasting solution to the dispute. Concurrently, the Special Committee on Decolonization of the United Nations has repeatedly affirmed this view, most recently in its resolution adopted on 26 June 2014. Also, the General Assembly of the Organization of American States adopted, on 5 June 2014, a new pronouncement, in similar terms, on the question.</text>
+        <text type="para">The Argentine Government reaffirms its legitimate sovereign rights over the Malvinas Islands, South Georgia Islands and South Sandwich Islands and the surrounding maritime areas, as well asover the Argentine Antarctic Sector.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Austria</Participant>
+        <text type="title">Declarations concerning article 8, paragraph 3 (a), (i) and (ii):</text>
+        <text type="para">"Austria declares to retain the right to deprive a person of his nationality, if such person enters, on his own free will, the military service of a foreign State.</text>
+        <text type="para">"Austria declares to retain the right to deprive a person of his nationality, if such person being in the service of a foreign State, conducts himself in a manner seriously prejudicial to the interests or to the prestige of the Republic of Austria."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">- Declaration concerning article 2 of the Convention:</text>
+        <text type="para">The Belgian Government declares that, for Belgium, the category of foundlings concerns found children who are believed to be newborn.</text>
+        <text type="para">- Declaration concerning article 8, paragraph 3 of the Convention:</text>
+        <text type="para">Belgium reserves the right to deprive of his nationality a person who did not acquire it by virtue of a Belgian individual on the day of his birth, or who was not granted it under the Belgian Nationality Code, in the cases currently provided for under Belgian legislation, namely:</text>
+        <text type="para">1. If the person acquired Belgian nationality through fraudulent conduct, provision of false information, forgery and/or the use of false or falsified documents, identity fraud or fraudulent acquisition of the right of residency;</text>
+        <text type="para">2. If he seriously violates his duties as a Belgian citizen;</text>
+        <text type="para">3. If he has been sentenced as perpetrator, co-perpetrator or accomplice, to a non-suspended prison sentence of at least five years for one of the following offences:</text>
+        <text type="para">- Attacks or plots against the King, the Royal Family or the Government;</text>
+        <text type="para">- Crimes or misdemeanours against the external security of the State;</text>
+        <text type="para">- Crimes or misdemeanours against the internal security of the State;</text>
+        <text type="para">- Serious violations of international humanitarian law;</text>
+        <text type="para">- Terrorist offences;</text>
+        <text type="para">- Threat of attack against persons or property, and false information regarding serious attacks;</text>
+        <text type="para">- Theft or extortion of nuclear materials;</text>
+        <text type="para">- Offences relating to the physical protection of nuclear materials;</text>
+        <text type="para">- Human trafficking;</text>
+        <text type="para">- People smuggling;</text>
+        <text type="para">4. If he has been sentenced as perpetrator, co-perpetrator or accomplice, to a non-suspended prison sentence of at least five years for an offence that was manifestly facilitated by the possession of Belgian nationality, provided that the offence was committed within five years of the acquisition of Belgian nationality.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Brazil&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;10 December 2009&lt;/right&gt;</text>
+        <text type="title">Declaration:</text>
+        <text type="para">On 10 December 2009, the Secretary-General received from the Government of Brazil, the following communication:</text>
+        <text type="para">In reference to the instrument of accession relating to the Convention on the Reduction of Statelessness, concluded in New York on 30 August 1961, the Government of the Federative Republic of Brazil declares that, in accordance with Article 8, paragraph 3, sub-paragraph a, item iiof the Convention, the Federative Republic of Brazil retains the right to deprive a person of his nationality when he conducts himself in a manner seriously prejudicial to the vital interests of the Brazilian State.</text>
+        <text type="para">The Secretary-General also wishes to communicate the following information received by the Government of Brazil on 18 December 2009 (Original: English):</text>
+        <text type="para">The National Congress of Brazil approved the text of the Convention on the Reduction of Statelessness by means of Legislative Decree n. 274, of 4 October 2007. In accordance with Legislative Decree n. 274/2007, the text of the Convention is approved expressly with the restriction allowed for in article 8 (3) (a) (ii) of the Convention, so that the Federative Republic of Brazil retains the right to deprive a person of his nationality when he conducts himself in a manner seriously prejudicial to the vital interests of the Brazilian State. In this regard, it is noted that the instrument of accession to the Convention deposited by Brazil with the Secretary-General on 25 October 2007 did not specify the above restriction, in accordance with article 8 (3) of the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Colombia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">In accordance with the provisions of article 17 (1) of the Convention, the Republic of Colombia makes a reservation to article 14 to the effect that it does not recognize the jurisdiction of the International Court of Justice with regard to the disputes that may arise between Contracting States concerning the interpretation or application of the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="para">At the time of signature of this Convention, the Government of the French Republic declares that it reserves the right to exercise the power available to it under article 8 (3) on the terms laid down in that paragraph, when it deposits the instrument of ratification of the Convention.</text>
+        <text type="para">The Government of the French Republic also declares, in accordance with article 17 of the Convention, that it makes a reservation in respect of article 11, and that article 11 will not apply so far as the French Republic is concerned.</text>
+        <text type="para">The Government of the French Republic further declares, with respect to article 14 of the Convention, that in accordance with article 17 it accepts the jurisdiction of the Court only in relation to States Parties to this Convention which shall also have accepted its jurisdiction subject to the same reservations; it also declares that article 14 will not apply when there exists between the French Republic and another party to this Convention an earlier treaty providing another method for the settlement of disputes between the two States.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Georgia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">& Georgia formally confirms the accession to the Convention and in accordance with paragraph 3 of Article 8 of the Convention declares:</text>
+        <text type="para">- Georgia retains the right to deprive the person of his nationality, that results in a loss of nationality (citizenship), as provided by the Organic Law of Georgia on the Citizenship of Georgia;</text>
+        <text type="para">- The entry into force of the UN Convention on the Reduction of Statelessness of 30 August 1961 for Georgia cannot be construed as recognition of citizenship granted by the Russian Federation in violation of international law and Georgian legislation to the population residing in the Georgian regions - Abkhazia and Tshkhinvali Region.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;3&lt;/superscript&gt;</Participant>
+        <text type="para">The Federal Republic of Germany will apply the said Convention:</text>
+        <text type="para">(a) in respect of elimination of statelessness, to persons who are stateless under the terms of article 1, paragraph 1, of the Convention relating to the Status of Stateless Persons of 28 September 1954;</text>
+        <text type="para">(b) in respect of prevention of statelessness and retention of nationality, to German nationals within the meaning of the Basic Law (Constitution) for the Federal Republic of Germany.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ireland</Participant>
+        <text type="para">"In accordance with paragraph 3 of article 8 of the Convention Ireland retains the right to deprive a naturalised Irish citizen of his citizenship pursuant to section 19 (1) (b) of the Irish Nationality and Citizenship Act, 1956, on grounds specified in the aforesaid paragraph."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Jamaica</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Upon acceding to the Convention on the Reduction of Statelessness, the Government of Jamaica declares, pursuant to Article 8 of the Convention, that it retains the right under its laws to deprive a person of his or her nationality in the circumstances outlined in Paragraph 3 of that Article in the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Lithuania</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">& In accordance with paragraph 3 of Article 8 of the Convention, & the Republic of Lithuania declares that the Republic of Lithuania retains the right to deprive a person of his nationality on the grounds of the deprivation of nationality of the Republic of Lithuania, as provided for in paragraphs 4 and 6 of Article 24 of the Law of the Republic of Lithuania on Citizenship.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>New Zealand</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"[New Zealand] declares that in accordance with paragraph? of article 8 of the Convention New Zealand retains the right to deprive a person of his New Zealand citizenship on the following grounds, being grounds existing in New Zealand law at the present time:</text>
+        <text type="para">the person has, while a New Zealand citizen and while of or over the age of 18 years and of full capacity,</text>
+        <text type="para">(a) Acquired the nationality or citizenship of another country by any voluntary and formal act, and acted in a manner that is contrary to the interests of New Zealand; or</text>
+        <text type="para">(b) Voluntarily exercised any of the privileges or performed any of the duties of another nationality or citizenship possessed by him in a manner that is contrary to the interests of New Zealand."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Niger</Participant>
+        <text type="para">With reservations in respect of articles 11, 14 and 15.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Tunisia&lt;superscript&gt;8&lt;/superscript&gt;</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">[The Government of Tunisia] declares that it does not consider itself bound by the provisions of article 11 concerning the establishment of a body responsible for assisting in the presentation of claims to obtain nationality to the appropriate authorities, or of article 14, which provides for the competence of the International Court of Justice to rule on disputes concerning the interpretation or application of the Convention.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Tunisia declares that, in accordance with article 8, paragraph 3, of the [Convention] , it retains the right to deprive a person of Tunisian nationality in the following circumstances as provided for in its existing national law:</text>
+        <text type="para">1. If he occupies a post in the public service of a foreign State or in foreign armed forces and retains it for more than one month after being enjoined by the Government of Tunisia to leave the post, unless it is found that it was impossible for him to do so.</text>
+        <text type="para">2. If he is convicted of an act held to be a crime or an offence against the external or internal security of the State.</text>
+        <text type="para">3. If he engages, for the benefit of a foreign State, in acts which are incompatible with his status as a Tunisian national and which are prejudicial to Tunisia's interests.</text>
+        <text type="para">4. If he is convicted in Tunisia or abroad for an act held to be a crime under Tunisian law and carrying a sentence of at least five years' imprisonment.</text>
+        <text type="para">5. If he is convicted of evading his obligations under the law regarding recruitment into the armed forces.</text>
+        <text type="para">6. If it is discovered, subsequent to issuance of the naturalization certificate, that the person concerned did not fulfil the conditions required by law allowing him to be naturalized.</text>
+        <text type="para">7. If the alien has made a false declaration, employed fraudulent means or knowingly submitted a document containing a false or incorrect statement for the purpose of obtaining naturalization.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="para">"[The Government of the United Kingdom declares that], in accordance with paragraph 3 (a) of Article 8 of the Convention, notwithstanding the provisions of paragraph 1 of Article 8, the United Kingdom retains the right to deprive a naturalised person of his nationality on the following grounds, being grounds existing in United Kingdom law at the present time: that, inconsistently with his duty of loyalty to Her Britannic Majesty, the person</text>
+        <text type="para">"(i) Has, in disregard of an express prohibition of Her Britannic Majesty, rendered or continued to render services to, or received or continued to receive emoluments from, another State, or</text>
+        <text type="para">"(ii) Has conducted himself in a manner seriously prejudicial to the vital interests of Her Britannic Majesty."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Objection>
+        <Participant>Finland</Participant>
+        <text type="para">&lt;Right&gt;7 August 2008&lt;/Right&gt;</text>
+        <text type="para">The Government of Finland has examined the declaration made by the Government of the Republic of Tunisia to the Convention on the Reduction of Statelessness. The Government of Finland holds the view that such a declaration seeks to limit the duty of the Republic of Tunisia not to deprive a person of its nationality if such deprivation would render him or her stateless to an extent not covered by the exceptions of Article 8 paragraph 3 of the Convention. The declaration therefore amounts to a reservation which restricts one of the essential duties of the Convention in a way contrary to the object and purpose of the Convention.</text>
+        <text type="para">The Government of Finland therefore objects to the declaration made by the Government of the Republic of Tunisia in respect of Article 8 of the Convention on the Reduction of Statelessness.</text>
+        <text type="para">This objection does not preclude the entry into force of the Convention between the Republic of Tunisia and Finland. The Convention will thus become operative between the two States without the Republic of Tunisia benefiting from the said declaration.</text>
+      </Objection>
+      <Objection>
+        <Participant>Germany</Participant>
+        <text>&lt;right&gt;15 May 2001&lt;/right&gt;</text>
+        <text type="para">"The Government of the Federal Republic of Germany has examined the declaration to the Convention on the Reduction of Statelessness made by the Government of the Republic of Tunisia upon its accession to the Convention. The Government of the Federal Republic of Germany holds the view that such a declaration seeks to limit the duty of a state not to deprive a person of its nationality if such deprivation would render him stateless in an extent which is not covered by the exceptions of Article 8 paragraph 3 of the Convention. The declaration therefore restricts one of the essential duties of the Convention in a way contrary to the essence of the Convention. It is hence incompatible with the object and purpose of the Convention.</text>
+        <text type="para">The Government of the Federal Republic of Germany therefore objects to the declaration made by the Government of the Republic of Tunisia in respect of Article 8 of the Convention on the Reduction of Statelessness.</text>
+        <text type="para">This objection does not preclude the entry into force of the Convention between the Federal Republic of Germany and the Republic of Tunisia."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Norway</Participant>
+        <text>&lt;right&gt;23 May 2001&lt;/right&gt;</text>
+        <text type="para">"The Government of Norway has examined the contents of the reservation and declaration made by the Republic of Tunisia upon accession to the Convention on the Reduction of Statelessness.</text>
+        <text type="para">The Convention prohibits the deprivation of nationality if it will render the person in question stateless. This prohibition is subject to certain limitations. It is the position of the Government of Norway that paragraph 3 and 4 of the Tunisian declaration are not justified under the Convention. The said paragraphs of the declaration are contrary to the object and purpose of the Convention, as they aim at limiting the obligations that States undertake when acceding to it, the core obligation being to reduce statelessness.</text>
+        <text type="para">This objection does not preclude the entry into force in its entirety of the Convention between the Kingdom of Norway and the Republic of Tunisia. The Convention thus becomes operative between Norway and Tunisia without Tunisia benefiting from the said declaration."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Sweden</Participant>
+        <text>&lt;right&gt;23 May 2001&lt;/right&gt;</text>
+        <text type="para">"The Government of Sweden has examined the declaration to the Convention on the Reduction of Statelessness made by the Government of the Republic of Tunisia upon its accession to the Convention. The Government of Sweden is of the view that this declaration seeks to limit the duty of Tunisia not to deprive a person of its nationality if such deprivation would render him stateless in an extent which is not covered by the exceptions of Article 8 paragraph 3 of the Convention. The declaration therefore restricts one of the essential duties of the Convention and raises serious doubts as to the commitment of the republic of Tunisia to the object and purpose of the Convention.</text>
+        <text type="para">It is in the common interest of States that treaties to which they have chosen to become parties are respected as to their object and purpose by all parties, and that States are prepared to undertake any legislative changes necessary to comply with their obligations under the treaties. Furthermore, according to the Vienna Convention on the Law of Treaties of 23 May 1969, and well-established customary international law, a reservation contrary to the object and purpose of the treaty shall not be permitted.</text>
+        <text type="para">The Government of Sweden therefore objects to the declaration made by the Government of the Republic of Tunisia in respect of Article 8 of the Convention on the Reduction of Statelessness.</text>
+        <text type="para">This objection does not preclude the entry into force of the Convention between the Republic of Tunisia and Sweden."</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>France</Participant>
+        <DateNotification>31 May 1962</DateNotification>
+        <Territories>The Convention will apply to the Overseas Departments and the Overseas Territories of the French Republic</Territories>
+      </Application>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;6&lt;/superscript&gt;</Participant>
+        <DateNotification>29 Mar 1966</DateNotification>
+        <Territories>(a) The Convention shall apply to the following non-metropolitan territories for the international relations of which the United Kingdom is responsible:Antigua, Bahamas, Barbados, Basutoland, Bechuanaland, Bermuda, British Guiana, British Honduras, British Solomon Islands Protectorate, Cayman Islands, Channel Islands, Dominica, Falkland Islands, Fiji, Gibraltar, Gilbert and Ellice Islands, Grenada, Hong Kong, Isle of Man, Mauritius, Montserrat, St. Helena, St. Kitts, St. Lucia, St . Vincent, Seychelles, Swaziland, Turks and Caicos Islands, Virgin Islands. (b) The Convention shall not apply to Aden and the Protectorate of South Arabia; Brunei; Southern Rhodesia; and Tonga, whose consent to the application of the Convention has been withheld</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>29 Mar 1966</DateNotification>
+        <Territories>(a) The Convention shall apply to the following non-metropolitan territories for the international relations of which the United Kingdom is responsible:Antigua, Bahamas, Barbados, Basutoland, Bechuanaland, Bermuda, British Guiana, British Honduras, British Solomon Islands Protectorate, Cayman Islands, Channel Islands, Dominica, Falkland Islands, Fiji, Gibraltar, Gilbert and Ellice Islands, Grenada, Hong Kong, Isle of Man, Mauritius, Montserrat, St. Helena, St. Kitts, St. Lucia, St . Vincent, Seychelles, Swaziland, Turks and Caicos Islands, Virgin Islands (b) The Convention shall not apply to Aden and the Protectorate of South Arabia; Brunei; Southern Rhodesia; and Tonga, whose consent to the application of the Convention has been withheld</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the General Assembly, Ninth Session, Supplement No. 21 &lt;/i&gt; (A/2890), p. 49.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>For the Kingdom in Europe and the Netherlands Antilles. See notes 1 and 2 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>With a territorial application to Tokelau.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>See note 2 under United Kingdom of Great Britain and Norhtern Ireland regarding Hong Kong in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>Within a period of one year from the date of the depositary notification transmitting the declaration (C.N.916.2009.TREATIES-3 of 29 December 2009), none of the Contracting Parties to the said Convention had notified the Secretary-General of an objection either to the deposit itself or to the procedure envisaged. Consequently, the interpretative declaration in question was accepted for deposit upon the above-stipulated one year period, that is on 29 December 2010.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>In regard to the declaration made by Tunisia upon accession, the Secretary-General received from the Government of the following State, the following communication on the date indicated hereinafter:</text>
+        <text>Netherlands (6 June 2001): </text>
+        <text>"The Government of the Kingdom of the Netherlands has examined the above mentioned declaration. The Government of the Kingdom of the Netherlands understands the declaration of Tunisia, in particular with regard to the grounds mentioned in Nos. 4 and 6 of the declaration, in respect of article 8 to extend the grounds on which a person can be deprived of Tunisian nationality.</text>
+        <text>The declaration therefore restricts one of the essential obligations of the Convention in a way contrary to the object and purpose of the Convention.</text>
+        <text>The Government of the Kingdom of the Netherlands therefore objects to the aforesaid declaration made by the Government of the Republic of Tunisia.</text>
+        <text>This objection shall not preclude the entry into force of the Convention between the Kingdom of the Netherlands and the Republic of Tunisia."</text>
+      </Note>
+    </EndNotes>
+    <Footer>V 4. Refugees and Stateless Persons</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>20</Numsect>
+        <Titlesect>Framework Agreement on Facilitation of Cross-border Paperless Trade in Asia and the Pacific</Titlesect>
+        <Conclusion>Bangkok, 19 May 2016</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>in accordance with article 19, the Agreement shall enter into force ninety (90) days after the date on which the Governments of at least five (5) ESCAP member States have deposited their instruments of ratification, acceptance, approval or accession to the present Agreement pursuant to article 18, paragraphs 2 and 3.</Labeltext>
+        </EIF>
+        <Registration />
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>&lt;a href="https://treaties.un.org/doc/Treaties/2016/05/20160519%2012-16%20PM/Ch_X-20.pdf" target = "_ blank"&gt;Certified true copy&lt;/a&gt;</Text>
+          <Text>CN.597.2016.TREATIES-X.20 of 23 August 2016 (Opening for signature) and CN.598.2016.TREATIES-X.20 of 23 August 2016 (Issuance of Certified True Copies).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Agreement was adopted on 19 May 2016 by resolution &lt;a href="/doc/source/docs/ESCAP_RES_72_4-E.pdf" target="_blank"&gt;72/4&lt;/a&gt; during the seventy-second session of the United Nations Economic and Social Commission for Asia and the Pacific. In accordance with its article 18, the Agreement shall be open for signature by States that are members of the United Nations Economic and Social Commission for Asia and the Pacific at the United Nations Headquarters in New York from 1 October 2016 to 30 September 2017.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Approval(AA), Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry>22 Sep 2017</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>29 Aug 2017</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>29 Aug 2017</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>China</Entry>
+                <Entry>29 Aug 2017</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>29 Sep 2017</Entry>
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>X 20. International Trade and Development</Footer>
+  </Treaty>
+</Document>

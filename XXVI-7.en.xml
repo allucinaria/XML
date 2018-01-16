@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXVI</Header>
+        <Name>DISARMAMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>7</Numsect>
+        <Titlesect>Central African Convention for the Control of Small Arms and Light Weapons, their Ammunition and all Parts and Components that can be used for their Manufacture, Repair and Assembly</Titlesect>
+        <Conclusion>Kinshasa, 30 April 2010</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>8 March 2017, in accordance with article 36(1) which reads as follows: "This Convention shall enter into force 30 days after the date of deposit of the sixth instrument of ratification, acceptance, approval or accession".</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>8 March 2017, No. 54327</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>11</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>7</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Depositary notification C.N.700.2010.TREATIES-2 of 12 November 2010; C.N.273.2011.TREATIES.2 of 18 May 2011 (Proposal of Corrections to the Original Text of [the] Convention (English Version) and to the Certified True Copies) and C.N.361.2011.TREATIES-3 of 20 June 2011(Corrections to the original text of Convention (English version) and to the certified true copies).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention shall be opened for signature by States members of the Economic Community of Central African States (ECCAS) and by the Republic of Rwanda, States members of the United Nations Standing Advisory Committee on Security Questions in Central Africa, at Brazzaville, on 19 November 2010, and subsequently at United Nations Headquarters in new York, until its entry into force, in accordance with its article 35, paragraph 1.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Approval(AA), Acceptance(A), Accession(a), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry>19 Nov 2010</Entry>
+                <Entry>6 Feb 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry>22 Sep 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>19 Nov 2010</Entry>
+                <Entry>30 Jan 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>19 Nov 2010</Entry>
+                <Entry>24 Oct 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>19 Nov 2010</Entry>
+                <Entry>8 Aug 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>19 Nov 2010</Entry>
+                <Entry>5 Dec 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>19 Nov 2010</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Equatorial Guinea</Entry>
+                <Entry>29 Apr 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>19 Nov 2010</Entry>
+                <Entry>25 Sep 2012 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry>1 Aug 2011</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry>19 Nov 2010</Entry>
+                <Entry>23 Mar 2017</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>XXVI 7. Disarmament</Footer>
+  </Treaty>
+</Document>

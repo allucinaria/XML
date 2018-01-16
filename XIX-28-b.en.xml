@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>28</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>International Wheat Agreement, 1986: (b) Food Aid Convention, 1986*</Subtitlesect>
+        <Conclusion>London, 13 March 1986</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 July 1986, in accordance with article XXI(2). The Agreement was extended until 30 June 1991, 30 June 1993 and 30 June 1995, respectively, and was terminated in accordance with its provisions on 30 June 1995.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 July 1986, No. 24237</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>22</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>23</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1429, p. 71 and depositary notification C.N.139.1986. TREATIES-4/4 of 18 September 1986 (procès-verbal of rectification of the original).</Text>
+        </TreatyText>
+        <TreatyNote />
+        <Termination>
+          <Label>TERMINATION</Label>
+          <Labeltext>Terminated in accordance with its provisions on 30 June 1995.</Labeltext>
+        </Termination>
+      </ExternalData>
+    </Header>
+    <Footer>XIX 28 b. Commodities</Footer>
+  </Treaty>
+</Document>

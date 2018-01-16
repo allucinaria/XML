@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIV</Header>
+        <Name>EDUCATIONAL AND CULTURAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>3</Numsect>
+        <Titlesect>International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organisations</Titlesect>
+        <Conclusion>Rome, 26 October 1961</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>18 May 1964, in accordance with article 25.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>18 May 1964, No. 7247</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>26</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>93</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 496, p. 43.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was drawn up by the Diplomatic Conference on the International Protection of Performers, Producers of Phonograms and Broadcasting Organisations convened jointly by the International Labour Organisation, the UnitedNations Educational, Scientific and Cultural Organization and the International Union for the Protection of Literary and Artistic Works. The Conference was held at Rome at the invitation of the Government of Italy from 10 to 26 October 1961.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature, Succession to signature(d)</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>1 Jun 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>22 Jan 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry />
+                <Entry>25 Feb 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>2 Dec 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>31 Oct 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>30 Jun 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>9 Mar 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>8 Jul 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>18 Oct 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>18 Jun 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry />
+                <Entry>27 Feb 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>2 Jul 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>24 Aug 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry>12 Jan 1994 d</Entry>
+                <Entry>19 Feb 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>29 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>31 May 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>14 Oct 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry />
+                <Entry>3 Apr 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>4 Mar 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>5 Jun 1974</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>17 Jun 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>29 Jun 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>9 Jun 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry />
+                <Entry>20 Jan 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>17 Mar 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>30 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>23 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>9 Aug 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>27 Oct 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>26 Jun 1962</Entry>
+                <Entry>19 Dec 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry />
+                <Entry>29 Mar 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 Jan 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>11 Jan 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>21 Jun 1962</Entry>
+                <Entry>21 Jul 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>3 Apr 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>14 May 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>21 Jul 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry />
+                <Entry>6 Oct 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>14 Oct 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>16 Nov 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>10 Nov 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>15 Mar 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>30 Jun 1962</Entry>
+                <Entry>19 Jun 1979</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>7 Feb 1962</Entry>
+                <Entry>30 Sep 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>8 Jan 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>27 Oct 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry />
+                <Entry>26 Jul 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>30 Mar 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>13 May 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>20 May 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>26 Jun 1962</Entry>
+                <Entry>12 May 1997</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>26 Oct 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry />
+                <Entry>12 Jul 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>22 Apr 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry />
+                <Entry>25 Nov 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>17 Feb 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>22 Jun 1962</Entry>
+                <Entry>6 Sep 1985</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>7 Jul 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>10 May 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>5 Apr 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>29 Jul 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>10 Apr 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>2 Jun 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>30 Jun 1962</Entry>
+                <Entry>26 Nov 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>7 May 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry />
+                <Entry>25 Jun 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry />
+                <Entry>13 Mar 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry />
+                <Entry>17 Apr 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry />
+                <Entry>23 Jun 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>18 Dec 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>5 Sep 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>22 Jul 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>26 Feb 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>12 Mar 2001 d</Entry>
+                <Entry>10 Mar 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry />
+                <Entry>9 Jul 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>14 Aug 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry />
+                <Entry>17 May 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>13 Jul 1962</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>24 Jun 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>13 Feb 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>19 Feb 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry />
+                <Entry>2 Dec 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry />
+                <Entry>10 Mar 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>8 Jan 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry />
+                <Entry>12 Mar 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry />
+                <Entry>14 Oct 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>26 Oct 1961</Entry>
+                <Entry>30 Oct 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>4 Apr 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>30 Oct 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>1 Dec 2006 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Australia</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"Australia, pursuant to article 5 (3), will not apply the criterion of publication;</text>
+        <text type="para">Australia, pursuant to article 6 (2), will protect broadcasts only if the headquarters of the broadcasting organisation is situ- ated in another Contracting State and the broadcast was trans- mitted from a transmitter situated in the same Contracting State;</text>
+        <text type="para">Australia, pursuant to article 16 (1) (a), will not, as regards article 12, apply the provision of that article; and</text>
+        <text type="para">Australia, pursuant to article 16 (1) (b), will not, as regards article 13, apply item (d) of that article."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Austria</Participant>
+        <text type="para">1. In accordance with article 16, paragraph 1 (a) (iii), of the Convention, Austria will not apply the provisions of article 12 in respect of phonograms the producer of which is not a national of a Contracting State;</text>
+        <text type="para">2. In accordance with article 16, paragraph 1 (a) (iv), of the Convention, [. . .], as regards phonograms the producer of which is a national of another Contracting State, Austria will limit the protection provided for by article 12 to the extent to which, and to the term for which the latter State grants protection to phonograms first fixed by an Austrian national;</text>
+        <text type="para">3. In accordance with article 16, paragraph 1 (b), of the Convention, Austria will not apply article 13 (d).</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">The Republic of Belarus in accordance with:</text>
+        <text type="para">Article 5(3) of the Convention will not apply the criterion of fixation provided for by Article 5(l)(b) of the convention;</text>
+        <text type="para">Article 6(2) of the Convention will protect broadcasts only if the headquarters of the broadcasting organisation is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State;</text>
+        <text type="para">Article 16(l)(a)(iii) of the Convention as regards phonograms the producer of which is not a national of another Contracting State will not apply Article 12 of the Convention;</text>
+        <text type="para">Article 16(1)(a)(iv) of the Convention as regards phonograms the producer of which is a national of another Contracting State will limit the protection provided for by Article 12 of the Convention to the extent to which, and to the term for which, the latter State grants protection to phonograms first fixed by a national of the Republic of Belarus.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">1. Pursuant to article 5, paragraph 3, of the Rome Convention, Belgium will not apply the criterion of publication;</text>
+        <text type="para">2. Pursuant to article 6, paragraph 2, of the Rome Convention, Belgium will protect broadcasts only if the headquarters of the broadcasting organization is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State;</text>
+        <text type="para">3. Pursuant to article 16, paragraph 1 (a) (iii), of the Rome Convention, Belgium will not apply the provisions of article 12 in respect of phonograms the producer of which is not a national of a Contracting State;</text>
+        <text type="para">4. Pursuant to article 16, paragraph 1 (a) (iv), of the Rome Convention, as regards phonograms the producer of which is a national of another Contracting State, Belgium will limit the protection provided for by that article to the extent to which, and to the term for which, the latter State grants protection to phonograms first fixed by a national of the State making the declaration; however, the fact that the Contracting State of which the producer is a national does not grant the protection to the same beneficiary or beneficiaries as the State making the declaration shall not be considered as a difference in the extent of the protection.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">1. The Republic of Bulgaria declares in accordance with article 16, paragraph 1(a)(iii), that it will not apply the provisions of article 12 in respect of phonograms the producer of which is not a national of another Contracting State.</text>
+        <text type="para">2. The Republic of Bulgaria declares in accordance with article 16, paragraph 1(a)(iv), that as regards phonograms the producer of which is a national of another Contracting State, it will limit the protection provided for by article 12 to the extent to which, and to the term for which the latter State grants protection to phonograms first fixed by a national of the Republic of Bulgaria.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Canada</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">1. In respect of article 5 (1) (b) and pursuant to article 5 (3) of the Convention, as regards the Right of Reproduction for Phonogram Producers (art. 10), Canada will not apply &lt;i&gt;criterion of fixation &lt;/i&gt;.</text>
+        <text type="para">2. In respect of article 5 (1) (c) and pursuant to article 5 (3) of the Convention, as regards the Secondary Users of Phonograms (art. 12), Canada will not apply &lt;i&gt;criterion of publication. &lt;/i&gt;</text>
+        <text type="para">3. In respect of article 6 (1) and pursuant to article 6 (2) of the Convention, Canada will protect broadcasts only if the headquarters of the broadcasting organization is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State.</text>
+        <text type="para">4. In respect of article 12 and pursuant to article 16 (1) (a) (iv) of the Convention, as regards phonograms the producer of which is a national of another Contracting State, Canada will limit the protection provided for by article 12 to the extent to which, and to the term for which, the latter State grants protection to phonograms first fixed by a national of Canada.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Congo</Participant>
+        <text type="para">In a communication received on 16 May 1964, the Govern- ment of the Congo has notified the Secretary-General that it has decided to make its accession subject to the following declar- ations:</text>
+        <text type="para">(1) Article 5, paragraph 3: the "criterion of publication" is excluded;</text>
+        <text type="para">(2) Article 16: the application of article 12 is completely excluded.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Costa Rica</Participant>
+        <text>&lt;right&gt;13 August 2009&lt;/right&gt;</text>
+        <text type="title">Declaration pursuant to article 16, paragraph 1 (a) (II):</text>
+        <text type="para">In accordance with article 16, paragraph 1 (a) (ii) of the Convention, Costa Rica will not apply the provisions of article 12 to free, traditional, non-interactive over-the-air broadcasting, or to noncommercial public broadcasts and communications, as provided for by Costa Rican legislation.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Croatia</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"1) that [the Republic of Croatia] shall not apply, pursuant to para 3, Article 5 of the Convention, the criterion of the first fixation, but the criterion of publication of phonograms,</text>
+        <text type="para">2) that [the Republic of Croatia] shall not apply, pursuant to subpara a) iii), para 1, Article 16 of the Convention, provisions of Article 12 as to phonograms whose producer is not a national of another Contracting State,</text>
+        <text type="para">3) that [the Republic of Croatia] shall limit the protection provided for in Article 12 of the Convention, pursuant to subpara a) iv), para 1, Article 16, as to phonograms whose producer is a national of another Contracting State, to the extent to which and to the term for which the Contracting State grants protection to phonograms first fixed by a national from the Republic of Croatia."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;2&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="para">"1) With regard to article 6, paragraph 2: Protection will be granted to broadcasting organisations only if their headquarters is situated in another Contracting State and if their broadcasts are transmitted from a transmitter situated in the same Contracting State.</text>
+        <text type="para">"2) With regard to article 16, paragraph 1 (a) (ii): The provisions of article 12 will be applied solely with respect to broadcasting as well as any other communication to the public which is carried out for profit-making purposes.</text>
+        <text type="para">"3) With regard to article 16, paragraph 1 (a) (iv): As regards phonograms the producer of which is a national of another Contracting State, the protection provided for in article 12 will be limited to the extent to which, and to the term for which, the latter State grants protection to phonograms first fixed by a Danish national.</text>
+        <text type="para">"4) With regard to article 17: Denmark will grant the protection provided for in article 5 only if the first fixation of the sound was made in another Contracting State (the criterion of fixation) and will apply for the purposes of paragraph 1 (a) (iii) and (iv) of article 16 the said criterion instead of the criterion of nationality."</text>
+        <text type="title">Declarations made in accordance with articles 5(3) and 17 of the Convention:</text>
+        <text type="para">With regard to Article 5, paragraph 3, of the Convention, Denmark will not apply the criterion of publication in Article 5, paragraph 1 (c).</text>
+        <text type="para">With regard to Article 17 of the Convention, the government of Denmark hereby withdraws its notification concerning the sole application of the criterion of fixation in relation to the protection of phonogram producers. This withdrawal of the notification shall take effect as of the same date as the notification pursuant to Article 5, paragraph 3, becomes effective.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Estonia&lt;superscript&gt;3&lt;/superscript&gt;</Participant>
+        <text type="title">Declarations :</text>
+        <text type="para">"1. Pursuant to Article 5, paragraph 3 of the Convention the Republic of Estonia declares that it will not apply the criterion of publication;</text>
+        <text type="para">2. Pursuant to Article 6, paragraph 2 of the Convention the Republic of Estonia declares that it will protect broadcasts only if the headquarters of the broadcasting organisation is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State;</text>
+        <text type="para">... "</text>
+        <text>&lt;right&gt;9 April 2003&lt;/right&gt;</text>
+        <text type="title">Declaration :</text>
+        <text type="para">"....that Republic of Estonia applies instead Article?6, paragraph I (a) (iv) of the Convention pursuant to which, as regards Article 12 of the Convention in connection with phonograms the producer of which is a national of another Contracting State, the Republic of Estonia will limit the protection provided for by Article 12 to the extent to which, and to the term for which, that Contracting State grants protection to phonograms first fixed by a national of the Republic of Estonia; however, the fact that the Contracting State of which the producer is a national does not grant the protection to the same beneficiary or beneficiaries as the Republic of Estonia shall not be considered as a difference in the extent of the protection".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Fiji</Participant>
+        <text type="para">"(1) In respect of Article 5 (1) (b) and in accordance with Article 5 (3) of the Convention, Fiji will not apply, in respect of phonograms, the criterion of fixation;</text>
+        <text type="para">"(2) In respect of Article 6 (1) and in accordance with Article 6 (2) of the Convention, Fiji will protect broadcasts only if the headquarters of the broadcasting organisation is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State;</text>
+        <text type="para">"(3) In respect of article 12 and in accordance with article 16 (1) of the Convention,</text>
+        <text type="para">"(a) Fiji will not apply the provisions of Article 12 in respect of the following uses:</text>
+        <text type="para">"(i) The causing of a phonogram to be heard in public at premises where persons reside or sleep, as part of the amenities provided exclusively or mainly for residents or inmates therein except where a special charge is made for admission to the part of the premises where the phonogram is to be heard;</text>
+        <text type="para">"(ii) The causing of a phonogram to be heard in public as part of the activities of, or for the benefit of, a club, society or other organisation which is not established or conducted for profit and whose main objects are charitable or are otherwise concerned with the advancement of religion, education or social welfare, except where a charge is made for admission to the place where the phonogram is to be heard, and any of the proceeds of the charge are applied otherwise than for the purpose of the organisation;</text>
+        <text type="para">"(b) As regards phonograms the producer of which is not a national of another Contracting State or as regards phonograms the producer of which is a national of a Contracting State which has made a declaration under Article 16 (1) (a) (i) stating that it will not apply the provisions of Article 12, Fiji will not grant the protection provided for by Article 12, unless, in either event, the phonogram has been first published in a Contracting State which has made no such declaration."</text>
+        <text type="title">Communication received on 12 June 1972:</text>
+        <text type="para">"The Government of Fiji, having reconsidered the said Convention hereby withdraws its declaration in respect of certain provisions of article 12 and in substitution thereof declares in accordance with article 16 (1) of the said Convention that Fiji will not apply the provisions of article 12".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Finland&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;12 April 2016&lt;/right&gt;</text>
+        <text type="title">Declaration :</text>
+        <text type="para">Pursuant to Article 5 (3) of the Convention, the Republic of Finland declares that it will not apply the criterion of publication.</text>
+        <text type="para" />
+        <text type="title">Reservations:</text>
+        <text type="para">1. ...</text>
+        <text type="para">2. &lt;i&gt;Article 16, paragraph 1 (a) (i) &lt;/i&gt;</text>
+        <text type="para">The provisions of article 12 will not be applied with respect to phonograms acquired by a broadcasting organisation be fore 1 September 1961.</text>
+        <text type="para">3. &lt;i&gt;Article 16, paragraph 1 (a) (ii) &lt;/i&gt;</text>
+        <text type="para">The provisions of article 12 will be applied solely with respect to broadcasting as well as to any other communication to the public which is carried out for profit-making purposes.</text>
+        <text type="para">4. &lt;i&gt;Article 16, paragraph 1 (a) (iv) &lt;/i&gt;</text>
+        <text type="para">As regards phonograms first fixed in another Contracting State, the protection provided for in article 12 will be limited to the extent to which, and to the term for which, the latter State grants protection to phonograms first fixed in Finland.</text>
+        <text type="para">5. ...</text>
+        <text type="para">6. ...</text>
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="title">Article 5</text>
+        <text type="para">The Government of the French Republic declares, in con- formity with article 5, paragraph 3 of the Convention, concerning the protection of phonograms, that it rejects the criterion of first publication in favour of the criterion of first fixation.</text>
+        <text type="title">Article 12</text>
+        <text type="para">The Government of the French Republic declares, first, that it will not apply the provisions of this article to all phonograms the producer of which is not a national of a Contracting State, in conformity with the provisions of article 16, paragraph 1 (a) (iii) of this Convention.</text>
+        <text type="para">Secondly, the Government of the French Republic declares that, with regard to phonograms the producer of which is a national of another Contracting State, it will limit the extent and duration of the protection provided in this article (article 12), to those which the latter Contracting State grants to phonograms first fixed by French nationals.</text>
+        <text>&lt;right&gt;29 June 1987&lt;/right&gt;</text>
+        <text type="para">The Government of France specifies that it understands the expression "International Court of Justice", in article 30 of the Convention, as covering not only the Court itself but also a chamber of the Court.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;4&lt;/superscript&gt;</Participant>
+        <text type="para">"1. The Federal Republic of Germany makes use of the following reservations provided for in article 5, paragraph 3, and article 16, paragraph 1 a (iv) of the International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organisations:</text>
+        <text type="para">"1) As regards the protection of producers of phonograms it will not apply the criterion of fixation referred to in article 5, paragraph 1 (b) of the Convention;</text>
+        <text type="para">"2) As regards phonograms the producer of which is a national of another Contracting State, it will limit the protection provided for by article 12 of the Convention to the extent to which, and to the term for which, the latter State grants protection to phonograms first fixed by a German national."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iceland</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">Iceland, pursuant to article 5, paragraph 3, will not apply the criterion of fixation.</text>
+        <text type="para">Iceland, pursuant to article 6, paragraph 2, will protect broadcasts only if the headquarters of the broadcasting organisation is situated in another Contracting State and if the broadcast was transmitted from a transmitter situated in the same Contracting State.</text>
+        <text type="para">Iceland, pursuant to article 16, paragraph 1 (a) (i), will not apply article 12 with respect to the use of phonograms published before 1 September 1961.</text>
+        <text type="para">Iceland, pursuant to article 16, paragraph 1 (a) (ii), will apply article 12 solely with respect to use for broadcasting or for any other communication to the public for commercial purposes.</text>
+        <text type="para">Iceland, pursuant to article 16, paragraph 1 (a) (iii), will not apply article 12 as regards phonograms the producer of which is not a national of another Contracting State.</text>
+        <text type="para">Iceland, pursuant to article 16, paragraph 1 (a) (iv), will, as regards phonograms the producer of which is a national of another Contracting State, limit the protection provided for in article 12 to the extent to which, and to the term for which, the latter State grants protection to phonograms first fixed in Iceland.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ireland</Participant>
+        <text type="para">"(1) With regard to article 5, paragraph 1, and in accordance with article 5, paragraph 3, of the Convention: Ireland will not apply the criterion of fixation;</text>
+        <text type="para">"(2) With regard to article 6, paragraph 1, and in accordance with article 6, paragraph 2, of the Convention: Ireland will protect broadcasts only if the headquarters of the broadcasting or- ganization is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State;</text>
+        <text type="para">"(3) With regard to article 12, and in accordance with article 16, paragraph 1 (a) (iii): Ireland will not protect broadcasts heard in public (a) at any premises where persons reside or sleep, as part of the amenities provided exclusively or mainly for residents or inmates therein unless a special charge is made for admission to the part of the premises where the recording is to be heard or (b) as part of the activities of, or for the benefit of a club, society or other organisation which is not established or conducted for profit and whose main objects are charitable or are otherwise concerned with the advancement of religion, education or social welfare, unless a charge is made for admission to the part of the premises where the recording is to be heard and any of the proceeds of the charge are applied otherwise than for the purposes of the organisation."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Israel</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"1. Pursuant to Article 5(3) of the Convention, Israel shall not apply the criterion of fixation, as set forth in Article 5(l) (b).</text>
+        <text type="para">2. In respect of Article 6(1) and pursuant to Article 6(2) of the convention, Israel will protect broadcasts only if the headquarters of the broadcasting organization is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State.</text>
+        <text type="para">3. Pursuant to Article 16(1)(a)(iii) of the Convention, as regards phonograms the producer of which is not a national of another Contracting State, Israel will not apply Article 12 of the Convention.</text>
+        <text type="para">4. Pursuant to Article 16(1)(a)(iv) of the Convention, as regards phonograms the producer of which is a national of another Contracting State, Israel will limit the protection provided by Article 12 of the Convention to the extent to which, and to the term for which, that other Contracting State grants protection to phonograms first fixed by a national of Israel.</text>
+        <text type="para">5. Pursuant to Article 16(1)(b) of the Convention, Israel will not apply Article 13(d) of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="para">(1) With regard to article 6, paragraph 1, and in accordance with article 6, paragraph 2, of the Convention: Italy will protect broadcasts only if the headquarters of the broadcasting organiz- ation is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State;</text>
+        <text type="para">(2) With regard to article 12 and in accordance with article 16, paragraph 1 (a), of the Convention:</text>
+        <text type="para">(a) Italy will apply the provisions of article 12 to use for broadcasting or for any other communication to the public for commercial purposes, with the exception of cinematography;</text>
+        <text type="para">(b) It will apply the provisions of article 12 only to pho- nograms fixed in another Contracting State;</text>
+        <text type="para">(c) With regard to phonograms fixed in another Con- tracting State, it will limit the protection provided for by article 12 to the extent to which, and to the term for which, that Contracting State grants protection to phonograms first fixed in Italy; however, if that State does not grant the protection to the same beneficiary or beneficiaries as Italy, that fact will not be considered as a difference in the extent of the protection.</text>
+        <text type="para">(3) With regard to article 13 and in accordance with article 16, paragraph 1 (b), of the Convention: Italy will not apply the provisions of article 13 (d);</text>
+        <text type="para">(4) With regard to article 5 and in accordance with article 17 of the Convention, Italy will apply only the criterion of fixation for the purposes of article 5; the same criterion, instead of the criterion of nationality, will be applied for the purposes of the declarations provided for in article 16, paragraph 1 (a) (iii) and (iv), of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Japan</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"(1) Pursuant to article 5, paragraph 3 of the Convention, the Government of Japan will not apply the criterion of publication concerning the protection of producers of phonograms,</text>
+        <text type="para">"(2) Pursuant to article 16, paragraph 1 (a) (ii) of the Convention, the Government of Japan will apply the provisions of article 12 of the Convention in respect of uses for broadcasting or for wire diffusion,</text>
+        <text type="para">"(3) Pursuant to article 16, paragraph 1 (a) (iv) of the Convention,</text>
+        <text type="para">(i) As regards phonograms the producer of which is a national of a Contracting State which has made a declaration under article 16, paragraph 1 (a) (i) of the Convention stating that it will not apply the provisions of article 12 of the Convention, the Government of Japan will not grant the protection provided for by the provisions of article 12 of the Convention.</text>
+        <text type="para">(ii) As regards phonograms the producer of which is a national of another Contracting State which applies the provisions of article 12 of the Convention, the Government of Japan will limit the term of the protection provided for by the provisions of article 12 of the Convention to the term for which that State grants protection to phonograms first fixed by a Japanese national."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Latvia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with paragraph 1 of article 16 of the [Convention], the Republic of Latvia declares that it will not apply article 12 of the Convention on phonograms the producer of which is not a national of another Contracting State.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lesotho</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">"Pursuant to article 12 of the said Convention, the Govern- ment of the Kingdom of Lesotho declares that the provisions of this article will not apply in respect of broadcasts made for non-profit making purposes or where communication to the public in public places is not the result of a purely commercial activity;</text>
+        <text type="title">With regard to article 13:</text>
+        <text type="para">". . . [The Kingdom of Lesotho] does not consider itself bound by the provisions of item (d)."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Liechtenstein</Participant>
+        <text type="title">Reservation to Article 5:</text>
+        <text type="para">The Principality of Liechtenstein declares, in accordance with article 5, paragraph 3 of the Convention, that it rejects the criterion of first fixation. It will therefore apply the criterion of first publication.</text>
+        <text type="title">Reservations to Article 12:</text>
+        <text type="para">In accordance with the provisions of article 16, paragraph 1 of the Convention, the Principality of Liechtenstein declares that it will not apply the provisions of article 12 as regards phonograms the producer of which is not a national of another Contracting State.</text>
+        <text type="para">The Principality of Liechtenstein also declares, as regards phonograms the producer of which is a national of another Contracting State, that it will limit the protection provided for by article 12 to the extent to which, and to the term for which, the latter State grants protection of phonograms first fixed by a Liechtenstein national, in accordance with the provisions of article 16, paragraph 1 (a) (iv) of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lithuania</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">In accordance with sub-paragraph?a)(iii) of paragraph? of article?6 of the [...] Convention, the Republic of Lithuania declares that as regards phonograms the producer of which is not a national or a legal person of another Contracting State, it will not apply the provisions of article?2 of the above-mentioned Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Luxembourg</Participant>
+        <text type="para">1. With regard to the protection of producers of phono- grams, Luxembourg will not apply the criterion of publication but only the criteria of nationality and fixation, in accordance with article 5, paragraph 3, of the Convention.</text>
+        <text type="para">2. With regard to the protection of phonograms, in accord- ance with article 16, paragraph 1 (a) (i), of the Convention, Lux- embourg will not apply any of the provisions of article 12.</text>
+        <text type="para">3. With regard to broadcasting organizations, in accord- ance with article 16, paragraph 1 (b), of the Convention, Luxembourg will not apply the protection envisaged in article 13 (d) against communication to the public of their television broad casts.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Monaco</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">1. With regard to the protection of producers of phono- grams, Monaco will not apply the criterion of publication but only the criteria of nationality and fixation, in accordance with article 5, paragraph 3.</text>
+        <text type="para">2. With regard to broadcasting organizations, in accord- ance with article 16, paragraph 1 (a) (i), Monaco will not apply any of the provisions of article 12.</text>
+        <text type="para">3. With regard to broadcasting organizations, in accord- ance with article 16, paragraph 1 (b), Monaco will not apply the provisions of article 13 (d) concerning protection against communication to the public of television broadcasts.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"The said Convention shall be observed subject to the following reservations, provided for in article 16, paragraph [1], (a) (iii) and (iv), of the Convention:</text>
+        <text type="para">- The Kingdom of the Netherlands will not apply article 12 to phonograms the producer of which is not a national of another Contracting State;</text>
+        <text type="para">- As regards phonograms the producer of which is a national of another Contracting State, it will limit the protection provided for by article 12 to the extent to which, and to the term for which, the latter State grants protection to phonograms first fixed by a national of the Kingdom of the Netherlands."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Niger</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">(1) Article 5, paragraph 3: the "criterion of publication" is excluded;</text>
+        <text type="para">(2) Article 16: the application of article 12 is completely excluded.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Nigeria</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">1. With regard to article 5, paragraph 3, the Federal Republic of Nigeria will not apply the criteria of publication under article 5, paragraph 1 (c).</text>
+        <text type="para">2. With regard to article 6, paragraph 2, the Federal Republic of Nigeria will protect broadcasts only if the headquarters of the broadcasting organization is situated in another Contracting State and if the broadcast is transmitted from a transmitter situated in the same Contracting State.</text>
+        <text type="para">3. With regard to article 16, paragraph 1 (a):</text>
+        <text type="para">i) The provisions of article 12 will not be applied in case of communication to the public of phonograms (a) at any premises where persons reside or sleep, as part of the amenities provided exclusively or mainly for residents or inmates therein unless a special charge is made for admission to the part of the premises where the phonogram is to be heard or (b) as part of the activities of, or for the benefit of a club, society or other organization which is not established or conducted for profit and whose main objects are charitable or are otherwise concerned with the advancement of religion, education or social welfare, unless a charge is made for admission to the part of the premises where the phonogram is to be heard and any of the proceeds of the charge are applied otherwise than for the purpose of the organization;</text>
+        <text type="para">ii) The provisions of article 12 will not apply as regards phonograms the producer of which is not a national of another Contracting State; and</text>
+        <text type="para">iii) As regards phonograms the producer of which is a national of another Contracting State, the Federal Republic of Nigeria will limit the protection provided for in article 12 to the extent to which, and to the term for which, that Contracting State grants protection to phonograms first fixed by nationals of the Federal Republic of Nigeria.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Norway&lt;superscript&gt;8&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">"b) Pursuant to article 16, paragraph 1, item a (iii), reservation is made to the effect that article 12 shall not be applicable if the producer is not a national of another Contracting State.</text>
+        <text type="para">"c) Pursuant to article 16, paragraph 1, item a (iv), reservation is made to the effect that the extent and duration of the protection provided for under article 12 for phonograms which are produced by a national in another Contracting State shall not be more comprehensive than protection granted by that State to phonograms first produced by a Norwegian national.</text>
+        <text type="para">"d) Pursuant to article 6, paragraph 2, reservation is made to the effect that broadcasts are only protected if the headquarters of the broadcasting organisation is situated in another Contracting State, and the broadcast is transmitted from a transmitter in the same Contracting State."</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Norwegian Act of 14 December 1956 concerning a Levy on the Public Presentation of Recordings of Artists' Performances, etc., establishes rules for the disbursement of that levy to producers and performers of phonograms.</text>
+        <text type="para">"A portion of the annual revenue from the levy devolves, as of rights, to producers of phonograms as a group, without distinction as to nationality, in remuneration for the public use of phonograms.</text>
+        <text type="para">"Under the terms of the Act, contributions from the levy may be made to Norwegian performing artists and their survivors on the basis of individual needs. This benevolent arrangement falls entirely outside the scope of the Convention.</text>
+        <text type="para">"The régime established by the said Act, being fully consist ent with the requirements of the Convention, will be maintained."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Poland</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">1. As regards article 5, paragraph 3:</text>
+        <text type="para">The Republic of Poland will not apply the criterion of publication.</text>
+        <text type="para">2. As regards article 6, paragraph 2:</text>
+        <text type="para">The Republic of Poland will protect broadcasts only if the headquarters of the broadcasting organisation is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State.</text>
+        <text type="para">3. As regards article 16, paragraph 1 item (a)(i), (iii) and (iv); the Republic of Poland:</text>
+        <text type="para">(i) With regard to broadcasters - will not apply the provisions of article 12 of the Convention in respect of the uses of a published phonogram referred to therein,</text>
+        <text type="para">(iii) With regard to schools - will not apply the provisions of article 12 of the Convention as regards phonograms the producer of which is not a national of another Contracting State,</text>
+        <text type="para">(iv) With regard to schools - will not apply the provisions of article 12 of the Convention as regards phonograms the producer of which is a national of another Contracting State; the extent and term of protection provided for by this article shall be limited to the extent and period of protection granted by this Contracting State to phonograms first fixed by a national of the Republic of Poland.</text>
+        <text type="para">4. As regards article 16 paragraph 1 item (b), the Republic of Poland will not apply the provisions of item (d) of article 13 of the Convention so as to exclude the rights of broadcasting organisations in respect of the communication of their broadcasts made in places accessible to the public against payment of an entrance fee.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Republic of Korea</Participant>
+        <text type="title">&lt;i&gt;Upon accession&lt;/i&gt;</text>
+        <text type="title">&lt;i&gt;Declarations:&lt;/i&gt;</text>
+        <text type="para">In accordance with Article 5(3) of the International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations, the Republic of Korea will not apply the criterion of publication.</text>
+        <text type="para">In accordance with Article 6(2) of the International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations, the Republic of Korea will protect broadcasts only if the headquarters of the broadcasting organization are situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting</text>
+        <text type="para">State.</text>
+        <text type="para">In accordance with Article 16(1)(a)(ii) of the International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations, the Republic of Korea will apply the provisions of Article 12 only in respect of the uses of phonograms published for commercial purposes for broadcasting or transmission by wire. Transmission by wire does not include transmission</text>
+        <text type="para">over the Internet.</text>
+        <text type="para">In accordance with Article 16(1)(a)(iii) of the International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations, the Republic of Korea will not apply the provisions of Article 12 in respect of phonograms the producer of which is not a national of a Contracting State.</text>
+        <text type="para">In accordance with Article 16(1)(a)(iv) of the International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations, as regards phonograms the producer of which is a national of another Contracting State, the Republic of Korea will limit the protection provided for by Article 12 to the extent to which, and to the term for which, that other Contracting State grants protection to the phonograms first fixed by a national of the Republic of Korea.</text>
+        <text type="para">In accordance with Article 16(1)(b) of the International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations, the Republic of Korea will not, as regards Article 13, apply item (d) of that Article.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Republic of Moldova</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">1. In accordance with article 5, paragraph 3, the Republic of Moldova declares that it will not apply the criteria of fixation under article 5, paragraph 1 (b).</text>
+        <text type="para">2. In accordance with article 6, paragraph 2, the Republic of Moldova declares that it will protect broadcasts only if the headquarters of the broadcasting organization is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State.</text>
+        <text type="para">3. With reference to article 16, paragraph 1 (a), the Republic of Moldova declares that:</text>
+        <text type="para">a) It will not apply the provisions of article 12 in the case of communications to the public of phonograms as part of the activities or for the benefit of a club, society or other organization which has been established or is being administered on a non-commercial basis, the purpose of which, generally speaking, is charitable or concerned with the advancement of education, the promotion of the public good and the dissemination of religion, unless a charge is made for admission to the part of the premises where the phonogram is to be heard and any of profit thus obtained is used for purposes which differ from those of the organization;</text>
+        <text type="para">b) It will not apply the provisions of article 12 as regards phonograms the producer of which is not a national of another Contracting State;</text>
+        <text type="para">c) It will limit the protection stipulated in article 12 for phonograms the producer of which is a national of another Contracting State to the extent to which and as long as that Contracting State grants protection to phonograms which were originally fixed by a national of the Republic of Moldova.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Romania</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">1. With regard to article 5, paragraph 3, Romania declares that it will not apply the criterion of fixation.</text>
+        <text type="para">2. With regard to article 6, paragraph 2, Romania declares that it will protect radio and television broadcasts only if the headquarters of the broadcasting organization is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in that same Contracting State.</text>
+        <text type="para">3. With reference to article 16, paragraph 1 (a) (iii) and (iv):</text>
+        <text type="para">(iii) Romania will not apply any of the provisions of article?2, as regards phonograms the producer of which is not a national of another Contracting State.</text>
+        <text type="para">(iv) For the producers of phonograms who are nationals of another Contracting State, the scope and length of the protection provided for in article 12 shall be limited to the extent to which and as long as that Contracting State grants protection to phonograms which were originally fixed by a national of Romania.</text>
+        <text type="para"></text>
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Russian Federation:</text>
+        <text type="para">1. Pursuant to article 5, paragraph 3, of the International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organisations of 26 October 1961 (hereinafter referred to as the Convention), will not apply the criterion of fixation provided for article 5, paragraph 1 (b) of the Convention; 2. Pursuant to article 6, paragraph 2, of the Convention, will protect broadcasts only if the headquarters of the broadcasting organization is situated in another contracting State and the broadcast was transmitted from a transmitter situated in the same contracting State;</text>
+        <text type="para">3. Pursuant to article 16, paragraph 1, of the Convention:</text>
+        <text type="para">Will not apply article 12 of the Convention as regards phonograms the producer of which is not a national or a body corporate of another contracting State;</text>
+        <text type="para">Will limit the protection provided for by article 12 of the Convention as regards phonograms the producer of which is a national of another contracting State to the extent to which, and under the terms on which, the latter State grants protection to phonograms first fixed by a national or a body corporate of the Russian Federation.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;2&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Slovenia</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">1. "In respect of article 5, paragraph 1 (c) and in accordance with article 5, paragraph 3 of the Convention, the Republic of Slovenia will not apply the criterion of publication;</text>
+        <text type="para">2. In accordance with article 16, paragraph 1 (a) (I) of the Convention, the Republic of Slovenia will not apply the provisions of article 12 until 1 January 1998."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Spain</Participant>
+        <text type="title">Declarations:</text>
+        <text type="title">Article 5</text>
+        <text type="para">[The Government of Spain] will not apply the criterion of first publication and will apply instead the criterion of first fixation.</text>
+        <text type="title">Article 6</text>
+        <text type="para">[The Government of Spain] will protect broadcasts only if the headquarters of the broadcasting organization is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State.</text>
+        <text type="title">Article 16</text>
+        <text type="para">Firstly [the Government of Spain] will not apply the provisions of article 12 as regards phonograms the producer of which is not a national of a Contracting State.</text>
+        <text type="para">Secondly, the Spanish Government, as regards phonograms the producer of which is a national of another Contracting State, will limit the scope and duration of the protection provided in article 12 to the extent to which that latter Contracting State grants protection to phonograms first fixed by nationals of Spain, in conformity with the provisions of article 16, paragraph? (a) (iv) of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>St. Lucia</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"The Government of Saint Lucia declares that as regards article 5 it will not apply the criterion of publication contained in article 5 (1) (c).</text>
+        <text type="para">The Government of Saint Lucia declares that as regards article 12 it will not apply that article in relation to phonograms the producer of which is not a national of another Contracting State."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden&lt;superscript&gt;9&lt;/superscript&gt;</Participant>
+        <text type="para">(a) . . .</text>
+        <text type="para">(b) . . .</text>
+        <text type="para">(c) With regard to article 16, paragraph 1, sub-paragraph (a) (iv);</text>
+        <text type="para">(d) . . .</text>
+        <text type="para">(e) . . .</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="title">Reservations:</text>
+        <text type="title">Ad article 5</text>
+        <text type="para">The Swiss Government declares, in accordance with article 5, paragraph 3 of the Convention, that it rejects the criterion of first fixation. It will therefore apply the criterion of first publication.</text>
+        <text type="title">Ad article 12</text>
+        <text type="para">In accordance with the provisions of article 16, paragraph 1 of the Convention, the Swiss Government declares that it will not apply the provisions of article 12 as regards phonograms the producer of which is not a national of another Contracting State.</text>
+        <text type="para">The Swiss Government also declares, as regards phonograms the producer of which is a national of another Contracting State, that it will limit the protection provided for by article 12 to the extent to which, and to the term for which, the latter State grants protection to phonograms first fixed by a Swiss national, in accordance with the provisions of article 16, paragraph 1 (a) (iv) of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Syrian Arab Republic</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The accession of the Syrian Arab Republic to this Convention shall in no way imply its recognition of Israel or entail its entry into any dealings with Israel under the provisions thereof.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>The former Yugoslav Republic of Macedonia</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">"1. According to the article 5, paragraph 3 of this Convention, the Republic of Macedonia shall not apply the criterion of publication provided under article 5, paragraph 1 (c).</text>
+        <text type="para">2. According to the article 16, paragraph 1 (a)(1) of this Convention, the Republic of Macedonia shall not apply the provisions of the article 12."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="para">"(1) In respect of article 5 (1) (b) and in accordance with article 5 (3) of the Convention, the United Kingdom will not apply, in respect of phonograms, the criterion of fixation;</text>
+        <text type="para">"(2) In respect of article 6 (1) and in accordance with article 6 (2) of the Convention, the United Kingdom will protect broadcasts only if the headquarters of the broadcasting organisation is situated in another Contracting State and the broadcast was transmitted from a transmitter situated in the same Contracting State;</text>
+        <text type="para">"(3) In respect of article 12 and in accordance with article 16 (1) of the Convention,</text>
+        <text type="para">"(a) The United Kingdom will not apply the provisions of article 12 in respect of the following uses:</text>
+        <text type="para">"(i) The causing of a phonogram to be heard in public at any premises where persons reside or sleep, as part of the amenities provided exclusively or mainly for residents or inmates therein except where a special charge is made for admission to the part of the premises where the phonogram is to be heard.</text>
+        <text type="para">"(ii) The causing of a phonogram to be heard in public as part of the activities of, or for the benefit of, a club, society or other organisation which is not established or conducted for profit and whose main objects are charitable or are otherwise concerned with the advancement of religion, education or social welfare, except where a charge is made for admission to the place where the phonogram is to be heard, and any of the proceeds of the charge are applied otherwise than for the purposes of the organisation.</text>
+        <text type="para">"(b) As regards phonograms the producer of which is not a national of another Contracting State or as regards phonograms the producer of which is a national of a Contracting State which has made a declaration under article 16 (1) (a) (i) stating that it will not apply the provisions of article 12, the United Kingdom will not grant the protection provided for by article 12, unless, in either event, the phonogram has been first published in a Contracting State which has made no such declaration."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Viet Nam</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Socialist Republic of Vietnam, pursuant to Article?6?1) of that Convention, declares that the Socialist Republic of Vietnam does not consider itself bound by the provisions of Article 12 and item (d) of Article 13 of that Convention."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES">
+      <Title>Territorial Application</Title>
+      <Header>
+        <col1>Participant</col1>
+        <col2>Date of receipt of the notification</col2>
+        <col3>Territories</col3>
+      </Header>
+      <Application>
+        <Participant>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;10&lt;/superscript&gt;</Participant>
+        <DateNotification>20 Dec 1966</DateNotification>
+        <Territories>Gibraltar</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>10 Mar 1970</DateNotification>
+        <Territories>Bermuda</Territories>
+      </Application>
+      <Application>
+        <Participant />
+        <DateNotification>28 Apr 1999</DateNotification>
+        <Territories>Isle of Man</Territories>
+      </Application>
+    </TerritorialApplications>
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The former Yugoslavia had signed the Convention on 26 October 1961. See also note 1 under Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Czechoslovakia had acceded to the Convention on 13 May 1964, with reservations. For the text of the reservations, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.496, p.96. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On 9 April 2003, the Government of Estonia notified the Secretary-General that it had decided to withdraw its declaration made upon accession pursuant to article 16, paragraph 1 (a)(i). The text of the declaration reads as follows:</text>
+        <text>3. Pursuant to Article 16, paragraph 1 (a) (i) the Republic of Estonia declares that it will not apply the provisions of Article 12.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>On 12 April 2016, the Government of Finland notified the Secretary-General of its decision to withdraw the reservation to article 17 made upon ratification. (See C.N.366.2016.TREATIES-XIV.3) </text>
+        <text></text>
+        <text>On 10 February 1994, the Government of Finland notified the Secretary-General of its decision to withdraw the reservations to article? (2) and 16 (1)(b), and to amend, reducing in scope, the reservation with regard to article 16 (1)(a)(ii) made upon ratification. For the text of the reservations made upon ratification, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1324, p.379.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>In a communication received on 30 June 1989, the Government of Norway notified the Secretary-General of its decision to substitute a new reservation for the one made to the said Convention upon accession. The text of the reservation so withdrawn reads as follows:</text>
+        <text>"(a) Pursuant to article 16, paragraph 1, item a (ii), reservation is made to the effect that article 12 shall not apply in respect of use other than for the purpose of economic gain."</text>
+        <text>Further, on 15 July 2002, the Government of Norway informed the Secretary-General of the following:</text>
+        <text>...the Government of Norway hereby withdraws the following reservation:</text>
+        <text>"Pursuant to article 16, section 1, item a (ii), reservation is made to the effect that article 12 shall not apply in respect of use other than use of phonograms in broadcast transmissions."</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>With regard to the said declarations, the Secretary-General received from the Government of Sweden on 27 June 1986, the following notification:</text>
+        <text>"With application of article 18 of the Convention, a notification notifying its withdrawal or amendment of the notifications deposited with the instrument of ratification on July 13, 1962, as follows:</text>
+        <text>1. The notification relating to article 6, paragraph 2, is with drawn.</text>
+        <text>2. The notification under article 16, paragraph 1 (a) (ii) according to which Sweden will apply article 12 only in relation to broadcasting is reduced in scope to the effect that Sweden will apply article 12 to broadcasting and to such communication to the public which is carried out for commercial purposes.</text>
+        <text>3. The notification relating to article 17 is withdrawn in so far as reproduction of phonograms is concerned. Sweden will from July 1, 1986, grant protection according to article 10 of the Convention to all phonograms.</text>
+        <text>The withdrawals and amendments take effect on July 1, 1986."</text>
+        <text>Subsequently, on 1 December 1995, the Secretary-General received from the Government of Sweden, the following notification:</text>
+        <text>"With application of article 18 of the Convention Sweden withdraws or amends the notifications deposited with the instrument of ratification on 13 July 1962, as follows:</text>
+        <text>1. The notification under article 16 (1) (a) (ii), amended by the notification of 26 June 1986, to the effect that Sweden will apply article?2 only to broadcasting and such communication to the public which is carried out for commercial purposes is withdrawn with immediate effect.</text>
+        <text>2. The notification under article 16(1)(b) to the effect that Sweden will apply article 13 (d) only to communication to the public of television broadcasts in a cinema or similar place is withdrawn with immediate effect."</text>
+        <text>For the text of the declarations so withdrawn and the unamended declarations, see UnitedNations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.496, p.94.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>The territorial applications were effected subject to the same declarations as those made on behalf of the United Kingdom upon ratification of the Convention.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XIV 3. Educational and Cultural Matters</Footer>
+  </Treaty>
+</Document>

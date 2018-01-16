@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IX</Header>
+        <Name>HEALTH</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>1</Numsect>
+        <Subnumsect>h</Subnumsect>
+        <Subtitlesect>Amendments to articles 24 and 25 of the Constitution of the World Health Organization</Subtitlesect>
+        <Conclusion>Geneva, 16 May 1998</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>15 September 2005, in accordance with article 73of the Constitution, for all Members of the World Health Organization*.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>15 September 2005, No. 221</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <CustomText>Parties*</CustomText>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 2335, p. 4; Resolution &lt;a href="/doc/source/docs/WHA51_23-E.pdf" target="_blank"&gt;WHA51.23&lt;/a&gt;, doc. WHA51/1998/REC/1, p. 26.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The amendments to articles 24 and 25 of the Constitution of the World Health Organization were adopted by the Fifty-first World Health Assembly by resolution WHA 51.23 of 16 May 1998.</Text>
+          <Text>In accordance with article 73 of the Constitution, amendments come into force for all Members when adopted by a two-thirds vote of the Health Assembly and accepted by two-thirds of the Members in accordance with their respective constitutional processes. Following is the list of States which have accepted the amendments prior to the entry into force of the amendments.</Text>
+          <Text>*See chapter IX.1 for the complete list of Participants, Members of the World Health Organization, for which the above amendments are in force, pursuant to article 73 of the Constitution.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>10 Aug 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>23 Mar 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry>31 Mar 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry>29 Sep 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>20 Jul 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>18 Jul 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>15 Sep 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry>16 Aug 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry>20 Jul 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>24 Mar 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry>14 May 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>8 Mar 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry>10 Oct 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>10 Sep 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry>23 Jan 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry>4 Oct 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>9 May 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry>10 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>11 Aug 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>26 Aug 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>30 Nov 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>23 May 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>20 Apr 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;1,2&lt;/superscript&gt;</Entry>
+                <Entry>6 Nov 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry>15 Sep 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cook Islands</Entry>
+                <Entry>14 Feb 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>24 Sep 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>29 Jun 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>21 Nov 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>29 Jul 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>12 Nov 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry>7 Oct 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>20 Jan 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry>30 Mar 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry>26 Aug 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>17 Mar 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>1 Sep 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>2 Feb 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>9 Mar 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>5 Jul 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry>9 Feb 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>14 Jul 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>5 Oct 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>9 Jan 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>5 Nov 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>7 Dec 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Grenada</Entry>
+                <Entry>17 Feb 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>27 May 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>13 Dec 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>29 May 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>2 Oct 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>23 Feb 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>26 Jun 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>9 Oct 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry>20 Dec 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>11 Jun 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>11 Apr 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Kiribati</Entry>
+                <Entry>8 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>21 Feb 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>23 Dec 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>21 Oct 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>28 Aug 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>16 Sep 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>26 Oct 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>12 Apr 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>5 Nov 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>29 Mar 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry>8 May 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>17 Mar 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>20 Jun 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry>9 Sep 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>5 Nov 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>15 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>12 Mar 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry>23 Apr 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Namibia</Entry>
+                <Entry>26 Mar 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nauru</Entry>
+                <Entry>10 Mar 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>22 Aug 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>8 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>16 Jun 2000 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>4 Jun 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Niue</Entry>
+                <Entry>8 Jul 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>25 Oct 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry>4 Dec 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry>5 Nov 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>16 Aug 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry>3 Sep 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>19 Aug 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>4 Nov 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>7 Jan 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry>21 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>4 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>22 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>25 Mar 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry>19 Aug 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry>5 Nov 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry>23 Mar 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>28 Dec 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry>10 Sep 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>4 Dec 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>11 May 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>21 Oct 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry>3 Sep 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>26 Sep 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>29 Nov 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Kitts and Nevis</Entry>
+                <Entry>7 Jul 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>12 May 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>16 Sep 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>13 Nov 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry>24 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry>21 Jul 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>4 Aug 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry>9 Mar 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>15 Dec 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry>3 Sep 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>18 Oct 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>9 Apr 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>22 Aug 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Tuvalu</Entry>
+                <Entry>6 Sep 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>16 Sep 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry>15 Dec 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>15 Jun 2001 A</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>23 Sep 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry>23 Apr 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Vanuatu</Entry>
+                <Entry>5 Oct 1998 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry>4 Jun 1999 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen</Entry>
+                <Entry>10 Oct 2002 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry>14 Sep 1998 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections>
+      <Title>Objections </Title>
+      <Title>(Unless otherwise indicated, the objections were made upon acceptance.)</Title>
+      <Objection>
+        <Participant>France</Participant>
+        <text>&lt;right&gt;13 October 1983&lt;/right&gt;</text>
+        <text type="para">The Secretariat should take note that France not recognizing the Government of the [Democratic Kampuchea], considers as being without effect the acceptance by that Government of the 1976 amendments to articles 24 and 25 of the Constitution of the World Health Organization, adopted by the Twenty-ninth World Health Assembly on 17 May 1976.</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>See note 3 under China regarding Macao in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>See note 2 under China regarding Hong Kong in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>On behalf of the Kingdom in Europe, the Netherlands Antilles and Aruba.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+    </EndNotes>
+    <Footer>IX 1 h. Health</Footer>
+  </Treaty>
+</Document>

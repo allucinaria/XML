@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXI</Header>
+        <Name>LAW OF THE SEA</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>7</Numsect>
+        <Titlesect>Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks</Titlesect>
+        <Conclusion>New York, 4 August 1995</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>11 December 2001, in accordance with article 40(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>11 December 2001, No. 37924</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>59</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>87</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 2167, p. 3; and depositary notification C.N.99.1996.TREATIES-4 of 7 April 1996 (procès-verbal of rectification of the authentic Arabic text).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Agreement was adopted on 4 August 1995 at New York, by the United Nations Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks. In accordance with its article 37, the Agreement will be open for signature at United Nations Headquarters, from 4 December 1995 until and including 4 December 1996 by all States and the other entities referred to in article 305 (1) (a), (c), (d), (e) and (f) of the United Nations Convention on the Law of the Sea of 10 December 1982.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+  </Treaty>
+</Document>

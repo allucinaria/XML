@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER VI</Header>
+        <Name>NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>16</Numsect>
+        <Titlesect>Convention on psychotropic substances</Titlesect>
+        <Conclusion>Vienna, 21 February 1971</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>16 August 1976, in accordance with article 26(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>16 August 1976, No. 14956</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>34</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>184</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1019, p. 175 (including procès-verbal of rectification of the English and Russian authentic texts).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted and opened for signature by the United Nations Conference for the Adoption of a Protocol on Psychotropic Substances, held at Vienna from 11 January to 21 February 1971. The Conference was convened pursuant to resolution &lt;a href="/doc/source/docs/E_RES_174_XLVIII-E.pdf" target="_blank"&gt;1474 (XLVIII)&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of 24 March 1970 of the Economic and Social Council of the United Nations.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Definitive signature(s), Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry />
+                <Entry>21 May 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>24 Jan 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>14 Jul 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry />
+                <Entry>13 Feb 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry />
+                <Entry>26 Oct 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>5 Apr 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>16 Feb 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>13 Sep 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>23 Dec 1971</Entry>
+                <Entry>19 May 1982</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry />
+                <Entry>23 Jun 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>11 Jan 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry />
+                <Entry>31 Aug 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>7 Feb 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>11 Oct 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>28 Jan 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>30 Dec 1971</Entry>
+                <Entry>15 Dec 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>25 Oct 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry />
+                <Entry>18 Dec 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>6 Nov 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry />
+                <Entry>18 Aug 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>20 Mar 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry />
+                <Entry>27 Dec 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>14 Feb 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry />
+                <Entry>24 Nov 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>18 May 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>20 Jan 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry />
+                <Entry>18 Feb 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry />
+                <Entry>24 May 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>7 Jul 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>5 Jun 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>10 Sep 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>15 Oct 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry />
+                <Entry>9 Jun 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>18 May 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;4,5,6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Aug 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>12 May 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry />
+                <Entry>1 Mar 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry />
+                <Entry>3 Mar 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>2 Sep 1971</Entry>
+                <Entry>16 Feb 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>11 Apr 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Jul 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>26 Apr 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>26 Nov 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>30 Dec 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry />
+                <Entry>19 Mar 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry />
+                <Entry>12 Oct 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>18 Apr 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry />
+                <Entry>22 Feb 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>24 Sep 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry />
+                <Entry>19 Nov 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>7 Sep 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>14 Jun 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry />
+                <Entry>11 Jun 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Eritrea</Entry>
+                <Entry />
+                <Entry>30 Jan 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>5 Jul 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry />
+                <Entry>23 Jun 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>25 Mar 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>15 Oct 1971</Entry>
+                <Entry>20 Nov 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>France&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry>17 Dec 1971</Entry>
+                <Entry>28 Jan 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>14 Oct 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry />
+                <Entry>23 Apr 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>8 Jan 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;9,10&lt;/superscript&gt;</Entry>
+                <Entry>23 Dec 1971</Entry>
+                <Entry>2 Dec 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>10 Apr 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>10 Feb 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Grenada</Entry>
+                <Entry />
+                <Entry>25 Apr 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>13 Aug 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>27 Dec 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry />
+                <Entry>27 Oct 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>4 May 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>7 Jan 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>23 May 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>30 Dec 1971</Entry>
+                <Entry>19 Jul 1979</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>18 Dec 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry />
+                <Entry>23 Apr 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry />
+                <Entry>19 Dec 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>9 Aug 2000</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry />
+                <Entry>17 May 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>7 Aug 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry />
+                <Entry>10 Jun 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry />
+                <Entry>27 Nov 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>6 Oct 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>21 Dec 1971</Entry>
+                <Entry>31 Aug 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>8 Aug 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>29 Apr 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>18 Oct 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry />
+                <Entry>13 Jul 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>7 Oct 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>22 Sep 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>16 Jul 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>15 Dec 1994</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>23 Apr 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>24 Apr 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry />
+                <Entry>24 Nov 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>28 Feb 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry />
+                <Entry>7 Feb 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>20 Jun 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>9 Apr 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>22 Jul 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry />
+                <Entry>7 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>31 Oct 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>22 Feb 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry />
+                <Entry>9 Aug 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>24 Oct 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>8 May 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>20 Feb 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry />
+                <Entry>29 Apr 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>6 Jul 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>15 Dec 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>11 Feb 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>8 Jun 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar&lt;superscript&gt;12&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>21 Sep 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Namibia</Entry>
+                <Entry />
+                <Entry>31 Mar 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>9 Feb 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;13&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>8 Sep 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;14&lt;/superscript&gt;</Entry>
+                <Entry>13 Sep 1971</Entry>
+                <Entry>7 Jun 1990</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>24 Oct 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>10 Nov 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>23 Jun 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry />
+                <Entry>18 Jul 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>3 Jul 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>9 Jun 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry />
+                <Entry>19 Aug 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>18 Feb 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry />
+                <Entry>20 Nov 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay&lt;superscript&gt;15&lt;/superscript&gt;</Entry>
+                <Entry>28 Jul 1971</Entry>
+                <Entry>3 Feb 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>28 Jan 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry />
+                <Entry>7 Jun 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>30 Dec 1971</Entry>
+                <Entry>3 Jan 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>20 Apr 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry />
+                <Entry>18 Dec 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>12 Jan 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>15 Feb 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>21 Jan 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>30 Dec 1971</Entry>
+                <Entry>3 Nov 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>15 Jul 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry />
+                <Entry>10 Oct 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry />
+                <Entry>20 Jun 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>29 Jan 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>10 Jun 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>27 Feb 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>6 Jun 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>17 Sep 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Somalia</Entry>
+                <Entry />
+                <Entry>2 Sep 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>27 Jan 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain&lt;superscript&gt;16&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>20 Jul 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>15 Mar 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Kitts and Nevis</Entry>
+                <Entry />
+                <Entry>9 May 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry />
+                <Entry>16 Jan 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>3 Dec 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>State of Palestine</Entry>
+                <Entry />
+                <Entry>29 Dec 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry />
+                <Entry>26 Jul 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry />
+                <Entry>29 Mar 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry />
+                <Entry>3 Oct 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>5 Dec 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>22 Apr 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>8 Mar 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>26 Mar 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry />
+                <Entry>21 Nov 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;17&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>13 Oct 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>18 May 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>24 Oct 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>14 Mar 1979</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>23 Jul 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>1 Apr 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>21 Feb 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry />
+                <Entry>15 Apr 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>30 Dec 1971</Entry>
+                <Entry>20 Nov 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry />
+                <Entry>17 Feb 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;5,18&lt;/superscript&gt;</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>24 Mar 1986</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry />
+                <Entry>7 Dec 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>16 Apr 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>16 Mar 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>12 Jul 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>21 Feb 1971</Entry>
+                <Entry>23 May 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>4 Nov 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen</Entry>
+                <Entry />
+                <Entry>25 Mar 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>28 May 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>30 Jul 1993 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon definitive signature, ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Afghanistan</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Democratic Republic of Afghanistan, while acceding to the Convention on Psychotropic Substances, declares that it does not consider itself bound to the provision of the second paragraph of article 31, since this paragraph calls for the submission to the International Court of Justice upon the request of one of the Parties, of differences of opinion that may arise between two or several Parties to the Convention on its interpretation and implementation.</text>
+        <text type="para">The Democratic Republic of Afghanistan, therefore, declares in this connection that in the event of a conflict of opinion on such cases, the issue at conflict shall be submitted to the International Court of Justice not at the request of one of the sides, but upon the agreement of all Parties concerned.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Andorra</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Principality of Andorra does not consider itself bound by the provisions of article 31 which provide for a mandatory referral to the International Court of Justice of any dispute which cannot be resolved according to the terms of paragraph 1. The Government of Andorra takes the position that for any dispute to be referred to the International Court of Justice for decision the agreement of all the parties to the dispute shall be necessary in each individual case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Argentina</Participant>
+        <text type="para">"With a reservation concerning the effects of the application of the Convention to non-metropolitan Territories whose sovereignty is in dispute, as indicated in our vote on article 27."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Australia</Participant>
+        <text type="para">"The Convention shall not apply to the non-metropolitan territories for the international relations of which Australia is responsible."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Austria</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Republic of Austria interprets Art. 22 as follows: In cases of a minor nature, the obligations contained in this provision may also be implemented by the creation of administrative penal regulations providing adequate sanction for the offences enumerated therein."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bahrain&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text type="title">Reservation:</text>
+        <text type="title">With regard to article 31, paragraph 2:</text>
+        <text type="para">"The State of Bahrain does not recognise the compulsory jurisdiction of the International Court of Justice."</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"Moreover, the accession by the State of Bahrain to the said Convention shall in no way constitute recognition of Israel or be a cause for the establishment of any relations of any kind therewith."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bangladesh</Participant>
+        <text type="para">"The Government of the People's Republic of Bangladesh, having considered the Convention, hereby accedes to the afore said Convention on Psychotropic Substances, 1971, and under takes to abide by its provisions albeit having permissible reservations on paragraphs 1, 2, 3 and 4 under article 32 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="title">Reservations made upon signature and confirmed upon ratifica tion:</text>
+        <text type="para">The Byelorussian Soviet Socialist Republic will not consider itself bound by the provisions of article 19, paragraphs 1 and 2, of the Convention on Psychotropic Substances of 1971 as applied to States not entitled to become Parties to the Convention on the basis of the procedure provided for in article 25 of that Convention.</text>
+        <text type="para">The Byelorussian Soviet Socialist Republic does not consider itself bound by the provisions of article 31 of the Convention concerning the referral to the International Court of Justice of a dispute relating to the interpretation or application of the Convention at the request of any one of the Parties to the dispute and declares that the referral of any such dispute to the International Court of Justice shall in each case require the consent of all the Parties to the dispute.</text>
+        <text type="title">Declarations made upon signature and confirmed upon ratifica tion:</text>
+        <text type="para">The Byelorussian SSR states that the provisions of article 25 of the Convention on Psychotropic Substances, under the terms of which a number of States are not entitled to become Parties to the said Convention, are of a discriminatory nature and considers that in accordance with the principle of the sovereign equality of States the Convention should be open for participation by all interested States without any discrimination or restriction.</text>
+        <text type="para">The Byelorussian Soviet Socialist Republic deems it essential to state that the provisions of article 27 of the Convention are at variance with the Declaration on the Granting of Independence to Colonial Countries and Peoples of the United Nations General Assembly (resolution 1514 (XV) of 14 December 1960), which proclaims the necessity of "bringing to a speedy and unconditional end colonialism in all its forms and manifestations".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Brazil</Participant>
+        <text type="title">Upon signature (confirmed upon ratification except as far as concerns the reservation to article 27):</text>
+        <text type="para">"With a reservation to article 19, paragraphs 1 and 2, articles 27 and 31."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria&lt;superscript&gt;20&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Canada&lt;superscript&gt;21&lt;/superscript&gt;</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"Whereas Canada is desirous of acceding to the Convention on Psychotropic Substances, 1971, and whereas Canada's population includes certain small clearly determined groups who use in magical or religious rites certain psychotropic substances of plant origin included in the schedules to the said Convention, and whereas the said substance occur in plants which grow in North America but not in Canada, a reservation of any present or future application, if any, of the provisions of the said Convention to peyote is hereby made pursuant to article 32, paragraph 3 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>China</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"1. The Chinese Government has reservation on paragraph?, article 48 of the Single Convention on Narcotic Drugs of 1961 [as amended] and on paragraph 2, article 31 of the Convention on Psychotropic Substances of 1971.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">2. The signature and ratification by the Taiwan authorities in the name of China respectively on 30 March 1961 and 12 May 1969 of the Single Convention on Narcotic Drugs of 1961 and their signature of the Convention on Psychotropic Substances of 1971 on 21 February 1971 are all illegal and therefore null and void."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Revolutionary Government of the Republic of Cubadoes not consider itself bound by the provisions of article 31 of the Convention, since, in its view, disputes between Parties should be settled only by direct negotiation through the diplomatic channel.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">The Revolutionary Government of the Republic of Cuba considers that, despite the fact that the Convention deals with matters affecting the interests of all States, the provisions of article 25, paragraph 1, and article 26 of the Convention are discriminatory in character in that they deny a number of States the right of signature and accession, thus violating the principle of the sovereign equality of States.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Egypt</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">"Subject to reservation as to:</text>
+        <text type="para">(a) Article 19, paragraphs 1 and 2</text>
+        <text type="para">(b) Article 27, and</text>
+        <text type="para">(c) Article 31."</text>
+        <text type="title">Upon ratification:</text>
+        <text type="para">The United Arab Republic [Arab Republic of Egypt] reserves its position on article 19, paras. 1, 2 (concerning measures by the Board to ensure the execution of the provision of the Convention and its right of contestation).</text>
+        <text type="para">The UAR [Arab Republic of Egypt] reserves its position on article 27 (concerning the existence of territories or colonies pertaining to certain states).</text>
+        <text type="para">The UAR [Arab Republic of Egypt] reserves its position on article 31 (concerning the method of settlement of disputes between members).</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="para">With regard to article 31, France does not consider itself bound by the provisions of paragraph 2 and declares that disputes relating to the interpretation and application of the Convention which have not been settled through the channels provided for in paragraph 1 of the said article may be referred to the International Court of Justice only with the consent of all the parties to the dispute.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;9,22&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">&lt;i&gt;1. In respect of article 11, paragraph 2 (only regarding schedule III): &lt;/i&gt;</text>
+        <text type="para">In the Federal Republic of Germany, manufacturers, wholesale distributors, importers and exporters are not required to keep records of the type described but instead to mark specifically those items in their invoices which contain substances and preparations in Schedule III. Invoices and packaging slips showing such items are to be preserved by these persons for a minimum period of five years.</text>
+        <text type="para">&lt;i&gt;2. In respect of article 11, paragraph 4: &lt;/i&gt;</text>
+        <text type="para">In the Federal Republic of Germany, the persons and institutions named in this provision will keep separate files, for at least five years, of invoices showing items that contain substances and preparations in Schedule III which they have received from the persons named in article 11, paragraph 2, and will once a year determine their stock of substances and preparations in Schedule III. Any other acquisition and any disposal or removal without prescription of substances and preparations in Schedule III will be recorded separately. These records will likewise be preserved for five years.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary&lt;superscript&gt;23&lt;/superscript&gt;</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">"The Hungarian Government avails itself of the possibility accorded to it in paragraph 2 of article 32 and makes reservations in respect of article 19, paragraphs 1 and 2, article 27 and article 31 of the present Convention."</text>
+        <text type="title">Upon ratification:</text>
+        <text type="para">&lt;i&gt;"Reservations in respect of article 19 (1) and (2) and article 31 (2): &lt;/i&gt;</text>
+        <text type="para">(a) The Hungarian People's Republic does not consider it self bound by the provisions of paragraphs 1 and 2 of article 19 concerning the States which, under article 25 of the Convention, are deprived of the opportunity to become parties to the Convention."</text>
+        <text type="para">. . .</text>
+        <text type="title">Declarations:</text>
+        <text type="para">"(a) The Hungarian People's Republic calls attention to the fact that article 25 of the Convention is of a discriminative nature and is at variance with the principle of sovereign equality of States and it considers that the Convention should be open to all interested States.</text>
+        <text type="para">"(b) The Hungarian People's Republic deems it necessary to declare further that article 27 of the Convention is inconsistent with the Declaration on the Granting of Independence to Colonial Countries and Peoples adopted by the General Assembly of the United Nations (resolution 1514 (XV) of 14 December 1960), which proclaims the necessity of bringing to a speedy and un conditional end colonialism in all its forms and manifestations."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>India</Participant>
+        <text type="para">"The Government of India reserve their position with regard to paragraph 2 of article 31 of the aforesaid Convention and do not consider themselves bound by the provisions of that paragraph."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Indonesia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"The Republic of Indonesia, while acceding to the [said Convention] does not consider itself bound by the provision of article 31 paragraph (2) and takes the position that disputes relating to the interpretation and application of the Convention which have not been settled through the channel provided for in paragraph (1) of the said article, may be referred to the International Court of Justice only with the consent of all the parties to the dispute."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iran (Islamic Republic of)</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Islamic Republic of Iran reserves its position on article?1 and does not consider itself bound by the provisions of that article.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iraq</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">1. The Government of the Republic of Iraq hereby declare that they do not consider themselves bound by the provisions of paragraphs 1 and 2 of article19 of the Convention inasmuch as those two paragraphs are considered to be an interference in the internal affairs of the Republic of Iraq.</text>
+        <text type="para">2. The Government of the Republic of Iraq declare that they do not consider themselves to be bound by the provisions of paragraph (2) of article 31 of the said Convention. The Government of the Republic of Iraq consider that recourse to the International Court of Justice in a dispute to which they are party shall not be had except with their approval.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">Entry into the above Convention by the Republic of Iraq shall, however, in no way signify recognition of Israel or be conducive to entry into any relations therewith.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kuwait&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text type="para">"It is understood that the accession of the State of Kuwait to the Convention on psychotropic substances done at Vienna on the 21st of February, 1971, does not in any way mean recognition of Israel by the State of Kuwait. Furthermore, no treaty relations will arise between the State of Kuwait and Israel."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Libya</Participant>
+        <text type="para">The Socialist People's Libyan Arab Jamahiriya does not consider itself bound by its provisions concerning the compulsory reference to the International Court of Justice [of] disputes resulting from this Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mexico</Participant>
+        <text type="para">The Government of Mexico, in acceding to the Convention on Psychotropic Substances adopted on 21 February 1971, makes, pursuant to the provisions of article 32, paragraph 4, of the Convention, an express reservation with regard to the application of the said international instrument, since there still exist in its territory certain indigenous ethnic groups which, in magical or religious rites, traditionally make use of wild plants which contain psychotropic substances from among those in schedule I.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Myanmar&lt;superscript&gt;12&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">"The Government of the Union of Myanmar will not consider itself bound by the provisions of article 19, paragraphs 1 and 2.</text>
+        <text type="para">The Government wishes to express reservation on article 22, paragraph 2(b) relating to extradition and does not consider itself bound by the same.</text>
+        <text type="para">The Government of the Union of Myanmar further wishes to express that it does not consider itself bound by the provisions of article 31, paragraph of the Convention concerning the referral to the International Court of Justice of a dispute relating to the interpretation or application of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Papua New Guinea&lt;superscript&gt;24&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;28 October 1980&lt;/right&gt;</text>
+        <text type="title">Reservations:</text>
+        <text type="para">"The Government of Papua New Guinea in accordance with article 32, paragraph 2 of the Convention hereby lodges a reservation in relation to article 31, paragraph 2, of the Convention which provides for reference of a dispute to the International Court of Justice.</text>
+        <text type="para">The Government of Papua New Guinea in accordance with article 32, paragraph 3 of the Convention hereby lodges a reservation in relation to article 10, paragraph 1 which provides for warnings on packages and advertising."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Peru&lt;superscript&gt;25&lt;/superscript&gt;</Participant>
+        <text type="para">Reservations are made with respect to articles 7 and 19 (1) and (2) of the Convention. The reservation to article 7 does not extend to the provisions relating to international trade, in accordance with the provisions of article 32 (4) of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Poland&lt;superscript&gt;26&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations made upon signature and confirmed upon ratifica tion:</text>
+        <text type="para">"The Government of the Polish People's Republic wishes to make reservations concerning the following provisions:</text>
+        <text type="para">"(1) Paragraphs 1 and 2 of Article 19 of the above-said Convention as applicable to states deprived of the opportunities of becoming Parties to the Convention in view of the procedure provided for in Article 25 of the Convention.</text>
+        <text type="para">"In the considered opinion of the Government of the Polish People's Republic the provisions of Article 25 of the Convention on Psychotropic Substances of 1971 are of discriminatory character. In this connection the Government of the Polish People's Republic reiterates its firm position that the above-said Convention, in accordance with the principle of sovereign equality of states, should be open to all interested states without any discrimination.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="title">Reservations made upon signature and confirmed upon ratification:</text>
+        <text type="para">The Union of Soviet Socialist Republics will not consider itself bound by the provisions of article 19, paragraphs 1 and 2, of the Convention on Psychotropic Substances of 1971 as applied to States not entitled to become Parties to the Convention on the basis of the procedure provided for in article 25 of that Convention.</text>
+        <text type="para">The Union of Soviet Socialist Republics does not consider itself bound by the provisions of article 31 of the Convention concerning the referral to the International Court of Justice of a dispute relating to the interpretation or application of the Convention at the request of any one of the Parties to the dispute and declares that the referral of any such dispute to the International Court of Justice shall in each case require the consent of all Parties to the dispute.</text>
+        <text type="title">Declarations made upon signature and confirmed upon ratification:</text>
+        <text type="para">The Union of Soviet Socialist Republics states that the provisions of article 25 of the Convention on Psychotropic Substances, under the terms of which a number of States are not entitled to become Parties to the said Convention, are of a discriminatory nature and considers that in accordance with the principle of the sovereign equality of States the Convention should be open for participation by all interested States without any discrimination or restriction.</text>
+        <text type="para">The Union of Soviet Socialist Republics deems it essential to state that the provisions of article 27 of the Convention are at variance with the Declaration on the Granting of Independence to Colonial Countries and Peoples of the United Nations General Assembly (resolution 1514 (XV) of 14 December 1960), which proclaims the necessity of "bringing to a speedy and unconditional end colonialism in all its forms and manifestations".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Serbia&lt;superscript&gt;3&lt;/superscript&gt;</Participant>
+        <text type="title">Confirmed upon succession:</text>
+        <text type="para">Subject to a reservation to article 27 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>South Africa</Participant>
+        <text type="para">"The Government of the Republic of South Africa deem it advisable to accede to the Convention on Psychotropic Substances, subject to reservations in respect of Article 19 paragraphs 1 and 2, Article 27 and Article 31 as provided for in article 32 paragraph 2 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Tunisia</Participant>
+        <text type="title">Reservation in respect of article 31 (2):</text>
+        <text type="para">Any such disputes which cannot be settled in the manner prescribed shall be referred, with the agreement of all the parties to the dispute, to the International Court of Justice for decision.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Turkey</Participant>
+        <text type="title">Reservation made upon signature and confirmed upon ratification:</text>
+        <text type="para">Reservation with respect to article 31 (2) of the Convention, made in accordance with its article 32 (2).</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="title">Reservations made upon signature and confirmed upon ratifica tion:</text>
+        <text type="para">The Ukrainian Soviet Socialist Republic will not consider itself bound by the provisions of article 19, paragraphs 1 and 2, of the Convention on Psychotropic Substances of 1971 as applied to States not entitled to become Parties to the Convention on the basis of the procedure provided for in article 25 of that Convention.</text>
+        <text type="para">The Ukrainian Soviet Socialist Republic does not consider itself bound by the provisions of article 31 of the Convention concerning the referral to the International Court of Justice of a dispute relating to the interpretation or application of the Convention at the request of any one of the Parties to the dispute and declares that the referral of any such dispute to the International Court of Justice shall in each case require the consent of all Parties to the dispute.</text>
+        <text type="title">Declarations made upon signature and confirmed upon ratification:</text>
+        <text type="para">The Ukrainian Soviet Socialist Republic states that the provisions of article 25 of the Convention on Psychotropic Substances, under the terms of which a number of States are not entitled to become Parties to the said Convention, are of a discriminatory nature and considers that in accordance with the principle of the sovereign equality of States the Convention should be open for participation by all interested States without any discrimination or restriction.</text>
+        <text type="para">The Ukrainian Soviet Socialist Republic deems it essential to state that the provisions of article 27 of the Convention are at variance with the Declaration on the Granting of Independence to Colonial Countries and Peoples of the United Nations General Assembly (resolution 1514 (XV) of 14 December 1960), which proclaims the necessity of "bringing to a speedy and unconditional end colonialism in all its forms and manifestations".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United States of America</Participant>
+        <text type="para">" In accord with paragraph 4 of article 32 of the Convention, peyote harvested and distributed for use by the Native American Church in its religious rites is excepted from the provisions of article 7 of the Convention on Psychotropic Substances".</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Viet Nam</Participant>
+        <text type="para">&lt;i&gt;Reservation:&lt;/i&gt;</text>
+        <text type="para">[The Government of Viet Nam declares its reservation to] article 22 paragraph 2 point b on Extradition and article 31, paragraph 2 on Dispute settlement.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the Economic and Social Council, Forty-eighth Session, Resolutions &lt;/i&gt; (E/4832).</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Amendments to Schedules I, II, III and IV annexed to the Convention (Article 2 of the Convention):</text>
+        <table>
+          <totalCols>4</totalCols>
+          <row>
+            <col>Schedule</col>
+            <col>Decision by the Narcotics Commission</col>
+            <col></col>
+            <col>Date of the notification of the decision by the Narcotics Division of the Secretariat</col>
+          </row>
+          <row>
+            <col></col>
+            <col>No.</col>
+            <col>Date</col>
+            <col></col>
+          </row>
+          <row>
+            <col>I-IV</col>
+            <col>6 (XXVII)</col>
+            <col>24 Feb 1977</col>
+            <col>10 Jun 1977 (NAR/CL.1/1977)</col>
+          </row>
+          <row>
+            <col>I</col>
+            <col>3 (S-V)</col>
+            <col>16 Feb 1978</col>
+            <col>20 Jun 1978 (NAR/CL.4/1978)</col>
+          </row>
+          <row>
+            <col>II, IV</col>
+            <col>4 (XXVIII)</col>
+            <col>22 Feb 1979</col>
+            <col>28 Mar 1979 (NAR/CL.3/1979)</col>
+          </row>
+          <row>
+            <col>II</col>
+            <col>4 (S-VI)</col>
+            <col>14 Feb 1980</col>
+            <col>31 Mar 1980 (NAR/CL.6/1980)</col>
+          </row>
+          <row>
+            <col>I</col>
+            <col>5 (S-VI)</col>
+            <col>14 Feb 1980</col>
+            <col>31 Mar 1980 (NAR/CL.7/1980)</col>
+          </row>
+          <row>
+            <col>IV</col>
+            <col>2 (XXIX)</col>
+            <col>4 Feb 1981</col>
+            <col>3 Apr 1981 (NAR/CL.2/1981)</col>
+          </row>
+          <row>
+            <col>IV</col>
+            <col>3 (XXIX)</col>
+            <col>4 Feb 1981</col>
+            <col>3 Apr 1981 (NAR/CL.8/1981)</col>
+          </row>
+          <row>
+            <col>IV</col>
+            <col>5 (XXIX)</col>
+            <col>4 Feb 1981</col>
+            <col>3 Apr 1981 (NAR/CL.10/1981</col>
+          </row>
+        </table>
+        <text />
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 21 February 1971 and 15 October 1973, respectively, with the following reservation:</text>
+        <text>Subject to a reservation to article 27 of the Convention.</text>
+        <text>See also note? under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>Signed on behalf of the Republic of China on 21 February 1971. See note concerning signatures, ratifications, accessions, etc. on behalf of China, preface (note? under China in the Historical Information section in the front matter of this volume).</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>On 6 and 10 June 1997, respectively, Secretary-General received communications regarding the status of Hong Kong from China and the United Kingdom of Great Britain and Northern Ireland (see note 2 under China and note 2 under United Kingdom of Great Britain and Northern Ireland in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Hong Kong, China notified the Secretary-General that the Convention will also apply to the Hong Kong Special Administrative Region.</text>
+        <text>In addition, the communication made by the Government of China contained the following declaration:</text>
+        <text>1. The reservation to paragraph 2, article [31], of the said Convention made by the Government of the People's Republic of China will also apply to the Hong Kong Special Administrative Region.</text>
+        <text>2. In accordance with article 28 of the Convention, the Government of the People's Republic of China declares that the Hong Kong Special Administrative Region is a separate region for the purpose of the Convention.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>On 13 September 1999, the Government of Portugal informed the Secretary-General that the Convention will apply to Macao.</text>
+        <text>Subsequently, on 18 November and 3 December 1999, the Secretary-General received communications regarding the status of Macao from China and Portugal (see also note 3 under China and note 1 under Portgual in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Macao, China notified the Secretary-General that the Convention with the reservation and declaration made by China will also apply to the Macao Special Administrative Region.</text>
+        <text>In addition, the communication by the Government of the People's Republic of China contained the following declaration:</text>
+        <text>1. The reservation made by the Government of the People's Republic of China to paragraph 2 of Article 31 of the Convention will also apply to the Macao Special Administrative Region.</text>
+        <text>2. In accordance with Article 28 of the Convention, the Government of the People's Republic of China declares that the Macao Special Administrative Region is a separate region for the purpose of the Convention.</text>
+        <text>The Government of the People's Republic of China will assume responsibility for the international rights and obligations arising from the application of the Convention to the Macao Special Administrative Region.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>Czechoslovakia had acceded to the Convention on 13 October 1988, with the following reservations and declarations:</text>
+        <text>&lt;i&gt;Reservations &lt;/i&gt;:</text>
+        <text>[The Government of Czechoslovakia] declares, in accordance with article 32, para. 2, of the Convention, that the Czechoslovak Socialist Republic does not consider itself bound by the provisions of article 19, paras. 1 and 2, of the Convention as far as they concern States that are disqualified from becoming parties to the Convention under its article?5.</text>
+        <text>[The Government of Czechoslovakia] does not consider itself bound by the provisions of article 31, para. 2, of the Convention which regulates obligatory jurisdiction of the International Court of Justice and declares that for submission of a dispute to the International Court of Justice for decision consent of all parties to the dispute is required in every case.</text>
+        <text>&lt;i&gt;Declarations: &lt;/i&gt;</text>
+        <text>In respect of article 25 of the Convention:"The Czechoslovak Socialist Republic declares that the provisions of article 25 of the Convention are contrary to the principle of sovereign equality, and of a discriminatory nature. In this context, the Czechoslovak Socialist Republic reaffirms its position that the Convention should be open for participation by all States."</text>
+        <text>In respect of article 27 of the Convention:</text>
+        <text>"The Czechoslovak Socialist Republic considers it necessary also to declare that the provisions of article 27 of the Convention are at variance with the declaration of the Granting of Independence to Colonial Countries and Peoples, adopted by the United Nations General Assembly resolution 1514/XV of December 14, 1960, which proclaims the necessity of bringing to a speedy and unconditional end colonialism in all its forms and manifestations."</text>
+        <text>Subsequently, on 22 January 1991, the Government of Czechoslovakia notified the Secretary-General of its decision to withdraw the reservation with respect to article 31 (2) made upon accession. See also note 1 under Czech Republic and note 1 underkia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>With a declaration that the provisions of the Convention will apply throughout the territory of the French Republic (European and overseas departments and overseas territories).</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>The German Democratic Republic had acceded to the Convention on 2 December 1975 with reservations and declarations. For the text of the reservations and declarations see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1019, p. 348. See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>On 20 June 1994, the instrument of accession by the Government of Myanmar to the Convention was received by the Secretary-General. The instrument of accession was accompanied by the following reservations:</text>
+        <text>"The Government of the Union of Myanmar will not consider itself bound by the provisions of article 19, paragraphs 1 and 2.</text>
+        <text>The Government wishes to express reservation on article 22, paragraph 2 (b) relating to extradition and does not consider itself bound by the same.</text>
+        <text>The Government of the Union of Myanmar further wishes to express that it does not consider itself bound by the provisions of article 31, paragraph 2 of the Convention concerning the referral to the International Court of Justice of a dispute relating to the interpretation or application of the Convention."</text>
+        <text>As regards the reservation made in respect of article 22, article 32 (3) of the Convention provides that "unless by the end of twelve months after the date of the Secretary-General's communication of the reservation concerned (i.e., 20 September 1994), this reservation has been objected to by one third of the States that have signed without reservation of ratification, ratified or acceded to this Convention before the end of that period, it shall be deemed to be permitted, it being understood however that States which have objected to the reservation need not assume towards the reserving State any legal obligation under this Convention which is affected by the reservation."</text>
+        <text>By the end of twelve months after the date of its circulation (i.e. 20September 1994), none of the States Parties had objected to the reservation. Consequently, in accordance with article 32 (3) of the Convention, the reservation is deemed permitted and the instrument was accepted for deposit on 21 September 1995.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>For the Kingdom in Europe. As from 10 March 1999: for the Netherlands Antilles. See also note 2 under Netherlands regarding Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>With a declaration of application to Niue and Tokelau. See also note 1 under New Zealand regarding Tokelau in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>The signature on behalf of the Government of Paraguay was affixed &lt;i&gt;"Ad Referendum" &lt;/i&gt;in accordance with the instructions contained in the full powers. In a communication received by the Secretary-General on 12 October 1971, the Permanent Representative of Paraguay to the United Nations indicated that the words &lt;i&gt;"Ad Referendum" &lt;/i&gt;should be taken as meaning that the Convention concerned was subject to ratification by the Republic of Paraguay in accordance with its constitutional requirements and to the deposit of an instrument of ratification under article 25 of said Convention.</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>In a communication received by the Secretary-General on 20 December 1973, the Permanent Representative of Spain to the United Nations made the following statement:</text>
+        <text>Spain considers itself to be internationally responsible for the territory of the Sahara; consequently, the provisions of the 1971 Vienna Convention on Psychotropic Substances shall also apply to that territory.</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>On 12 April 1994, the Secretary-General received from the Government of Greece the following communication:</text>
+        <text>"Accession of the former Yugoslav Republic of Macedonia to the Convention on Psychotropic Substances, concluded at Vienna on 21 February 1971, does not imply its recognition on behalf of the Hellenic Republic."</text>
+        <text>See also note 1 under Greece in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>On 13 December 1990, the Secretary-General received a communication from the Government of the United Kingdom of Great Britain and Northern Ireland to the effect that the said Convention shall extend to Hong Kong &lt;i&gt; (see also note 4 ) &lt;/i&gt; and to the British Virgin Islands and that, in accordance with article 28 thereof, Hong Kong and the British Virgin Islands are each a separate region for the purposes of the Convention.</text>
+        <text>Subsequently, on 3 June 1993, the Government of the United Kingdom of Great Britain and Northern Ireland notified the Secretary-General that the Convention shall extend to Anguilla, Bermuda, the British Antarctic Territory, the Cayman Islands, the Falkland Islands, Gibraltar, Montserrat, South Georgia and the South Sandwich Islands, and the Turks and Caicos Islands.</text>
+        <text>In this regard, on 4 February 1994, the Secretary-General received from the Government of Argentina the following declaration:</text>
+        <text>The Argentine Republic rejects the extension by the United Kingdom of Great Britain and Northern Ireland of the application of the Convention on Psychotropic Substances, signed at Vienna on 21February 1971, to the Malvinas Islands, South Georgia and the South Sandwich Islands and reaffirms its sovereignty over these islands, which are an integral part of the national territory.</text>
+        <text>Subsequently, on 4 January 1995, the Government of the United Kingdom of Great Britain and Northern Ireland notified the Secretary-General of the following:</text>
+        <text>"The British Government have no doubt about the sovereignty of the United Kingdom over the Falkland Islands, as well as South Georgia and the South Sandwich Islands, and have no doubt, therefore, about their right to extend the said Convention to these territories. The British Government can only reject as unfounded the claim by the Government of Argentina that these Islands are a part of Argentine territory."</text>
+        <text>Further, in a communication received on 25 November 2002, the Government of the United Kingdom informed the Secreary-Genel that the Convention would also apply to the Isle of Man. The Government of the United Kingdom further declared that:</text>
+        <text>In accordance with Article 28 thereof, [the United Kingdom] further declare[s], that the Isle of Man and the following territories to which the Convention was extended on 3 June 1993: Anguilla, Bermuda, British Antarctic Territory, Cayman Islands, Falkland Islands, Gibraltar, Montserrat, South Georgia and the South Sandwich Islands, Turks and Caicos Islands are each a separate region for the purpose of the Convention."</text>
+        <text>In this regard, on 20 February 2003, the Secretary-General received from the Government of Argentina, the following communication:</text>
+        <text>The Argentine Republic reiterates what was stated in its note of 4 February 1994, by which it rejected the declaration of territorial application of the above-mentioned Convention made on 3 June 1993 by the United Kingdom in respect of the Malvinas Islands, South Georgia and the South Sandwich Islands, which are an integral part of the national territory of Argentina. It also rejects the declaration of the United Kingdom purporting to extend the application of the 1971 Convention on Psychotropic Substances to the sector which it refers to as "British Antarctic Territory" and affirms that this declaration in no way affects the rights of sovereignty of the Argentine Republic over the Argentine Antarctic Sector.</text>
+        <text>Furthermore, the Argentine Republic rejects the declaration made by the United Kingdom in its note of 3 December 2002 and any other document, act or activity and their effects, which might arise from that declaration and from the purported territorial application, as well as the designation of these territories as dependencies of the United Kingdom.</text>
+        <text>The United Nations General Assembly adopted resolutions 2065?XX), 3160 (XXVIII), 31/49, 37/9, 38/12, 39/6, 40/21, 41/40, 42/19 and 43/25, in which it recognizes the existence of the sovereignty dispute relating to the question of the Malvinas Islands urges the Governments of the Argentine Republic and the United Kingdom to resume negotiations in order to find as soon as possible a peaceful and definitive settlement of the dispute, using the good offices of the Secretary-General of the United Nations, who was requested to report to the General Assembly on the progress made.</text>
+        <text>The Argentine Republic reaffirms its sovereign rights over the Malvinas Islands, South Georgia and the South Sandwich Islands as well as the surrounding maritime areas, which are part of its national territory. It also reaffirms its rights of sovereignty over the Argentine Antarctic Sector and the validity of the Antarctic Treaty, signed in Washington on 1 December 1959.</text>
+        <text>The Argentine Government requests the Secretary-General of the United Nations to notify Contracting States and States Parties to the Convention on Psychotropic Substances of this communication. It further requests the Secretary-General to bring this communication to the attention of the International Narcotics Control Board.</text>
+        <text>On 11 April 2003: in respect of Jersey with the following declaration:</text>
+        <text>"In accordance with Article 28 thereof, I further declare that Jersey is a separate region for the purposes of the Convention."</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>With respect to the Kuwaiti declaration, the Secretary-General received on 29 October 1979 from the Government of Israel the following communications:</text>
+        <text>"The Government of the State of Israel has noted the political character of the statement made by the Government of Kuwait. In the view of the Government of the State of Israel, this Convention is not the proper place for making such political pronouncements. Moreover, the said declaration cannot in any way affect whatever obligations are binding upon Kuwait under general international law or under particular conventions. The Government of the State of Israel will, in so far as concerns the substance of the matter, adopt towards the Government of Kuwait an attitude of complete reciprocity."</text>
+        <text>Subsequently, the Secretary-General received from the Government of Israel an objection, identical in essence, &lt;i&gt;mutatis mutandis &lt;/i&gt;, with regard to a reservation made by Bahrain.</text>
+      </Note>
+      <Note>
+        <index>20</index>
+        <text>In a notification received on 6 May 1994, the Government of Bulgaria notified the Secretary-General that it had decided to withdraw the reservation made upon accession with respect to article 31. For the text of the reservation, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1019, p.346.</text>
+      </Note>
+      <Note>
+        <index>21</index>
+        <text>None of the States Parties having objected to the reservation made by the Government of Canada before the expiry of a period of twelve months after the date (9 September 1987) of its circulation by the Secretary-General, the said reservation is deemed to have been permitted in accordance with the provisions of article 32.</text>
+      </Note>
+      <Note>
+        <index>22</index>
+        <text>None of the States Parties having objected to the reservations made by the Government of the Federal Republic of Germany before the expiry of a period of twelve months after the date (1 December 1976) of their circulation by the Secretary-General, the said reservations are deemed to have been permitted in accordance with the provisions of article 32.</text>
+      </Note>
+      <Note>
+        <index>23</index>
+        <text>In a communication received on 8 December 1989, the Government of Hungary notified the Secretary-General that it had decided to withdraw the reservation in respect to article 31 (2) made upon ratification. For the text of the reservation, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1141, p. 457.</text>
+      </Note>
+      <Note>
+        <index>24</index>
+        <text>None of the States Parties having objected to the reservation regarding article 10 (1) made by the Government of Papua New Guinea before the expiry of a period of twelve months after the date (19 November 1980) of its circulation by the Secretary-General, the said reservation is deemed to have been permitted in accordance with the provisions of article 32.</text>
+      </Note>
+      <Note>
+        <index>25</index>
+        <text>The Secretary-General received, on 29 January 1981, from the Government of Peru the following clarification in respect of the reservation made to article 7:</text>
+        <text>"The reservation referred to was motivated by the following two wild plant species: Ayahuasca, a liana which grows in the Amazon region and which contains the active element N, N-dimethyltryptamine, and a columnar cactus known as San Pedro, which grows in the desert coastal regions and in the Andean region and contains mescaline. Ayahuasca is used by certain Amazon ethnic groups in magical and religious rites and in rites of initiation into adulthood; San Pedro is used in magical rites by indigenous medicine men or shamans. Because of their psychotropic content, both plant species are included in the reservation option made possible by article 32, paragraph 4, of the Convention.</text>
+      </Note>
+      <Note>
+        <index>26</index>
+        <text>On 16 October 1997, the Government of Poland notified the Secretary-General that it had decided to withdraw its reservation with regard to article 31, paragraph 2 of the Convention made upon ratification. For the text of the reservation see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1019, p. 175.</text>
+      </Note>
+    </EndNotes>
+    <Footer>VI 16. Narcotic Drugs and Psychotropic Substances</Footer>
+  </Treaty>
+</Document>

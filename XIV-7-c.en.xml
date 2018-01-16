@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIV</Header>
+        <Name>EDUCATIONAL AND CULTURAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>7</Numsect>
+        <Subnumsect>c</Subnumsect>
+        <Subtitlesect>Protocol to the Statutes of the International Centre for Genetic Engineering and Biotechnology on the Seat of the Centre</Subtitlesect>
+        <Conclusion>Trieste, Italy, 24 October 2007</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>29 May 2008, in accordance with paragraph 2 of the Protocol, for all Parties to the Statutes*.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>29 May 2008, No. 30673</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Depositary notification C.N.1103.2007.TREATIES-1 of 29 November 2007 (Adoption of the Protocol: authentic Arabic, Chinese, English, French, Russian and Spanish texts); C.N.432.2008.TREATIES-2 of 11 June 2008 (Entry into force of the Protocol).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>At the Conference of the Parties to the Statutes, held in Trieste (Italy) on 24 October 2007, the Parties adopted the Protocol to the Statutes on the Seat of the Centre. </Text>
+          <Text>*See chapter XIV-7 for the complete list of Parties to the Statutes of the International Centre for Genetic Engeneering and Biotechnology.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>XIV 7 c. Educational and Cultural Matters</Footer>
+  </Treaty>
+</Document>

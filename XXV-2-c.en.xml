@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XXV</Header>
+        <Name>TELECOMMUNICATIONS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Subnumsect>c</Subnumsect>
+        <Subtitlesect>Amendments to the Constitution of the Asia-Pacific Telecommunity</Subtitlesect>
+        <Conclusion>New Delhi, 23 October 2002</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>2 August 2007, in accordance with article 22(3)of the Constitution, for all Members of the Asia-Pacific Telecommunity.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>2 August 2007, No. 17583</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>24</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 2466, p. 30;</Text>
+          <Text>Depositary notification C.N.1348.2002.TREATIES-1 of 30 December 2002.</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Ratification, Acceptance(A)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>5 Jan 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>7 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry>14 Jul 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry>26 Nov 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>27 Feb 2006 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry>14 Jul 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry>31 Jul 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry>30 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>21 Jul 2006 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>2 Oct 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>28 Apr 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>19 Apr 2007 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry>16 Jan 2007 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry>3 Jul 2007 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry>10 Sep 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>18 Jun 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry>13 Feb 2007 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>23 Sep 2003 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry>27 Feb 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>7 Mar 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>27 Aug 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>31 Jan 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry>17 Jul 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry>19 Sep 2003 A</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>With the following:</text>
+        <text>In accordance with the provisions of Article 153 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China and Article 138 of the Basic Law of the Macao Special Administrative Region of the People's Republic of China, the Government of the People's Republic of China decides that the Amendments to the Constitution of the Asia Pacific Telecommunity shall apply to the Hong Kong Special Administrative Region and the Macao Special Administrative Region of the People's Republic of China.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XXV 2 c. Telecommunications</Footer>
+  </Treaty>
+</Document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>24</Numsect>
+        <Titlesect>International Agreement on jute and jute products, 1982*</Titlesect>
+        <Conclusion>Geneva, 1 October 1982</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>provisionally on 9 January 1984, in accordance with article 40(3) and definitively on 26 August 1986, in accordance with article 40(1). The Agreement was extended until 8 January 1991, and was terminated in accordance with its provisions on 8 January 1991.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>9 January 1984, No. 22672</Labeltext>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, Treaty Series, vol. 1346, p. 59; depositary notifications C.N.218.1985.TREATIES-4 of 13 Decmeber 1985 (adoption of an authentic Chinese text and C.N.143.1988.TREATIES-2 of 22 August 1988 [Decision 2 (IX) Renegotiation of the Agreement].</Text>
+        </TreatyText>
+        <TreatyNote />
+      </ExternalData>
+    </Header>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes />
+    <Footer>XIX 24. Commodities</Footer>
+  </Treaty>
+</Document>

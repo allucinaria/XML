@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>16</Numsect>
+        <Titlesect>Agreement Establishing the Bank for Economic Cooperation and Development in the Middle East and North Africa</Titlesect>
+        <Conclusion>Cairo, 28 August 1996</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 53 which reads as follows : "(a) This Agreement shall be open for signature at the United Nations Headquarters in New York by, for or on behalf of all prospective members whose names are set forth in Schedule A of this Agreement [Non-regional members: Austria, Canada, Cyprus, Greece, Italy, Japan, Korea (Republic of), Malta, Netherlands, Russia, Turkey, United States; Regional members: Algeria, Egypt (Arab Republic of), Israel, Jordan, Morocco, Palestinian Authority, Tunisia], and shall be subject to ratification, acceptance or approval by the signatories, in accordance with their own procedures. (b) Instruments of ratification, acceptance or approval of this Agreement and amendments thereto shall be deposited with the Secretary-General of the United Nations who shall act as the depositary of this Agreement (hereinafter referred to as the "Depositary"). The Depositary shall transmit certifed copies of this Agreement to each signatory, and shall notify the signatories of deposits of instruments of ratification, acceptance and approval, the date thereof, and the date on which this Agreement enters into force. (c) This Agreement shall enter into force on the date on which instruments of ratification, acceptance or approval shall have been deposited by signatoires whose initial subscriptions represent not less than sixty-five percent of the total subscriptions set forth in Schedule A of this Agreement. (d) For each prospective member which deposits its instrument of ratification, acceptance or approval after this Agreement shall have entered into force, this Agreement shall enter into force on the date of such deposit. (e) If this Agreement shall not have entered into force within two years after its opening for signature, the Depositary shall convene a conference of interested parties to determine the future course of action.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>9</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>3</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Depositary notification C.N.293.1996.TREATIES-1 of 30 October 1996.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement is the result of negotiations begun pursuant to a mandate from the Middle East/North Africa Economic Summit held in Casablanca from 30 October to 1 November 1994. Following a meeting of the prospective signatories in Cairo, from 13 to 14 February 1996, the text of the Agreement was forwarded to the Secretary-General of the UnitedNations for deposit on 28 August 1996. In accordance with its article 53, the Agreement is open for signature at the UnitedNations Headquarters in New York by, for or on behalf of all prospective members whose names are set forth in Schedule A of the Agreement.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Approval(AA)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>7 May 1997</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>8 Nov 1996</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>22 May 1997</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>8 Nov 1996</Entry>
+                <Entry>1 Jun 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>30 May 1997</Entry>
+                <Entry>30 May 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>24 Oct 1996</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>18 Feb 1997</Entry>
+                <Entry>10 Dec 1997 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>22 Nov 1996</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>22 Nov 1996</Entry>
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made upon ratification,</Title>
+      <Title>acceptance or approval.)</Title>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">With reference to article 39 b) of the Agreement, the Government of the Italian Republic retains the right to tax not only its own citizens or nationals, but also those foreign citizens who reside permanently in Italy."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Japan</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"With reference to the provisions of paragraph (b) of article 39 of [the said Agreement], it is hereby declared that Japan retains for itself and its political subdivisions the right to tax salaries, expense allowances, and emoluments paid by the said Bank to its nationals."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>For the Kingdom in Europe.</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 16. International Trade and Development</Footer>
+  </Treaty>
+</Document>

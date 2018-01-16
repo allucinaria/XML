@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IV</Header>
+        <Name>HUMAN RIGHTS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>8</Numsect>
+        <Titlesect>Convention on the Elimination of All Forms of Discrimination against Women</Titlesect>
+        <Conclusion>New York, 18 December 1979&lt;superscript&gt;1&lt;/superscript&gt;</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>3 September 1981, in accordance with article 27(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>3 September 1981, No. 20378</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>99</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>189</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1249, p. 13.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was opened for signature at the United Nations Headquarters on 1 March 1980.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+  </Treaty>
+</Document>

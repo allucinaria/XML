@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER VI</Header>
+        <Name>NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>10</Numsect>
+        <Titlesect>Agreement concerning the Suppression of Opium Smoking</Titlesect>
+        <Conclusion>Bangkok, 27 November 1931</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>22 April 1937, in accordance with article VI.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>22 April 1937, No. 4100</Labeltext>
+          <Notes>
+            <Note>1</Note>
+          </Notes>
+        </Registration>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>League of Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 177, p. 375</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>&lt;i&gt;In accordance with its article 44 (1), the provisions of the Single Convention on Narcotic Drugs, 1961, as amended by the Protocol amending the Single Convention on Narcotic Drugs, 1961 of 8 August 1975, as between the parties thereto, terminates and replaces the provisions of the above Agreement. See chapter VI.18. &lt;/i&gt;</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <LON>
+      <Table>
+        <Title>Ratifications</Title>
+        <Ratification>
+          <State.no.link>France</State.no.link>
+          <Ratification.date>&lt;right&gt; (May, 10th, 1933)&lt;/right&gt;</Ratification.date>
+          <State.no.link>India</State.no.link>
+          <Ratification.date>&lt;right&gt; (Dec 4th, 1935)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Japan</State.no.link>
+          <Ratification.date>&lt;right&gt; (Jan 22nd, 1937)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Netherlands</State.no.link>
+          <Ratification.date>&lt;right&gt;(May 22nd, 1933)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Portugal</State.no.link>
+          <Ratification.date>&lt;right&gt; (Jan 27th, 1934)&lt;/right&gt;</Ratification.date>
+          <State.no.link>Thailand</State.no.link>
+          <Ratification.date>&lt;right&gt; (Nov 19th, 1934)&lt;/right&gt;</Ratification.date>
+          <Para>With reservation to Article I.</Para>
+          <State.no.link>United Kingdom of Great Britain and Northern Ireland</State.no.link>
+          <Ratification.date>&lt;right&gt; (Apr?rd,?933)&lt;/right&gt;</Ratification.date>
+        </Ratification>
+      </Table>
+    </LON>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="2">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows />
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>See League of Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 177, p. 373.</text>
+      </Note>
+    </EndNotes>
+    <Footer>VI 10. Narcotic Drugs and Psychotropic Substances</Footer>
+  </Treaty>
+</Document>

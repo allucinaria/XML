@@ -1,0 +1,1425 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XVIII</Header>
+        <Name>PENAL MATTERS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>5</Numsect>
+        <Titlesect>International Convention Against the Taking of Hostages</Titlesect>
+        <Conclusion>New York, 17 December 1979</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>3 June 1983, in accordance with article 18(2).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>3 June 1983, No. 21931</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>39</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>176</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol.?316, p.?05; and depositary notifications C.N.209.1987.TREATIES-6 of 8 October 1987 and C.N.324.1987.TREATIES-9 of 1 February 1988 (procès-verbal of rectification of the original Russian text).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted by resolution &lt;a href="/doc/source/docs/A_RES_34_146-E.pdf" target="_blank"&gt;34/146&lt;/a&gt;&lt;superscript&gt;1&lt;/superscript&gt; of the General Assembly of the United Nations dated 17 December 1979. It was opened for signature from 18 December 1979 to 31 December 1980.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Succession(d), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry />
+                <Entry>24 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>22 Jan 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>18 Dec 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry />
+                <Entry>23 Sep 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>6 Aug 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry />
+                <Entry>18 Sep 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>16 Mar 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry />
+                <Entry>21 May 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>3 Oct 1980</Entry>
+                <Entry>22 Aug 1986</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>29 Feb 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry />
+                <Entry>4 Jun 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>20 May 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>9 Mar 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry />
+                <Entry>1 Jul 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>3 Jan 1980</Entry>
+                <Entry>16 Apr 1999</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry />
+                <Entry>14 Nov 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry />
+                <Entry>31 Jul 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry />
+                <Entry>31 Aug 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>25 Mar 1980</Entry>
+                <Entry>7 Jan 2002</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry />
+                <Entry>8 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry />
+                <Entry>8 Mar 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry />
+                <Entry>18 Oct 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>10 Mar 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry />
+                <Entry>1 Oct 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry />
+                <Entry>10 Sep 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>27 Jul 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>9 Mar 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>18 Feb 1980</Entry>
+                <Entry>4 Dec 1985</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry />
+                <Entry>9 Jul 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry />
+                <Entry>1 Nov 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>3 Jan 1980</Entry>
+                <Entry>12 Nov 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;3,4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Jan 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>14 Apr 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry />
+                <Entry>25 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry />
+                <Entry>24 Jan 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry />
+                <Entry>22 Aug 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Sep 2003 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry />
+                <Entry>15 Nov 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>13 Sep 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Feb 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry />
+                <Entry>12 Nov 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>2 Jul 1980</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry />
+                <Entry>11 Aug 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry />
+                <Entry>1 Jun 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>9 Sep 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>12 Aug 1980</Entry>
+                <Entry>3 Oct 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry />
+                <Entry>2 May 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>18 Dec 1980</Entry>
+                <Entry>2 Oct 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>10 Jun 1980</Entry>
+                <Entry>12 Feb 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Equatorial Guinea</Entry>
+                <Entry />
+                <Entry>7 Feb 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>8 Mar 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry />
+                <Entry>16 Apr 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>15 May 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>29 Oct 1980</Entry>
+                <Entry>14 Apr 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry />
+                <Entry>9 Jun 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>29 Feb 1980</Entry>
+                <Entry>19 Apr 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>18 Feb 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;6,7&lt;/superscript&gt;</Entry>
+                <Entry>18 Dec 1979</Entry>
+                <Entry>15 Dec 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry />
+                <Entry>10 Nov 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>18 Mar 1980</Entry>
+                <Entry>18 Jun 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Grenada</Entry>
+                <Entry />
+                <Entry>10 Dec 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>30 Apr 1980</Entry>
+                <Entry>11 Mar 1983</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>22 Dec 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry />
+                <Entry>6 Aug 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>12 Sep 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>21 Apr 1980</Entry>
+                <Entry>17 May 1989</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>11 Jun 1980</Entry>
+                <Entry>1 Jun 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>2 Sep 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>6 Jul 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry />
+                <Entry>7 Sep 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry />
+                <Entry>20 Nov 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>14 Oct 1980</Entry>
+                <Entry>26 Aug 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry />
+                <Entry>30 Jun 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>19 Nov 1980</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>18 Apr 1980</Entry>
+                <Entry>20 Mar 1986</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry>27 Feb 1980</Entry>
+                <Entry>9 Aug 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>22 Dec 1980</Entry>
+                <Entry>8 Jun 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>19 Feb 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>21 Feb 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>8 Dec 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kiribati</Entry>
+                <Entry />
+                <Entry>15 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry />
+                <Entry>6 Feb 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>2 Oct 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>22 Aug 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>14 Nov 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry />
+                <Entry>4 Dec 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry>17 Apr 1980</Entry>
+                <Entry>5 Nov 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>30 Jan 1980</Entry>
+                <Entry>5 Mar 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>25 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry />
+                <Entry>28 Nov 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>2 Feb 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>18 Dec 1979</Entry>
+                <Entry>29 Apr 1991</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>24 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>17 Mar 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>29 May 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>8 Feb 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>11 Nov 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry />
+                <Entry>27 Jan 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>13 Mar 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>18 Jun 1980</Entry>
+                <Entry>17 Oct 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry />
+                <Entry>28 Apr 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry />
+                <Entry>6 Jul 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry />
+                <Entry>16 Oct 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>9 Jun 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>9 May 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>14 Jan 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry />
+                <Entry>4 Jun 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Namibia</Entry>
+                <Entry />
+                <Entry>2 Sep 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nauru</Entry>
+                <Entry />
+                <Entry>2 Aug 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>9 Mar 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry>18 Dec 1980</Entry>
+                <Entry>6 Dec 1988</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry>24 Dec 1980</Entry>
+                <Entry>12 Nov 1985</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>24 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>26 Oct 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>24 Sep 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niue</Entry>
+                <Entry />
+                <Entry>22 Jun 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>18 Dec 1980</Entry>
+                <Entry>2 Jul 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>22 Jul 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>8 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry />
+                <Entry>14 Nov 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>24 Jan 1980</Entry>
+                <Entry>19 Aug 1982</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry />
+                <Entry>30 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>22 Sep 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry />
+                <Entry>6 Jul 2001 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>2 May 1980</Entry>
+                <Entry>14 Oct 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry />
+                <Entry>25 May 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry>16 Jun 1980</Entry>
+                <Entry>6 Jul 1984</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry />
+                <Entry>11 Sep 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>4 May 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>10 Oct 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>17 May 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>11 Jun 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>13 May 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry />
+                <Entry>16 Dec 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry />
+                <Entry>23 Aug 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>8 Jan 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>2 Jun 1980</Entry>
+                <Entry>10 Mar 1987</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>12 Nov 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>26 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>22 Oct 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>23 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>26 Mar 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>8 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Kitts and Nevis</Entry>
+                <Entry />
+                <Entry>17 Jan 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry />
+                <Entry>17 Oct 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>12 Sep 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry />
+                <Entry>19 Jun 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry>30 Jul 1980</Entry>
+                <Entry>5 Nov 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry />
+                <Entry>4 Apr 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>25 Feb 1980</Entry>
+                <Entry>15 Jan 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>18 Jul 1980</Entry>
+                <Entry>5 Mar 1985</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>6 May 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry />
+                <Entry>2 Oct 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 1998 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>8 Jul 1980</Entry>
+                <Entry>25 Jul 1986</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>9 Dec 2002 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>1 Apr 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>18 Jun 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>15 Aug 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>25 Jun 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>10 Nov 1980</Entry>
+                <Entry>5 Nov 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine&lt;superscript&gt;11&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>19 Jun 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry />
+                <Entry>24 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;3,12&lt;/superscript&gt;</Entry>
+                <Entry>18 Dec 1979</Entry>
+                <Entry>22 Dec 1982</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry />
+                <Entry>22 Jan 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>21 Dec 1979</Entry>
+                <Entry>7 Dec 1984</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry />
+                <Entry>4 Mar 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>19 Jan 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry />
+                <Entry>13 Dec 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>9 Jan 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen</Entry>
+                <Entry />
+                <Entry>14 Jul 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>17 Oct 2016 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Algeria</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of the People's Democratic Republic of Algeria does not consider itself bound by the provisions of article 16, paragraph 1, of the [said Convention].</text>
+        <text type="para">These provisions are not in accordance with the view of the Government of the People's Democratic Republic of Algeria that the submission of a dispute to the International Court of Justice requires the prior agreement of all the parties concerned in each case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="para">The Byelorussian Soviet Socialist Republic does not consider itself bound by article 16, paragraph 1, of the International Convention against the Taking of Hostages and declares that, in order for any dispute between parties to the Convention concerning the interpretation or application thereof to be referred to arbitration or to the International Court of Justice, the consent of all parties to the dispute must be secured in each individual case.</text>
+        <text type="para">The Byelorussian Soviet Socialist Republic condemns international terrorism, which takes the lives of innocent people, constitutes a threat to their freedom and personal inviolability and destabilizes the international situation, whatever the motives used to explain terrorist actions. Accordingly, the Byelorussian Soviet Socialist Republic considers that article 9, paragraph 1, of the Convention should be applied in a manner consistent with the stated aims of the Convention, which include the development of international co-operation in adopting effective measures for the prevention, prosecution and punishment of all acts of hostage-taking as manifestations of international terrorism through, inter alia, the extradition of alleged offenders.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Brazil</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">With the reservation provided under article 16?2).</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria&lt;superscript&gt;13&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration on article 9, paragraph 1:</text>
+        <text type="para">The People's Republic of Bulgaria condemns all acts of international terrorism, whose victims are not only governmental and public officials but also many innocent people, including mothers, children, old-aged, and which exerts an increasingly destabilizing impact on international relations, complicates considerably the political solution of crisis situations, irrespective of the reasons invoked to explain terrorist acts. The People's Republic of Bulgaria considers that article 9, paragraph 1 of the Convention should be applied in a manner consistent with the stated aims of the Convention, which include the development of international co-operation in adopting effective measures for the prevention, prosecution and punishment of all acts of hostage-taking as manifestations of international terrorism, including extradition of alleged offenders.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Chile</Participant>
+        <text type="para">The Government of the Republic [of Chile], having approved this Convention, states that such approval is given on the understanding that the aforesaid Convention prohibits the taking of hostages in any circumstances, even those referred to in article 12.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>China</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The People's Republic of China makes its reservation to article 16, paragraph 1, and does not consider itself bound by the provisions of article 16, paragraph 1, of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Colombia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">In accordance with article 16 (2) of the Convention, Colombia does not consider itself bound by the provisions of article?6?1).</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Republic of Cuba declares, pursuant to article 16, paragraph 2, that it does not consider itself bound by paragraph 1 of the said article, concerning the settlement of disputes arising between States Parties, inasmuch as it considers that such disputes must be settled through amicable negotiation. In consequence, it reiterates that it does not recognize the compulsory jurisdiction of the International Court of Justice.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;3&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Democratic People's Republic of Korea</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">... with the following reservations:</text>
+        <text type="para">1. The Democratic People's Republic of Korea does not consider itself bound by the provisions of article 16, paragraph? of the Convention.</text>
+        <text type="para">2. The Democratic People's Republic of Korea does not consider itself bound by the provisions of article 5, paragraph 3 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Dominica</Participant>
+        <text type="title">Understanding:</text>
+        <text type="para">"The aforesaid Convention prohibits the taking of hostages in any circumstances, even those referred to in article 12."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>El Salvador</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">With the reservation permitted under article 16 (2) of the said Convention.</text>
+        <text type="title">Upon ratification:</text>
+        <text type="para">Reservation with respect to the application of the provisions of article 16, paragraph 1 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ethiopia</Participant>
+        <text type="title">Reservation pursuant to article 16 (2):</text>
+        <text type="para">"The Government of the Federal Democratic Republic of Ethiopia does not consider itself bound by the aforementioned provision of the Convention, under which any dispute between two or more States Parties concerning the interpretation or application of the Convention shall, at the request of one of them, be submitted to arbitration or to the International Court of Justice, and states that disputes concerning the interpretation or application of the Convention would be submitted to arbitration or to the Court only with the prior consent of all the parties concerned."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>France</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">1. France considers that the act of hostage-taking is prohibited in all circumstances.</text>
+        <text type="para">2. With regard to the application of article 6, France, in accordance with the principles of its penal procedure, does not intend to take an alleged offender into custody or to take any other coercive measures prior to the institution of criminal proceedings, except in cases where pre-trial detention has been requested.</text>
+        <text type="para">3. With regard to the application of article 9, extradition will not be granted if the person whose extradition is requested was a French national at the time of the events or, in the case of a foreign national, if the offence is punishable by the death penalty under the laws of the requesting State, unless that State gives what are deemed to be adequate assurances that the death penalty will not be imposed or, if a death sentence is passed, that it will not be carried out.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Hungary&lt;superscript&gt;14&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>India</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"The Government of the Republic of India declares that it does not consider itself bound by paragraph 1 of article 16 which establishes compulsory arbitration or adjudication by the International Court of Justice concerning disputes between two or more States Parties relating to the interpretation or application of this Convention at the request of one of them."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iran (Islamic Republic of)&lt;superscript&gt;15&lt;/superscript&gt;</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"Pursuant to Article 16, paragraph 2 of the International Convention against the Taking of Hostages, the Government of the Islamic Republic of Iran declares that it does not consider itself bound by the provisions of Article 16, paragraph 1 of the Convention regarding the reference of any dispute concerning the interpretation, or application of this Convention, which is not settled by negotiation to arbitration or to the International Court of Justice."</text>
+        <text type="title">Interpretative declaration:</text>
+        <text type="para">"The Government of the Islamic Republic of Iran declares its categorical condemnation of each and every act of terrorism, including taking innocent civilians as hostages, which violates human rights and fundamental freedom of human kind, undermines the stability and security of human communities, and hinders countries from development and progress. The Islamic Republic of Iran believes that elimination of terrorism requires a comprehensive campaign by the international community to identify and eradicate political, economic, social and international root causes of the scourge.</text>
+        <text type="para">The Islamic Republic of Iran further believes that fighting terrorism should not affect the legitimate struggle of peoples under colonial domination and foreign occupation in the exercise of their right of self-determination, as enshrined in a variety of international documents, including the Charter of the United Nations, the Declaration on Principles of International Law concerning Friendly Relations and Cooperation among States in accordance with the Charter of the United Nations, and Article? paragraph 4 of the Protocol I Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Israel</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">"1. It is the understanding of Israel that the Convention implements the principle that hostage taking is prohibited in all circumstances and that any person committing such an act shall be either prosecuted or extradited pursuant to article 8 of this Convention or the relevant provisions of the Geneva Conventions of 1949 or their additional Protocols, without any exception whatsoever.</text>
+        <text type="para">"2) The Government of Israel declares that it reserves the right, when depositing the instrument of ratification, to make reservations and additional declarations and understandings."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">The Italian Government declares that, because of the differing interpretations to which certain formulations in the text lend themselves, Italy reserves the right, when depositing the instrument of ratification, to invoke article 19 of the Vienna Convention on the Law of Treaties of 23 May 1969 in conformity with the general principles of international law.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Jordan</Participant>
+        <text type="para">"The Government of the Hashemite Kingdom of Jordan declares that their accession to the International Convention against the Taking of Hostages can in no way be construed as constituting recognition of, or entering into treaty relations with the state of Israel.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kenya</Participant>
+        <text type="para">"The Government of the Republic of Kenya does not consider herself bound by the provisions of paragraph (1) of the article 16 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kuwait&lt;superscript&gt;16&lt;/superscript&gt;</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">It is understood that the accession to this Convention does not mean in any way a recognition of Israel by the Government of the State of Kuwait.</text>
+        <text type="para">Furthermore, no treaty relations will arise between the State of Kuwait and Israel.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lao People's Democratic Republic</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"In accordance with paragraph 2, Article 16 of the International Convention Against the Taking of Hostages, the Lao People's Democratic Republic does not consider itself bound by paragraph 1, article 16 of the present Convention. The Lao People's Democratic Republic declares that to refer a dispute relating to interpretation and application of the present Convention to arbitration or International Court of Justice, the agreement of all parties concerned in the dispute is necessary."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lebanon</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">1. The accession of the Lebanese Republic to the Convention shall not constitute recognition of Israel, just as the application of the Convention shall not give rise to relations or cooperation of any kind with it.</text>
+        <text type="para">2. The provisions of the Convention, and in particular those of its article 13, shall not affect the Lebanese Republic's stance of supporting the right of States and peoples to oppose and resist foreign occupation of their territories.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Liechtenstein</Participant>
+        <text type="title">Interpretative declaration:</text>
+        <text type="para">The Principality of Liechtenstein construes article 4 of the Convention to mean that the Principality of Liechtenstein undertakes to fulfil the obligations contained therein under the conditions laid down in its domestic legislation.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Malawi</Participant>
+        <text type="para">"While the Government of the Republic of Malawi accepts the principles in article 16, this acceptance would nonetheless be read in conjunction with [the] declaration [made by the President and the Minister for Foreign Affairs of Malawi] of 12 December, 1966 upon recognition as compulsory, the jurisdiction of the International Court of Justice under article 36, paragraph 2, of the State of the Court."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Malaysia</Participant>
+        <text type="title">Declarations and reservation:</text>
+        <text type="para">"1. The Government of Malaysia understands the phrase preliminary inquiry into the facts' in Article 6 (1) of the Convention to mean a reference to the criminal investigation by the relevant law enforcement authority before a decision is made whether to institute a prosecution against the alleged offender for the offences under the Convention. 2. The Government of Malaysia understands Article 8 (1) of the Convention to include the right of the competent authorities to decide not to submit any particular case for prosecution before the judicial authorities if the alleged offender is dealt with under national security and preventive detention laws. 3. (a) Pursuant to Article 16 (2) of the Convention, the Government of Malaysia declares that it does not consider itself bound by article 16 (1) of the Convention; and (b) The Government of Malaysia reserves the right specifically to agree in a particular case to follow the arbitration procedure set forth in Article 16 (1) of the Convention or any other procedure for arbitration."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mexico</Participant>
+        <text type="para">In relation to article 16, the United Mexican States adhere to the scope and limitations established by the Government of Mexico on 7 November 1945, at the time when it ratified the Charter of the United Nations and the Statute of the International Court of Justice.</text>
+        <text>&lt;right&gt;6 August 1987&lt;/right&gt;</text>
+        <text type="para">The Government of Mexico subsequently specified that the said declaration should be understood to mean that, in so far as article 16 is concerned, the United Mexican States accede subject to the limits and restrictions laid down by the Mexican Government when recognizing, on 23 October 1947, the compulsory jurisdiction of the International Court of Justice in accordance with article 36, paragraph 2, of the State of the Court.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Montenegro&lt;superscript&gt;8&lt;/superscript&gt;</Participant>
+        <text type="title">Confirmed upon succession:</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"The [Government of Yugoslavia] herewith states that the provisions of Article 9 of the Convention should be interpreted and applied in practice in the way which would not bring into question the goals of the Convention, i.e. undertaking of efficient measures for the prevention of all acts of the taking of hostages as a phenomenon of international terrorism, as well as the prosecution, punishment and extradition of persons considered to have perpetrated this criminal offence."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mozambique</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">... with the following declaration in accordance with its article 16, paragraph 2:</text>
+        <text type="para">"The Republic of Mozambique does not consider itself bound by the provisions of article 16 paragraph 1 of the Convention.</text>
+        <text type="para">In this connection, the Republic of Mozambique states that, in each individual case, the consent of all Parties to such a dispute is necessary for the submission of the dispute to arbitration or to [the] International Court of Justice.</text>
+        <text type="para">Furthermore, the Republic of Mozambique declares that:</text>
+        <text type="para">The Republic of Mozambique, in accordance with its Constitution and domestic laws, can not extradite Mozambique citizens.</text>
+        <text type="para">Therefore, Mozambique citizens will be tried and sentenced in national courts."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Myanmar</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Government of the Union of Myanmar does not consider itself bound by the article 16 (1) of the International Convention against the Taking of Hostages adopted on 17 December 1979.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"In cases where the judicial authorities of either the Netherlands, the Netherlands Antilles or Aruba cannot exercise jurisdiction pursuant to one of the principles mentioned in article 5, paragraph 1, the Kingdom accepts the aforesaid obligation [laid down in article 8] subject to the condition that it has received and rejected a request for extradition from another State party to the Convention."</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"In the view of the Government of the Kingdom of the Netherlands article 15 of the Convention, and in particular the second sentence of that article, in no way affects the applicability of article 33 of the Convention of 28 July 1951 relating to the Status of Refugees."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Qatar</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">& the State of Qatar accede[s] to the Convention Against the Taking of Hostages of 1979, with reservation [to] paragraph 1 of article 16 of the Convention.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Republic of Moldova</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">Pursuant to article 16, paragraph 2 of the International Convention against the Taking of Hostages, the Republic of Moldova declares that it does not consider itself bound by the provisions of article 16, paragraph 1 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation&lt;superscript&gt;17&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Saudi Arabia&lt;superscript&gt;16&lt;/superscript&gt;</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">1. The Kingdom of Saudi Arabia does not consider itself obligated with the provision of paragraph 1, of article 16, of the Convention concerning arbitration.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">2. The accession of the Kingdom of Saudi Arabia to this Convention does not constitute a recognition of Israel and does not lead to entering into any transactions or the establishment of any relations based on this Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Participant>
+        <text type="title">Confirmed upon succession:</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"The [Government of Yugoslavia] herewith states that the provisions of Article 9 of the Convention should be interpreted and applied in practice in the way which would not bring into question the goals of the Convention, i.e. undertaking of efficient measures for the prevention of all acts of the taking of hostages as a phenomenon of international terrorism, as well as the prosecution, punishment and extradition of persons considered to have perpetrated this criminal offence."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Singapore</Participant>
+        <text type="title">Reservation and declaration:</text>
+        <text type="para">Pursuant to Article 16, paragraph 2, of the Convention, the Republic of Singapore declares that it does not consider itself bound by the provisions of Article 16, paragraph 1 of the Convention.</text>
+        <text type="para">The Republic of Singapore understands Article 8(1) of the Convention to include the right of competent authorities to decide not to submit any particular case for prosecution before the judicial authorities if the alleged offender is dealt with under national security and preventive detention laws.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;3&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>St. Lucia</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">1. In accordance with Article 16 of paragraph 2 of the Convention, the Government of Saint Lucia does not consider itself bound by the arbitration procedures established under Article 16 paragraph 1, of the Convention.</text>
+        <text type="para">2. That the explicit expressed consent of the Government of Saint Lucia would be necessary for any submission of any dispute to arbitration [or] to the International Court of Justice.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Swiss Federal Council interprets article 4 of the Con-vention to mean that Switzerland undertakes to fulfil the obligations contained therein in the conditions specified by its domestic legislation.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Thailand</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"The Government of the Kingdom of Thailand does not consider itself bound by Article 16, paragraph 1 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Tunisia</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">[The Government of the Republic of Tunisia] declares that it does not consider itself bound by the provisions of paragraph 1 of article 16 and states that disputes concerning the interpretation or application of the Convention can only be submitted to arbitration or to the International Court of Justice with the prior consent of all the Parties concerned.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Turkey</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">In acceding to the Convention the Government of the Republic of Turkey, under article 16 (2) of the Convention declares that it doesn't consider itself bound by the provisions of paragraph (1) of the said article.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="para">[ &lt;i&gt;Same reservation and declaration identical in substance, &lt;/i&gt; mutatis mutandis, &lt;i&gt;as those made by Belarus. &lt;/i&gt;]</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Venezuela (Bolivarian Republic of)</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Venezuela declares that it is not bound by the provisions of article 16, paragraph 1, of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Viet Nam</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">[T]he Socialist Republic of Viet Nam does not consider itself bound by the provisions of paragraph 1 of Article 16 of this Convention.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">1. The Socialist Republic of Viet Nam declares that the provisions of the International Convention against the Taking of Hostages are non-self-executing in Viet Nam. The Socialist Republic of Viet Nam shall duly implement the provisions of the Convention through multilateral and bilateral mechanisms, specific provisions in its domestic laws and regulations and on the basis of the principle of reciprocity.</text>
+        <text type="para">2. The Socialist Republic of Viet Nam, pursuant to Article 10 of this Convention, declares that it shaII not take this Convention as the direct legal basis for extradition. The Socialist Republic of Viet Nam shalI carry out extradition in accordance with the provisions of its domestic laws and regulations, on the basis of treaties on extradition and the principle of reciprocity.</text>
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made upon ratification,</Title>
+      <Title>accession or succession.)</Title>
+      <Objection>
+        <Participant>France</Participant>
+        <text>&lt;right&gt;9 January 2015&lt;/right&gt;</text>
+        <text type="title">With regard to the declaration made by Viet Nam upon accession</text>
+        <text type="para">The Government of the French Republic has examined the declaration formulated by Viet Nam upon accession to the International Convention against the Taking of Hostages.</text>
+        <text type="para">In this declaration, Viet Nam states, inter alia, that the provisions of the International Convention against the Taking of Hostages are non-self-executing in Viet Nam, and that the Socialist Republic of Viet Nam shall duly implement the provisions of the Convention through multilateral and bilateral mechanisms, specific provisions in its domestic laws and regulations and on the basis of the principle of reciprocity.</text>
+        <text type="para">The French Government notes that the declaration formulated by Viet Nam has the legal effect of restricting the scope of certain stipulations of the Convention and must therefore be considered as a reservation.</text>
+        <text type="para">The French Government notes that Viet Nam intends, by means of this declaration, to prevent the direct application of the provisions of the Convention. As a contracting party to the Convention, Viet Nam is required to take the necessary measures to incorporate the obligations contained in the Convention into its domestic legal order. In this connection, the reservation formulated by Viet Nam is incompatible with the object and purpose of the Convention.The French Government also notes that Viet Nam intends, by means of this declaration, to make the application of the provisions of the Convention subordinate to the principle of reciprocity. However, the object and purpose of the Convention is to develop international cooperation between States so as to ensure that any person who commits the act of hostage-taking is prosecuted or extradited, even if the State of which the hostage-taker is a national does not apply the provisions of the Convention or is not a party thereto. In this regard, the French Government considers that the Government of Viet Nam has formulated a reservation that is incompatible with the object and purpose of the Convention, which is to ensure that any person who commits an act of hostage-taking is prosecuted or extradited.</text>
+        <text type="para">The Government of the French Republic therefore objects to the declaration formulated by Viet Nam. This objection does not preclude the entry into force of the Convention between France and Viet Nam.</text>
+      </Objection>
+      <Objection>
+        <Participant>Israel</Participant>
+        <text>&lt;right&gt;9 Septemer 1998&lt;/right&gt;</text>
+        <text type="title">With regard to declarations made by Lebanon upon accession:</text>
+        <text type="para">... The Government of Israel refers in particular to the political declaration [ &lt;i&gt;see declaration 1 made under Lebanon &lt;/i&gt;] made by the Lebanese Republic on acceding to the [said] Convention.</text>
+        <text type="para">In the view of the Government of Israel, this Convention is not the proper place for making declarations of a political character. The Government of Israel will, in so far as concerns the substance of the matter adopt towards the Lebanese Republic an attitude of complete reciprocity.</text>
+        <text type="para">Moreover, in view of the Government of Israel, the Lebanese understanding of certain of the Conventions provisions [ &lt;i&gt;see declaration 2 made under Lebanon &lt;/i&gt;] is incompatible with and contradictory to the object and purpose of the Convention and in effect defeats that object and purpose.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Italy</Participant>
+        <text>&lt;right&gt;27 March 2007&lt;/right&gt;</text>
+        <text type="title">With regard to the interpretative declaration made by the Islamic Republic of Iran upon accession:</text>
+        <text type="para">"The interpretative declaration made by Iran would limit the scope of application of the Convention to exclude acts that otherwise constitute the offence of "taking of hostages" under article 2, if they meet the test of "legitimate struggle of peoples under colonial domination and foreign occupation in the exercise of their right of self-determination". The interpretative declaration does not limit the obligations of Iran under the Convention with regard to article 1.</text>
+        <text type="para">Italy wishes to make clear that it opposes any and all interpretations of the Convention that would limit its scope of application, and does not consider the declaration made by Iran to have any effect on the Convention. Italy thus regards the Convention as entering into force between Italy and Iran without the interpretative declaration made by Iran."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Portugal</Participant>
+        <text type="title">With regard to the declaration made by Singapore upon accesstion:</text>
+        <text type="para">The Government of the Portuguese Republic considers that the declaration made by the Government of the Republic of Singapore, to Article 8 (1) is in fact a reservation that seeks to limit the scope of the Convention on a unilateral basis and is therefore contrary to its object and purpose.</text>
+        <text type="para">The reservation furthermore is not compatible with the terms of Article 6 of the Convention according to which State Parties commit themselves to in accordance with its laws take other measures to ensure his presence for such time as is necessary to enable any criminal or extradition proceedings to be instituted.</text>
+        <text type="para">The Government of the Portuguese Republic recalls that, according to Article 19 (c) of the Vienna Convention on the Law of Treaties, a reservation incompatible with the object and purpose of the Convention shall not be permitted.</text>
+        <text type="para">The Government of the Portuguese Republic therefore objects to the aforesaid reservation made by the Government of the Republic of Singapore to Article 8 (1) of the International Convention Against the Taking of Hostages, New York, 17 December 1979.</text>
+        <text type="para">However, this objection shall not preclude the entry into force of the Convention between the Portuguese Republic and the Republic of Singapore.</text>
+      </Objection>
+      <Objection>
+        <Participant>Spain</Participant>
+        <text type="title">With regard to the declaration made by Singapore upon accession:</text>
+        <text type="para">The Government of the Kingdom of Spain has examined the unilateral declaration with respect to article 8, paragraph 1, made by Singapore upon acceding to the International Convention Against the Taking of Hostages of 17 December 1979. The Government of the Kingdom of Spain considers that the said declaration constitutes a reservation incompatible with the object and purpose of the 1979 Convention, insofar as it is difficult to determine precisely the extent to which Singapore accepts the obligations set out in article 8, paragraph 1. The said reservation affects fundamental obligations resulting from the Convention, the performance of which is necessary for the realization of the object of the Convention.</text>
+        <text type="para">The Government of the Kingdom of Spain therefore objects to the reservation formulated by Singapore to article 8, paragraph 1, of the 1979 Convention. This objection shall not prevent the entry into force of the Convention between the Kingdom of Spain and Singapore.</text>
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications>
+      <Title>Notifications made under article 7</Title>
+      <Title>(Unless otherwise indicated, the notifications were made upon ratification,</Title>
+      <Title>acceptance or succession.)</Title>
+      <Notification>
+        <Participant>Saudi Arabia</Participant>
+        <text>&lt;right&gt;11 December 2001&lt;/right&gt;</text>
+        <text type="para">[For the text of the communication see depositary notification C.N.1500.2001.TREATIES- of 8 January 2002]</text>
+        <text type="para" />
+      </Notification>
+    </Notifications>
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt; Official Records of the General Assembly, Thirty-fourth Session, Supplement No. 46 &lt;/i&gt; (A/34/46), p. 245.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 29 December 1980 and 19 April 1985, respectively, with the following reservation (made upon signature) and declaration (made upon ratification):</text>
+        <text>"With the reservation with regard to article 9, subject to subsequent approval pursuant to the constitutional provisions in force in Solicalist Federal Republic of Yugoslavia".</text>
+        <text>&lt;i&gt;Declaration: &lt;/i&gt;</text>
+        <text>"The Government of the Yugoslavia herewith states that the provisions of Article 9 of the Convention should be interpreted and applied in practice in the way which would not bring into question the goals of the Convention, i.e. undertaking of efficient measures for the prevention of all acts of the taking of hostages as a phenomenon of international terrorism, as well as the prosecution, punishment and extradition of persons considered to have perpetrated this criminal offence."</text>
+        <text>See also note 1 under "Bosnia and Herzegovina", "Croatia", "former Yugoslavia", "Slovenia", "The Former Yugoslav Republic of Macedonia" and "Yugoslavia" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The Secretary-General received, on 6 and 10 June 1999, communications concerning the status of Hong Kong from China and the United Kingdom (see also note 2 under China and note 2 under United Kingdom of Great Britain and Northern Ireland regarding Hong Kong in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Hong Kong, China notified the Secretary-General that the Convention with reservation will also apply to the Hong Kong Special Administrative Region.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>On 28 June 1999, the Government of Portugal informed the Secretary-General that the Convention would also apply to Macao. Subsequently, the Secretary-General received, on 27 October and 3 December 1999, communications concerning the status of Macao from Portgual and China (see also note 3 under China and note 1 under Portugal regarding Macao in the Historical Information section in the front matter of this volume). Upon resuming the exercise of sovereignty over Macao, China notified the Secretary-General that the Convention will also apply to the Macao Special Administrative Region.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>Czechoslovakia had acceded to the Convention on 27 January 1988, with the following reservation to article 16 (1):</text>
+        <text>The Czechoslovak Socialist Republic does not consider itself bound by the provision of its article 16, paragraph 1, and states that, in accordance with the principle of sovereign equality of States, for any dispute to be submitted to a conciliation procedure or to the International Court of Justice the consent of all the parties to the dispute is required in each separate case.</text>
+        <text>Subsequently, on 26 April 1991, the Government of Czechoslovakia notified the Secretary-General of its decision to withdraw the said reservation.</text>
+        <text>See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>The German Democratic Republic had acceded to the Convention on 2 May 1988 with the following reservation and declaration:</text>
+        <text>&lt;i&gt;Reservation regarding article 16, paragraph 1 &lt;/i&gt;:</text>
+        <text>The German Democratic Republic does not consider itself bound by the provisions of article 16, paragraph 1, of the International Convention against the Taking of Hostages and declares that in every single case the consent of all parties in the dispute is necessary to submit to arbitration or refer to the International Court of Justice any dispute between the States Parties to the Convention concerning the interpretation or application of the Convention.</text>
+        <text>&lt;i&gt;Declaration regarding article 9, paragraph 1 &lt;/i&gt;:</text>
+        <text>The German Democratic Republic decisively condemns any act of international terrorism. Therefore, the German Democratic Republic holds the opinion that article 9, paragraph 1, of the Convention shall be applied in such a way as to be in correspondence with the declared aims of the Convention which embrace the taking of effective measures for the prevention, prosecution and punishment of all acts of international terrorism, including the taking of hostages.</text>
+        <text>See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>For the Kingdom in Europe, the Netherlands Antilles and Aruba.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>For New Zealand (except Tokelau), Cook Islands and Niue.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>On 20 October 2015, the Government of Ukraine made a communication. The text can be found here: C.N.613.2015.TREATIES-XVIII.5 of 20 October 2015.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>In respect of the United Kingdom of Great Britain and Northern Ireland and the Territories under the territorial sovereignty of the United Kingdom.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>On 24 June 1992, the Government of Bulgaria notified the Secretary-General of its decision to withdraw the reservation to article?6?1) of the Convention, made upon accession which reads as follows:</text>
+        <text>The People's Republic of Bulgaria does not consider itself bound by the provisions of article?6, paragraph 1 of the International Convention against the Taking of Hostages and declares that submission of any dispute concerning interpretation and application of the Convention between parties to the Convention to arbitration or to the International Court of Justice requires the consent of all parties to the dispute in each individual case.</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>In a communication received on 8 December 1989, the Government of Hungary notified the Secretary-General that it had decided to withdraw its reservation with respect to article 16 made upon accession which reads as follows:</text>
+        <text>The Hungarian People's Republic does not consider itself bound by the dispute settlement procedures provided for in article 16, paragraph?1 of the Convention, since in its opinion, the jurisdiction of any arbitral tribunal or of the International Court of Justice can be founded only on the voluntary prior acceptance of such jurisdiction by all the Parties concerned.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>The Secretary-General received communications from the following States with regard to the Interpretative declaration made by the Islamic Republic of Iran upon accession on the dates indicated hereinafter:</text>
+        <text>France (16 November 2007):</text>
+        <text>France has examined the reservation and the two interpretative declarations made by the Islamic Republic of Iran upon its accession on 20 November 2006 to the International Convention against the Taking of Hostages, done at New York on 17 September 1979.</text>
+        <text>France considers that the declaration in which the Islamic Republic of Iran states its belief that fighting terrorism should not affect the legitimate struggle of peoples under colonial domination and foreign occupation in the exercise of their right of self-determination has no effect on the provisions of the Convention. Notwithstanding, France wishes to recall that it considers that the act of hostage-taking is prohibited in all circumstances.</text>
+        <text>United States of America (16 November 2007):</text>
+        <text>The Interpretative Declaration sets forth Irans belief that fighting terrorism should not affect the legitimate struggle of people under colonial domination and foreign occupation in the exercise of their right of self-determination &  The United States views this generalized statement as having no effect on the Convention or on application of the Convention between the United States and Iran. Nothing in the Convention provides for or permits any justification, whether political, philosophical, ideological, racial, ethnic, religious, or otherwise for the commission of acts that States parties to the Convention are required to criminalize.</text>
+        <text>Portugal (19 November 2007):</text>
+        <text>& The Government of the Portuguese Republic has carefully examined the interpretative declaration made by the Islamic Republic of Iran with regard to the International Convention against the Taking of Hostages.</text>
+        <text>Portugal considers that this interpretative declaration cannot limit the scope of the application of the Convention; otherwise it would be a reservation contrary to its object and purpose, if purporting to exclude from the acts prohibited by the Convention acts committed in the struggle of peoples under colonial domination and foreign occupation.</text>
+        <text>Therefore, Portugal does not consider the declaration made by Iran to have any legal effect on the Convention.</text>
+        <text>Canada (20 November 2007):</text>
+        <text>The Government of Canada has carefully examined the interpretative declaration made by the Government of the Islamic Republic of Iran upon acceding to the International Convention against the Taking of Hostages. The Government of Canada notes that the interpretative declaration has potential to limit the scope of application of the Convention to exclude acts that otherwise constitute the offence of taking of hostages under article 2, if they meet the test of legitimate struggle of peoples under colonial domination and foreign occupation in the exercise of their right of self-determination. The Government of Canada notes that this interpretative declaration does not limit the obligations of the Islamic Republic of Iran under the Convention with regard to article 1. The Government of Canada opposes any and all interpretations of the Convention that would limit its scope of application and does not consider the declaration made by the Islamic Republic of Iran to have any effect on the Convention.</text>
+        <text>Germany (21 November 2007):</text>
+        <text>The Government of the Federal Republic of Germany has carefully examined the interpretative declaration made by the Islamic Republic of Iran with regard to the International Convention against the Taking of Hostages.</text>
+        <text>Germany considers that this interpretative declaration cannot limit the scope of the application of the Convention; otherwise it would be a reservation contrary to its object and purpose, if purporting to exclude from the acts prohibited by the Convention acts committed in the struggle of peoples under colonial domination and foreign occupation.</text>
+        <text>Therefore, the Federal Republic of Germany does not consider the declaration made by Iran to have any legal effect on the Convention.</text>
+        <text>Japan (27 November 2007):</text>
+        <text>The Government of Japan has carefully examined the interpretative declaration made by the Government of the Islamic Republic of Iran at the time of its accession to the International Convention against the Taking of Hostages (hereinafter referred to as the Convention) which reads as follows: The Islamic Republic of Iran further believes that fighting terrorism should not affect the legitimate struggle of peoples under colonial domination and foreign occupation in the exercise of their right of self-determination, as enshrined in a variety of international documents, including the Charter of the United Nations, the Declaration on Principles of International Law concerning Friendly Relations and Cooperation among States in accordance with the Charter of the United Nations, and Article 1 paragraph 4 of the Protocol I Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts.</text>
+        <text>The Government of Japan does not consider that the aforementioned interpretative declaration made by the Government of the Islamic Republic of Iran purports to exclude or to modify the legal effect of certain provisions of the Convention in their application to the Islamic Republicof Iran. The Government of Japan thus regards the interpretative declaration made by the Islamic Republic of Iran as having no effect on the application of the Convention between the two countries.</text>
+        <text>The Government of Japan wishes to take this opportunity to declare its unequivocal condemnation of all acts of terrorism, including taking of hostages, as criminal and unjustifiable, regardless of their motives, and to emphasize the importance to ensure that any person committing an act of terrorism does not escape prosecution and punishment.</text>
+        <text>United Kingdom of Great Britain and Northern Ireland (27 November 2007):</text>
+        <text>The Government of the United Kingdom of Great Britain and Northern Ireland [has] examined the declaration relating to the International Convention Against the Taking of Hostages made by the Government of the Islamic Republic of Iran at the time of its accession to the Convention. The Government of the United Kingdom understand [s] that the declaration made by Iran does not purport to exclude or modify the terms of the Convention. The United Kingdom Government condemns in the strongest terms all acts of terrorism irrespective of their motivation whenever and by whomsoever committed and for whatever purposes.</text>
+        <text>Netherlands (10 December 2007):</text>
+        <text>The Government of the Kingdom of the Netherlands has carefully examined the interpretative declaration made by the Islamic Republic of Iran with regard to the International Convention against the Taking of Hostages.</text>
+        <text>The Government of the Kingdom of the Netherlands considers that this interpretative declaration cannot limit the scope of the Convention; otherwise it would be a reservation contrary to its object and purpose, if purporting to exclude from the acts prohibited by the Convention acts committed in the struggle of peoples under colonial domination and foreign occupation.</text>
+        <text>Therefore, the Government of the Kingdom of the Netherlands does not consider the declaration made by Iran to have any legal effect on the Convention.</text>
+        <text>Spain (6 February 2008):</text>
+        <text>The Government of the Kingdom of Spain has examined the interpretative declaration made by the Islamic Republic of Iran in respect of the International Convention against the Taking of Hostages.</text>
+        <text>The Government of the Kingdom of Spain considers that this interpretative declaration cannot limit the scope of the Convention, since, under the Convention itself, acts of hostage-taking, as manifestations of international terrorism, can never be justified, regardless of their cause.</text>
+        <text>If the objective of the declaration is to exclude acts committed in the struggle of peoples against colonial domination or foreign occupation from the category of acts prohibited by the Convention, the Government of the Kingdom of Spain is of the view that the declaration would be a reservation incompatible with the object and purpose of the Convention.</text>
+        <text>Accordingly, the Government of the Kingdom of Spain believes that the declaration made by the Islamic Republic of Iran has no legal effect on the Convention.</text>
+        <text>Austria (7 February 2008):</text>
+        <text>The Government of Austria has carefully examined the interpretative declaration made by the Islamic Republic of Iran with regard to the International Convention against the Taking of Hostages.</text>
+        <text>The Government of Austria considers the interpretative declaration made by Iran a mere political statement that has no legal effect.</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>On 17 May 1989, the Secretary-General received from the Government of Israel the following communication:</text>
+        <text>"The Government of the State of Israel has noted that the instrument of accession by the Government of Kuwait to the above-mentioned Convention contains a declaration in respect to Israel. In the view of the Government of the State of Israel, such declaration, which is explicitly of a political character, is incompatible with the purposes and objectives of this Convention and cannot in any way affect whatever obligations are binding upon the Government of Kuwait under general international law or under particular Conventions.</text>
+        <text>The Government of the State of Israel, will insofar as concerns the substance of the matter, adopt towards the Government of Kuwait an attitude of complete reciprocity.</text>
+        <text>On 22 May 1991, the Secretary-General received from the Government of Israel a communication, identical in essence, &lt;i&gt;mutatis mutandis &lt;/i&gt;, with regard to the declaration made by Saudi Arabia upon accession.</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>In a communication received on 1 May 2007, the Government of the Russian Federation informed the Secretary-General of its decision to withdraw the following reservation made by the Union of Soviet Socialist Republics upon accession to the Convention:</text>
+        <text>... does not consider itself bound by article 16, paragraph 1, of the International Convention against the Taking of Hostages and declares that, in order for any dispute between parties to the Convention concerning the interpretation or application thereof to be referred to arbitration or to the International Court of Justice, the consent of all parties to the dispute must be secured in each individual case.</text>
+      </Note>
+    </EndNotes>
+    <Footer>XVIII 5. Penal Matters</Footer>
+  </Treaty>
+</Document>

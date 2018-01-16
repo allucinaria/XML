@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IX</Header>
+        <Name>HEALTH</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Titlesect>WHO Framework Convention on Tobacco Control</Titlesect>
+        <Conclusion>Geneva, 21 May 2003</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>27 February 2005, in accordance with article 36(1)"1. This Convention shall enter into force on the ninetieth day following the date of deposit of the fortieth instrument of ratification, acceptance, approval, formal confirmation or accession with the Depositary. 2. For each State that ratifies, accepts or approves the Convention or accedes thereto after the conditions set out in paragraph 1 of this Article for entry into force have been fulfilled, the Convention shall enter into force on the ninetieth day following the date of deposit of its instrument of ratification, acceptance, approval or accession. 3. For each regional economic integration organization depositing an instrument of formal confirmation or an instrument of accession after the conditions set out in paragraph 1 of this Article for entry into force have been fulfilled, the Convention shall enter into force on the ninetieth day following the date of its depositing of the instrument of formal confirmation or of accession. 4. For the purposes of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by States Members of the organization.".</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>27 February 2005, No. 41032</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>168</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>181</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 2302, p. 166.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Convention was adopted during the 56th World Health Assembly, which took place from 19 to 28 May 2003, at the Palais des Nations, Geneva. It was opened for signature by all Members of the World Health Organization, or Members of the United Nations, and by regional economic integration organizations from 16 June 2003 to 22 June 2003 at the World Health Organization Headquarters in Geneva, and remains open for signature at United Nations Headquarters in New York from 30 June 2003 to 29 June 2004.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Acceptance(A), Approval(AA), Formal confirmation(c), Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Afghanistan</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>13 Aug 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>26 Apr 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>20 Jun 2003</Entry>
+                <Entry>30 Jun 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>20 Sep 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry>28 Jun 2004</Entry>
+                <Entry>5 Jun 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>25 Sep 2003</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>29 Nov 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>5 Dec 2003</Entry>
+                <Entry>27 Oct 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>28 Aug 2003</Entry>
+                <Entry>15 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>1 Nov 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>3 Nov 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>20 Mar 2007 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>14 Jun 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry>28 Jun 2004</Entry>
+                <Entry>3 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>17 Jun 2004</Entry>
+                <Entry>8 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>22 Jan 2004</Entry>
+                <Entry>1 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry>26 Sep 2003</Entry>
+                <Entry>15 Dec 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>18 Jun 2004</Entry>
+                <Entry>3 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry>9 Dec 2003</Entry>
+                <Entry>23 Aug 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>27 Feb 2004</Entry>
+                <Entry>15 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry />
+                <Entry>10 Jul 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>31 Jan 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>3 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry>3 Jun 2004</Entry>
+                <Entry>3 Jun 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>22 Dec 2003</Entry>
+                <Entry>7 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>22 Dec 2003</Entry>
+                <Entry>31 Jul 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>22 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry>17 Feb 2004</Entry>
+                <Entry>4 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry>25 May 2004</Entry>
+                <Entry>15 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>13 May 2004</Entry>
+                <Entry>3 Feb 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry>15 Jul 2003</Entry>
+                <Entry>26 Nov 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>29 Dec 2003</Entry>
+                <Entry>7 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad</Entry>
+                <Entry>22 Jun 2004</Entry>
+                <Entry>30 Jan 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>25 Sep 2003</Entry>
+                <Entry>13 Jun 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>10 Nov 2003</Entry>
+                <Entry>11 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry />
+                <Entry>10 Apr 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros</Entry>
+                <Entry>27 Feb 2004</Entry>
+                <Entry>24 Jan 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>23 Mar 2004</Entry>
+                <Entry>6 Feb 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Cook Islands</Entry>
+                <Entry>14 May 2004</Entry>
+                <Entry>14 May 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>3 Jul 2003</Entry>
+                <Entry>21 Aug 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>24 Jul 2003</Entry>
+                <Entry>13 Aug 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>2 Jun 2004</Entry>
+                <Entry>14 Jul 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>24 May 2004</Entry>
+                <Entry>26 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>1 Jun 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry>17 Jun 2003</Entry>
+                <Entry>27 Apr 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>28 Jun 2004</Entry>
+                <Entry>28 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>16 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry>13 May 2004</Entry>
+                <Entry>31 Jul 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>24 Jul 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>22 Mar 2004</Entry>
+                <Entry>25 Jul 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>17 Jun 2003</Entry>
+                <Entry>25 Feb 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>18 Mar 2004</Entry>
+                <Entry>21 Jul 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Equatorial Guinea</Entry>
+                <Entry />
+                <Entry>17 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry>8 Jun 2004</Entry>
+                <Entry>27 Jul 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>25 Feb 2004</Entry>
+                <Entry>25 Mar 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>European Union</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>30 Jun 2005 c</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry>3 Oct 2003</Entry>
+                <Entry>3 Oct 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>24 Jan 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>19 Oct 2004 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>22 Aug 2003</Entry>
+                <Entry>20 Feb 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>18 Sep 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry>20 Feb 2004</Entry>
+                <Entry>14 Feb 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>24 Oct 2003</Entry>
+                <Entry>16 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>20 Jun 2003</Entry>
+                <Entry>29 Nov 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>27 Jan 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Grenada</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>14 Aug 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry>25 Sep 2003</Entry>
+                <Entry>16 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>1 Apr 2004</Entry>
+                <Entry>7 Nov 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry />
+                <Entry>7 Nov 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>15 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry>23 Jul 2003</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry>18 Jun 2004</Entry>
+                <Entry>16 Feb 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>7 Apr 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>14 Jun 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry>10 Sep 2003</Entry>
+                <Entry>5 Feb 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>6 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>17 Mar 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>16 Sep 2003</Entry>
+                <Entry>7 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>20 Jun 2003</Entry>
+                <Entry>24 Aug 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>2 Jul 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry>24 Sep 2003</Entry>
+                <Entry>7 Jul 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry>9 Mar 2004</Entry>
+                <Entry>8 Jun 2004 A</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry>28 May 2004</Entry>
+                <Entry>19 Aug 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry>21 Jun 2004</Entry>
+                <Entry>22 Jan 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>25 Jun 2004</Entry>
+                <Entry>25 Jun 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Kiribati</Entry>
+                <Entry>27 Apr 2004</Entry>
+                <Entry>15 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>12 May 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry>18 Feb 2004</Entry>
+                <Entry>25 May 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>6 Sep 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry>10 May 2004</Entry>
+                <Entry>10 Feb 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>4 Mar 2004</Entry>
+                <Entry>7 Dec 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry>23 Jun 2004</Entry>
+                <Entry>14 Jan 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>25 Jun 2004</Entry>
+                <Entry>15 Sep 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry>18 Jun 2004</Entry>
+                <Entry>7 Jun 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>22 Sep 2003</Entry>
+                <Entry>16 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>30 Jun 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>24 Sep 2003</Entry>
+                <Entry>22 Sep 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry>23 Sep 2003</Entry>
+                <Entry>16 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>17 May 2004</Entry>
+                <Entry>20 May 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>23 Sep 2003</Entry>
+                <Entry>19 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>24 Sep 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>8 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry>24 Jun 2004</Entry>
+                <Entry>28 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>17 Jun 2003</Entry>
+                <Entry>17 May 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>12 Aug 2003</Entry>
+                <Entry>28 May 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry>28 Jun 2004</Entry>
+                <Entry>18 Mar 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>27 Jan 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>16 Apr 2004</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry>18 Jun 2003</Entry>
+                <Entry>14 Jul 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry>23 Oct 2003</Entry>
+                <Entry>21 Apr 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Namibia</Entry>
+                <Entry>29 Jan 2004</Entry>
+                <Entry>7 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Nauru</Entry>
+                <Entry />
+                <Entry>29 Jun 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry>3 Dec 2003</Entry>
+                <Entry>7 Nov 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>27 Jan 2005 A</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>27 Jan 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry>7 Jun 2004</Entry>
+                <Entry>9 Apr 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>28 Jun 2004</Entry>
+                <Entry>25 Aug 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>28 Jun 2004</Entry>
+                <Entry>20 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Niue</Entry>
+                <Entry>18 Jun 2004</Entry>
+                <Entry>3 Jun 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>16 Jun 2003 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>9 Mar 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry>18 May 2004</Entry>
+                <Entry>3 Nov 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Palau</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>12 Feb 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>26 Sep 2003</Entry>
+                <Entry>16 Aug 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry>22 Jun 2004</Entry>
+                <Entry>25 May 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>26 Sep 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>21 Apr 2004</Entry>
+                <Entry>30 Nov 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>23 Sep 2003</Entry>
+                <Entry>6 Jun 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>14 Jun 2004</Entry>
+                <Entry>15 Sep 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>9 Jan 2004</Entry>
+                <Entry>8 Nov 2005 AA</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry>17 Jun 2003</Entry>
+                <Entry>23 Jul 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>21 Jul 2003</Entry>
+                <Entry>16 May 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>3 Feb 2009</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>25 Jun 2004</Entry>
+                <Entry>27 Jan 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>3 Jun 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry>2 Jun 2004</Entry>
+                <Entry>19 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry>25 Sep 2003</Entry>
+                <Entry>3 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>San Marino</Entry>
+                <Entry>26 Sep 2003</Entry>
+                <Entry>7 Jul 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry>18 Jun 2004</Entry>
+                <Entry>12 Apr 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry>24 Jun 2004</Entry>
+                <Entry>9 May 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>19 Jun 2003</Entry>
+                <Entry>27 Jan 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>28 Jun 2004</Entry>
+                <Entry>8 Feb 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry>11 Sep 2003</Entry>
+                <Entry>12 Nov 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>22 May 2009 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry>29 Dec 2003</Entry>
+                <Entry>14 May 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>19 Dec 2003</Entry>
+                <Entry>4 May 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>25 Sep 2003</Entry>
+                <Entry>15 Mar 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Solomon Islands</Entry>
+                <Entry>18 Jun 2004</Entry>
+                <Entry>10 Aug 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>19 Apr 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>11 Jan 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry>23 Sep 2003</Entry>
+                <Entry>11 Nov 2003</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Kitts and Nevis</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>21 Jun 2011</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>7 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry>14 Jun 2004</Entry>
+                <Entry>29 Oct 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>10 Jun 2004</Entry>
+                <Entry>31 Oct 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry>24 Jun 2004</Entry>
+                <Entry>16 Dec 2008</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland</Entry>
+                <Entry>29 Jun 2004</Entry>
+                <Entry>13 Jan 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>7 Jul 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>25 Jun 2004</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry>11 Jul 2003</Entry>
+                <Entry>22 Nov 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>21 Jun 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>20 Jun 2003</Entry>
+                <Entry>8 Nov 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry />
+                <Entry>30 Jun 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Timor-Leste</Entry>
+                <Entry>25 May 2004</Entry>
+                <Entry>22 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>12 May 2004</Entry>
+                <Entry>15 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry>25 Sep 2003</Entry>
+                <Entry>8 Apr 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry>27 Aug 2003</Entry>
+                <Entry>19 Aug 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>22 Aug 2003</Entry>
+                <Entry>7 Jun 2010</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>28 Apr 2004</Entry>
+                <Entry>31 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>13 May 2011 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tuvalu</Entry>
+                <Entry>10 Jun 2004</Entry>
+                <Entry>26 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>5 Mar 2004</Entry>
+                <Entry>20 Jun 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>25 Jun 2004</Entry>
+                <Entry>6 Jun 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry>24 Jun 2004</Entry>
+                <Entry>7 Nov 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland</Entry>
+                <Entry>16 Jun 2003</Entry>
+                <Entry>16 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>27 Jan 2004</Entry>
+                <Entry>30 Apr 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>10 May 2004</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Uruguay&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry>19 Jun 2003</Entry>
+                <Entry>9 Sep 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>15 May 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Vanuatu</Entry>
+                <Entry>22 Apr 2004</Entry>
+                <Entry>16 Sep 2005</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)</Entry>
+                <Entry>22 Sep 2003</Entry>
+                <Entry>27 Jun 2006</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry>3 Sep 2003</Entry>
+                <Entry>17 Dec 2004</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen</Entry>
+                <Entry>20 Jun 2003</Entry>
+                <Entry>22 Feb 2007</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>23 May 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>4 Dec 2014 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations</Title>
+      <Title>(Unless otherwise indicated, the objections were made upon</Title>
+      <Title>ratification, acceptance, approval, formal confirmation or accession.)</Title>
+      <Declaration>
+        <Participant>Azerbaijan</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">"The Republic of Azerbaijan declares that none of the rights, obligations and provisions set out in the Convention shall be applied by the Republic of Azerbaijan in respect of the Republic of Armenia.</text>
+        <text type="para">In accordance with paragraph 2 of Article 27 of the Convention, the Republic of Azerbaijan declares that, where any disputes arising between the Republic of Azerbaijan and any Party concerning the implementation and interpretation of the Convention can not be settled by negotiations and other diplomatic means, according to paragraph 1 of the above-mentioned Article such disputes shall be settled through arbitration.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="title">Declaration made upon signature:</text>
+        <text type="para">This signature also engages the French community, Flemish community and German-speaking community, the Waloon region, the Flemish region and the Brussels-capital region.</text>
+        <text type="title">Declaration made upon ratification:</text>
+        <text type="para">The Kingdom of Belgium declares that, for a dispute not resolved in accordance with paragraph 1 of Article 27 of the Convention, it accepts, as compulsory, ad hoc arbitration in accordance with procedures to be adopted by consensus by the Conference of the Parties.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Brazil</Participant>
+        <text type="title">Declarations:</text>
+        <text type="para">With respect to matters relating to the support for economically viable alternative activities to tobacco, proposed by the Framework Convention for Tobacco Control of the World Health Organization, adopted by the World Health Assembly on 21 May 2003, Brazil makes the following interpretative declaration:</text>
+        <text type="para">Brazil declares that, in the context of preambular paragraphs?5 and 16, and of Articles 4 (6), 17 and 26 (3) of the Framework Convention for Tobacco Control of the World Health Organization, there is no prohibition to the production of tobacco or restriction to national policies of support for farmers currently dedicated to this activity.</text>
+        <text type="para">In addition, Brazil declares it to be imperative that the Convention be an effective instrument for the international mobilization of technical and financial resources in order to help developing countries to make economic alternatives to the agricultural production of tobacco viable, as part of their national strategies for sustainable development.</text>
+        <text type="para">Lastly, Brazil also declares that it will not support any proposal with a view to utilizing the Framework Convention for Tobacco Control of the World Health Organization as an instrument for discriminatory practices to free trade.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>China</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">In accordance with the provision of Article 16, paragraph?.....the People's Republic of China indicates hereby its commitment to prohibit the introduction of tobacco vending machines within its jurisdiction.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;1&lt;/superscript&gt;</Participant>
+        <text type="title">Interpretative declaration:</text>
+        <text type="para">The Czech Republic makes the following interpretative declaration to the Convention:</text>
+        <text type="para">The Czech Republic welcomes international cooperation in the field of tobacco control aimed at strengthening public health protection.</text>
+        <text type="para">The Czech Republic declares that it does not consider guidelines adopted by the Conference of the Parties as instruments directly establishing legal obligations under the Convention.</text>
+        <text type="para">The Czech Republic declares that it will not support any future proposals amending the Convention or relating to its Protocols which would be in contradiction with the constitutional principles of the Czech Republic as well as commitments arising from its membership in the European Union and from international agreements on free trade to which the Czech Republic has acceded.</text>
+        <text type="para">The Czech Republic also declares that it considers Article 5 (3) a provision not affecting the right to non-discriminatory treatment of the tobacco industry by the Parties and thus permitting the necessary extent of cooperation with the tobacco industry as regards tobacco control.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Estonia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"In accordance with article 16, paragraph 5 of the Convention, the Republic of Estonia indicates its commitment to a total ban on tobacco vending machines within its jurisdiction.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>European Union</Participant>
+        <text type="title">Interpretative declaration made upon signature and confirmed upon formal confirmation:</text>
+        <text type="para">"The Community and its Member States declare that a Member State of the European Community whose national constitution or constitutional principles do not permit the introduction of a comprehensive ban on tobacco advertising, promotion and sponsorship may make use of the provision enshrined in Article 13(3) of the Framework Convention on Tobacco Control to accommodate regulations so as to respect national constitutional constraints."</text>
+        <text type="title">Upon formal confirmation:</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"The European Community declares that, in accordance with the provisions of the Treaty establishing the European Community, and in particular Articles 3(1)(p) and 152 thereof, it is competent to adopt measures, which complement the national policies of its Member States, directed towards improving public health, preventing human illness and diseases, and obviating sources of danger to human health.</text>
+        <text type="para">The current members of the Community are the Kingdom of Belgium, the Czech Republic, the Kingdom of Denmark, the Federal Republic of Germany, the Republic of Estonia, the Hellenic Republic, the Kingdom of Spain, the French Republic, Ireland, the Italian Republic, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Grand Duchy of Luxembourg, the Republic of Hungary, the Republic of Malta, the Kingdom of the Netherlands, the Republic of Austria, the Republic of Poland, the Portuguese Republic, the Republic of Slovenia, the Slovak Republic, the Republic of Finland, the Kingdom of Sweden and the United Kingdom of Great Britain and Northern Ireland.</text>
+        <text type="para">Community competence exists in areas already covered by Community legislation. The Community acts listed below are illustrative of the Community's sphere of competence in accordance with the provisions of the Treaty establishing the European Community. The exercise of competence that Member States have transferred to the Community by virtue of the Treaties is, by its very nature, bound to continuously evolve. Therefore in this regard, the Community reserves its right to issue further declarations in the future.</text>
+        <text type="para">List of Community acts and programmes contributing to promoting tobacco control.</text>
+        <text type="para">Council Directive 89/552/EC of 3 October 1989 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the pursuit of television broadcasting activities (OJ L 298, 17.10.1989, p.?3). Directive as amended by Directive 97/36/EC of the European Parliament and of the Council (OJ L 202, 30.7.1997, p.60).</text>
+        <text type="para">Directive 2001/37/EC of the European Parliament and of the Council of 5 June 2001 on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco products (OJ L 194, 18.7.2001, p.26).</text>
+        <text type="para">Directive 2003/33/EC of 26 May 2003 of the European Parliament and of the Council on the approximation of the laws, regulations and administrative provisions of the Member States relating to the advertising and sponsorship of tobacco products (OJ L 152, 20.6.2003, p.16).</text>
+        <text type="para">Commission Decision 2003/641/EC of 5 September 2003 on the use of colour photographs or other illustrations as health warnings on tobacco packages (OJ L 226, 10.9.2003, p. 24).</text>
+        <text type="para">Decision No. 1786/2002/EC of the European Parliament and of the Council of 23 September 2002 adopting a programme of Community action in the field of public health (2003-2008) (OJ L 271, 9.10.2002, p. 1).</text>
+        <text type="para">Commission Regulation (EC) No 2182/2002 of 6 December 2002 laying down detailed rules for the application of Council Regulation (EEC) No 2075/92 with regard to the Community Tobacco Fund (OJ L 331, 7.12.2002, p. 16). Regulation as amended by Regulation (EC) No 480/2004 (OJ L 78, 16.32004, p.8).</text>
+        <text type="para">Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.0.1992, p.1). Regulation as last amended by the 2003 Act of Accession.</text>
+        <text type="para">Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural matters (OJ L 82, 22,3,1997, p.1). Regulation as amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p.36).</text>
+        <text type="para">Council Regulation (EC) No 3295/94 of 22 December 1994 laying down measures to prohibit the release for free circulation, export, re-export or entry for a suspensive procedure of counterfeit and pirated goods (OJ L 341, 30.12.1994, p. 8) replaced from 1.7.2004 by Council Regulation (EC) No 1383/2003 of 22 July 2003 concerning customs action against goods suspected of infringing certain intellectual property rights and the measures to be taken against goods found to have infringed such rights (OJ L 196, 2.8.2003, p.7)."</text>
+        <text type="para"></text>
+      </Declaration>
+      <Declaration>
+        <Participant>Guatemala</Participant>
+        <text type="title">Upon signature :</text>
+        <text type="title">Declaration:</text>
+        <text type="para">With respect to Article 21 1(e) and (4) of the World Health Organization Framework Convention on Tobacco Control, adopted by the United Nations General Assembly on May 21, 2003, that the Republic of Guatemala makes the following interpretative declaration:</text>
+        <text type="para">The Republic of Guatemala declares that it interprets, in the context of Article 21 1(e) and (4) of the Convention, that the implementation of Article 13 4(d) of the Convention, concerning disclosure to relevant governmental authorities of expenditures by the tobacco industry on advertising, promotion and sponsorship not yet prohibited, will be subject to national law regarding confidentiality and privacy.</text>
+        <text type="title">Upon ratification :</text>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Guatemala declares that its interpretation, in the context of Article 21.1 (e) (4) of the Convention, is that the implementation of Article 13.4 (d) of the Convention, concerning disclosure to relevant governmental authorities of expenditures by the tobacco industry on advertising, promotion and sponsorship not yet prohibited, will be subject to national law regarding confidentiality and privacy.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Syrian Arab Republic</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Accession of the Syrian Arab Republic to the said Convention does not, in any way, imply recognition of Israel, nor shall it lead to entry into any dealings with the Israel in the matters governed by the provisions of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Viet Nam</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"Any dispute arising between the Socialist Republic of Viet Nam and any other Parties to the Convention concerning the implementation or application of the Convention, which is not resolved through negotiation or any other peaceful means in accordance with paragraph 1, article 27 thereof, shall be referred to arbitration for settlement, only on the basis of agreement between the Socialist Republic of Viet Nam and such parties, on the basis of case by case."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made upon</Title>
+      <Title>ratification, acceptance, approval, formal confirmation or accession.)</Title>
+      <Objection>
+        <Participant>Israel</Participant>
+        <text type="title">With regard to the declaration made by the Syrian Arab Republic upon ratification:</text>
+        <text type="para">"The Government of the State of Israel has noted that the instrument of ratification of the Syrian Arab Republic of the abovementioned Convention [...] contains a declaration with respect to the State of Israel.</text>
+        <text type="para">The Government of the State of Israel considers that such declaration, which is explicitly of a political nature, is incompatible with the purposes and objectives of the Convention.</text>
+        <text type="para">The Government of Israel therefore objects to the aforesaid declaration made by the Syrian Arab Republic."</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The Secretary-General received the following communications relating to the interpretative declaration made by the Czech Republic upon ratification:</text>
+        <text></text>
+        <text>Uruguay (17 July 2012)</text>
+        <text>The Government of Uruguay acknowledges receipt of the Depositary Notification on the interpretative declaration made by the Czech Republic when acceding the Framework Convention on Tobacco Control of the World Health Organization on 1 June 2012.</text>
+        <text>In this regard, the Government of Uruguay would like to state that such interpretative declaration cannot be deemed to be a reservation, expressly prohibited under article 30 of the FCTC, nor can it be considered to exempt any Party of its obligations under the Convention.</text>
+        <text>Article 5.3 of the FCTC expressly states that Parties shall act to protect these policies from commercial and other vested interests of the tobacco industry in accordance with national law.</text>
+        <text>Uruguay wishes to remind States Parties of the Guidelines for implementation of Article 5.3 of the FCTC, which state that there is a fundamental and irreconcilable conflict between the tobacco industrys interests and public health policy interests.</text>
+        <text></text>
+        <text></text>
+        <text>Czech Republic (10 January 2013)</text>
+        <text>On the Communication of Uruguay to the Interpretative Declaration of the Czech Republic to the Framework Convention on Tobacco Control (FCTC) Concerning Article 5(3) FCTC</text>
+        <text>When depositing the FCTC ratification instrument, the Czech Republic made an Interpretative Declaration to the FCTC. This Declaration is solely of an interpretative nature and the Czech Republic thereby raised no reservations against the text of the FCTC; under Article 30 of the FCTC this is not even possible. Under no circumstances the Czech Republic, by means of this act, challenges the obligations imposed on the Parties by the FCTC.</text>
+        <text>On Article 5(3) of the FCTC the Czech Republic declares that it considers Article 5(3) a provision not affecting the right to non-discriminatory treatment of the tobacco industry by the Parties and thus permitting the necessary extent of cooperation with the tobacco industry as regards tobacco control. This statement was made to alleviate certain concerns and possibly misunderstandings, which some Czech competent authorities expressed regarding the interpretation of Article 5(3). Some public administration tasks require limited contact with the tobacco industry, such as consultations with all relevant subjects concerned, including tobacco industry, while preparing a regulatory impact assessment of a new legislation related to tobacco products regulation, performance of reporting and control tasks, etc.</text>
+        <text>After all, a certain level of interaction of the Parties to the FCTC with the tobacco industry is mentioned also by the Guidelines for implementation of Article 5(3) - Principle No. 2 Establish measures to limit interactions with the tobacco industry and ensure the transparency of those interactions that occur. The Declaration thus corresponds with Recommendation No. 2.1 under this Principle, according to which the parties should interact with the tobacco industry only when and to the extent strictly necessary to enable them to effectively regulate the tobacco industry and tobacco products.</text>
+        <text>Naturally, all necessary interactions are done in full awareness of the fundamental and irreconcilable conflict between the interests of the tobacco industry and the interests of the public health protection. It should also be stressed that the word cooperation used in the Czech Interpretative Declaration should be interpreted as not exceeding the sense of the interaction which is mentioned in the Guidelines for implementation of Article 5(3).</text>
+        <text></text>
+        <text>Australia (5 January 2015)</text>
+        <text>WHEREAS the Minister for Foreign Affairs of the Government of Australia has approved the lodgement of an Interpretative Declaration ('Declaration') in relation to the text of an Interpretative Declaration lodged by the Czech Republic on its ratification on 1 June 2012 of the WHO Framework</text>
+        <text>Convention on Tobacco Control done at Geneva on 21 May 2003 [2005] ATS 7('Convention') which entered into force for Australia on 27 February 2005;</text>
+        <text>NOW THEREFORE THESE PRESENTS CERTIFY that Australia's Declaration with regard to the Declaration lodged by the Czech Republic upon its ratification of the Convention on 1 June 2012 isas follows:</text>
+        <text>1. Australia declares that the Convention does not recognise any 'right to non-discriminatory treatment of the tobacco industry'.</text>
+        <text>2. Australia recognises that Article 5.3 (General obligations) of the Convention requires the Parties to act to protect their tobacco control policies from commercial and other vested interests of the tobacco industry in accordance with national law.</text>
+        <text>3. Australia declares its understanding that Parties to the Convention should interact with the tobacco industry only when and to the extent strictly necessary to enable them to effectively regulate the tobacco industry and tobacco products, and should ensure that any such interactions are conducted transparently.</text>
+        <text></text>
+        <text>Czech Republic (8 July 2016)</text>
+        <text>On the Communication of Australia to the Interpretative Declaration of the Czech Republic to the Framework Convention on Tobacco Control (Convention) concerning Article 5.3 of the Convention</text>
+        <text>First, the Czech Republic confirms that it has taken note of the Communication of Australia to the Interpretative Declaration made by the Czech Republic to Framework Convention on Tobacco Control (Convention) concerning Article 5.3 (General obligations) of the Convention.</text>
+        <text>In response, the Czech Republic refers to its previous Communication on the related Communication of Uruguay 2, where the reasons for the Interpretative Declaration of the Czech Republic in respect of Article 5.3 of the Convention are fully explained.</text>
+        <text>With regard to point No. 1 of the Communication of Australia, the Czech Republic emphasizes its awareness of the fact that the Convention does not recognize any right to non-discriminatory treatment of the tobacco industry. The purpose of the Interpretative Declaration made by the Czech Republic is to confirm that at the same time the Convention does not prohibit the non-discriminatory treatment of the tobacco industry and thereby maintains, within the commitments made in the Convention, the possibility of certain level of interaction with the tobacco industry.</text>
+        <text>Finally, the current national legislative and other initiatives related to the prevention of tobacco use may be considered as evidence of the immense effort of the Czech Republic in promoting tobacco control and the implementation of the Convention including its Article 5.3.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>On 11 October 2005, the Government of China informed the Secretary-General of the following:</text>
+        <text>In accordance with the provision of article 153 of the Basic Law of the Hong Kong Special Administrative Region of the Peoples Republic of China and article 138 of the Basic Law of the Macao Special Administrative Region of the Peoples Republic of China, the Government of the Peoples Republic of China decides that the WHO Framework Convention on Tobacco Control and the declaration made by the Peoples Republic of China on the prohibition of the introduction of tobacco vending machines shall apply to the Hong Kong Special Administrative Region and the Macao Special Administrative Region of the Peoples Republic of China.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>With the following territorial exclusion:</text>
+        <text>.....the Convention does not until further notice apply to the Faroe Islands and Greenland.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>With the following territorial exclusion:</text>
+        <text>"... consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory."</text>
+      </Note>
+    </EndNotes>
+    <Footer>IX 4. Health</Footer>
+  </Treaty>
+</Document>

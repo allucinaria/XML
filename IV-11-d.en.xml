@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER IV</Header>
+        <Name>HUMAN RIGHTS</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>11</Numsect>
+        <Subnumsect>d</Subnumsect>
+        <Subtitlesect>Optional Protocol to the Convention on the Rights of the Child on a communications procedure</Subtitlesect>
+        <Conclusion>New York, 19 December 2011</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>14 April 2014, in accordance with article 19(1).</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>14 April 2014, No. 27531</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>51</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>37</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>&lt;a href="/doc/source/docs/A_RES_66_138-Eng.pdf" target="_blank"&gt;A/RES/66/138&lt;/a&gt;</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The above Protocol, which was adopted at the sixty-sixth session of the General Assembly of the United Nations by resolution &lt;a href="../doc/source/docs/A_Res_66_138-E.pdf" target="_blank"&gt;66/138&lt;/a&gt; of 19 December 2011, opened for signature in Geneva, Switzerland, on 28 February 2012 and remains open for signature thereafter at United Nations Headquarters in New York.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry>24 Sep 2012</Entry>
+                <Entry>29 May 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry>26 Sep 2012</Entry>
+                <Entry>25 Sep 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>25 Jul 2012</Entry>
+                <Entry>14 Apr 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>30 May 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>24 Sep 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry />
+                <Entry>2 Apr 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina</Entry>
+                <Entry>11 Jul 2017</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>29 Sep 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry>24 Sep 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>1 Sep 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>14 Jan 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>24 Sep 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Croatia</Entry>
+                <Entry>27 Dec 2013</Entry>
+                <Entry>18 Apr 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry>27 Jul 2012</Entry>
+                <Entry>11 Sep 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic</Entry>
+                <Entry>30 Apr 2015</Entry>
+                <Entry>2 Dec 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>7 Oct 2015 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>24 Apr 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry>25 Jul 2013</Entry>
+                <Entry>9 Feb 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>12 Nov 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>20 Nov 2014</Entry>
+                <Entry>7 Jan 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>25 Sep 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>19 Sep 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>28 Feb 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>24 Sep 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau</Entry>
+                <Entry>24 Sep 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>24 Sep 2014</Entry>
+                <Entry>24 Sep 2014</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>4 Feb 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry>24 Sep 2012</Entry>
+                <Entry>25 Jan 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry>30 Sep 2015</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>12 Feb 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry>24 Sep 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry>18 Apr 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry>13 Aug 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry />
+                <Entry>24 Sep 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>4 Oct 2013</Entry>
+                <Entry>28 Sep 2015</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>24 Sep 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>16 Feb 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry>26 Sep 2012</Entry>
+                <Entry>20 Jan 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>6 Jan 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>30 Sep 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Portugal</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>24 Sep 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry>13 Jun 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry />
+                <Entry>29 Apr 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>1 Oct 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Serbia</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry>24 Sep 2013</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Slovakia</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>3 Dec 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>3 Jun 2013</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>24 Apr 2017 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>25 Sep 2012</Entry>
+                <Entry>25 Sep 2012</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia</Entry>
+                <Entry>23 May 2012</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>24 Sep 2012</Entry>
+                <Entry>26 Dec 2017</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>20 Nov 2014</Entry>
+                <Entry>2 Sep 2016</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>28 Feb 2012</Entry>
+                <Entry>23 Feb 2015</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, acceptance, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Albania</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">According to article 12, first paragraph of the Optional Protocol, the Republic of Albania hereby declares it accepts the competence of the committee to receive and examine the communications in which a State party claims that another State party does not meet its obligations under the instruments referred to in this paragraph [to] which the State is a party.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Belgium</Participant>
+        <text type="title">Upon Ratification</text>
+        <text type="para">&lt;i&gt;Declaration:&lt;/i&gt;</text>
+        <text type="para">The Kingdom of Belgium recognizes the competence of the Committee on the Rights of the Child to receive, pursuant to article 12 of the Optional Protocol, communications from a State party which claims that another State is not fulfilling its obligations.</text>
+        <text type="title">Upon Signature</text>
+        <text type="para">&lt;i&gt;Declaration:&lt;/i&gt;</text>
+        <text type="para">This signature engages also the French Community, the Flemish Community, the German-speaking Community, the Walloon Region, the Flemish Region and the Brussels-Capital Region.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Chile</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Chile declares, in accordance to article 12, entitled Inter-State Communications, of the Optional Protocol to the Convention on the Rights of the Child on a communications procedure, that it recognizes the competence of the Committee to receive and consider communications in which a State party claims that another State party is not fulfilling its obligations under any of the following instruments to which the State is a party: the Convention; the Optional Protocol to the Convention on the sale of children, child prostitution and child pornography; and to the Optional Protocol to the Convention on the involvement of children in armed conflicts.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic</Participant>
+        <text>&lt;right&gt;20 May 2016&lt;/right&gt;</text>
+        <text type="para">Pursuant to Article 12 (1) of the Optional Protocol to the Convention on the Rights of the Child on a Communication Procedure, the Czech Republic declares that it recognizes the competence of the Committee on the Rights of the Child to receive and consider communications according to this article.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Finland</Participant>
+        <text type="title">Declaration :</text>
+        <text type="para">The Republic of Finland declares that it recognizes the competence of the Committee to receive and consider inter-state communications made against it provided for in Article 12 of the Protocol.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Germany</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Federal Republic of Germany recognizes the competence of the Committee to receive and consider communications pursuant to Article 12(1) of the Optional Protocol.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text>&lt;right&gt;1 December 2016&lt;/right&gt;</text>
+        <text type="title">Declaration:</text>
+        <text type="para">... pursuant to Article 12 (1) of the Optional Protocol to the Convention on the Rights of the Child on a Communications Procedure, done at New York on 19 December 2011, the Italian Republic declares that it recognizes the competence of the Committee on the Rights of the Child to receive and consider communications in which a State party claims that another State party is not fulfilling its obligations under the instruments referred to in this Article.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Liechtenstein</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"According to article 12 of the Optional Protocol from 19 December 2011 to the Convention on the Rights of the Child on a communications procedure, the Principality of Liechtenstein declares that it recognises the competence of the Committee on the Rights of the Child to receive and consider communications in which a State party claims that the Principality of Liechtenstein does not fulfil its obligations under any of the following instruments: the Convention on the Rights of the Child, the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict, or the Optional Protocol to the Convention on the Rights of the Child on the sale of children, child prostitution and child pornography."</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Monaco</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Pursuant to Article 13, paragraph 7, of the Protocol, the Principality of Monaco wishes to indicate that it does not recognize the competence of the Committee provided for in the present article in respect of the rights set forth in the Convention on the Rights of the Child, the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict and the Optional Protocol to the Convention on the Rights of the Child on the sale of children, child prostitution and child pornography.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Portugal</Participant>
+        <text type="para">The Portuguese Republic declares that it recognizes the competence of the Committee on the Rights of the Child in accordance and for the purposes of article twelve of the Optional Protocol to the Convention on the Rights of the Child on a communications procedure, adopted in New York, on the nineteenth of December of two thousand and eleven.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Slovak Republic recognizes the competence of the Committee on the Rights of the Child to receive and consider communications pursuant to Article 12 (1) of the Optional Protocol.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Switzerland</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Pursuant to article 12 (1) of the Protocol, Switzerland recognizes the competence of the Committee to receive and consider communications under this provision.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Turkey</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Republic of Turkey declares with regard to the competence of the Committee on the Rights of the Child as provided for by the Optional Protocol to the Convention on the Rights of the Child on a communications procedure, that the reservations and declarations it made to the Convention on the Rights of the Child, to the Optional Protocol to the Convention on the Rights of the Child on the Involvement of Children in armed conflict and to the Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography fully retain their validity.</text>
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">Ukraine states that for the period of temporary occupation of a part of the territory of Ukraine  the Autonomous Republic of Crimea and the city of Sevastopol  as a result of the armed aggression of the Russian Federation and until complete restoration of the constitutional order and effective control by Ukraine over such occupied territory, as well as over certain districts of the Donetsk and Luhansk oblasts of Ukraine, the application and/or implementation by Ukraine of the obligations under the Optional Protocol to the Convention on the Rights of the Child on a communications procedure, as applied to the aforementioned occupied and uncontrolled territory of Ukraine, is limited and is not guaranteed.</text>
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>With Territorial exclusion with regard to Greenland and the Faroe Islands.</text>
+      </Note>
+    </EndNotes>
+    <Footer>IV 11 d. Human Rights</Footer>
+  </Treaty>
+</Document>

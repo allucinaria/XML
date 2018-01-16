@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER XIX</Header>
+        <Name>COMMODITIES</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>41</Numsect>
+        <Subnumsect>b</Subnumsect>
+        <Subtitlesect>Food Aid Convention, 1995*</Subtitlesect>
+        <Conclusion>London, 5 December 1994</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>1 July 1995, in accordance with article XXI(2). The Agreement was extended until 30 June 1999, and was terminated in accordance with its provisions on 30 June 1999.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>1 July 1995, No. 32022</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>18</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>21</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 1882, p. 195.</Text>
+        </TreatyText>
+        <TreatyNote />
+        <Termination>
+          <Label>TERMINATION</Label>
+          <Labeltext>Terminated in accordance with its provisions on 30 June 1999.</Labeltext>
+        </Termination>
+      </ExternalData>
+    </Header>
+    <Footer>XIX 41 b. Commodities</Footer>
+  </Treaty>
+</Document>

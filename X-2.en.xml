@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER X</Header>
+        <Name>INTERNATIONAL TRADE AND DEVELOPMENT</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>2</Numsect>
+        <Titlesect>Agreement establishing the African Development Bank</Titlesect>
+        <Conclusion>Khartoum, 4 August 1963</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>10 September 1964, in accordance with article 65.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>10 September 1964, No. 7408</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>31</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>52</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 510, p. 3, and vol. 569, p. 353 (corrigendum to vol. 510).</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Agreement was approved and opened for signature by the Conference of Finance Ministers on the Establishment of an African Development Bank convened pursuant to resolution 52 (IV)&lt;superscript&gt;1&lt;/superscript&gt; of the United Nations Economic Commission for Africa. The Conference was convened at Khartoum from 31 July to 4 August 1963. For the text of the Final Act of the Conference, see United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 510, p. 3.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>10 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>9 Jan 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>8 Oct 1963</Entry>
+                <Entry>25 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>31 Mar 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>21 Nov 1963</Entry>
+                <Entry>22 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Burundi&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>2 Jan 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>15 Apr 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>8 Oct 1963</Entry>
+                <Entry>7 May 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>26 Aug 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chad&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Aug 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Comoros&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>3 May 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>29 Nov 1963</Entry>
+                <Entry>10 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>20 Mar 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>5 Jun 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Jul 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>14 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Equatorial Guinea&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>30 Jun 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ethiopia</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>14 Jul 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>31 Dec 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>2 Jul 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>30 Jun 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>21 May 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea-Bissau&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>5 May 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>24 Jan 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>2 Jul 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>23 Jun 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>21 Jul 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>3 May 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>25 Jul 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>23 Apr 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>9 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Jan 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>2 Jun 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>4 Jun 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>25 Oct 1963</Entry>
+                <Entry>29 Jul 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>12 Mar 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry>18 Dec 1963</Entry>
+                <Entry>18 Jan 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>14 Apr 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>17 Dec 1963</Entry>
+                <Entry>11 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>20 Apr 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>18 Feb 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Somalia</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>22 Oct 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry>13 Feb 1984</Entry>
+                <Entry>13 Feb 1984</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>9 Sep 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Swaziland&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>26 Jul 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>14 Sep 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry>18 Oct 1963</Entry>
+                <Entry>3 Jul 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>29 Oct 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Uganda</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>16 Dec 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry>4 Aug 1963</Entry>
+                <Entry>27 Nov 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>5 Sep 1980 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations />
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>&lt;i&gt;Official Records of the Economic and Social Council, Thirty-fourth Session, Supplement No. 10 &lt;/i&gt;(E/3586, E/CN.14/168), p.44.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>Article 64 (2) of the Agreement provides that a State may, after the Agreement has entered into force, become a member of the Bank by accession to the Agreement on such terms as the Board of Governors may determine; that the Government of such State shall deposit its instrument of accession on or before a date appointed by the Board, and that, upon the deposit, the State concerned shall become a member of the Bank on the appointed date.</text>
+        <text>Following are, in respect of each acceding State, the number and date of the pertinent resolution adopted by the Board of Governors of the Bank. In all cases, the terms for accession included the payment of the first instalment of its initial subscription to the Bank by the State concerned and, unless otherwise indicated, the appointed date corresponded to the date of deposit of the instrument of accession with the Secretary-General:</text>
+        <table>
+          <totalCols>3</totalCols>
+          <row>
+            <col>Participant</col>
+            <col>Number of Resolution</col>
+            <col>Date of Resolution</col>
+          </row>
+          <row>
+            <col>Angola</col>
+            <col>3-80</col>
+            <col>23 Jun 1980 (Appointed date: 23 June 1980)</col>
+          </row>
+          <row>
+            <col>Botswana</col>
+            <col>9-71</col>
+            <col>28 Jul 1971</col>
+          </row>
+          <row>
+            <col>Burundi</col>
+            <col>4-67</col>
+            <col>31 Dec 1967</col>
+          </row>
+          <row>
+            <col>Cape Verde</col>
+            <col>02-76</col>
+            <col>15 Apr 1976</col>
+          </row>
+          <row>
+            <col>Central African Republic</col>
+            <col>3-70</col>
+            <col>26 Aug 1970</col>
+          </row>
+          <row>
+            <col>Chad</col>
+            <col>2-68/</col>
+            <col>25 Jun 1968/</col>
+          </row>
+          <row>
+            <col></col>
+            <col>3-68</col>
+            <col>26 Aug 1968</col>
+          </row>
+          <row>
+            <col>Comoros</col>
+            <col>05-76</col>
+            <col>3 May 1976</col>
+          </row>
+          <row>
+            <col>Djibouti</col>
+            <col>01-78</col>
+            <col>1 May 1978</col>
+          </row>
+          <row>
+            <col>Equatorial Guinea</col>
+            <col>03-75</col>
+            <col>5 May 1975</col>
+          </row>
+          <row>
+            <col>Gabon</col>
+            <col>8-72</col>
+            <col>20 Jul 1972</col>
+          </row>
+          <row>
+            <col>Gambia</col>
+            <col>2-73</col>
+            <col>2 Jul 1973</col>
+          </row>
+          <row>
+            <col>Guinea-Bissau</col>
+            <col>02-75</col>
+            <col>5 May 1975</col>
+          </row>
+          <row>
+            <col>Lesotho</col>
+            <col>3-73</col>
+            <col>2 Jul 1973</col>
+          </row>
+          <row>
+            <col>Libyan Arab Jamahiriya</col>
+            <col>13-72</col>
+            <col>21 Jul 1972</col>
+          </row>
+          <row>
+            <col>Madagascar</col>
+            <col>06-76</col>
+            <col>3 May 1976</col>
+          </row>
+          <row>
+            <col>Malawi</col>
+            <col>2-66</col>
+            <col>19 Apr 1966</col>
+          </row>
+          <row>
+            <col>Mauritius</col>
+            <col>4-73</col>
+            <col>2 Jul 1973</col>
+          </row>
+          <row>
+            <col>Mozambique</col>
+            <col>07-76</col>
+            <col>3 May 1976</col>
+          </row>
+          <row>
+            <col>Sao Tome and Principe</col>
+            <col>01-76</col>
+            <col>28 Feb 1976</col>
+          </row>
+          <row>
+            <col>Seychelles</col>
+            <col>01-77</col>
+            <col>31 Mar 1977</col>
+          </row>
+          <row>
+            <col>Swaziland</col>
+            <col>6-71</col>
+            <col>26 Jul 1971</col>
+          </row>
+          <row>
+            <col>Zambia</col>
+            <col>6-66</col>
+            <col>15 Aug 1966</col>
+          </row>
+          <row>
+            <col>Zimbabwe*</col>
+            <col>04-80</col>
+            <col>23 Jun 1980</col>
+          </row>
+        </table>
+        <text></text>
+        <text>* Pursuant to the resolution of the Board of Governors (No. 04-80 of 23 June 1980), the Agreement is deemed to have taken effect retroactively for Zimbabwe as of 23 June 1980, upon completion of all the necessary conditions and receipt of its instrument of accession by the African Development Bank.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The Agreement was originally signed and the instrument of ratification was deposited on behalf of Tanganyika. Following the formation of the Union between Tanganyika and Zanzibar under the name of the United Republic of Tanzania (see note 1 under United Republid of Tanzania in the Historical Information section in the front matter of this volume.), the Government of that country submitted a declaration to the African Development Bank to the effect that "it assumes the membership in the ADB both as regards Tanganyika and Zanzibar, and desires the Bank to give effect to this extension and to increase its subscription by one million units of account". The said declaration was considered by the Board of Governors of the African Development Bank at its first plenary session on 4 November 1964. In resolution No. 3 adopted on the same date, the Board of Governors, having expressed the desire of giving full effect to the extension of membership of the United Republic of Tanzania, decided, &lt;i&gt;inter alia &lt;/i&gt;, that the subscription of that country to the capital stock of the ADB should be increased by one million units of account, half of it to consist of paid-up shares, and the other half of callable shares; and that the extension of membership of the United Republic of Tanzania should take effect upon the payment to the ADB of the first instalment of its initial subscription to the paid-up capital stock as provided in the resolution. The Board further took note that, upon the extension of its membership, the United Republic of Tanzania would have 1,255 votes.</text>
+      </Note>
+    </EndNotes>
+    <Footer>X 2. International Trade and Development</Footer>
+  </Treaty>
+</Document>

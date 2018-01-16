@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER III</Header>
+        <Name>PRIVILEGES AND IMMUNITIES, DIPLOMATIC AND CONSULAR RELATIONS, ETC</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>11</Numsect>
+        <Titlesect>Vienna Convention on the Representation of States in their Relations with International Organizations of a Universal Character</Titlesect>
+        <Conclusion>Vienna, 14 March 1975</Conclusion>
+        <EIF>
+          <Label>Not yet in force</Label>
+          <Labeltext>see article 89 which reads as follows: "1. The present Convention shall enter into force on the thirtieth day following the date of deposit of the thirty-fifth instrument of ratification or accession. 2. For each State ratifying or acceding to the Convention after the deposit of the thirty-fifth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after the deposit of such State of its instrument of ratification or accession.".</Labeltext>
+        </EIF>
+        <Registration />
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>20</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>34</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>Doc. &lt;a href="/doc/source/docs/a_conf.67_16-E.pdf" target="_blank"&gt; A/CONF.67/16&lt;/a&gt;.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted on 13 March 1975 by the United Nations Conference on the Representation of States in their Relations with International Organizations held at the Neue Hofburg in Vienna, Austria, from 4 February to 14 March 1975. The Convention was opened for signature at Vienna on 14 March 1975 at the Federal Ministry for Foreign Affairs of the Republic of Austria. After 30 September 1975, it remained open for signature at the United Nations Headquarters in New York until 30 March 1976, the closing date for signature.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Accession(a), Succession(d), Ratification</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>7 Apr 1975</Entry>
+                <Entry>6 Mar 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry>29 Mar 1976</Entry>
+                <Entry>26 Nov 1979</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry>13 Oct 1975</Entry>
+                <Entry>24 Aug 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>14 Mar 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry>26 Nov 1975</Entry>
+                <Entry>23 Feb 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry />
+                <Entry>23 Mar 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>28 Nov 1975</Entry>
+                <Entry>22 Jul 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Oct 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>30 Mar 1976</Entry>
+                <Entry>30 Apr 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>14 Mar 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Feb 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry />
+                <Entry>14 Dec 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>25 Aug 1975</Entry>
+                <Entry>6 Jan 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>21 Oct 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>5 Nov 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>14 Sep 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry>14 Mar 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry>12 Feb 1976</Entry>
+                <Entry>28 Jul 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry />
+                <Entry>30 Dec 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>16 Nov 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry>30 Oct 1975</Entry>
+                <Entry>14 Dec 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry>17 Dec 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>12 Mar 1976</Entry>
+                <Entry>16 Mar 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>23 Sep 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>14 Mar 1975</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>10 Nov 1975</Entry>
+                <Entry>1 Nov 1979</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry>10 Oct 1975</Entry>
+                <Entry>8 Aug 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>29 Nov 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;3&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>10 Mar 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>13 Oct 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry>30 Mar 1976</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry>17 Oct 1975</Entry>
+                <Entry>25 Aug 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>29 Mar 1976</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Viet Nam</Entry>
+                <Entry />
+                <Entry>26 Aug 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry>30 Mar 1976</Entry>
+                <Entry />
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Declaration>
+        <Participant>Belarus</Participant>
+        <text type="para">In ratifying the 1975 Vienna Convention on the representation of States in their relations with international organizations of a universal character, the Byelorussian Soviet Socialist Republic considers it necessary to state that the principle of the full inviolability of the official premises of delegations to international conferences is a norm of customary international law which should be observed by all States.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Guatemala</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Republic of Guatemala, upon acceding to the Vienna Convention on the Representation of States in their Relations with International Organizations of a Universal Character, makes an express reservation with respect to articles 84 and 85, which it does not accept as applying to article 77, paragraph 4, when, in its capacity as the host State, it disapproves of the conduct of one or more persons enjoying privileges and immunity under the Convention, in which case it shall retain the right to take unilaterally, as a necessary measure for its own protection, the action of notifying the sending State at any time and without having to explain its decision that such person or persons are &lt;i&gt;persona non grata &lt;/i&gt; in the country. The reservation concerning the non-applicability of articles 84 and 85 also refers to the right of the Republic of Guatemala to declare any person who, by virtue of the Convention, would enjoy privileges and immunity unacceptable before his arrival in its territory, without stating any reason.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Russian Federation</Participant>
+        <text type="para">In ratifying the 1975 Vienna Convention on the Representation of States in their Relations with International Organizations of a Universal Character, the Union of Soviet Socialist Republics deems it necessary to state that the principle of the absolute inviolability of the offices of delegations to international conferences is a rule of customary international law which must be observed by all States.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Ukraine</Participant>
+        <text type="para">In ratifying the Vienna Convention on the Representation of States in their relations with international organizations of a universal character of 1975, the Ukrainian Soviet Socialist Republic is constrained to declare that the principle of total inviolability of working premises of delegations at international conferences is a rule of customary international law to which all States must adhere.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Viet Nam</Participant>
+        <text type="para">Adhering to this Convention, the Government of the Socialist Republic of Viet Nam deems it necessary to stress that the absolute inviolability privilege accorded the offices and residences of the representations of member States at International Organizations has been established as a principle in the practice of international law and therefore must be strictly observed by all States.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections />
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The German Democratic Republic had signed and ratified the Convention on 15 March 1976 and 28 June 1977, respectively (See &lt;a href='http://treaties.un.org/doc/Publication/CN/1976/CN.96.1976-Eng.pdf' target='_blank'&gt;C.N.96.1976&lt;/a&gt;.TREATIES-4 of 31 March 1976 and &lt;a href='http://treaties.un.org/doc/Publication/CN/1977/CN.198.1977-Eng.pdf' target='_blank'&gt;C.N.198.1977&lt;/a&gt;.TREATIES-2 of 12 July 1977). See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 14 March 1975 and 20 September 1977, respectively. See also note? under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 24 February 1976 and 30 August 1976, respectively (See &lt;a href='http://treaties.un.org/doc/Publication/CN/1976/CN.56.1976-Eng.pdf' target='_blank'&gt;C.N.56.1976&lt;/a&gt;.TREATIES-3 of 4 March 1976 and &lt;a href='http://treaties.un.org/doc/Publication/CN/1976/CN.290.1976-Eng.pdf' target='_blank'&gt;C.N.290.1976&lt;/a&gt;.TREATIES-8 of 10 September 1976). See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under Montenegro in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>The formality was effected by the Yemen Arab Republic. See also note 1 under Yemen in the Historical Information section in the front matter of this volume</text>
+      </Note>
+    </EndNotes>
+    <Footer>III 11. Privileges and Immunities, Diplomatic and Consular Relations, etc</Footer>
+  </Treaty>
+</Document>

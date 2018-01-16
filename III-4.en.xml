@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER III</Header>
+        <Name>PRIVILEGES AND IMMUNITIES, DIPLOMATIC AND CONSULAR RELATIONS, ETC</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>4</Numsect>
+        <Titlesect>Optional Protocol to the Vienna Convention on Diplomatic Relations, concerning Acquisition of Nationality</Titlesect>
+        <Conclusion>Vienna, 18 April 1961</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>24 April 1964, in accordance with article VI.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>24 June 1964, No. 7311</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>18</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>51</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 500, p. 223.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>See &lt;i&gt;"Note:" &lt;/i&gt; in chapter III.3.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>25 Oct 1961</Entry>
+                <Entry>10 Oct 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry />
+                <Entry>2 May 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Jan 1994 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry />
+                <Entry>11 Apr 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>31 Aug 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>28 Mar 1962</Entry>
+                <Entry>19 Mar 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry />
+                <Entry>15 Jul 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>18 Apr 1961</Entry>
+                <Entry>2 Oct 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>30 Mar 1962</Entry>
+                <Entry>14 Jan 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>9 Jun 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>21 Oct 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>20 Oct 1961</Entry>
+                <Entry>9 Dec 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry />
+                <Entry>2 Apr 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;3,4&lt;/superscript&gt;</Entry>
+                <Entry>28 Mar 1962</Entry>
+                <Entry>11 Nov 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>18 Apr 1961</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>10 Jan 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>18 May 1971 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry />
+                <Entry>15 Oct 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry />
+                <Entry>4 Jun 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>27 May 1961</Entry>
+                <Entry>3 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry>20 Feb 1962</Entry>
+                <Entry>15 Oct 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>13 Mar 1962</Entry>
+                <Entry>25 Jun 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>1 Jul 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>3 Dec 1962 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>18 Apr 1961</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry />
+                <Entry>16 Sep 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>7 Jun 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>31 Jul 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>29 Apr 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>9 Nov 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>23 Feb 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry />
+                <Entry>7 Mar 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>28 Sep 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;6&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>7 Sep 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;7&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>5 Sep 2003 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>9 Jan 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry />
+                <Entry>28 Mar 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>18 Apr 1961</Entry>
+                <Entry>24 Oct 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>31 May 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry />
+                <Entry>4 Dec 1963 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>23 Dec 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>20 Oct 1961</Entry>
+                <Entry>15 Nov 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry>30 Mar 1962</Entry>
+                <Entry>7 Mar 1977</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry>18 Apr 1961</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>31 Jul 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry />
+                <Entry>28 Oct 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>18 Apr 1961</Entry>
+                <Entry>21 Mar 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry />
+                <Entry>12 Jun 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry>30 Oct 1961</Entry>
+                <Entry>23 Jan 1985</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;2&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Aug 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>24 Jan 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry>27 Feb 1962</Entry>
+                <Entry>5 Nov 1962</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession. For objections thereto, see hereinafter.)</Title>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Kingdom of the Netherlands interprets the words "not, solely by the operation of the law of the receiving State" in article II of the Optional Protocol concerning Acquisition of Nationality as meaning that acquisition of nationality by descent is not regarded as acquisition of nationality solely by the operation of this law."</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Objection>
+        <Participant>Thailand</Participant>
+        <text type="para">&lt;i&gt; &lt;center&gt;[See chapter III.3.] &lt;/center&gt; &lt;/i&gt;</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="YES" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>Signed on behalf of the Republic of China on 18 April 1961. See also note 1 under "China" in the "Historical Information" section in the front matter of this volume.</text>
+        <text>In communications addressed to the Secretary-General with reference to the above-mentioned signature and/or ratification, the Permanent Representatives of the Permanent Missions to the United?of Bulgaria, the Byelorussian SSR, Mongolia, Pakistan, Poland, Romania, the Ukrainian SSR and the Union of Soviet Socialist Republics stated that their Governments considered the said signature and/or ratification as null and void, since the so-called "Government of China" had no right to speak or assume obligations on behalf of China, there being only one Chinese State, the People's Republic of China, and one Government entitled to represent it, the Government of the People's Republic of China.</text>
+        <text>In letters addressed to the Secretary-General in regard to the above-mentioned communications, the Permanent Representative of China to the United Nations stated that the Republic of China, a sovereign State and Member of the United Nations, had attended the 1961 Conference on Diplomatic Intercourse and Immunities, contributed to the formulation of the Convention concerned, signed the Convention and duly deposited the instrument of ratification thereof, and that "any statements and reservations relating to the above-mentioned Convention that are incompatible with or derogatory to the legitimate position of the Government of the Republic of China shall in no way affect the rights and obligations of the Republic of China under this Convention".</text>
+        <text>The instrument of accession deposited on behalf of the Government of China on 25 November 1975 contained the following declaration:</text>
+        <text>The "signature" on and "ratification" of this Convention by the Chiang Kai-shek clique usurping the name of China are illegal and null and void.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 18 April 1961 and 1 April 1963, respectively. See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>See note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 1 under Germany regarding Berlin?West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>See note 1 under Montenegro in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>For the Kingdom in Europe and the Netherlands Antilles. See also notes 1 and 2 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>With a territorial exclusion in respect of the Tokelau Islands:</text>
+        <text>Declares that, consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this accession shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory."</text>
+      </Note>
+    </EndNotes>
+    <Footer>III 4. Privileges and Immunities, Diplomatic and Consular Relations, etc</Footer>
+  </Treaty>
+</Document>

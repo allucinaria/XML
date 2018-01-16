@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg</Template>
+    <Header>
+      <Chapter>
+        <Header>CHAPTER III</Header>
+        <Name>PRIVILEGES AND IMMUNITIES, DIPLOMATIC AND CONSULAR RELATIONS, ETC</Name>
+      </Chapter>
+      <ExternalData>
+        <Numsect>6</Numsect>
+        <Titlesect>Vienna Convention on Consular Relations</Titlesect>
+        <Conclusion>Vienna, 24 April 1963</Conclusion>
+        <EIF>
+          <Label>Entry into force</Label>
+          <Labeltext>19 March 1967, in accordance with article 77.</Labeltext>
+        </EIF>
+        <Registration>
+          <Label>Registration</Label>
+          <Labeltext>8 June 1967, No. 8638</Labeltext>
+        </Registration>
+        <Status>
+          <Label>Status</Label>
+          <SignatoriesLabel>Signatories</SignatoriesLabel>
+          <Signatories>48</Signatories>
+          <PartiesLabel>Parties</PartiesLabel>
+          <Parties>179</Parties>
+        </Status>
+        <TreatyText>
+          <Label>Text</Label>
+          <Text>United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 596, p. 261.</Text>
+        </TreatyText>
+        <TreatyNote>
+          <Text>The Convention was adopted on 22 April 1963 by the United Nations Conference on Consular Relations held at the Neue Hofburg in Vienna, Austria, from 4 March to 22 April 1963. The Conference also adopted the Optional Protocol concerning Acquisition of Nationality, the Optional Protocol concerning the Compulsory Settlement of Disputes, the Final Act and three resolutions annexed to that Act. The Convention and the two Protocols were deposited with the Secretary-General of the UnitedNations. The Final Act, by unanimous decision of the Conference, was deposited in the archives of the Federal Ministry for Foreign Affairs of Austria. For the proceedings of the Conference, see &lt;i&gt;United Nations Conference on Consular Relations, Official Records, vols. I and II &lt;/i&gt;(United Nations publication, Sales Nos.: 63.X.2 and 64.X.1). The text of the Convention, two Protocols, Final Act and resolutions is published in vol. II.</Text>
+        </TreatyNote>
+      </ExternalData>
+    </Header>
+    <Participants>
+      <Table colsep="0" frame="none" rowsep="0">
+        <TGroup cols="3">
+          <Thead>
+            <Row rowsep="0">
+              <Entry colname="1">Participant</Entry>
+              <Entry colname="2">Signature</Entry>
+              <Entry colname="3">Ratification, Accession(a), Succession(d)</Entry>
+            </Row>
+          </Thead>
+          <Tbody>
+            <Rows>
+              <Row>
+                <Entry>Albania</Entry>
+                <Entry />
+                <Entry>4 Oct 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Algeria</Entry>
+                <Entry />
+                <Entry>14 Apr 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Andorra</Entry>
+                <Entry />
+                <Entry>3 Jul 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Angola</Entry>
+                <Entry />
+                <Entry>21 Nov 1990 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Antigua and Barbuda</Entry>
+                <Entry />
+                <Entry>25 Oct 1988 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Argentina</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>7 Mar 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Armenia</Entry>
+                <Entry />
+                <Entry>23 Jun 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Australia</Entry>
+                <Entry>31 Mar 1964</Entry>
+                <Entry>12 Feb 1973</Entry>
+              </Row>
+              <Row>
+                <Entry>Austria</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>12 Jun 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Azerbaijan</Entry>
+                <Entry />
+                <Entry>13 Aug 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahamas</Entry>
+                <Entry />
+                <Entry>17 Mar 1977 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Bahrain</Entry>
+                <Entry />
+                <Entry>17 Sep 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bangladesh</Entry>
+                <Entry />
+                <Entry>13 Jan 1978 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Barbados</Entry>
+                <Entry />
+                <Entry>11 May 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belarus</Entry>
+                <Entry />
+                <Entry>21 Mar 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Belgium</Entry>
+                <Entry>31 Mar 1964</Entry>
+                <Entry>9 Sep 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Belize</Entry>
+                <Entry />
+                <Entry>30 Nov 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Benin</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>27 Apr 1979</Entry>
+              </Row>
+              <Row>
+                <Entry>Bhutan</Entry>
+                <Entry />
+                <Entry>28 Jul 1981 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bolivia (Plurinational State of)</Entry>
+                <Entry>6 Aug 1963</Entry>
+                <Entry>22 Sep 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Bosnia and Herzegovina&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>1 Sep 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Botswana</Entry>
+                <Entry />
+                <Entry>26 Mar 2008 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Brazil</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>11 May 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Brunei Darussalam</Entry>
+                <Entry />
+                <Entry>24 May 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Bulgaria</Entry>
+                <Entry />
+                <Entry>11 Jul 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Burkina Faso</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>11 Aug 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Cabo Verde</Entry>
+                <Entry />
+                <Entry>30 Jul 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cambodia</Entry>
+                <Entry />
+                <Entry>10 Mar 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Cameroon</Entry>
+                <Entry>21 Aug 1963</Entry>
+                <Entry>22 May 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Canada</Entry>
+                <Entry />
+                <Entry>18 Jul 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Central African Republic</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Chile</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>9 Jan 1968</Entry>
+              </Row>
+              <Row>
+                <Entry>China&lt;superscript&gt;2,3,4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>2 Jul 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Colombia</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>6 Sep 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Congo</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Costa Rica</Entry>
+                <Entry>6 Jun 1963</Entry>
+                <Entry>29 Dec 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Côte d'Ivoire</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Croatia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Oct 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Cuba</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>15 Oct 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Cyprus</Entry>
+                <Entry />
+                <Entry>14 Apr 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>22 Feb 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic People's Republic of Korea</Entry>
+                <Entry />
+                <Entry>8 Aug 1984 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Democratic Republic of the Congo</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>15 Jul 1976</Entry>
+              </Row>
+              <Row>
+                <Entry>Denmark</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>15 Nov 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Djibouti</Entry>
+                <Entry />
+                <Entry>2 Nov 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominica</Entry>
+                <Entry />
+                <Entry>24 Nov 1987 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Dominican Republic</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>4 Mar 1964</Entry>
+              </Row>
+              <Row>
+                <Entry>Ecuador</Entry>
+                <Entry>25 Mar 1964</Entry>
+                <Entry>11 Mar 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Egypt</Entry>
+                <Entry />
+                <Entry>21 Jun 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>El Salvador</Entry>
+                <Entry />
+                <Entry>19 Jan 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Equatorial Guinea</Entry>
+                <Entry />
+                <Entry>30 Aug 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Eritrea</Entry>
+                <Entry />
+                <Entry>14 Jan 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Estonia</Entry>
+                <Entry />
+                <Entry>21 Oct 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Fiji</Entry>
+                <Entry />
+                <Entry>28 Apr 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Finland</Entry>
+                <Entry>28 Oct 1963</Entry>
+                <Entry>2 Jul 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>France</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>31 Dec 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Gabon</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>23 Feb 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Gambia</Entry>
+                <Entry />
+                <Entry>28 Mar 2013 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Georgia</Entry>
+                <Entry />
+                <Entry>12 Jul 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Germany&lt;superscript&gt;6,7&lt;/superscript&gt;</Entry>
+                <Entry>31 Oct 1963</Entry>
+                <Entry>7 Sep 1971</Entry>
+              </Row>
+              <Row>
+                <Entry>Ghana</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>4 Oct 1963</Entry>
+              </Row>
+              <Row>
+                <Entry>Greece</Entry>
+                <Entry />
+                <Entry>14 Oct 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Grenada</Entry>
+                <Entry />
+                <Entry>2 Sep 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guatemala</Entry>
+                <Entry />
+                <Entry>9 Feb 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guinea</Entry>
+                <Entry />
+                <Entry>30 Jun 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Guyana</Entry>
+                <Entry />
+                <Entry>13 Sep 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Haiti</Entry>
+                <Entry />
+                <Entry>2 Feb 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Holy See</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>8 Oct 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Honduras</Entry>
+                <Entry />
+                <Entry>13 Feb 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Hungary</Entry>
+                <Entry />
+                <Entry>19 Jun 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iceland</Entry>
+                <Entry />
+                <Entry>1 Jun 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>India</Entry>
+                <Entry />
+                <Entry>28 Nov 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Indonesia</Entry>
+                <Entry />
+                <Entry>4 Jun 1982 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Iran (Islamic Republic of)</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>5 Jun 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Iraq</Entry>
+                <Entry />
+                <Entry>14 Jan 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Ireland</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>10 May 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Israel</Entry>
+                <Entry>25 Feb 1964</Entry>
+                <Entry />
+              </Row>
+              <Row>
+                <Entry>Italy</Entry>
+                <Entry>22 Nov 1963</Entry>
+                <Entry>25 Jun 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Jamaica</Entry>
+                <Entry />
+                <Entry>9 Feb 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Japan</Entry>
+                <Entry />
+                <Entry>3 Oct 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Jordan</Entry>
+                <Entry />
+                <Entry>7 Mar 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kazakhstan</Entry>
+                <Entry />
+                <Entry>5 Jan 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kenya</Entry>
+                <Entry />
+                <Entry>1 Jul 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Kiribati</Entry>
+                <Entry />
+                <Entry>2 Apr 1982 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Kuwait</Entry>
+                <Entry>10 Jan 1964</Entry>
+                <Entry>31 Jul 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Kyrgyzstan</Entry>
+                <Entry />
+                <Entry>7 Oct 1994 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lao People's Democratic Republic</Entry>
+                <Entry />
+                <Entry>9 Aug 1973 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Latvia</Entry>
+                <Entry />
+                <Entry>13 Feb 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Lebanon</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>20 Mar 1975</Entry>
+              </Row>
+              <Row>
+                <Entry>Lesotho</Entry>
+                <Entry />
+                <Entry>26 Jul 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liberia</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>28 Aug 1984</Entry>
+              </Row>
+              <Row>
+                <Entry>Libya</Entry>
+                <Entry />
+                <Entry>4 Sep 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Liechtenstein</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>18 May 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Lithuania</Entry>
+                <Entry />
+                <Entry>15 Jan 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Luxembourg</Entry>
+                <Entry>24 Mar 1964</Entry>
+                <Entry>8 Mar 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>Madagascar</Entry>
+                <Entry />
+                <Entry>17 Feb 1967 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malawi</Entry>
+                <Entry />
+                <Entry>29 Apr 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malaysia</Entry>
+                <Entry />
+                <Entry>1 Oct 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Maldives</Entry>
+                <Entry />
+                <Entry>21 Jan 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mali</Entry>
+                <Entry />
+                <Entry>28 Mar 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Malta</Entry>
+                <Entry />
+                <Entry>10 Dec 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Marshall Islands</Entry>
+                <Entry />
+                <Entry>9 Aug 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritania</Entry>
+                <Entry />
+                <Entry>21 Jul 2000 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mauritius</Entry>
+                <Entry />
+                <Entry>13 May 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mexico</Entry>
+                <Entry>7 Oct 1963</Entry>
+                <Entry>16 Jun 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Micronesia (Federated States of)</Entry>
+                <Entry />
+                <Entry>29 Apr 1991 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Monaco</Entry>
+                <Entry />
+                <Entry>4 Oct 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mongolia</Entry>
+                <Entry />
+                <Entry>14 Mar 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Montenegro&lt;superscript&gt;8&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>23 Oct 2006 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Morocco</Entry>
+                <Entry />
+                <Entry>23 Feb 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Mozambique</Entry>
+                <Entry />
+                <Entry>18 Apr 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Myanmar</Entry>
+                <Entry />
+                <Entry>2 Jan 1997 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Namibia</Entry>
+                <Entry />
+                <Entry>14 Sep 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nauru</Entry>
+                <Entry />
+                <Entry>14 Dec 2012 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nepal</Entry>
+                <Entry />
+                <Entry>28 Sep 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Netherlands&lt;superscript&gt;9&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>17 Dec 1985 a</Entry>
+              </Row>
+              <Row>
+                <Entry>New Zealand&lt;superscript&gt;10&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>10 Sep 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Nicaragua</Entry>
+                <Entry />
+                <Entry>31 Oct 1975 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Niger</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>26 Apr 1966</Entry>
+              </Row>
+              <Row>
+                <Entry>Nigeria</Entry>
+                <Entry />
+                <Entry>22 Jan 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Norway</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>13 Feb 1980</Entry>
+              </Row>
+              <Row>
+                <Entry>Oman</Entry>
+                <Entry />
+                <Entry>31 May 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Pakistan</Entry>
+                <Entry />
+                <Entry>14 Apr 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Panama</Entry>
+                <Entry>4 Dec 1963</Entry>
+                <Entry>28 Aug 1967</Entry>
+              </Row>
+              <Row>
+                <Entry>Papua New Guinea</Entry>
+                <Entry />
+                <Entry>4 Dec 1975 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Paraguay</Entry>
+                <Entry />
+                <Entry>23 Dec 1969 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Peru</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>17 Feb 1978</Entry>
+              </Row>
+              <Row>
+                <Entry>Philippines</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>15 Nov 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Poland</Entry>
+                <Entry>20 Mar 1964</Entry>
+                <Entry>13 Oct 1981</Entry>
+              </Row>
+              <Row>
+                <Entry>Portugal&lt;superscript&gt;4&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>13 Sep 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Qatar</Entry>
+                <Entry />
+                <Entry>4 Nov 1998 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Korea</Entry>
+                <Entry />
+                <Entry>7 Mar 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Republic of Moldova</Entry>
+                <Entry />
+                <Entry>26 Jan 1993 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Romania</Entry>
+                <Entry />
+                <Entry>24 Feb 1972 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Russian Federation</Entry>
+                <Entry />
+                <Entry>15 Mar 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Rwanda</Entry>
+                <Entry />
+                <Entry>31 May 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Samoa</Entry>
+                <Entry />
+                <Entry>26 Oct 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sao Tome and Principe</Entry>
+                <Entry />
+                <Entry>3 May 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Saudi Arabia</Entry>
+                <Entry />
+                <Entry>29 Jun 1988 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Senegal</Entry>
+                <Entry />
+                <Entry>29 Apr 1966 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Serbia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>12 Mar 2001 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Seychelles</Entry>
+                <Entry />
+                <Entry>29 May 1979 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sierra Leone</Entry>
+                <Entry />
+                <Entry>9 May 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Singapore</Entry>
+                <Entry />
+                <Entry>1 Apr 2005 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>28 May 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Slovenia&lt;superscript&gt;1&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>6 Jul 1992 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Somalia</Entry>
+                <Entry />
+                <Entry>29 Mar 1968 a</Entry>
+              </Row>
+              <Row>
+                <Entry>South Africa</Entry>
+                <Entry />
+                <Entry>21 Aug 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Spain</Entry>
+                <Entry />
+                <Entry>3 Feb 1970 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sri Lanka</Entry>
+                <Entry />
+                <Entry>4 May 2006 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Kitts and Nevis</Entry>
+                <Entry />
+                <Entry>6 Jul 2010 a</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Lucia</Entry>
+                <Entry />
+                <Entry>27 Aug 1986 d</Entry>
+              </Row>
+              <Row>
+                <Entry>St. Vincent and the Grenadines</Entry>
+                <Entry />
+                <Entry>27 Apr 1999 d</Entry>
+              </Row>
+              <Row>
+                <Entry>State of Palestine</Entry>
+                <Entry />
+                <Entry>2 Apr 2014 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sudan</Entry>
+                <Entry />
+                <Entry>23 Mar 1995 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Suriname</Entry>
+                <Entry />
+                <Entry>11 Sep 1980 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Sweden</Entry>
+                <Entry>8 Oct 1963</Entry>
+                <Entry>19 Mar 1974</Entry>
+              </Row>
+              <Row>
+                <Entry>Switzerland</Entry>
+                <Entry>23 Oct 1963</Entry>
+                <Entry>3 May 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Syrian Arab Republic</Entry>
+                <Entry />
+                <Entry>13 Oct 1978 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tajikistan</Entry>
+                <Entry />
+                <Entry>6 May 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Thailand</Entry>
+                <Entry />
+                <Entry>15 Apr 1999 a</Entry>
+              </Row>
+              <Row>
+                <Entry>The former Yugoslav Republic of Macedonia&lt;superscript&gt;1,11&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>18 Aug 1993 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Timor-Leste</Entry>
+                <Entry />
+                <Entry>30 Jan 2004 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Togo</Entry>
+                <Entry />
+                <Entry>26 Sep 1983 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tonga</Entry>
+                <Entry />
+                <Entry>14 Aug 1974 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Trinidad and Tobago</Entry>
+                <Entry />
+                <Entry>19 Oct 1965 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tunisia</Entry>
+                <Entry />
+                <Entry>8 Jul 1964 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkey</Entry>
+                <Entry />
+                <Entry>19 Feb 1976 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Turkmenistan</Entry>
+                <Entry />
+                <Entry>25 Sep 1996 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Tuvalu&lt;superscript&gt;12&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>15 Sep 1982 d</Entry>
+              </Row>
+              <Row>
+                <Entry>Ukraine</Entry>
+                <Entry />
+                <Entry>27 Apr 1989 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Arab Emirates</Entry>
+                <Entry />
+                <Entry>24 Feb 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United Kingdom of Great Britain and Northern Ireland&lt;superscript&gt;2,13&lt;/superscript&gt;</Entry>
+                <Entry>27 Mar 1964</Entry>
+                <Entry>9 May 1972</Entry>
+              </Row>
+              <Row>
+                <Entry>United Republic of Tanzania</Entry>
+                <Entry />
+                <Entry>18 Apr 1977 a</Entry>
+              </Row>
+              <Row>
+                <Entry>United States of America</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>24 Nov 1969</Entry>
+              </Row>
+              <Row>
+                <Entry>Uruguay</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>10 Mar 1970</Entry>
+              </Row>
+              <Row>
+                <Entry>Uzbekistan</Entry>
+                <Entry />
+                <Entry>2 Mar 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Vanuatu</Entry>
+                <Entry />
+                <Entry>18 Aug 1987 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Venezuela (Bolivarian Republic of)&lt;superscript&gt;14&lt;/superscript&gt;</Entry>
+                <Entry>24 Apr 1963</Entry>
+                <Entry>27 Oct 1965</Entry>
+              </Row>
+              <Row>
+                <Entry>Viet Nam&lt;superscript&gt;15&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>8 Sep 1992 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Yemen&lt;superscript&gt;16&lt;/superscript&gt;</Entry>
+                <Entry />
+                <Entry>10 Apr 1986 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zambia</Entry>
+                <Entry />
+                <Entry>18 May 2016 a</Entry>
+              </Row>
+              <Row>
+                <Entry>Zimbabwe</Entry>
+                <Entry />
+                <Entry>13 May 1991 a</Entry>
+              </Row>
+            </Rows>
+          </Tbody>
+        </TGroup>
+      </Table>
+    </Participants>
+    <SpecialTables />
+    <Declarations>
+      <Title>Declarations and Reservations</Title>
+      <Title>(Unless otherwise indicated, the declarations and reservations were made</Title>
+      <Title>upon ratification, accession or succession. For objections thereto see hereinafter.)</Title>
+      <Declaration>
+        <Participant>Bahrain</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The accession by the State of Bahrain to the said Conven- tion shall in no way constitute recognition of Israel or be a cause for the establishment of any relations of any kind therewith."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Barbados</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Government of Barbados hereby declares that it will interpret the exemption accorded to members of a consular post by paragraph 3 of article 44 from liability to give evidence con- cerning matters connected with the exercise of their functions as relating only to Acts in respect of which consular officers and consular employees enjoy immunity from the jurisdiction of the juridical or administrative authorities of the receiving state in accordance with the provisions of article 43 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Belize</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The Government of Belize will interpret the exemption accorded to members of a consular post by paragraph 3 of Article?4 from liability to give evidence concerning matters connected with the exercise of their functions as relating only to acts in respect of which consular officers and consular employees enjoy immunity from the jurisdiction of the judicial or administrative authorities of the receiving State in accordance with the provisions of Article 43 of the Convention. The Government of Belize further declares that it will interpret Chapter II of the Convention as applying to all career consular employees, including those employed at a consular post headed by an honorary consular officer.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Bulgaria</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">The People's Republic of Bulgaria considers that referring to the provisions of article 31, paragraph 2 of the Vienna Convention on Consular Relations the authorities of the receiving State may enter the consular premises in the event of fire or other disaster in the presence of a representative of the sending State or after all appropriate steps have been taken to obtain the consent of the head of the consular post.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Cuba</Participant>
+        <text type="para">The Revolutionary Government of Cuba makes an express reservation to the provisions of articles 74 and 76 of the Convention because it considers that, in view of the nature of the content and rules of the Convention, all free and sovereign States have the right to participate in it, and the Revolutionary Government is therefore in favour of facilitating accession by all countries in the international community, without distinction as to the territorial size of States, the number of their inhabitants or their social, economic or political systems.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Czech Republic&lt;superscript&gt;5&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Denmark</Participant>
+        <text type="para">In respect of article 5 (j), consular posts established in Denmark by foreign States may not, except by virtue of a special agreement, execute letters rogatory or commissions to take evidence for the courts of the sending State, and may transmit judicial and extra-judicial documents only in civil or commercial matters.</text>
+        <text type="para">(1) "With reference to Article 22, the Government of Denmark expresses the wish that it may be possible to maintain the practice existing between Denmark and a number of other countries to appoint honorary consular officers from among persons having the nationality of the receiving State or of a third State; the Government of Denmark further expresses the hope that States with which Denmark establishes consular relations will give their consent, pursuant to paragraphs 2 and 3 of Article 22, to the appointment of honorary consuls having the nationality of the receiving State or a third State.</text>
+        <text type="para">(2) "With reference to Article 68, the Government of Denmark expresses its desire, in accordance with Danish practice, to continue appointing honorary consular officers and, on condition of reciprocity, its willingness to continue receiving honorary consular officers in Denmark."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Egypt&lt;superscript&gt;17,18&lt;/superscript&gt;</Participant>
+        <text type="para">"..."</text>
+        <text type="para">"2- Paragraph 1 of article 46 concerning exemption from registration of aliens and residence permits shall not apply to consular employees.</text>
+        <text type="para">"3- Article 49 concerning exemption from taxation shall apply only to consular officers, their spouses and minor children. This exemption cannot be extended to consular employees and to members of the service staff.</text>
+        <text type="para">"4- Article 62 concerning exemption from custom duties and taxes on articles for the official use of a consular post headed by an honorary officer, shall not apply.</text>
+        <text type="para">"5- Article 65 is not accepted. Honorary consular officers cannot be exempted from registration of aliens and residence permits.</text>
+        <text type="para">"6- It is the understanding of the United Arab Republic that the privileges and immunities specified in this Convention are granted only to consular officers, their spouses and minor children and cannot be extended to other members of their families."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Fiji</Participant>
+        <text type="para">"Fiji will interpret the exemption accorded to members of a consular post by paragraph 3 of Article 44 from liability to give evidence concerning matters connected with the exercise of their functions as relating only to acts in respect of which consu- lar officers and consular employees enjoy immunity from the jurisdiction of the judicial or administrative authorities of the receiving State in accordance with the provisions of article 43 of the Convention."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Finland</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">"With regard to article 35, paragraph 1, and article 58, paragraph 1, Finland does not accord to consular posts headed by honorary consular officers the right to employ diplomatic or consular couriers and diplomatic or consular bags, or to governments, diplomatic missions and other consular posts the right to employ these means in communicating with consular posts headed by honorary consular officers, except to the extent that Finland may have consented thereto in particular cases."</text>
+        <text type="title">Declarations:</text>
+        <text type="para">"With reference to article 22 of the Convention, the Finnish Government expressed the wish that in countries where it has been an established practice to allow nationals of the receiving State or of a third State to be appointed as Finnish honorary consuls, this practice will continue to be allowed as before. The Finnish Government also expresses the hope that countries with which Finland establishes new consular relations will follow a similar practice and will give their consent to such appointments pursuant to paragraphs 2 and 3 of article 22."</text>
+        <text type="para">"With reference to article 49, paragraph 1 b, the Finnish Government wishes to add that, according to established practice, exemption cannot be granted in respect of dues or taxes levied on certain private movable property, such as shares or stock or other form of partnership in condominium or housing corporation entitling the holder of such movable property to possess and control immovable property situated in the territory of Finland and owned or otherwise legally possessed by the said condominium or housing corporation."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Germany&lt;superscript&gt;6,7&lt;/superscript&gt;</Participant>
+        <text>&lt;right&gt;8 April 1974&lt;/right&gt;</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Federal Republic of Germany interprets the provisions of Chapter II of the Vienna Convention on Consular Relations, done on 24 April 1963, as applying to all career consular personnel (consular officers, consular employees and members of the service staff), including those assigned to a consular post headed by an honorary consular officer, and that it will apply the said provisions accordingly."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iceland</Participant>
+        <text type="para">With reference to article 22 of the Convention, the Icelandic Government expresses the wish that in countries where it has been an established practice to allow nationals of the receiving State or of a third State to be appointed as Icelandic honorary consuls, this will continue to be allowed as before. The Icelandic Government also expresses the hope that countries with which Iceland establishes new consular relations will follow a similar practice and will give their consent to such appointments pursuant to paragraphs 2 and 3 of article 22.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Iraq&lt;superscript&gt;18&lt;/superscript&gt;</Participant>
+        <text type="para">The accession of the Republic of Iraq to this Convention shall in no way constitute recognition of the Member of the United Nations called Israel or imply any obligation toward or relation with the said Member.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Italy</Participant>
+        <text type="para">With reference to the provision contained in article 36, paragraph 1 (c), of the Convention on Consular Relations, the Italian Government considers that the right of a consular official to visit nationals of his State who are for any reason held in custody and to act on their behalf may not be waived, inasmuch as it is embodied in general law. The Italian Government will therefore act on the basis of reciprocity.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Kuwait</Participant>
+        <text type="para">It is understood that the ratification of this Convention does not mean in any way recognition of Israel by the Government of the State of Kuwait. Furthermore, no treaty relations will arise between the State of Kuwait and Israel.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Lesotho</Participant>
+        <text type="para">"The Kingdom of Lesotho will interpret the exemption accorded to members of a consular post by paragraph 3 of article?4 from liability to give evidence concerning matters connected with the exercise of their functions or to produce official correspondence and documents relating thereto as not extending to matters, correspondence or documents connected with the administration of the estate of a deceased person in respect of which a grant of representation has been made to a member of a consular post."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Malta</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">&lt;i&gt;1. Article 5 (j) &lt;/i&gt;</text>
+        <text type="para">The Government of Malta declares that consular posts established in Malta may not execute letters rogatory or commissions to take evidence for the courts of the sending State or transmit judicial or extra-judicial documents.</text>
+        <text type="para">2. &lt;i&gt;Article 44 paragraph &lt;/i&gt; 3</text>
+        <text type="para">Malta will interpret the exemption accorded to members of a consular post by paragraph 3 of article 44 from liability to give evidence concerning matters connected with the exercise of their functions as relating only to acts in respect of which consular officers and consular employees enjoy immunity from the jurisdiction of judicial or administrative authorities of the receiving State in accordance with article 43 of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mexico</Participant>
+        <text type="para">Mexico does not accept that part of article 31, paragraph 4 of the Convention which refers to expropriation of consular premises. The main reason for this reservation is that that paragraph, by contemplating the possibility of expropriation of consular premises by the receiving State, presupposes that the sending State is the owner of the premises. That situation is precluded in the Mexican Republic by article 27 of the Political Constitution of the United Mexican States, according to which foreign States cannot acquire private title to immovable property unless it is situated at the permanent seat of Federal Power and necessary for the direct use of their embassies or legations.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Morocco&lt;superscript&gt;19&lt;/superscript&gt;</Participant>
+        <text type="para">Morocco's accession to the Convention on Consular Relations shall not in any way imply tacit recognition of "Israel"; nor shall any conventional relations be established between the Kingdom of Morocco and "Israel".</text>
+        <text type="para">Article 62, concerning the exemption from customs duties on articles for the use of a consular post headed by an honorary consular officer, shall not apply.</text>
+        <text type="para">Article 65 shall not apply, since honorary consular officers cannot be exempted from obligations in regard to the registration of aliens and residence permits.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Mozambique</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"As regards articles 74 and 76, the People's Republic of Mozambique considers that these provisions are incompatible with the principle that multilateral international instruments whose purpose and subject matters are of interest to the International Community as a whole should be open for universal participation.</text>
+        <text type="para">It also considers that the said articles are contrary to the principle of sovereign equality of states and deprive sovereign states from their legitimate right to participate in it."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Myanmar</Participant>
+        <text type="title">Reservations on article 35, paragraph 1 and article 58, paragraphs 1 and 2:</text>
+        <text type="para">"With regard to article 35, paragraph 1 and article 58, paragraph 1, concerning the freedom of communication, the Government of the Union of Myanmar shall not accord to consular posts headed by honorary consular officers the right to employ diplomatic or consular couriers and diplomatic or consular bags, or to governments, diplomatic missions and other consular posts the right to employ these means in communicating with consular posts headed by honorary consular officers, except to the extent that the Union of Myanmar may have consented thereto in particular cases.</text>
+        <text type="para">Furthermore, with regard to facilities, privileges and immunities as provided by article 58, paragraph 2, the Government of the Union of Myanmar shall not accord exemption from registration of aliens and residence permits to consular posts headed by honorary consular officers.</text>
+        <text type="title">Declaration on article 62:</text>
+        <text type="para">With regard to article 62, the Government of the Union of Myanmar shall not accord to consular posts headed by honorary consular officers exemption from customs duties and taxes on articles for their official use except to the extent that the Union of Myanmar may have consented thereto on the merits of each case."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Netherlands</Participant>
+        <text type="title">Declaration:</text>
+        <text type="para">"The Kingdom of the Netherlands interprets chapter II of the Convention as applying to all career consular officers and employees, including those assigned to a consular post headed by a honorary consular officer."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Norway</Participant>
+        <text type="para">"With reference to article 22 of the Convention, the Norwegian Government expresses the wish that in countries where it has been an established practice to allow nationals of the receiving State or of a third State to be appointed as Norwegian honorary consuls, this practice will continue to be allowed as before. The Norwegian Government also expresses the hope that countries with which Norway establishes new consular relations will follow a similar practice and will give their consent to such appointments pursuant to paragraphs 2 and 3 of article?2."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Oman</Participant>
+        <text type="para">"The accession of this Convention does not mean in any way recognition of Israel by the Government of the Sultanate of Oman. Furthermore, no treaty relations will arise between the Sultanate of Oman and Israel.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Qatar&lt;superscript&gt;20&lt;/superscript&gt;</Participant>
+        <text type="title">1. Article 35, paragraph 3:</text>
+        <text type="para">The Government of Qatar reserves the right to open the consular bag in the following cases:</text>
+        <text type="para">(a) Where it is evident that the consular bag is being used for unlawful purposes that are incompatible with the objectives for which immunities with respect to the bag were codified. In such a case, the diplomatic mission concerned and its Ministry of Foreign Affairs shall be notified, the bag shall be opened with the approval of the Ministry of Foreign Affairs of Qatar, and the items determined to be in the bag shall be confiscated in the presence of a representative of the mission to which the bag belongs;</text>
+        <text type="para">(b) Where the State of Qatar has strong reasons, supported by prima facie evidence, to believe that the consular bag has been used for unlawful purposes, the Ministry of Foreign Affairs of Qatar may request the consular mission concerned to open the bag in order to ascertain its contents. It shall be opened in the presence of a representative of the Ministry of Foreign Affairs and one member of the mission to which the bag belongs. Should the mission refuse the request to open the bag, then the bag must be returned to its place of origin.</text>
+        <text type="para">2. Article 36, paragraph 1:</text>
+        <text type="para">The rights accorded in this article shall not extend to those consular employees who are engaged in administrative tasks or to the members of their families.</text>
+        <text type="para">3. Article 49:</text>
+        <text type="para">Local personnel employed by consulates shall not be exempt from the dues and taxes stipulated in this article that are imposed by domestic laws.</text>
+        <text type="para">4. Accession to the Convention shall under no circumstances imply recognition of Israel and shall not lead to any such dealings with it as are governed by the provisions of the Convention.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Romania</Participant>
+        <text type="para">The State Council of the Socialist Republic of Romania considers that the provisions of articles 74 and 76 of the Convention are incompatible with the principle that multilateral international treaties whose subject-matter and purposes are of interest to the international community as a whole should be open for universal accession.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Saudi Arabia&lt;superscript&gt;18&lt;/superscript&gt;</Participant>
+        <text type="title">Reservations:</text>
+        <text type="para">1. Approval of this Convention in no way signifies recognition of Israel and shall not lead to entry with Israel into the relations governed by this Convention.</text>
+        <text type="para">2. The transmission of the judicial and extrajudicial documents shall be confined to civil and commercial questions and shall in all other cases be effected only by a special agreement.</text>
+        <text type="para">3. The privileges and immunities provided for under the Convention are guaranteed only for consular staff and their spouses and minor children and shall not extend to other members of their families.</text>
+        <text type="para">4. The privileges and immunities set forth in chapter III concerning honorary consular officers and consular posts headed by such officers shall be confined to a consular post where the honorary consul is a Saudi Arabian citizen. Consular posts headed by honorary consuls shall not be entitled to use the consular means of correspondence and consular bags referred to in article 35 of the Convention. Governments or other diplomatic missions or consular posts may not use such means of correspondence in their communications with honorary consular posts save within the limits agreed upon in particular cases.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Slovakia&lt;superscript&gt;5&lt;/superscript&gt;</Participant>
+      </Declaration>
+      <Declaration>
+        <Participant>Sweden</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">With regard to article 35, paragraph 1, and article 58, paragraph 1, Sweden does not accord to consular posts headed by honorary consular officers the right to employ diplomatic or consular couriers and diplomatic or consular bags, or to Governments, diplomatic missions and other consular posts the right to employ these means in communicating with consular posts headed by honorary consular officers, except to the extent that Sweden may have consented thereto in particular cases.</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"With reference to article 22 of the Convention, the Swedish Government expresses the wish that in countries where it has been an established practice to allow nationals of the receiving State or of a third State to be appointed as Swedish honorary consuls, this will continue to be allowed as before. The Swedish Government also expresses the hope that countries with which Sweden establishes new consular relations will follow a similar practice and will give their consent to such appointments pursuant to paragraphs 2 and 3 of article 22."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Syrian Arab Republic&lt;superscript&gt;18&lt;/superscript&gt;</Participant>
+        <text type="para">(a) Accession of the Syrian Arab Republic to the said Convention and ratification thereof by its Government does not, in any way, imply recognition of Israel, nor shall they lead to any such dealings with the latter as are governed by the provisions of the Convention;</text>
+        <text type="para">(b) The Syrian Arab Republic shall be under no obligation to apply article 49 of the Convention to local personnel employed by consulates or to exempt them from dues and taxes.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Thailand</Participant>
+        <text type="title">Interpretative declaration:</text>
+        <text type="para">"The Government of the Kingdom of Thailand declares that the term competent judicial authority under article 41?1) of the Convention means all competent officials under Thai criminal procedure."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Arab Emirates&lt;superscript&gt;18&lt;/superscript&gt;</Participant>
+        <text type="para">"The accession of the United Arab Emirates to this Convention shall in no way amount to recognition of nor the establishment of any treaty relation with Israel."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>United Kingdom of Great Britain and Northern Ireland</Participant>
+        <text type="title">Upon signature:</text>
+        <text type="para">"The United Kingdom will interpret the exemption accorded to members of a consular post by paragraph 3 of article 44 from liability to give evidence concerning matters connected with the exercise of their functions as relating only to acts in respect of which consular officers and consular employees enjoy immunity from the jurisdiction of the judicial or administrative authorities of the receiving State in accordance with the provisions of article 43 of the Convention."</text>
+        <text type="title">Upon ratification:</text>
+        <text type="title">Declaration:</text>
+        <text type="para">"The United Kingdom hereby confirms its declaration in respect of paragraph 3 of article 44 of the Convention made at the time of signature, and further declares that it will interpret Chapter II of the Convention as applying to all career consular employees, including those employed at a consular post headed by an honorary consular officer."</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Viet Nam</Participant>
+        <text type="title">Reservation:</text>
+        <text type="para">The Socialist Republic of Viet Nam shall not accord to the consular posts headed by the honorary consular officers the right to employ diplomatic, consular couriers, diplomatic and consular bags or messages in code or cipher; or to other governments, their diplomatic missions or consular posts headed by the honorary consular officers, unless the Government of the Socialist Re public of Vietnam may give express consent thereto in a particular case.</text>
+        <text type="para" />
+      </Declaration>
+      <Declaration>
+        <Participant>Yemen&lt;superscript&gt;16,18&lt;/superscript&gt;</Participant>
+        <text type="para">1. The accession of the Yemen Arab Republic to the Vienna Convention on Consular Relations, done at Vienna on 24 April 1963, in no way implies recognition of Israel and shall not entail the entry of the Yemen Arab Republic with Israel into any of the relations governed by this Convention.</text>
+        <text type="para">2. The Yemen Arab Republic understands the words "members of their families forming part of their households" in article 46, paragraph 1, and article 49 as being restricted to members of the consular posts and their wives and minor children for the purpose of the privileges and immunities enjoyed by them.</text>
+        <text type="para">3. Where there are serious and strong grounds for believing that the consular bag contains articles or substances not mentioned in article 35, paragraph 4, of the Convention, the Yemen Arab Republic reserves its right to request that the bag be opened in the presence of a representative of the consular mission concerned. If the consulate refuses to comply with this request, the bag shall be returned to its place of origin.</text>
+        <text type="para">4. The Yemen Arab Republic shall have the right to in-spect foodstuffs imported by consular representatives in order to ascertain that they conform in quantity and in kind to the list submitted by them to the customs authorities and the Office of Protocol at the Ministry of Foreign Affairs for the purpose of obtaining approval for their importation exempt from customs duties.</text>
+        <text type="para" />
+      </Declaration>
+    </Declarations>
+    <Objections>
+      <Title>Objections</Title>
+      <Title>(Unless otherwise indicated, the objections were made</Title>
+      <Title>upon ratification, accession or succession.)</Title>
+      <Objection>
+        <Participant>Denmark</Participant>
+        <text type="para">"The Government of Denmark objects to the reservations made by the Arab Republic of Egypt to paragraph 1 of article 46 and to articles 49, 62 and 65 of the Convention and to the reservation made by Italy to paragraph 1(c) of article 36 of the Convention."</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>France</Participant>
+        <text type="para">The Government of the French Republic does not regard as valid the reservations to articles 46, 49, 62 and 65 of the Convention made by the Government of the United Arab Republic. This declaration shall not be regarded as an obstacle to the entry into force of the Convention between the French Republic and the United Arab Republic.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Germany&lt;superscript&gt;7&lt;/superscript&gt;</Participant>
+        <text type="para">"The Government of the Federal Republic of Germany does not regard as valid the reservations to articles 46, 49, 62 and 65 of the Convention made by the Government of the United Arab Republic.</text>
+        <text type="para">This declaration shall not be regarded as an obstacle to the entry into force of the Convention between the Federal Republic of Germany and the United Arab Republic."</text>
+        <text>&lt;right&gt;25 July 1977&lt;/right&gt;</text>
+        <text type="para">The Government of the Federal Republic of Germany regards the reservations made by the Kingdom of Morocco in respect of articles 62 and 65 of the Vienna Convention on Consular Relations of 24 April 1963 as incompatible with the purpose and objective of the Convention.</text>
+        <text type="para">This declaration shall, however, not be regarded as an obstacle to the entry into force of the Convention between the Federal Republic of Germany and the Kingdom of Morocco.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Israel</Participant>
+        <text>&lt;right&gt;25 March 1999&lt;/right&gt;</text>
+        <text type="title">With regard to the reservation made by Qatar upon accession:</text>
+        <text type="para">The instrument of accession by the Government of Qatar to the [...] Convention contains a statement of a political character in respect ot Israel. In the view of the Government of Israel, this is not the proper place for making such political pronouncements. That declaration cannot in any way affect the obligations of Qatar already existing under general International Law and under this particular Convention. The Government of Israel will, in so far as concerns the substance of the matter, adopt towards Qatar an attitude of complete reciprocity.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Luxembourg</Participant>
+        <text type="para">The Government of Luxembourg is not in a position to accept the reservations formulated by the Government of Cuba regarding articles 74 and 76 of the Vienna Convention on Consular Relations, done on 24 April 1963.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>Netherlands&lt;superscript&gt;21&lt;/superscript&gt;</Participant>
+        <text type="para">1. The Kingdom of the Netherlands does not regard as valid the reservations to the articles 46, 49 and 62 of the Convention made by the United Arab Republic. This declaration should not be regarded as an obstacle to the entry into force of the Convention between the Kingdom of the Netherlands and the United Arab Republic.</text>
+        <text type="para">2. The Kingdom of the Netherlands does not regard as valid the reservation to article 62 of the Convention made by the Kingdom of Morocco. This declaration should not be regarded as an obstacle to the entry into force of the Convention between the Kingdom of the Netherlands and the Kingdom of Morocco.</text>
+        <text>&lt;right&gt;5 December 1986&lt;/right&gt;</text>
+        <text type="para">The Kingdom of the Netherlands accepts the reservation made by the Yemen Arab Republic concerning the articles 46, paragraph 1, and 49 of the Convention only in so far as it does not purport to exclude the husbands of female members of the consular posts from enjoying the same privileges and immunities under the present Convention.</text>
+        <text>&lt;right&gt;17 February 1998&lt;/right&gt;</text>
+        <text type="para">"The Government of the Kingdom of the Netherlands considers the declaration with regard to article 62 of [the said Convention] made by the Government of Myanmar as a reservation and does not regard this reservation as valid. This objection shall not preclude the entry into force of the Convention between the Kingdom of the Netherlands and the Union of Myanmar."</text>
+      </Objection>
+      <Objection>
+        <Participant>Sweden</Participant>
+        <text>&lt;right&gt;13 December 1999&lt;/right&gt;</text>
+        <text type="title">With regard to reservations made by Qatar upon accession:</text>
+        <text type="para">The Government of Sweden Notes that the reservations concerning article 35, paragraph 3, goes beyond the rights of the receiving State not only in relation to the Convention, but also according to customary international law.</text>
+        <text type="para">In the opinion of the Government of Sweden, the protection of the consular bag constitutes an important element of the Convention and any reservation intended to allow a receiving State to open the consular bag without the approval of the sending State, or alter the use of terms codified through the Convention, is a serious qualification of the freedom of communication regime.</text>
+        <text type="para">The Government of Sweden therefore objects to the reservations to article 35, paragraph 3, of the Vienna Convention on Consular Relations made by the Government of Qatar.</text>
+        <text type="para">This objection shall not preclude the entry into force of the Convention between Sweden and Qatar. Furthermore, the Government of Sweden takes the view that article 35, paragraph 3, remains in force in relations between Sweden and Qatar by virtue of international customary law.</text>
+        <text type="para" />
+      </Objection>
+      <Objection>
+        <Participant>United States of America</Participant>
+        <text>&lt;right&gt;4 September 1987&lt;/right&gt;</text>
+        <text type="para">"The Government of the United States wishes to state its objection to the reservation regarding the Vienna Convention on Consular Relations made with respect to paragraph 3 of article?5 by the Yemen Arab Republic.</text>
+        <text type="para">The Government of the United States Notes that the reservation made with respect to paragraph l of Article 46 and Article?9 of the Vienna Convention on Consular Relations by the Yemen Arab Republic states that the Yemen Arab Republic understands the term "members of their families forming part of their households" in paragraph l of Article 46 and Article 49 as being restricted to members of the consular posts and, &lt;i&gt;inter alia &lt;/i&gt;, their wives for the purpose of the privileges and immunities enjoyed by them. The United States understands this term to include members of the consular posts and their spouses, regardless of whether the spouse is a husband or wife. Accordingly, the Government of the United States wishes to state its objection if the Yemen Arab Republic does not include all spouses of the members of the consular posts as being within the meaning of the term "members of their families forming part of their households" in paragraph l of Article 46 and Article 49.</text>
+        <text type="para">The Government of the United States, however, considers the [Convention] as continuing in force between it and the respective above-mentioned States except for the provisions to which the reservations are addressed in each case."</text>
+        <text type="para" />
+      </Objection>
+    </Objections>
+    <DeclarationsUnderArticle />
+    <Notifications />
+    <TerritorialApplications show="NO" />
+    <EndNotes>
+      <Note>
+        <index>1</index>
+        <text>The former Yugoslavia had signed and ratified the Convention on 24 April 1963 and 8 February 1965, respectively. See also note 1 under Bosnia and Herzegovina, Croatia, former Yugoslavia, Slovenia, The Former Yugoslav Republic of Macedonia and Yugoslavia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>2</index>
+        <text>See note 2 under China and note 2 under United Kingdom of Great Britain and Northern Ireland regarding Hong Kong under in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>3</index>
+        <text>The Convention was signed on 24 April 1963 on behalf of the Republic of China. See also note 1 under China in the Historical Information section in the front matter of this volume.</text>
+        <text>Upon accession, the Government of China made the following declaration:</text>
+        <text>"The Taiwan authorities' signature on this Convention in the name of China is illegal and null and void."</text>
+      </Note>
+      <Note>
+        <index>4</index>
+        <text>See note 3 under China and note 1 under Portugal regarding Macao in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>5</index>
+        <text>Czechoslovakia had signed and ratified the Convention on 31 March 1964 and 13 March 1968, respectively, with a declaration. For the text of the declaration made upon signature, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 596, p. 429. See also note 1 under Czech Republic and note 1 under Slovakia in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>6</index>
+        <text>See note 1 under Germany regarding Berlin (West) in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>7</index>
+        <text>The German Democratic Republic had acceded to the Convention on 9 September 1987 with the following reservation:</text>
+        <text>1. While acceding to the Vienna Convention on Consular Relations of 24 April 1963 the German Democratic Republic reserves itself the right, in accordance with Article 73 of the Convention, to conclude agreements with other States-parties in order to supplement and complete the provisions as regards bilateral relations. This concerns, in particular, the status, privileges and immunities of independent consular missions and their members as well as the consular tasks.</text>
+        <text>2. The German Democratic Republic holds the opinion that the provisions of Articles 74 and 76 of the Convention are in contradiction to the principle according to which all states that are guided in their policy by the purposes and principles of the United Nations Charter have the right to accede to conventions affecting the interests of all states.</text>
+        <text>See also note 2 under Germany in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>8</index>
+        <text>See note 1 under Montenegro in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>9</index>
+        <text>For the Kingdom in Europe and the Netherlands Antilles. See also notes 1 and 2 under Netherlands regarding Aruba/Netherlands Antilles in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>10</index>
+        <text>See note 1 under "New Zealand" regarding Tokelau in the "Historical Information" section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>11</index>
+        <text>On 16 March 1994, the Secretary-General received from the Government of Greece the following communication:</text>
+        <text>"Accession of the former Yugoslav Republic of Macedonia to the Convention on Consular Relations of 1963 does not imply its recognition on behalf of the Hellenic Republic."</text>
+        <text>See also note 1 under Greece in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>12</index>
+        <text>In a communication accompanying the notification of succession, the Government of Tuvalu declared that it had decided not to succeed to the Optional Protocol to the Vienna Convention on Diplomatic Relations concerning the Compulsory Settlement of Disputes, done at Vienna on 18 April 1961, and that pursuant to Tuvalu's declaration, dated 19 December 1978, regarding treaties applied before independence, the application of the Optional Protocol to Tuvalu should be regarded as terminated as at 1 September 1982.</text>
+      </Note>
+      <Note>
+        <index>13</index>
+        <text>In respect of the United Kingdom of Great Britain and Northern Ireland, the Associated States (Antigua, Dominica, Grenada, St. Christopher-Nevis-Anguilla, St. Lucia and St. Vincent) and territories under the territorial sovereignty of the United Kingdom, as well as the British Solomon Islands Protectorate (See, &lt;a href='http://treaties.un.org/doc/Publication/CN/1982/CN.36.1982-Eng.pdf' target='_blank'&gt;C.N.36.1982&lt;/a&gt;.TREATIES-1 of 18 February 1982).</text>
+      </Note>
+      <Note>
+        <index>14</index>
+        <text>The instrument of ratification does not maintain the reservations made on behalf of the Government of Venezuela upon signature of the Convention. On depositing the said instrument, the Permanent Representative of Venezuela to the United Nations confirmed that those reservations should be considered as withdrawn. For the text of the reservations in question, see United Nations, &lt;i&gt;Treaty Series &lt;/i&gt;, vol. 596, p. 452.</text>
+      </Note>
+      <Note>
+        <index>15</index>
+        <text>The Republic of Viet Nam had acceded to the Convention on 10 May 1973. See also note 1 under Viet Nam in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>16</index>
+        <text>The formality was effected by the Yemen Arab Republic. See also note 1 under Yemen in the Historical Information section in the front matter of this volume.</text>
+      </Note>
+      <Note>
+        <index>17</index>
+        <text>In a notification received on 18 January 1980, the Government of Egypt informed the Secretary-General that it had decided to withdraw the reservation under paragraph 1 which related to Israel. The notification indicates 25 January 1980 as the effective date of the withdrawal. For the text of that reservation, see United Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 596, p. 456.</text>
+      </Note>
+      <Note>
+        <index>18</index>
+        <text>In a communication received on 16 March 1966, the Government of Israel declared that it "has noted the political character of paragraph 1 of the declaration made by the Government of the United Arab Republic [see also note 1 under United Arab Republic (Egypt and Syria) in the Historical Information section in the front matter of this volume and note 13 in this chapter]. In the view of the Government of Israel, the Convention and Protocol are not the proper place for making such political pronouncements. The Government of Israel will, in so far as concerns the substance of the matter, adopt towards the Government of the United Arab Republic an attitude of complete reciprocity."</text>
+        <text>Identical communications, in essence, &lt;i&gt;mutatis mutandis &lt;/i&gt;, have been received by the Secretary-General from the Government of Israel on 16March 1970 in respect of the declaration made upon accession by Iraq; on 12 May 1977 in respect of the declaration made upon accession by the United Arab Emirates; on 11 May 1979 in respect of the declaration made upon accession by the Syrian Arab Republic; on 1 September 1987 in respect of the reservation made upon accession by Yemen; and on 29 November 1989 in respect of the reservation made by Saudi Arabia upon accession.</text>
+      </Note>
+      <Note>
+        <index>19</index>
+        <text>In a communication received by the Secretary-General on 4 April 1977, the Government of Morocco declared that 'the reservation concerning Israel ... constituted a declaration of general policy which did not affect the legal effects of the provisions of the said Convention as far as their application in respect of the Kingdom of Morocco was concerned'.</text>
+        <text>In a communication received by the Secretary-General on 12 May 1977 the Government of Israel made the following declaration:</text>
+        <text>"The instrument deposited by the Government of Morocco contains a statement of a political character in respect to Israel. In the view of the Government of Israel, this is not the proper place for making such political pronouncements which are, moreover, in flagrant contradiction to the principles, objects and purposes of the Organization. That pronouncement by the Government of Morocco cannot in any way affect whatever obligations are binding upon Morocco under general international law or under particular treaties.</text>
+        <text>"The Government of Israel will, insofar as concerns the substance of the matter, adopt towards the Government of Morocco an attitude of complete reciprocity."</text>
+      </Note>
+      <Note>
+        <index>20</index>
+        <text>In regard to the reservations made by Qatar upon accession, the Secretary-General received communications from the following States on the dates indicated hereinafter:</text>
+        <text>&lt;i&gt;Finland (17 March 2000) &lt;/i&gt;:</text>
+        <text>The Government of Finland Notes that the inviolability of the official correspondence between the Sending State and the consular post can be considered one of the main objects of the Convention. As Qatar reserves the right to open a consular bag without a prior consent by the Sending State, it is the view of the Government of Finland that the above-mentioned reservation to Article 35 is in clear contradiction with the object and purpose of the Convention.</text>
+        <text>According to the reservation to Article 46, para. 1, Qatar reserves the right to subject those consular employees who are engaged in administrative tasks or the members of their families to registration of aliens and residence permits. Para. 2 of Article?6 contains an exhaustive list of persons who are not exempt from the requirement of registration of aliens and residence permits. Given that the consular employees who are engaged in administrative tasks or the members of their families are covered by Article 46 para. 1, and as they are not included in the list of para. 2 of the same article, it is the opinion of the Government of Finland that the reservation is not in conformity with Article 46, nor with the object and purpose of the Convention.</text>
+        <text>The Government of Finland therefore objects to the reservation made by the Government of Qatar to the said Convention. This objection does not preclude the entry into force of the Convention between Qatar and Finland. The Convention will thus become operative between the two states without Qatar benefitting from the reservation".</text>
+        <text>&lt;i&gt;Netherlands (17 July 2000) &lt;/i&gt;:</text>
+        <text>The Government of the Kingdom of the Netherlands objects to the reservation made by the Government of Qatar in relation to article 35, paragraph 3, of the said Convention.</text>
+        <text>The Government of the Kingdome Netherlands Notes that the inviolability of the consular bag constitutes an important element of the Convention and any reservation intended to allow a receiving State to open the consular bag without the approval of the sending State is not only in contradiction with the very language of article 35, paragraph 3, of the Convention but also with customary international law.</text>
+        <text>Furthermore, the Government of the Kingdom of the Netherlands objects to the reservation made by the Government of Qatar in relation to Article 46, paragraph 1, of the said Convention.</text>
+        <text>The Government of the Kingdom of the Netherlands Notes that Article 46, paragraph 2, contains an exhaustive list of persons who are not exempt from the requirement of registration of aliens and residence permits. Given that the consular employees who are engaged in administrative tasks or the members of their families are covered by Article 46, paragraph 1, and are not included in the aforesaid list, the reservation concerning article 46, paragraph 1, is not in conformity with paragraph 2 of the same article, nor with the object and purpose of the Convention.</text>
+        <text>The Government of the Kingdom of the Netherlands therefore objects to the aforesaid reservations made by the Government of Qatar. These objections shall not preclude the entry into force of the Convention between the Kingdom of the Netherlands and Qatar."</text>
+      </Note>
+      <Note>
+        <index>21</index>
+        <text>In regard to the objection made by the Government of Netherlands 5 December 1986 to the reservation made by the Yemen Arab Repuiblic, the Secretary-General received, on 28 May 1987, from the Government of Yemen the following communication:</text>
+        <text>[The Government of Yemen] should like to make clear in this connection that it was our country's intention in making that reservation that the expression "family of a member of the consular post" should, for the purposes of enjoyment of the privileges and immunities specified in the Convention, be understood to mean the member of the consular post, his spouse and minor children only.</text>
+        <text>[The Government of Yemen] should like to make it clear that this reservation is not intended to exclude the husbands of female members of the consular posts, as was suggested in the Netherlands interpretation, since it is natural that husbands should in such cases enjoy the same privileges and immunities.</text>
+      </Note>
+    </EndNotes>
+    <Footer>III 6. Privileges and Immunities, Diplomatic and Consular Relations, etc</Footer>
+  </Treaty>
+</Document>
